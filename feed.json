@@ -44,7 +44,7 @@
             "url": "https://mhackermsft.github.io/know-your-options-for-kubernetes/",
             "title": "Free Event | Oct 20 | Know Your Options for Kubernetes",
             "summary": "Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments&hellip;",
-            "content_html": "<p>Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments into Kubernetes platforms. But, if you were starting from scratch, do you know what all your options are?<br><br>It can be overwhelming - there are many different ways to deploy a container on Azure. Join us in this free, 2-hour workshop, where we will step through the basics of containerization, how to host a container without Kubernetes, and how to host a container on different Kubernetes distributions like Azure RedHat OpenShift.<br><br>This free webinar is led by BoxBoat Technologies, a Microsoft Gold Partner.</p>\n<p>Register now:  <a href=\"https://aka.ms/BoxBoatWebinar\">https://aka.ms/BoxBoatWebinar</a></p>\n<p>* limited number of Azure Pass subscriptions for the workshop portion will be available.</p>",
+            "content_html": "<p>Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments into Kubernetes platforms. But, if you were starting from scratch, do you know what all your options are?<br><br>It can be overwhelming - there are many different ways to deploy a container on Azure. Join us in this free, 2-hour workshop, where we will step through the basics of containerization, how to host a container without Kubernetes, and how to host a container on different Kubernetes distributions like Azure RedHat OpenShift.<br><br>This free webinar is led by BoxBoat Technologies, a Microsoft Gold Partner.</p>\n<p>Register now:  <a href=\"https://aka.ms/BoxBoatWebinar\" target=\"_blank\" rel=\"noopener noreferrer\">https://aka.ms/BoxBoatWebinar</a></p>\n<p>* limited number of Azure Pass subscriptions for the workshop portion will be available.</p>",
             "image": "https://mhackermsft.github.io/media/posts/1/Picture1.jpg",
             "author": {
                 "name": "Mike Hacker"
@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2021-10-11T16:02:31-04:00",
-            "date_modified": "2021-10-11T16:27:10-04:00"
+            "date_modified": "2021-10-11T17:00:32-04:00"
         }
     ]
 }
