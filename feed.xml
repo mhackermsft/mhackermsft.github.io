@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Azure Application Innovation - Microsoft State and Local Government</title>
+    <link href="https://mhackermsft.github.io/feed.xml" rel="self" />
+    <link href="https://mhackermsft.github.io" />
+    <updated>2021-10-11T16:29:14-04:00</updated>
+    <author>
+        <name>Mike Hacker</name>
+    </author>
+    <id>https://mhackermsft.github.io</id>
+
+    <entry>
+        <title>Webinar | Oct 21 | Optimizing Compute on Azure with Azure Kubernetes Services</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/"/>
+        <id>https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/</id>
+
+        <updated>2021-10-11T16:29:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mhackermsft.github.io/media/posts/4/aks-1600x375.png" alt="" />
+                    Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mhackermsft.github.io/media/posts/4/aks-1600x375.png" alt="" />
+                <p>Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways, ranging from single-node development clusters to dynamically scaling, high-performance clusters for production workloads. In this webinar, we will look at all the knobs and switches you can use to shape AKS to align with your app needs. We’ll cover autoscaling, node pools, and virtual nodes to give you the whole gamut of all the possibilities.</p>
+<p>LIVE WEBINAR | THURSDAY, OCTOBER 21ST 2PM EDT WITH BLAIZE STEWART<br><a href="https://www.wintellect.com/webinar/optimizing-compute-on-azure-with-azure-kubernetes-services/" target="_blank" rel="noopener noreferrer">Register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Webinar | Nov 4 | Azure Storage Options with Azure Kubernetes Services</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/"/>
+        <id>https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/</id>
+
+        <updated>2021-10-11T16:26:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mhackermsft.github.io/media/posts/3/aks-1600x375.png" alt="" />
+                    Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mhackermsft.github.io/media/posts/3/aks-1600x375.png" alt="" />
+                <p>Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The cool thing about Azure Kubernetes Services is that it can connect to all of them, so you can match the storage performance and cost goals of just about any application. In this webinar, we’ll look at how to connect AKS to Azure Blob Storage, Azure File Storage, Azure Disks, and Azure NetApp Files to give you the full scope and scale of these options. Then we’ll compare them compare the cost and performance considerations.</p>
+<p>LIVE WEBINAR | THURSDAY, NOVEMBER 4TH 2PM EDT WITH BLAIZE STEWART<br><a href="https://www.wintellect.com/webinar/azure-storage-options-with-azure-kubernetes-services/" target="_blank" rel="noopener noreferrer">Register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Free Event | Oct 20 | Know Your Options for Kubernetes</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://mhackermsft.github.io/know-your-options-for-kubernetes/"/>
+        <id>https://mhackermsft.github.io/know-your-options-for-kubernetes/</id>
+
+        <updated>2021-10-11T16:27:10-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mhackermsft.github.io/media/posts/1/Picture1.jpg" alt="Images of speakers for the Kubernetes event" />
+                    Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mhackermsft.github.io/media/posts/1/Picture1.jpg" alt="Images of speakers for the Kubernetes event" />
+                <p>Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments into Kubernetes platforms. But, if you were starting from scratch, do you know what all your options are?<br><br>It can be overwhelming - there are many different ways to deploy a container on Azure. Join us in this free, 2-hour workshop, where we will step through the basics of containerization, how to host a container without Kubernetes, and how to host a container on different Kubernetes distributions like Azure RedHat OpenShift.<br><br>This free webinar is led by BoxBoat Technologies, a Microsoft Gold Partner.</p>
+<p>Register now:  <a href="https://aka.ms/BoxBoatWebinar">https://aka.ms/BoxBoatWebinar</a></p>
+<p>* limited number of Azure Pass subscriptions for the workshop portion will be available.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
