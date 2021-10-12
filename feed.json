@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Mike Hacker - Azure Application Innovation Specialist - Microsoft State and Local Government",
+    "title": "Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government",
     "description": "",
     "home_page_url": "https://mhackermsft.github.io",
     "feed_url": "https://mhackermsft.github.io/feed.json",
@@ -9,6 +9,21 @@
         "name": "Mike Hacker"
     },
     "items": [
+        {
+            "id": "https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/",
+            "url": "https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/",
+            "title": "Microsoft Ignite | Nov 2 - 4",
+            "summary": "Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;",
+            "content_html": "<p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>\n<p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>\n<ul>\n<li>Empower everyone for a new world of hybrid work</li>\n<li>Innovate anywhere from multicloud to edge</li>\n<li>Reimagine a new era of business</li>\n<li>Protect everything with end-to-end security</li>\n</ul>\n<p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>\n<p><a href=\"https://myignite.microsoft.com/home\" target=\"_blank\" rel=\"noopener noreferrer\">Register now for free</a></p>",
+            "image": "https://mhackermsft.github.io/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-12T10:49:05-04:00",
+            "date_modified": "2021-10-12T10:53:14-04:00"
+        },
         {
             "id": "https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/",
             "url": "https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/",

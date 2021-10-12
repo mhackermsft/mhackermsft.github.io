@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Mike Hacker - Azure Application Innovation Specialist - Microsoft State and Local Government</title>
+    <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://mhackermsft.github.io/feed.xml" rel="self" />
     <link href="https://mhackermsft.github.io" />
-    <updated>2021-10-11T17:00:32-04:00</updated>
+    <updated>2021-10-12T10:53:14-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://mhackermsft.github.io</id>
 
+    <entry>
+        <title>Microsoft Ignite | Nov 2 - 4</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/"/>
+        <id>https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/</id>
+
+        <updated>2021-10-12T10:53:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mhackermsft.github.io/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
+                    Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mhackermsft.github.io/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
+                <p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>
+<p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>
+<ul>
+<li>Empower everyone for a new world of hybrid work</li>
+<li>Innovate anywhere from multicloud to edge</li>
+<li>Reimagine a new era of business</li>
+<li>Protect everything with end-to-end security</li>
+</ul>
+<p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>
+<p><a href="https://myignite.microsoft.com/home" target="_blank" rel="noopener noreferrer">Register now for free</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Oct 21 | Optimizing Compute on Azure with Azure Kubernetes Services</title>
         <author>
