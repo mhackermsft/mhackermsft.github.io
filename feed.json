@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/",
+            "url": "https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/",
+            "title": "WEBINAR | OCT 28 | A CIO&#x27;s Perspective on Microsoft Azure Migration",
+            "summary": "Making the Financial Case for Modernizing Your Environment The cloud revolution is here, but many organizations are hesitant to tackle&hellip;",
+            "content_html": "<h3>Making the Financial Case for Modernizing Your Environment </h3>\n<p>The cloud revolution is here, but many organizations are hesitant to tackle the task of migrating their data and applications to a cloud environment. How do you evaluate if a migration is worth the effort? What are the actual financial benefits of cloud transformation?</p>\n<p>In this webinar, ACTS CIO Advisor,<a href=\"https://www.linkedin.com/in/shpickett/\" rel=\"noopener\"> Shawn Pickett</a> will host a discussion with <a href=\"https://www.linkedin.com/in/gregorynmiller/\" rel=\"noopener\">Greg Miller</a>, former CIO of Genuine Parts Company (GPC), to explain their first-hand experience with a large cloud migration project at a global automotive replacement parts organization that serves thousands of customers. They will discuss the key challenges, internal perceptions, and considerations Greg took on to ensure an efficient and optimized journey to the Microsoft cloud.</p>\n<p>In this session, you will hear about the significant factors to consider when you are at the beginning, middle or end of a cloud migration project – with best practices directly from a CIO who executed a cloud transformation project.</p>\n<p><a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Finfo.actsolution.net%2Fcio-perspective-cloud-migration%3Futm_source%3Demail%26utm_medium%3Dwebinar%26utm_campaign%3DCM_webinar_MSRep%26utm_term%3Dcloud%2Bmigration%26utm_content%3Dwebinar&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C44da68f5085a4d71ab3808d98e483285%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637697263706063384%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=cKQj%2F%2FNx7MYwEsbFiiyp1l8tYM47j630vIknSH5KgHY%3D&amp;reserved=0\">Register today to reserve your spot</a></p>",
+            "image": "https://mhackermsft.github.io/media/posts/6/CIO-Perspective-Webinar-banner.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-13T11:17:49-04:00",
+            "date_modified": "2021-10-13T11:20:51-04:00"
+        },
+        {
             "id": "https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/",
             "url": "https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/",
             "title": "Microsoft Ignite | Nov 2 - 4",
