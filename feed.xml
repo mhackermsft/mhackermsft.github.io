@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
-    <link href="https://mhackermsft.github.io/feed.xml" rel="self" />
-    <link href="https://mhackermsft.github.io" />
+    <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
+    <link href="https://blog.mikehacker.net" />
     <updated>2021-10-18T11:29:17-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
-    <id>https://mhackermsft.github.io</id>
+    <id>https://blog.mikehacker.net</id>
 
     <entry>
         <title>.NET Conf 2021 | Nov 9 - 11</title>
         <author>
             <name>Mike Hacker</name>
         </author>
-        <link href="https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/"/>
-        <id>https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/</id>
+        <link href="https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/"/>
+        <id>https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/</id>
 
         <updated>2021-10-18T11:29:17-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhackermsft.github.io/media/posts/8/netconf.png" alt="" />
+                        <img src="https://blog.mikehacker.net/media/posts/8/netconf.png" alt="" />
                     .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mhackermsft.github.io/media/posts/8/netconf.png" alt="" />
+                    <img src="https://blog.mikehacker.net/media/posts/8/netconf.png" alt="" />
                 <p>.NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the <a href="https://www.dot.net/" target="_blank" rel="noopener">.NET development platform</a>. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners.</p>
 <p><strong>Launch of .NET 6!!!</strong></p>
 <p>Day one is all about the launch of .NET 6.  Join the .NET Team to learn all about the new features and capabilities with this release</p>
@@ -41,19 +41,19 @@
         <author>
             <name>Mike Hacker</name>
         </author>
-        <link href="https://mhackermsft.github.io/technical-training/"/>
-        <id>https://mhackermsft.github.io/technical-training/</id>
+        <link href="https://blog.mikehacker.net/technical-training/"/>
+        <id>https://blog.mikehacker.net/technical-training/</id>
 
         <updated>2021-10-18T11:09:58-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhackermsft.github.io/media/posts/7/learn.png" alt="" />
+                        <img src="https://blog.mikehacker.net/media/posts/7/learn.png" alt="" />
                     Over the past few years I have collected a wide range of technical resources which I believe are valuable for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mhackermsft.github.io/media/posts/7/learn.png" alt="" />
+                    <img src="https://blog.mikehacker.net/media/posts/7/learn.png" alt="" />
                 <p>Over the past few years I have collected a wide range of technical resources which I believe are valuable for helping developers keep their skills sharp.  Hopefully you will find these resources as valuable as I have.</p>
 <p><a href="https://www.youtube.com/c/NTFAQGuy" target="_blank" rel="noopener noreferrer">John Savill Technical Training</a> - John is a Microsoft employee who has been posting extremely high quality technical training videos for over 13 years.  His master class series on topics such as DevOps, Microsoft Azure, and PowerShell has helped tens of thousands of technical specialists.</p>
 <p><a href="https://aka.ms/learn" target="_blank" rel="noopener noreferrer">Microsoft Learn</a> - Microsoft Learn is an online training platform that provides interactive learning for Microsoft products and more. Our goal is to help organizations become proficient on our technologies and learn more skills with fun, guided, hands-on, interactive content that's specific to your employee’s role and goals. Many modules and learning paths include free sandbox environments for learning.</p>
@@ -89,19 +89,19 @@
         <author>
             <name>Mike Hacker</name>
         </author>
-        <link href="https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/"/>
-        <id>https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/</id>
+        <link href="https://blog.mikehacker.net/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/"/>
+        <id>https://blog.mikehacker.net/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/</id>
 
         <updated>2021-10-18T11:10:56-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhackermsft.github.io/media/posts/6/CIO-Perspective-Webinar-banner.png" alt="" />
+                        <img src="https://blog.mikehacker.net/media/posts/6/CIO-Perspective-Webinar-banner.png" alt="" />
                     Making the Financial Case for Modernizing Your Environment The cloud revolution is here, but many organizations are hesitant to tackle&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mhackermsft.github.io/media/posts/6/CIO-Perspective-Webinar-banner.png" alt="" />
+                    <img src="https://blog.mikehacker.net/media/posts/6/CIO-Perspective-Webinar-banner.png" alt="" />
                 <h3>Making the Financial Case for Modernizing Your Environment </h3>
 <p>The cloud revolution is here, but many organizations are hesitant to tackle the task of migrating their data and applications to a cloud environment. How do you evaluate if a migration is worth the effort? What are the actual financial benefits of cloud transformation?</p>
 <p>In this webinar, ACTS CIO Advisor,<a href="https://www.linkedin.com/in/shpickett/" rel="noopener"> Shawn Pickett</a> will host a discussion with <a href="https://www.linkedin.com/in/gregorynmiller/" rel="noopener">Greg Miller</a>, former CIO of Genuine Parts Company (GPC), to explain their first-hand experience with a large cloud migration project at a global automotive replacement parts organization that serves thousands of customers. They will discuss the key challenges, internal perceptions, and considerations Greg took on to ensure an efficient and optimized journey to the Microsoft cloud.</p>
@@ -115,19 +115,19 @@
         <author>
             <name>Mike Hacker</name>
         </author>
-        <link href="https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/"/>
-        <id>https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/</id>
+        <link href="https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/"/>
+        <id>https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/</id>
 
         <updated>2021-10-18T11:11:24-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhackermsft.github.io/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
+                        <img src="https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
                     Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mhackermsft.github.io/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
+                    <img src="https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
                 <p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>
 <p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>
 <ul>
@@ -146,19 +146,19 @@
         <author>
             <name>Mike Hacker</name>
         </author>
-        <link href="https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/"/>
-        <id>https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/</id>
+        <link href="https://blog.mikehacker.net/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/"/>
+        <id>https://blog.mikehacker.net/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/</id>
 
         <updated>2021-10-18T11:11:32-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhackermsft.github.io/media/posts/4/aks-1600x375.png" alt="" />
+                        <img src="https://blog.mikehacker.net/media/posts/4/aks-1600x375.png" alt="" />
                     Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mhackermsft.github.io/media/posts/4/aks-1600x375.png" alt="" />
+                    <img src="https://blog.mikehacker.net/media/posts/4/aks-1600x375.png" alt="" />
                 <p>Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways, ranging from single-node development clusters to dynamically scaling, high-performance clusters for production workloads. In this webinar, we will look at all the knobs and switches you can use to shape AKS to align with your app needs. We’ll cover autoscaling, node pools, and virtual nodes to give you the whole gamut of all the possibilities.</p>
 <p>LIVE WEBINAR | THURSDAY, OCTOBER 21ST 2PM EDT WITH BLAIZE STEWART<br><a href="https://www.wintellect.com/webinar/optimizing-compute-on-azure-with-azure-kubernetes-services/" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
@@ -169,19 +169,19 @@
         <author>
             <name>Mike Hacker</name>
         </author>
-        <link href="https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/"/>
-        <id>https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/</id>
+        <link href="https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/"/>
+        <id>https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/</id>
 
         <updated>2021-10-18T11:11:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhackermsft.github.io/media/posts/3/aks-1600x375.png" alt="" />
+                        <img src="https://blog.mikehacker.net/media/posts/3/aks-1600x375.png" alt="" />
                     Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mhackermsft.github.io/media/posts/3/aks-1600x375.png" alt="" />
+                    <img src="https://blog.mikehacker.net/media/posts/3/aks-1600x375.png" alt="" />
                 <p>Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The cool thing about Azure Kubernetes Services is that it can connect to all of them, so you can match the storage performance and cost goals of just about any application. In this webinar, we’ll look at how to connect AKS to Azure Blob Storage, Azure File Storage, Azure Disks, and Azure NetApp Files to give you the full scope and scale of these options. Then we’ll compare them compare the cost and performance considerations.</p>
 <p>LIVE WEBINAR | THURSDAY, NOVEMBER 4TH 2PM EDT WITH BLAIZE STEWART<br><a href="https://www.wintellect.com/webinar/azure-storage-options-with-azure-kubernetes-services/" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
@@ -192,19 +192,19 @@
         <author>
             <name>Mike Hacker</name>
         </author>
-        <link href="https://mhackermsft.github.io/know-your-options-for-kubernetes/"/>
-        <id>https://mhackermsft.github.io/know-your-options-for-kubernetes/</id>
+        <link href="https://blog.mikehacker.net/know-your-options-for-kubernetes/"/>
+        <id>https://blog.mikehacker.net/know-your-options-for-kubernetes/</id>
 
         <updated>2021-10-18T11:11:53-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mhackermsft.github.io/media/posts/1/Picture1.jpg" alt="Images of speakers for the Kubernetes event" />
+                        <img src="https://blog.mikehacker.net/media/posts/1/Picture1.jpg" alt="Images of speakers for the Kubernetes event" />
                     Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mhackermsft.github.io/media/posts/1/Picture1.jpg" alt="Images of speakers for the Kubernetes event" />
+                    <img src="https://blog.mikehacker.net/media/posts/1/Picture1.jpg" alt="Images of speakers for the Kubernetes event" />
                 <p>Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments into Kubernetes platforms. But, if you were starting from scratch, do you know what all your options are?<br><br>It can be overwhelming - there are many different ways to deploy a container on Azure. Join us in this free, 2-hour workshop, where we will step through the basics of containerization, how to host a container without Kubernetes, and how to host a container on different Kubernetes distributions like Azure RedHat OpenShift.<br><br>This free webinar is led by BoxBoat Technologies, a Microsoft Gold Partner.</p>
 <p>Register now:  <a href="https://aka.ms/BoxBoatWebinar" target="_blank" rel="noopener noreferrer">https://aka.ms/BoxBoatWebinar</a></p>
 <p>* limited number of Azure Pass subscriptions for the workshop portion will be available.</p>

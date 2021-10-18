@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government",
     "description": "",
-    "home_page_url": "https://mhackermsft.github.io",
-    "feed_url": "https://mhackermsft.github.io/feed.json",
+    "home_page_url": "https://blog.mikehacker.net",
+    "feed_url": "https://blog.mikehacker.net/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mike Hacker"
     },
     "items": [
         {
-            "id": "https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/",
-            "url": "https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/",
+            "id": "https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/",
+            "url": "https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/",
             "title": ".NET Conf 2021 | Nov 9 - 11",
             "summary": ".NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is&hellip;",
             "content_html": "<p>.NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the <a href=\"https://www.dot.net/\" target=\"_blank\" rel=\"noopener\">.NET development platform</a>. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners.</p>\n<p><strong>Launch of .NET 6!!!</strong></p>\n<p>Day one is all about the launch of .NET 6.  Join the .NET Team to learn all about the new features and capabilities with this release</p>\n<p>Day two is all about diving deeper into the details.  The 24 hour broadcast of .NET Conf 2021 begins.</p>\n<p>Day three continues with the deep dives and the 24 hour broadcast.</p>\n<p><a href=\"https://www.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and watch .NET Conf here</a>.</p>",
-            "image": "https://mhackermsft.github.io/media/posts/8/netconf.png",
+            "image": "https://blog.mikehacker.net/media/posts/8/netconf.png",
             "author": {
                 "name": "Mike Hacker"
             },
@@ -25,12 +25,12 @@
             "date_modified": "2021-10-18T11:29:17-04:00"
         },
         {
-            "id": "https://mhackermsft.github.io/technical-training/",
-            "url": "https://mhackermsft.github.io/technical-training/",
+            "id": "https://blog.mikehacker.net/technical-training/",
+            "url": "https://blog.mikehacker.net/technical-training/",
             "title": "Technical Training",
             "summary": "Over the past few years I have collected a wide range of technical resources which I believe are valuable for&hellip;",
             "content_html": "<p>Over the past few years I have collected a wide range of technical resources which I believe are valuable for helping developers keep their skills sharp.  Hopefully you will find these resources as valuable as I have.</p>\n<p><a href=\"https://www.youtube.com/c/NTFAQGuy\" target=\"_blank\" rel=\"noopener noreferrer\">John Savill Technical Training</a> - John is a Microsoft employee who has been posting extremely high quality technical training videos for over 13 years.  His master class series on topics such as DevOps, Microsoft Azure, and PowerShell has helped tens of thousands of technical specialists.</p>\n<p><a href=\"https://aka.ms/learn\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Learn</a> - Microsoft Learn is an online training platform that provides interactive learning for Microsoft products and more. Our goal is to help organizations become proficient on our technologies and learn more skills with fun, guided, hands-on, interactive content that's specific to your employee’s role and goals. Many modules and learning paths include free sandbox environments for learning.</p>\n<p><a href=\"https://www.microsoft.com/en-ca/sites/cloud-skills-challenge/\" target=\"_blank\" rel=\"noopener noreferrer\">Cloud Skills Challenge</a> - Help your employees upgrade their skills while taking part in some fun and friendly competition. With the Cloud Skills Challenge, you can set up a customized learning challenge within your organization using Microsoft’s digital learning platform, <a href=\"https://aka.ms/learn\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Learn</a>.</p>\n<p><a href=\"https://docs.microsoft.com/en-us/learn/tv/\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Learn TV</a> - Learn how to build solutions and use Microsoft products from the experts that built them! Learn TV is the place to find the latest digital content so you can always keep updated on the latest announcements, features, and products from Microsoft.</p>\n<p><a href=\"https://channel9.msdn.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Channel 9</a> - Social on-demand video website created for developers and technical enthusiast to learn about various technologies.</p>\n<p><a href=\"https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Source Newsletter</a> - Get the latest articles, documentation, and events from Microsoft.Source—the curated monthly developer community newsletter. Learn about new technologies and find opportunities to connect with other developers online and locally.</p>\n<p><a href=\"https://mvtd.events.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Virtual Training Days</a> - Weekly events to match every skill level, Microsoft Virtual Training Days are an opportunity to grow your technical skills and gain the confidence to navigate what’s ahead. Employees have an opportunity to discover their potential and maximize their time with accelerated virtual event offerings covering a range of technical topics for Microsoft Azure, Microsoft 365, Dynamics 365, Power Platform and Security.</p>\n<p><a href=\"https://openhack.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft OpenHacks</a> - Microsoft OpenHack are developer-focused engagement that connects development teams (Open) with experts to tackle a series of real-world challenges through hands-on experimentation (Hack) in person or online (Virtual). OpenHack provides a unique and fun upskilling experience for Microsoft employees, customers, and partners. Participants work together in teams to complete challenges that increase in complexity and are actively engaged, requiring deep collaboration, as they learn together.</p>\n<p><a href=\"https://www.microsoft.com/en-us/openhack/?wt.mc_id=AID3019526_QSG_EML_498535\" target=\"_blank\" rel=\"noopener noreferrer\">OpenHack Virtual Experience</a> - Microsoft OpenHacks delivered remotely online.</p>\n<p><a href=\"https://docs.microsoft.com\" target=\"_blank\" rel=\"noopener noreferrer\">Docs </a>– The home for Microsoft documentation and learning for developers and technology professionals.</p>\n<p><a href=\"https://docs.microsoft.com/en-us/samples/browse/\" target=\"_blank\" rel=\"noopener noreferrer\">Code Samples</a> – Code samples is a where developers can get started with tools and technologies and explore samples and discover what can be built.</p>\n<p><a href=\"https://docs.microsoft.com/en-us/answers/products/\" target=\"_blank\" rel=\"noopener noreferrer\">Q&amp;A</a> - The home for technical questions and answers at Microsoft.</p>\n<p><a href=\"https://developer.microsoft.com/en-us/\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Developer Center</a> – Central starting point for developers for access to documentation, Code Samples, on demand videos, and accessing the developer community.</p>\n<p><a href=\"https://esi.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Enterprise Skills Initiative (ESI)</a> - Microsoft and your organization work together to help your employees learn the skills needed to be successful with Azure and other Microsoft technologies. Your employees can sharpen their technical skills and knowledge of Microsoft solutions by enrolling in interactive courses and training designed for their role and advance their career by getting certified.</p>\n<p><a href=\"https://visualstudio.microsoft.com/subscriptions/\" target=\"_blank\" rel=\"noopener noreferrer\">Visual Studio Subscriptions</a> – For developers with Visual Studio subscriptions with GitHub Enterprise is an all-in-one subscription offering that provides developers with everything they need to speed up development, promote collaboration anywhere, and innovate on any platform, including the Microsoft stack—all while maximizing security and compliance. Ensure you are taking advantage of all your subscription benefits!</p>\n<p><a href=\"https://azure.microsoft.com/en-us/pricing/dev-test/\" target=\"_blank\" rel=\"noopener noreferrer\">Azure Dev/Test</a> - Dev/Test Azure offers are the only way to run Windows client in the cloud. The Enterprise Dev/Test offer provides even lower rates on Windows virtual machines, Cloud Services, HDInsight, and Web Apps (based on the equivalent size and type Linux VM rate). Rates for all other Azure services are the same as on the standard Enterprise offer.</p>\n<p><a href=\"https://docs.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft 365 Developer Program</a> includes a Microsoft 365 E5 developer subscription that you can use to create your own sandbox and develop solutions independent of your production environment. You can build Microsoft Teams apps, Office Add-ins for Word, Excel, PowerPoint, or Outlook, or SharePoint Add-ins, using Microsoft Graph, the SharePoint Framework, Power Apps, and more.</p>\n<p><a href=\"https://techcommunity.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Tech Community</a> – central location for collaborate, share, and learn from experts – ranging from development to technical.</p>\n<p><a href=\"http://aka.ms/build\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Build</a> – Annual developer focused event with on-demand content catalog with a wide variety of content.</p>\n<p><a href=\"http://aka.ms/ignite\" target=\"_blank\" rel=\"noopener noreferrer\">Microsoft Ignite</a> – Annual IT Professional event used where there’s an opportunity to explore the latest tools, training sessions, technical expertise, along with networking opportunities.</p>\n<p><a href=\"https://www.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">.NET Conf</a> – .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft and sponsored by the .NET Foundation and our ecosystem partners.</p>\n<p><a href=\"https://techcommunity.microsoft.com/t5/community-events/ct-p/CommunityEvents\" target=\"_blank\" rel=\"noopener noreferrer\">Community Events</a> – Events for the community, by the community.</p>\n<p><a href=\"https://github.com/events\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub Events</a> – Connect with GitHub Community at conferences, meetups, and hackathons around the world.</p>\n<p><a href=\"https://developer.microsoft.com/en-us/reactor/\" target=\"_blank\" rel=\"noopener noreferrer\">Reactor </a>- Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Attend expert panels and dive into what inspires you with the latest technology. Virtual events are running around the clock so join us anytime, anywhere!</p>\n<p> <a href=\"https://azure.microsoft.com/en-us/resources/events/\" target=\"_blank\" rel=\"noopener noreferrer\">Azure Events &amp; Webinars</a> - Employees can build their cloud skills, learn from Azure experts, and connect with other developers from all over the world at digital and in-person events and Microsoft virtual trainings.</p>\n<p><a href=\"https://lab.github.com/\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub Learning Lab</a> - Grow your skills by completing fun, realistic projects.</p>",
-            "image": "https://mhackermsft.github.io/media/posts/7/learn.png",
+            "image": "https://blog.mikehacker.net/media/posts/7/learn.png",
             "author": {
                 "name": "Mike Hacker"
             },
@@ -40,12 +40,12 @@
             "date_modified": "2021-10-18T11:09:58-04:00"
         },
         {
-            "id": "https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/",
-            "url": "https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/",
+            "id": "https://blog.mikehacker.net/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/",
+            "url": "https://blog.mikehacker.net/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/",
             "title": "Webinar | Oct 28 | A CIO&#x27;s Perspective on Microsoft Azure Migration",
             "summary": "Making the Financial Case for Modernizing Your Environment The cloud revolution is here, but many organizations are hesitant to tackle&hellip;",
             "content_html": "<h3>Making the Financial Case for Modernizing Your Environment </h3>\n<p>The cloud revolution is here, but many organizations are hesitant to tackle the task of migrating their data and applications to a cloud environment. How do you evaluate if a migration is worth the effort? What are the actual financial benefits of cloud transformation?</p>\n<p>In this webinar, ACTS CIO Advisor,<a href=\"https://www.linkedin.com/in/shpickett/\" rel=\"noopener\"> Shawn Pickett</a> will host a discussion with <a href=\"https://www.linkedin.com/in/gregorynmiller/\" rel=\"noopener\">Greg Miller</a>, former CIO of Genuine Parts Company (GPC), to explain their first-hand experience with a large cloud migration project at a global automotive replacement parts organization that serves thousands of customers. They will discuss the key challenges, internal perceptions, and considerations Greg took on to ensure an efficient and optimized journey to the Microsoft cloud.</p>\n<p>In this session, you will hear about the significant factors to consider when you are at the beginning, middle or end of a cloud migration project – with best practices directly from a CIO who executed a cloud transformation project.</p>\n<p><a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Finfo.actsolution.net%2Fcio-perspective-cloud-migration%3Futm_source%3Demail%26utm_medium%3Dwebinar%26utm_campaign%3DCM_webinar_MSRep%26utm_term%3Dcloud%2Bmigration%26utm_content%3Dwebinar&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C44da68f5085a4d71ab3808d98e483285%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637697263706063384%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=cKQj%2F%2FNx7MYwEsbFiiyp1l8tYM47j630vIknSH5KgHY%3D&amp;reserved=0\">Register today to reserve your spot</a></p>",
-            "image": "https://mhackermsft.github.io/media/posts/6/CIO-Perspective-Webinar-banner.png",
+            "image": "https://blog.mikehacker.net/media/posts/6/CIO-Perspective-Webinar-banner.png",
             "author": {
                 "name": "Mike Hacker"
             },
@@ -55,12 +55,12 @@
             "date_modified": "2021-10-18T11:10:56-04:00"
         },
         {
-            "id": "https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/",
-            "url": "https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/",
+            "id": "https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/",
+            "url": "https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/",
             "title": "Microsoft Ignite | Nov 2 - 4",
             "summary": "Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;",
             "content_html": "<p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>\n<p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>\n<ul>\n<li>Empower everyone for a new world of hybrid work</li>\n<li>Innovate anywhere from multicloud to edge</li>\n<li>Reimagine a new era of business</li>\n<li>Protect everything with end-to-end security</li>\n</ul>\n<p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>\n<p><a href=\"https://myignite.microsoft.com/home\" target=\"_blank\" rel=\"noopener noreferrer\">Register now for free</a></p>",
-            "image": "https://mhackermsft.github.io/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg",
+            "image": "https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg",
             "author": {
                 "name": "Mike Hacker"
             },
@@ -70,12 +70,12 @@
             "date_modified": "2021-10-18T11:11:24-04:00"
         },
         {
-            "id": "https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/",
-            "url": "https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/",
+            "id": "https://blog.mikehacker.net/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/",
+            "url": "https://blog.mikehacker.net/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/",
             "title": "Webinar | Oct 21 | Optimizing Compute on Azure with Azure Kubernetes Services",
             "summary": "Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways,&hellip;",
             "content_html": "<p>Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways, ranging from single-node development clusters to dynamically scaling, high-performance clusters for production workloads. In this webinar, we will look at all the knobs and switches you can use to shape AKS to align with your app needs. We’ll cover autoscaling, node pools, and virtual nodes to give you the whole gamut of all the possibilities.</p>\n<p>LIVE WEBINAR | THURSDAY, OCTOBER 21ST 2PM EDT WITH BLAIZE STEWART<br><a href=\"https://www.wintellect.com/webinar/optimizing-compute-on-azure-with-azure-kubernetes-services/\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
-            "image": "https://mhackermsft.github.io/media/posts/4/aks-1600x375.png",
+            "image": "https://blog.mikehacker.net/media/posts/4/aks-1600x375.png",
             "author": {
                 "name": "Mike Hacker"
             },
@@ -85,12 +85,12 @@
             "date_modified": "2021-10-18T11:11:32-04:00"
         },
         {
-            "id": "https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
-            "url": "https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
+            "id": "https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
+            "url": "https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
             "title": "Webinar | Nov 4 | Azure Storage Options with Azure Kubernetes Services",
             "summary": "Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The&hellip;",
             "content_html": "<p>Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The cool thing about Azure Kubernetes Services is that it can connect to all of them, so you can match the storage performance and cost goals of just about any application. In this webinar, we’ll look at how to connect AKS to Azure Blob Storage, Azure File Storage, Azure Disks, and Azure NetApp Files to give you the full scope and scale of these options. Then we’ll compare them compare the cost and performance considerations.</p>\n<p>LIVE WEBINAR | THURSDAY, NOVEMBER 4TH 2PM EDT WITH BLAIZE STEWART<br><a href=\"https://www.wintellect.com/webinar/azure-storage-options-with-azure-kubernetes-services/\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
-            "image": "https://mhackermsft.github.io/media/posts/3/aks-1600x375.png",
+            "image": "https://blog.mikehacker.net/media/posts/3/aks-1600x375.png",
             "author": {
                 "name": "Mike Hacker"
             },
@@ -100,12 +100,12 @@
             "date_modified": "2021-10-18T11:11:41-04:00"
         },
         {
-            "id": "https://mhackermsft.github.io/know-your-options-for-kubernetes/",
-            "url": "https://mhackermsft.github.io/know-your-options-for-kubernetes/",
+            "id": "https://blog.mikehacker.net/know-your-options-for-kubernetes/",
+            "url": "https://blog.mikehacker.net/know-your-options-for-kubernetes/",
             "title": "Free Event | Oct 20 | Know Your Options for Kubernetes",
             "summary": "Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments&hellip;",
             "content_html": "<p>Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments into Kubernetes platforms. But, if you were starting from scratch, do you know what all your options are?<br><br>It can be overwhelming - there are many different ways to deploy a container on Azure. Join us in this free, 2-hour workshop, where we will step through the basics of containerization, how to host a container without Kubernetes, and how to host a container on different Kubernetes distributions like Azure RedHat OpenShift.<br><br>This free webinar is led by BoxBoat Technologies, a Microsoft Gold Partner.</p>\n<p>Register now:  <a href=\"https://aka.ms/BoxBoatWebinar\" target=\"_blank\" rel=\"noopener noreferrer\">https://aka.ms/BoxBoatWebinar</a></p>\n<p>* limited number of Azure Pass subscriptions for the workshop portion will be available.</p>",
-            "image": "https://mhackermsft.github.io/media/posts/1/Picture1.jpg",
+            "image": "https://blog.mikehacker.net/media/posts/1/Picture1.jpg",
             "author": {
                 "name": "Mike Hacker"
             },
