@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/",
+            "url": "https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/",
+            "title": ".NET Conf 2021 | Nov 9 - 11",
+            "summary": ".NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is&hellip;",
+            "content_html": "<p>.NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the <a href=\"https://www.dot.net/\" target=\"_blank\" rel=\"noopener\">.NET development platform</a>. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners.</p>\n<p><strong>Launch of .NET 6!!!</strong></p>\n<p>Day one is all about the launch of .NET 6.  Join the .NET Team to learn all about the new features and capabilities with this release</p>\n<p>Day two is all about diving deeper into the details.  The 24 hour broadcast of .NET Conf 2021 begins.</p>\n<p>Day three continues with the deep dives and the 24 hour broadcast.</p>\n<p><a href=\"https://www.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and watch .NET Conf here</a>.</p>",
+            "image": "https://mhackermsft.github.io/media/posts/8/netconf.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-18T11:29:17-04:00",
+            "date_modified": "2021-10-18T11:29:17-04:00"
+        },
+        {
             "id": "https://mhackermsft.github.io/technical-training/",
             "url": "https://mhackermsft.github.io/technical-training/",
             "title": "Technical Training",

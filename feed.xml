@@ -3,12 +3,39 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://mhackermsft.github.io/feed.xml" rel="self" />
     <link href="https://mhackermsft.github.io" />
-    <updated>2021-10-18T11:11:53-04:00</updated>
+    <updated>2021-10-18T11:29:17-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://mhackermsft.github.io</id>
 
+    <entry>
+        <title>.NET Conf 2021 | Nov 9 - 11</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/"/>
+        <id>https://mhackermsft.github.io/net-conf-2021-or-nov-9-11/</id>
+
+        <updated>2021-10-18T11:29:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mhackermsft.github.io/media/posts/8/netconf.png" alt="" />
+                    .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mhackermsft.github.io/media/posts/8/netconf.png" alt="" />
+                <p>.NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the <a href="https://www.dot.net/" target="_blank" rel="noopener">.NET development platform</a>. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners.</p>
+<p><strong>Launch of .NET 6!!!</strong></p>
+<p>Day one is all about the launch of .NET 6.  Join the .NET Team to learn all about the new features and capabilities with this release</p>
+<p>Day two is all about diving deeper into the details.  The 24 hour broadcast of .NET Conf 2021 begins.</p>
+<p>Day three continues with the deep dives and the 24 hour broadcast.</p>
+<p><a href="https://www.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Learn more and watch .NET Conf here</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Technical Training</title>
         <author>
