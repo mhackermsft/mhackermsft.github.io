@@ -3,7 +3,7 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://mhackermsft.github.io/feed.xml" rel="self" />
     <link href="https://mhackermsft.github.io" />
-    <updated>2021-10-18T11:04:23-04:00</updated>
+    <updated>2021-10-18T11:11:53-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://mhackermsft.github.io/technical-training/"/>
         <id>https://mhackermsft.github.io/technical-training/</id>
 
-        <updated>2021-10-18T11:04:23-04:00</updated>
+        <updated>2021-10-18T11:09:58-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://mhackermsft.github.io/media/posts/7/learn.png" alt="" />
                     Over the past few years I have collected a wide range of technical resources which I believe are valuable for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://mhackermsft.github.io/media/posts/7/learn.png" alt="" />
                 <p>Over the past few years I have collected a wide range of technical resources which I believe are valuable for helping developers keep their skills sharp.  Hopefully you will find these resources as valuable as I have.</p>
 <p><a href="https://www.youtube.com/c/NTFAQGuy" target="_blank" rel="noopener noreferrer">John Savill Technical Training</a> - John is a Microsoft employee who has been posting extremely high quality technical training videos for over 13 years.  His master class series on topics such as DevOps, Microsoft Azure, and PowerShell has helped tens of thousands of technical specialists.</p>
 <p><a href="https://aka.ms/learn" target="_blank" rel="noopener noreferrer">Microsoft Learn</a> - Microsoft Learn is an online training platform that provides interactive learning for Microsoft products and more. Our goal is to help organizations become proficient on our technologies and learn more skills with fun, guided, hands-on, interactive content that's specific to your employee’s role and goals. Many modules and learning paths include free sandbox environments for learning.</p>
@@ -63,7 +65,7 @@
         <link href="https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/"/>
         <id>https://mhackermsft.github.io/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/</id>
 
-        <updated>2021-10-13T11:24:53-04:00</updated>
+        <updated>2021-10-18T11:10:56-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mhackermsft.github.io/media/posts/6/CIO-Perspective-Webinar-banner.png" alt="" />
@@ -89,7 +91,7 @@
         <link href="https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/"/>
         <id>https://mhackermsft.github.io/microsoft-ignite-or-nov-2-4/</id>
 
-        <updated>2021-10-12T10:53:14-04:00</updated>
+        <updated>2021-10-18T11:11:24-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mhackermsft.github.io/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
@@ -120,7 +122,7 @@
         <link href="https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/"/>
         <id>https://mhackermsft.github.io/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/</id>
 
-        <updated>2021-10-11T16:29:14-04:00</updated>
+        <updated>2021-10-18T11:11:32-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mhackermsft.github.io/media/posts/4/aks-1600x375.png" alt="" />
@@ -143,7 +145,7 @@
         <link href="https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/"/>
         <id>https://mhackermsft.github.io/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/</id>
 
-        <updated>2021-10-11T16:26:27-04:00</updated>
+        <updated>2021-10-18T11:11:41-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mhackermsft.github.io/media/posts/3/aks-1600x375.png" alt="" />
@@ -166,7 +168,7 @@
         <link href="https://mhackermsft.github.io/know-your-options-for-kubernetes/"/>
         <id>https://mhackermsft.github.io/know-your-options-for-kubernetes/</id>
 
-        <updated>2021-10-11T17:00:32-04:00</updated>
+        <updated>2021-10-18T11:11:53-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mhackermsft.github.io/media/posts/1/Picture1.jpg" alt="Images of speakers for the Kubernetes event" />
