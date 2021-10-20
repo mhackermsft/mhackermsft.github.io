@@ -33,9 +33,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://blog.mikehacker.net/page/2/</loc>
-</url>
-<url>
 <loc>https://blog.mikehacker.net/technical-training/</loc>
 <lastmod>2021-10-18T11:09:58-04:00</lastmod>
 <image:image>
@@ -48,6 +45,14 @@
 <lastmod>2021-10-18T11:11:41-04:00</lastmod>
 <image:image>
 <image:loc>https://blog.mikehacker.net/media\posts\3/aks-1600x375.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/</loc>
+<lastmod>2021-10-20T10:24:54-04:00</lastmod>
+<image:image>
+<image:loc>https://blog.mikehacker.net/media\posts\10/securityevent.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

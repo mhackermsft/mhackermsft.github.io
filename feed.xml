@@ -3,12 +3,35 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-10-18T11:29:17-04:00</updated>
+    <updated>2021-10-20T10:24:54-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Nov 8 | What’s your plan for cybersecurity?</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/"/>
+        <id>https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/</id>
+
+        <updated>2021-10-20T10:24:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/10/securityevent.png" alt="" />
+                    Unlock your full cyber capability in preparation for Federal Funding State and local government cyberattacks are increasing every day. As&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/10/securityevent.png" alt="" />
+                <p>Unlock your full cyber capability in preparation for Federal Funding<br><br>State and local government cyberattacks are increasing every day. As agencies progress in an ever-changing world, they must transform operations through secure cloud solutions as the engine for innovation and efficiency, while delivering trust at scale for their communities.<br><br>Microsoft is here to help the government answer the nation’s call on strengthening inter- and intra-agency capabilities. Together, we can help your agency reach not only modernization milestones but also greater collaboration and trust, so we can protect what matters most.<br><br>Join us in this webinar where we’ll help you get started on your cybersecurity plan in advance of Federal funding initiatives.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/298157/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>.NET Conf 2021 | Nov 9 - 11</title>
         <author>
