@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/",
+            "url": "https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/",
+            "title": "Important | Exchange Online Basic Auth Shutdown",
+            "summary": "In February 2021 the Exchange team at Microsoft posted an announcement about their plans for turning off Basic Authentication in&hellip;",
+            "content_html": "<p>In February 2021 the Exchange team at Microsoft posted an announcement about their plans for turning off Basic Authentication in Exchange Online.</p>\n<p>Effective October 1, 2022 the team will begin to permanently disable Basic Auth in all Exchange Online tenants, with the exception of SMTP Auth (if it is being used).</p>\n<p>Basic Authentication is an outdated and all developers who are building or maintaining apps should be moving to OAuth 2.0, which has become an industry standard.  </p>\n<p><a href=\"https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210\" target=\"_blank\" rel=\"noopener noreferrer\">Read the full announcement here</a></p>\n<p>Microsoft provides a series of authentication services, open-source libraries and application management tools to address identity and authentication needs.  Learn more about the Microsoft Identity Platform <a href=\"https://docs.microsoft.com/en-us/azure/active-directory/develop/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>\n<p>If your are utilizing Basic Authentication today with Exchange Online and do not have experience with OAuth, we have you covered. <a href=\"https://docs.microsoft.com/en-us/exchange/client-developer/exchange-web-services/how-to-authenticate-an-ews-application-by-using-oauth\" target=\"_blank\" rel=\"noopener noreferrer\"> Check out this great article</a> that provides information and examples on how to connect to Exchange Web Services using OAuth.</p>",
+            "image": "https://blog.mikehacker.net/media/posts/11/exchange-logo.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-21T10:10:54-04:00",
+            "date_modified": "2021-10-21T10:10:54-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/",
             "url": "https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/",
             "title": "Webinar | Nov 8 | What’s your plan for cybersecurity?",
@@ -113,21 +128,6 @@
             ],
             "date_published": "2021-10-11T16:24:28-04:00",
             "date_modified": "2021-10-18T11:11:41-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/know-your-options-for-kubernetes/",
-            "url": "https://blog.mikehacker.net/know-your-options-for-kubernetes/",
-            "title": "Free Event | Oct 20 | Know Your Options for Kubernetes",
-            "summary": "Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments&hellip;",
-            "content_html": "<p>Kubernetes and its surrounding cloud-native technologies are taking the world by storm. More and more organizations are making significant investments into Kubernetes platforms. But, if you were starting from scratch, do you know what all your options are?<br><br>It can be overwhelming - there are many different ways to deploy a container on Azure. Join us in this free, 2-hour workshop, where we will step through the basics of containerization, how to host a container without Kubernetes, and how to host a container on different Kubernetes distributions like Azure RedHat OpenShift.<br><br>This free webinar is led by BoxBoat Technologies, a Microsoft Gold Partner.</p>\n<p>Register now:  <a href=\"https://aka.ms/BoxBoatWebinar\" target=\"_blank\" rel=\"noopener noreferrer\">https://aka.ms/BoxBoatWebinar</a></p>\n<p>* limited number of Azure Pass subscriptions for the workshop portion will be available.</p>",
-            "image": "https://blog.mikehacker.net/media/posts/1/Picture1.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-11T16:02:31-04:00",
-            "date_modified": "2021-10-20T10:26:51-04:00"
         }
     ]
 }
