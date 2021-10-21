@@ -10,6 +10,51 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/",
+            "url": "https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/",
+            "title": "Webinar | Nov 2 | Your API Strategy Controls Your Digital Transformation Journey",
+            "summary": "Tuesday, November 2, 2021 | 11:30 AM - 01:00 PM | (GMT-06:00) Central Time (US &amp; Canada) - This is a joint&hellip;",
+            "content_html": "<p><em><span class=\"date\"><bdo dir=\"auto\">Tuesday, November 2, 2021</bdo> | </span><span class=\"time\"><bdo dir=\"auto\">11:30 AM - 01:00 PM | (GMT-06:00) Central Time (US &amp; Canada) - This is a joint event between Microsoft and Polaris Solutions.</bdo></span></em></p>\n<p>Leverage the Azure platform to unleash your data</p>\n<p>How do you harness your data to provide insights, enable digital experiences, take care of employees and customers and differentiate your business?  </p>\n<p>Join Microsoft and our partner, Polaris Solutions, as you learn how to leverage APIs and Azure technologies to master your data management, while empowering your company with the tools to develop a clear data strategy and accelerate your digital success. </p>\n<p>In this first session, Microsoft &amp; Polaris will take attendees on a journey through data. We will tap into APIs and Azure technologies and talk through the pieces needed to be successful in data management.</p>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/304301/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/14/original.jfif",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-21T16:05:26-04:00",
+            "date_modified": "2021-10-21T16:05:26-04:00"
+        },
+        {
+            "id": "https://blog.mikehacker.net/webinar-or-oct-28-or-api-management-on-azure/",
+            "url": "https://blog.mikehacker.net/webinar-or-oct-28-or-api-management-on-azure/",
+            "title": "Webinar | Oct 28 | API Management on Azure",
+            "summary": "Oct 28, 2:00 pm EST / 11:00 pm PST - This is an event hosted by InCycle Software, a Microsoft&hellip;",
+            "content_html": "<p><em>Oct 28, 2:00 pm EST / 11:00 pm PST - This is an event hosted by InCycle Software, a Microsoft partner.</em></p>\n<p>Today's most innovative companies are adopting API strategies to accelerate business growth. They are using API Management (APIM) to create consistent and modern API gateways to publish APIs to external, partner, and internal developers to unlock the potential of enterprise services.<br><br>To achieve these goals, Microsoft's Azure API Management provides the core capabilities to ensure a successful API program through developer engagement, business insights, analytics and security. The big change involves sending requests to an API gateway rather than traditional individual services. As such, creating a modern API Gateway hosted in Azure can also protect them from abuse or overuse. This can also give insights of usage and health.<br><br>In this session, we're going to showcase how Azure API Management can support a full-fledged API-first integration program (enterprise shared service).</p>\n<p><a href=\"https://www.incyclesoftware.com/azure-api-management-webinar\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/13/API-Management.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-21T16:01:13-04:00",
+            "date_modified": "2021-10-21T16:01:13-04:00"
+        },
+        {
+            "id": "https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/",
+            "url": "https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/",
+            "title": "Webinar | Nov 11 | Implement API Management and Develop Event-Based Solutions",
+            "summary": "Thursday, November 11, 2021 | 11:00 AM – 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada) In complex cloud&hellip;",
+            "content_html": "<p><em>Thursday, November 11, 2021 | 11:00 AM – 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>\n<p>In complex cloud environments, you’ll want to connect to and consume both Azure services and third-party services, including responding to events from multiple sources. In this session, we’ll cover key aspects of Azure integration. You’ll see how to how to publish APIs, create policies to manage information shared through the API, and to manage access to their APIs by using the Azure API Management service. We’ll also go into details on how to build applications with event-based architectures.</p>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/300786/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>\n<p> </p>",
+            "image": "https://blog.mikehacker.net/media/posts/12/1SMB_Bannerltr.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-21T15:56:09-04:00",
+            "date_modified": "2021-10-21T15:56:09-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/",
             "url": "https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/",
             "title": "Important | Exchange Online Basic Auth Shutdown",
@@ -113,21 +158,6 @@
             ],
             "date_published": "2021-10-11T16:29:14-04:00",
             "date_modified": "2021-10-18T11:11:32-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
-            "url": "https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
-            "title": "Webinar | Nov 4 | Azure Storage Options with Azure Kubernetes Services",
-            "summary": "Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The&hellip;",
-            "content_html": "<p>Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The cool thing about Azure Kubernetes Services is that it can connect to all of them, so you can match the storage performance and cost goals of just about any application. In this webinar, we’ll look at how to connect AKS to Azure Blob Storage, Azure File Storage, Azure Disks, and Azure NetApp Files to give you the full scope and scale of these options. Then we’ll compare them compare the cost and performance considerations.</p>\n<p>LIVE WEBINAR | THURSDAY, NOVEMBER 4TH 2PM EDT WITH BLAIZE STEWART<br><a href=\"https://www.wintellect.com/webinar/azure-storage-options-with-azure-kubernetes-services/\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/3/aks-1600x375.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-11T16:24:28-04:00",
-            "date_modified": "2021-10-18T11:11:41-04:00"
         }
     ]
 }
