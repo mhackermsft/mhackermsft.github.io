@@ -3,12 +3,36 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-10-21T16:05:26-04:00</updated>
+    <updated>2021-10-27T14:32:23-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Hands-On | Nov 9 | Azure Red Hat OpenShift on Azure Government</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/hands-on-or-nov-9-or-azure-red-hat-openshift-on-azure-government/"/>
+        <id>https://blog.mikehacker.net/hands-on-or-nov-9-or-azure-red-hat-openshift-on-azure-government/</id>
+
+        <updated>2021-10-27T14:32:23-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/15/openshift.png" alt="" />
+                    Noon - 2 pm EST Experience Azure Red Hat OpenShift hosted in Azure Government through a hands-on lab. If you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/15/openshift.png" alt="" />
+                <p><em>Noon - 2 pm EST</em></p>
+<p>Experience Azure Red Hat OpenShift hosted in Azure Government through a hands-on lab. If you are a US government organization and are exploring container hosting options, this is for you!  This is a free event co-hosted by Microsoft and Red Hat.</p>
+<p><a href="https://teams.microsoft.com/registration/v4j5cvGGr0GRqy180BHbRw,HpryCpa83E6Y7xWYrlp3wQ,2f8vyrtwGEqiMD_ZX4pp_Q,Yv71JPRrp0uJU8v0SHKQKQ,Vv7Bw2siS0-1Kc552nu0fA,8J-XF-2YRE-XC55Peoqc1w?mode=read&amp;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;skipauthstrap=1" target="_blank" rel="noopener noreferrer">Click here to learn more and register</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Nov 2 | Your API Strategy Controls Your Digital Transformation Journey</title>
         <author>
@@ -264,29 +288,6 @@
 </ul>
 <p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>
 <p><a href="https://myignite.microsoft.com/home" target="_blank" rel="noopener noreferrer">Register now for free</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Oct 21 | Optimizing Compute on Azure with Azure Kubernetes Services</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/"/>
-        <id>https://blog.mikehacker.net/webinar-or-oct-21-or-optimizing-compute-on-azure-with-azure-kubernetes-services/</id>
-
-        <updated>2021-10-18T11:11:32-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/4/aks-1600x375.png" alt="" />
-                    Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/4/aks-1600x375.png" alt="" />
-                <p>Azure Kubernetes Services is not a one-size-fits-all tool. An organization can tailor AKS to meet its goals in several ways, ranging from single-node development clusters to dynamically scaling, high-performance clusters for production workloads. In this webinar, we will look at all the knobs and switches you can use to shape AKS to align with your app needs. We’ll cover autoscaling, node pools, and virtual nodes to give you the whole gamut of all the possibilities.</p>
-<p>LIVE WEBINAR | THURSDAY, OCTOBER 21ST 2PM EDT WITH BLAIZE STEWART<br><a href="https://www.wintellect.com/webinar/optimizing-compute-on-azure-with-azure-kubernetes-services/" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
         </content>
     </entry>
