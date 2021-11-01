@@ -3,12 +3,36 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-10-27T14:32:23-04:00</updated>
+    <updated>2021-11-01T13:50:45-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Video | Know Your Options for Kubernetes on Azure</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/"/>
+        <id>https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/</id>
+
+        <updated>2021-11-01T13:50:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png" alt="" />
+                    The full recording of the recent webcast titled Know Your Options for Kubernetes on Azure is now available on-demand at the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png" alt="" />
+                <p>The full recording of the recent webcast titled <em>Know Your Options for Kubernetes on Azure</em> is now available on-demand at the link below.</p>
+<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FhCtd_f1M7a4&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C0762ed4a3868450f688108d99d5d419f%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637713847523120936%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&amp;sdata=P0MvhaNUS4Pe%2BZVvuzgceROdWJtVTKaiE9X4OoLbkH0%3D&amp;reserved=0">https://youtu.be/hCtd_f1M7a4</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hands-On | Nov 9 | Azure Red Hat OpenShift on Azure Government</title>
         <author>
