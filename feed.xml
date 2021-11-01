@@ -61,30 +61,6 @@
         </content>
     </entry>
     <entry>
-        <title>Webinar | Oct 28 | API Management on Azure</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-oct-28-or-api-management-on-azure/"/>
-        <id>https://blog.mikehacker.net/webinar-or-oct-28-or-api-management-on-azure/</id>
-
-        <updated>2021-10-21T16:01:13-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/13/API-Management.png" alt="" />
-                    Oct 28, 2:00 pm EST / 11:00 pm PST - This is an event hosted by InCycle Software, a Microsoft&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/13/API-Management.png" alt="" />
-                <p><em>Oct 28, 2:00 pm EST / 11:00 pm PST - This is an event hosted by InCycle Software, a Microsoft partner.</em></p>
-<p>Today's most innovative companies are adopting API strategies to accelerate business growth. They are using API Management (APIM) to create consistent and modern API gateways to publish APIs to external, partner, and internal developers to unlock the potential of enterprise services.<br><br>To achieve these goals, Microsoft's Azure API Management provides the core capabilities to ensure a successful API program through developer engagement, business insights, analytics and security. The big change involves sending requests to an API gateway rather than traditional individual services. As such, creating a modern API Gateway hosted in Azure can also protect them from abuse or overuse. This can also give insights of usage and health.<br><br>In this session, we're going to showcase how Azure API Management can support a full-fledged API-first integration program (enterprise shared service).</p>
-<p><a href="https://www.incyclesoftware.com/azure-api-management-webinar" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Webinar | Nov 11 | Implement API Management and Develop Event-Based Solutions</title>
         <author>
             <name>Mike Hacker</name>
@@ -235,32 +211,6 @@
         </content>
     </entry>
     <entry>
-        <title>Webinar | Oct 28 | A CIO&#x27;s Perspective on Microsoft Azure Migration</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/"/>
-        <id>https://blog.mikehacker.net/webinar-or-oct-28-or-a-cios-perspective-on-microsoft-azure-migratio/</id>
-
-        <updated>2021-10-18T11:10:56-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/6/CIO-Perspective-Webinar-banner.png" alt="" />
-                    Making the Financial Case for Modernizing Your Environment The cloud revolution is here, but many organizations are hesitant to tackle&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/6/CIO-Perspective-Webinar-banner.png" alt="" />
-                <h3>Making the Financial Case for Modernizing Your Environment </h3>
-<p>The cloud revolution is here, but many organizations are hesitant to tackle the task of migrating their data and applications to a cloud environment. How do you evaluate if a migration is worth the effort? What are the actual financial benefits of cloud transformation?</p>
-<p>In this webinar, ACTS CIO Advisor,<a href="https://www.linkedin.com/in/shpickett/" rel="noopener"> Shawn Pickett</a> will host a discussion with <a href="https://www.linkedin.com/in/gregorynmiller/" rel="noopener">Greg Miller</a>, former CIO of Genuine Parts Company (GPC), to explain their first-hand experience with a large cloud migration project at a global automotive replacement parts organization that serves thousands of customers. They will discuss the key challenges, internal perceptions, and considerations Greg took on to ensure an efficient and optimized journey to the Microsoft cloud.</p>
-<p>In this session, you will hear about the significant factors to consider when you are at the beginning, middle or end of a cloud migration project – with best practices directly from a CIO who executed a cloud transformation project.</p>
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Finfo.actsolution.net%2Fcio-perspective-cloud-migration%3Futm_source%3Demail%26utm_medium%3Dwebinar%26utm_campaign%3DCM_webinar_MSRep%26utm_term%3Dcloud%2Bmigration%26utm_content%3Dwebinar&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C44da68f5085a4d71ab3808d98e483285%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637697263706063384%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=cKQj%2F%2FNx7MYwEsbFiiyp1l8tYM47j630vIknSH5KgHY%3D&amp;reserved=0">Register today to reserve your spot</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Microsoft Ignite | Nov 2 - 4</title>
         <author>
             <name>Mike Hacker</name>
@@ -288,6 +238,29 @@
 </ul>
 <p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>
 <p><a href="https://myignite.microsoft.com/home" target="_blank" rel="noopener noreferrer">Register now for free</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Webinar | Nov 4 | Azure Storage Options with Azure Kubernetes Services</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/"/>
+        <id>https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/</id>
+
+        <updated>2021-10-18T11:11:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/3/aks-1600x375.png" alt="" />
+                    Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/3/aks-1600x375.png" alt="" />
+                <p>Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The cool thing about Azure Kubernetes Services is that it can connect to all of them, so you can match the storage performance and cost goals of just about any application. In this webinar, we’ll look at how to connect AKS to Azure Blob Storage, Azure File Storage, Azure Disks, and Azure NetApp Files to give you the full scope and scale of these options. Then we’ll compare them compare the cost and performance considerations.</p>
+<p>LIVE WEBINAR | THURSDAY, NOVEMBER 4TH 2PM EDT WITH BLAIZE STEWART<br><a href="https://www.wintellect.com/webinar/azure-storage-options-with-azure-kubernetes-services/" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
         </content>
     </entry>
