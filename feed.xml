@@ -3,12 +3,38 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-03T09:26:33-04:00</updated>
+    <updated>2021-11-03T09:50:13-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>New Service | Azure Container Apps</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/new-service-or-azure-container-apps/"/>
+        <id>https://blog.mikehacker.net/new-service-or-azure-container-apps/</id>
+
+        <updated>2021-11-03T09:50:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/18/1635873135134-2.jfif" alt="" />
+                    Microsoft Azure now has a new method for deploying containerized applications that require orchestration without the steep learning curve of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/18/1635873135134-2.jfif" alt="" />
+                <p>Microsoft Azure now has a new method for deploying containerized applications that require orchestration without the steep learning curve of Kubernetes. Azure Container Apps allows you to write code using your preferred programming language or framework and build microservices with full DAPR (Distributed Application Runtime) support.  Easily configure dynamic scaling of containers based on HTTP traffic or other events.</p>
+<p>This service is built on top of Kubernetes but provides a simple, serverless experience that can enable dev and ops teams to quickly.</p>
+<p>With the scale to zero option, you can configure the service so you are only paying for when your app is active in response to events and/or requests.  This is a very low cost way to quickly jump into the world of containers!</p>
+<p><a href="https://azure.microsoft.com/en-us/services/container-apps/" target="_blank" rel="noopener noreferrer">Learn more here</a></p>
+<p><a href="https://docs.microsoft.com/en-us/azure/container-apps/get-started?ocid=AID3042118&amp;tabs=bash" target="_blank" rel="noopener noreferrer">Want to get started quick, check out this quick start guide!</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Nov 16 | The Power of GitOps for Deploying Frequently</title>
         <author>
@@ -275,37 +301,6 @@
 <p><a href="https://developer.microsoft.com/en-us/reactor/" target="_blank" rel="noopener noreferrer">Reactor </a>- Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Attend expert panels and dive into what inspires you with the latest technology. Virtual events are running around the clock so join us anytime, anywhere!</p>
 <p> <a href="https://azure.microsoft.com/en-us/resources/events/" target="_blank" rel="noopener noreferrer">Azure Events &amp; Webinars</a> - Employees can build their cloud skills, learn from Azure experts, and connect with other developers from all over the world at digital and in-person events and Microsoft virtual trainings.</p>
 <p><a href="https://lab.github.com/" target="_blank" rel="noopener noreferrer">GitHub Learning Lab</a> - Grow your skills by completing fun, realistic projects.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Ignite | Nov 2 - 4</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/"/>
-        <id>https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/</id>
-
-        <updated>2021-10-20T10:27:01-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
-                    Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
-                <p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>
-<p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>
-<ul>
-<li>Empower everyone for a new world of hybrid work</li>
-<li>Innovate anywhere from multicloud to edge</li>
-<li>Reimagine a new era of business</li>
-<li>Protect everything with end-to-end security</li>
-</ul>
-<p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>
-<p><a href="https://myignite.microsoft.com/home" target="_blank" rel="noopener noreferrer">Register now for free</a></p>
             ]]>
         </content>
     </entry>
