@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/",
+            "url": "https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/",
+            "title": "Webinar | Nov 16 | The Power of GitOps for Deploying Frequently",
+            "summary": " Learn more and register here!",
+            "content_html": "<p> </p>\n<div><em>Nov 16, 2021 | 2:00 pm - 3:30 pm Eastern Time</em></div>\n<div> </div>\n<div>Teams across organizations keep learning about \"Kubernetes\" and deciding to try it for greenfield/brownfield projects, especially with microservices-style architectures. Commonly, many of these teams continue to use basic push-based CI/CD practices that they would generally use on other platforms. However, Kubernetes has a massive advantage over other platforms, and that's GitOps.</div>\n<div> </div>\n<div>Learn about the power of GitOps for Kubernetes-based workload so that you can understand how application teams can be more efficient and deliver more value to the business.</div>\n<div> </div>\n<div>We'll cover:</div>\n<ul>\n<li>The typical CI/CD pipeline</li>\n<li>The problems, especially with microservices</li>\n<li>What is GitOps?</li>\n<li>Understanding its power</li>\n<li>When it's not a great fit</li>\n<li>Choosing a solution, quick comparison<br>\n<ul>\n<li>ArgoCD</li>\n<li>Azure Arc (Flux)</li>\n<li>Tekton</li>\n</ul>\n</li>\n</ul>\n<p><a href=\"https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,0UNzzuYCvkC8K36KzL2E9Q,Prhbv3DBkEyx7y2zIgR18g,Fxo_WULBH06hW0CUVx1Ssw?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3&amp;skipauthstrap=1\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here!</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/17/BoxBoat.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-03T09:26:33-04:00",
+            "date_modified": "2021-11-03T09:26:33-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/",
             "url": "https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/",
             "title": "Video | Know Your Options for Kubernetes on Azure",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-10-12T10:49:05-04:00",
             "date_modified": "2021-10-20T10:27:01-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
-            "url": "https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/",
-            "title": "Webinar | Nov 4 | Azure Storage Options with Azure Kubernetes Services",
-            "summary": "Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The&hellip;",
-            "content_html": "<p>Azure has many different ways to store data, and each one comes with its own pricing and performance characteristics. The cool thing about Azure Kubernetes Services is that it can connect to all of them, so you can match the storage performance and cost goals of just about any application. In this webinar, we’ll look at how to connect AKS to Azure Blob Storage, Azure File Storage, Azure Disks, and Azure NetApp Files to give you the full scope and scale of these options. Then we’ll compare them compare the cost and performance considerations.</p>\n<p>LIVE WEBINAR | THURSDAY, NOVEMBER 4TH 2PM EDT WITH BLAIZE STEWART<br><a href=\"https://www.wintellect.com/webinar/azure-storage-options-with-azure-kubernetes-services/\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/3/aks-1600x375.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-11T16:24:28-04:00",
-            "date_modified": "2021-10-18T11:11:41-04:00"
         }
     ]
 }
