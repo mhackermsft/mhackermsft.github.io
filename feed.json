@@ -55,21 +55,6 @@
             "date_modified": "2021-11-01T13:50:45-04:00"
         },
         {
-            "id": "https://blog.mikehacker.net/hands-on-or-nov-9-or-azure-red-hat-openshift-on-azure-government/",
-            "url": "https://blog.mikehacker.net/hands-on-or-nov-9-or-azure-red-hat-openshift-on-azure-government/",
-            "title": "Hands-On | Nov 9 | Azure Red Hat OpenShift on Azure Government",
-            "summary": "Noon - 2 pm EST Experience Azure Red Hat OpenShift hosted in Azure Government through a hands-on lab. If you&hellip;",
-            "content_html": "<p><em>Noon - 2 pm EST</em></p>\n<p>Experience Azure Red Hat OpenShift hosted in Azure Government through a hands-on lab. If you are a US government organization and are exploring container hosting options, this is for you!  This is a free event co-hosted by Microsoft and Red Hat.</p>\n<p><a href=\"https://teams.microsoft.com/registration/v4j5cvGGr0GRqy180BHbRw,HpryCpa83E6Y7xWYrlp3wQ,2f8vyrtwGEqiMD_ZX4pp_Q,Yv71JPRrp0uJU8v0SHKQKQ,Vv7Bw2siS0-1Kc552nu0fA,8J-XF-2YRE-XC55Peoqc1w?mode=read&amp;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;skipauthstrap=1\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to learn more and register</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/15/openshift.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-27T14:29:29-04:00",
-            "date_modified": "2021-10-27T14:32:23-04:00"
-        },
-        {
             "id": "https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/",
             "url": "https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/",
             "title": "Webinar | Nov 2 | Your API Strategy Controls Your Digital Transformation Journey",
@@ -158,6 +143,21 @@
             ],
             "date_published": "2021-10-18T10:40:48-04:00",
             "date_modified": "2021-10-18T11:09:58-04:00"
+        },
+        {
+            "id": "https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/",
+            "url": "https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/",
+            "title": "Microsoft Ignite | Nov 2 - 4",
+            "summary": "Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;",
+            "content_html": "<p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>\n<p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>\n<ul>\n<li>Empower everyone for a new world of hybrid work</li>\n<li>Innovate anywhere from multicloud to edge</li>\n<li>Reimagine a new era of business</li>\n<li>Protect everything with end-to-end security</li>\n</ul>\n<p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>\n<p><a href=\"https://myignite.microsoft.com/home\" target=\"_blank\" rel=\"noopener noreferrer\">Register now for free</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-12T10:49:05-04:00",
+            "date_modified": "2021-10-20T10:27:01-04:00"
         }
     ]
 }
