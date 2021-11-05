@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/",
+            "url": "https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/",
+            "title": "Webinar | Nov 10 | Become Cloud Native",
+            "summary": "Wednesday, November 10, 2021 | 9:00AM – 10AM PST | Joint event with Nous Infosystems As enterprises are looking to&hellip;",
+            "content_html": "<p><em>Wednesday, November 10, 2021 | 9:00AM – 10AM PST | Joint event with Nous Infosystems</em></p>\n<p>As enterprises are looking to digitally transform, modernizing their applications to become cloud-native is on top of their agenda.</p>\n<p>Join us and our partner, Nous Infosystems to learn how to build agile, scalable, and cost-efficient cloud-native applications or modernize existing ones using Azure's fully managed services such as Azure API management, Azure Kubernetes Service, and Azure Functions to seamlessly integrate microservices based application workloads to perform complex functions and automate business critical workloads across the organization.</p>\n<p>In this webinar, you will learn:</p>\n<ul>\n<li>What is cloud-native and why it’s important</li>\n<li>Approaches to building cloud-native apps</li>\n<li>Modernization Case studies</li>\n<li>Nous application modernization offer</li>\n</ul>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/304323/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here.</a></p>\n<p> </p>",
+            "image": "https://blog.mikehacker.net/media/posts/19/original.jfif",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-05T13:21:01-04:00",
+            "date_modified": "2021-11-05T13:23:00-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/new-service-or-azure-container-apps/",
             "url": "https://blog.mikehacker.net/new-service-or-azure-container-apps/",
             "title": "New Service | Azure Container Apps",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-10-18T10:40:48-04:00",
             "date_modified": "2021-10-18T11:09:58-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/",
-            "url": "https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/",
-            "title": "Microsoft Ignite | Nov 2 - 4",
-            "summary": "Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;",
-            "content_html": "<p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>\n<p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>\n<ul>\n<li>Empower everyone for a new world of hybrid work</li>\n<li>Innovate anywhere from multicloud to edge</li>\n<li>Reimagine a new era of business</li>\n<li>Protect everything with end-to-end security</li>\n</ul>\n<p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>\n<p><a href=\"https://myignite.microsoft.com/home\" target=\"_blank\" rel=\"noopener noreferrer\">Register now for free</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-12T10:49:05-04:00",
-            "date_modified": "2021-11-04T15:59:15-04:00"
         }
     ]
 }

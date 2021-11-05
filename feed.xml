@@ -3,12 +3,45 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-04T15:59:38-04:00</updated>
+    <updated>2021-11-05T13:23:00-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Nov 10 | Become Cloud Native</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/"/>
+        <id>https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/</id>
+
+        <updated>2021-11-05T13:23:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/19/original.jfif" alt="" />
+                    Wednesday, November 10, 2021 | 9:00AM – 10AM PST | Joint event with Nous Infosystems As enterprises are looking to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/19/original.jfif" alt="" />
+                <p><em>Wednesday, November 10, 2021 | 9:00AM – 10AM PST | Joint event with Nous Infosystems</em></p>
+<p>As enterprises are looking to digitally transform, modernizing their applications to become cloud-native is on top of their agenda.</p>
+<p>Join us and our partner, Nous Infosystems to learn how to build agile, scalable, and cost-efficient cloud-native applications or modernize existing ones using Azure's fully managed services such as Azure API management, Azure Kubernetes Service, and Azure Functions to seamlessly integrate microservices based application workloads to perform complex functions and automate business critical workloads across the organization.</p>
+<p>In this webinar, you will learn:</p>
+<ul>
+<li>What is cloud-native and why it’s important</li>
+<li>Approaches to building cloud-native apps</li>
+<li>Modernization Case studies</li>
+<li>Nous application modernization offer</li>
+</ul>
+<p><a href="https://mktoevents.com/Microsoft+Event/304323/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here.</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New Service | Azure Container Apps</title>
         <author>
@@ -277,37 +310,6 @@
 <p><a href="https://developer.microsoft.com/en-us/reactor/" target="_blank" rel="noopener noreferrer">Reactor </a>- Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Attend expert panels and dive into what inspires you with the latest technology. Virtual events are running around the clock so join us anytime, anywhere!</p>
 <p> <a href="https://azure.microsoft.com/en-us/resources/events/" target="_blank" rel="noopener noreferrer">Azure Events &amp; Webinars</a> - Employees can build their cloud skills, learn from Azure experts, and connect with other developers from all over the world at digital and in-person events and Microsoft virtual trainings.</p>
 <p><a href="https://lab.github.com/" target="_blank" rel="noopener noreferrer">GitHub Learning Lab</a> - Grow your skills by completing fun, realistic projects.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Ignite | Nov 2 - 4</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/"/>
-        <id>https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/</id>
-
-        <updated>2021-11-04T15:59:15-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
-                    Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more. Microsoft Ignite&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg" alt="" />
-                <p>Join Microsoft on November 2-4, 2021to explore the latest tools, training sessions, technical expertise, networking opportunities, and more.</p>
-<p>Microsoft Ignite features four curated themes exploring transformation, revealing the trends shaping the new flexible business environment.</p>
-<ul>
-<li>Empower everyone for a new world of hybrid work</li>
-<li>Innovate anywhere from multicloud to edge</li>
-<li>Reimagine a new era of business</li>
-<li>Protect everything with end-to-end security</li>
-</ul>
-<p>Hear from Microsoft executives and lead technologists on a wide range of sessions best suited for your role and interests.</p>
-<p><a href="https://myignite.microsoft.com/home" target="_blank" rel="noopener noreferrer">Register now for free</a></p>
             ]]>
         </content>
     </entry>
