@@ -3,12 +3,36 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-09T09:25:53-05:00</updated>
+    <updated>2021-11-11T09:08:05-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Expert Panel | Dec 1 | Azure DevOps &amp; GitHub - Better Together</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/"/>
+        <id>https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/</id>
+
+        <updated>2021-11-11T09:08:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/21/github.png" alt="" />
+                    12:00pm - 1:30pm PT / 3:00pm - 4:30pm ET Join us for a private virtual Azure DevOps &amp; GitHub event&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/21/github.png" alt="" />
+                <p><em>12:00pm - 1:30pm PT / 3:00pm - 4:30pm ET</em></p>
+<p>Join us for a private virtual Azure DevOps &amp; GitHub event with an expert panel featuring Atmosera's Ken Muse, VP of Professional Services, and DevOps Ranger, Heather Brevard, Sr. Azure App Innovation Specialist from Microsoft, and Robert Freeman, PMP, CTO, Public Sector from GitHub to discuss the benefits of incorporating GitHub into your current DevOps practice.<br><br>With Microsoft acquiring GitHub, many teams struggle to understand whether to adopt GitHub or Azure DevOps, especially if there is already an investment in Azure DevOps or Team Foundation Server (TFS). There is a third option that's often overlooked – the integration of both platforms!<br><br>All attendees can schedule a free one-hour DevOps consultation following the event.</p>
+<p><a href="https://info.atmosera.com/azure-devops-github-better-together-expert-panel-december-1st-2021" target="_blank" rel="noopener noreferrer">Register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Nov 10 | The Rise of Modern Apps</title>
         <author>
@@ -259,33 +283,6 @@
                     <img src="https://blog.mikehacker.net/media/posts/10/securityevent.png" alt="" />
                 <p>Unlock your full cyber capability in preparation for Federal Funding<br><br>State and local government cyberattacks are increasing every day. As agencies progress in an ever-changing world, they must transform operations through secure cloud solutions as the engine for innovation and efficiency, while delivering trust at scale for their communities.<br><br>Microsoft is here to help the government answer the nation’s call on strengthening inter- and intra-agency capabilities. Together, we can help your agency reach not only modernization milestones but also greater collaboration and trust, so we can protect what matters most.<br><br>Join us in this webinar where we’ll help you get started on your cybersecurity plan in advance of Federal funding initiatives.</p>
 <p><a href="https://mktoevents.com/Microsoft+Event/298157/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>.NET Conf 2021 | Nov 9 - 11</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/"/>
-        <id>https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/</id>
-
-        <updated>2021-11-04T15:59:38-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/8/netconf.png" alt="" />
-                    .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/8/netconf.png" alt="" />
-                <p>.NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the <a href="https://www.dot.net/" target="_blank" rel="noopener">.NET development platform</a>. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners.</p>
-<p><strong>Launch of .NET 6!!!</strong></p>
-<p>Day one is all about the launch of .NET 6.  Join the .NET Team to learn all about the new features and capabilities with this release</p>
-<p>Day two is all about diving deeper into the details.  The 24 hour broadcast of .NET Conf 2021 begins.</p>
-<p>Day three continues with the deep dives and the 24 hour broadcast.</p>
-<p><a href="https://www.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Learn more and watch .NET Conf here</a>.</p>
             ]]>
         </content>
     </entry>

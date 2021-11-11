@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/",
+            "url": "https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/",
+            "title": "Expert Panel | Dec 1 | Azure DevOps &amp; GitHub - Better Together",
+            "summary": "12:00pm - 1:30pm PT / 3:00pm - 4:30pm ET Join us for a private virtual Azure DevOps &amp; GitHub event&hellip;",
+            "content_html": "<p><em>12:00pm - 1:30pm PT / 3:00pm - 4:30pm ET</em></p>\n<p>Join us for a private virtual Azure DevOps &amp; GitHub event with an expert panel featuring Atmosera's Ken Muse, VP of Professional Services, and DevOps Ranger, Heather Brevard, Sr. Azure App Innovation Specialist from Microsoft, and Robert Freeman, PMP, CTO, Public Sector from GitHub to discuss the benefits of incorporating GitHub into your current DevOps practice.<br><br>With Microsoft acquiring GitHub, many teams struggle to understand whether to adopt GitHub or Azure DevOps, especially if there is already an investment in Azure DevOps or Team Foundation Server (TFS). There is a third option that's often overlooked – the integration of both platforms!<br><br>All attendees can schedule a free one-hour DevOps consultation following the event.</p>\n<p><a href=\"https://info.atmosera.com/azure-devops-github-better-together-expert-panel-december-1st-2021\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/21/github.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-11T09:08:05-05:00",
+            "date_modified": "2021-11-11T09:08:05-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/",
             "url": "https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/",
             "title": "Webinar | Nov 10 | The Rise of Modern Apps",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-10-20T10:24:54-04:00",
             "date_modified": "2021-10-20T10:24:54-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/",
-            "url": "https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/",
-            "title": ".NET Conf 2021 | Nov 9 - 11",
-            "summary": ".NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is&hellip;",
-            "content_html": "<p>.NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the <a href=\"https://www.dot.net/\" target=\"_blank\" rel=\"noopener\">.NET development platform</a>. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners.</p>\n<p><strong>Launch of .NET 6!!!</strong></p>\n<p>Day one is all about the launch of .NET 6.  Join the .NET Team to learn all about the new features and capabilities with this release</p>\n<p>Day two is all about diving deeper into the details.  The 24 hour broadcast of .NET Conf 2021 begins.</p>\n<p>Day three continues with the deep dives and the 24 hour broadcast.</p>\n<p><a href=\"https://www.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and watch .NET Conf here</a>.</p>",
-            "image": "https://blog.mikehacker.net/media/posts/8/netconf.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-18T11:29:17-04:00",
-            "date_modified": "2021-11-04T15:59:38-04:00"
         }
     ]
 }
