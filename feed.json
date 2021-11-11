@@ -20,9 +20,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-11-11T09:08:05-05:00",
-            "date_modified": "2021-11-11T09:08:05-05:00"
+            "date_modified": "2021-11-11T09:13:26-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/",
@@ -35,9 +36,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-11-09T09:25:53-05:00",
-            "date_modified": "2021-11-09T09:25:53-05:00"
+            "date_modified": "2021-11-11T09:13:41-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/",
@@ -50,9 +52,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-11-05T13:21:01-04:00",
-            "date_modified": "2021-11-05T13:23:00-04:00"
+            "date_modified": "2021-11-11T09:13:48-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/new-service-or-azure-container-apps/",
@@ -65,9 +68,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Announcements"
             ],
             "date_published": "2021-11-03T09:49:10-04:00",
-            "date_modified": "2021-11-03T09:50:13-04:00"
+            "date_modified": "2021-11-11T09:17:32-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/",
@@ -80,9 +84,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-11-03T09:26:33-04:00",
-            "date_modified": "2021-11-11T09:11:20-05:00"
+            "date_modified": "2021-11-11T09:13:59-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/",
@@ -95,9 +100,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Training"
             ],
             "date_published": "2021-11-01T13:50:45-04:00",
-            "date_modified": "2021-11-01T13:50:45-04:00"
+            "date_modified": "2021-11-11T09:18:25-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/",
@@ -110,9 +116,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-10-21T16:05:26-04:00",
-            "date_modified": "2021-10-21T16:05:26-04:00"
+            "date_modified": "2021-11-11T09:14:13-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/",
@@ -125,9 +132,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-10-21T15:56:09-04:00",
-            "date_modified": "2021-10-21T15:56:09-04:00"
+            "date_modified": "2021-11-11T09:14:22-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/",
@@ -140,9 +148,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Announcements"
             ],
             "date_published": "2021-10-21T10:10:54-04:00",
-            "date_modified": "2021-10-21T10:10:54-04:00"
+            "date_modified": "2021-11-11T09:17:51-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/",
@@ -155,9 +164,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-10-20T10:24:54-04:00",
-            "date_modified": "2021-10-20T10:24:54-04:00"
+            "date_modified": "2021-11-11T09:14:31-05:00"
         }
     ]
 }

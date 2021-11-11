@@ -3,7 +3,7 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-11T09:11:20-05:00</updated>
+    <updated>2021-11-11T09:18:25-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/"/>
         <id>https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/</id>
+            <category term="Events"/>
 
-        <updated>2021-11-11T09:08:05-05:00</updated>
+        <updated>2021-11-11T09:13:26-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/21/github.png" alt="" />
@@ -40,8 +41,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/"/>
         <id>https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/</id>
+            <category term="Events"/>
 
-        <updated>2021-11-09T09:25:53-05:00</updated>
+        <updated>2021-11-11T09:13:41-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/20/catapult.png" alt="" />
@@ -64,8 +66,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/"/>
         <id>https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/</id>
+            <category term="Events"/>
 
-        <updated>2021-11-05T13:23:00-04:00</updated>
+        <updated>2021-11-11T09:13:48-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/19/original.jfif" alt="" />
@@ -97,8 +100,9 @@
         </author>
         <link href="https://blog.mikehacker.net/new-service-or-azure-container-apps/"/>
         <id>https://blog.mikehacker.net/new-service-or-azure-container-apps/</id>
+            <category term="Announcements"/>
 
-        <updated>2021-11-03T09:50:13-04:00</updated>
+        <updated>2021-11-11T09:17:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/18/1635873135134-2.jfif" alt="" />
@@ -123,8 +127,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/"/>
         <id>https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/</id>
+            <category term="Events"/>
 
-        <updated>2021-11-11T09:11:20-05:00</updated>
+        <updated>2021-11-11T09:13:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/17/BoxBoat.jpg" alt="" />
@@ -167,8 +172,9 @@
         </author>
         <link href="https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/"/>
         <id>https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/</id>
+            <category term="Training"/>
 
-        <updated>2021-11-01T13:50:45-04:00</updated>
+        <updated>2021-11-11T09:18:25-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png" alt="" />
@@ -191,8 +197,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/"/>
         <id>https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/</id>
+            <category term="Events"/>
 
-        <updated>2021-10-21T16:05:26-04:00</updated>
+        <updated>2021-11-11T09:14:13-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/14/original.jfif" alt="" />
@@ -218,8 +225,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/"/>
         <id>https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/</id>
+            <category term="Events"/>
 
-        <updated>2021-10-21T15:56:09-04:00</updated>
+        <updated>2021-11-11T09:14:22-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/12/1SMB_Bannerltr.png" alt="" />
@@ -243,8 +251,9 @@
         </author>
         <link href="https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/"/>
         <id>https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/</id>
+            <category term="Announcements"/>
 
-        <updated>2021-10-21T10:10:54-04:00</updated>
+        <updated>2021-11-11T09:17:51-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/11/exchange-logo.png" alt="" />
@@ -270,8 +279,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/"/>
         <id>https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/</id>
+            <category term="Events"/>
 
-        <updated>2021-10-20T10:24:54-04:00</updated>
+        <updated>2021-11-11T09:14:31-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/10/securityevent.png" alt="" />
