@@ -3,12 +3,69 @@
     <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-11T11:03:38-05:00</updated>
+    <updated>2021-11-12T09:40:01-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Nov 18 | Databricks Batch and Streaming</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/"/>
+        <id>https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/</id>
+            <category term="Events"/>
+
+        <updated>2021-11-12T09:40:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/23/azure-databricks.jpg" alt="" />
+                    November 18, 2pm ET hosted by Wintellect Databricks is a leading big data processing service available on Azure. One of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/23/azure-databricks.jpg" alt="" />
+                <p><em>November 18, 2pm ET hosted by Wintellect</em></p>
+<p>Databricks is a leading big data processing service available on Azure. One of the nicest features in Databricks is the ability to develop workloads that run in batch or streaming modes.</p>
+<p>In this webinar, Wintellect will review the basics of a notebook running in batch mode. In this example, we’ll be focusing on Delta Tables for our sinks. You will learn the differences between batch and streaming and just how easy it is to convert a notebook to streaming mode. We’ll also review streaming limitations within Databricks. Finally, we will walk you through an example of how to develop a job that can be parameterized to run a notebook in both modes.</p>
+<p><a href="https://www.wintellect.com/webinar/databricks-batch-and-streaming" target="_blank" rel="noopener noreferrer">Register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Event | Dec 2 |US Public Sector Summit</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/"/>
+        <id>https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/</id>
+            <category term="Events"/>
+
+        <updated>2021-11-12T09:35:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/22/pubsecsummit.png" alt="" />
+                    8:00am - 9:30am PT / 11am - 12:30pm ET Microsoft is hosting a US Public Sector Summit on Thursday, December&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/22/pubsecsummit.png" alt="" />
+                <p><em>8:00am - 9:30am PT / 11am - 12:30pm ET</em></p>
+<p>Microsoft is hosting a US Public Sector Summit on Thursday, December 2nd for government and education decision makers.  This digital experience is focused on the future and celebrating the public sector's resilience, agility, and achievements over the course of the pandemic.  The event will feature</p>
+<div> </div>
+<ul>
+<li>Public sector organizations driving mission impact, data-driven excellence, and research and healthcare innovation. Top leaders from the US Navy, Choctaw Nation of Oklahoma, State of Illinois Department of Children and Family Services, Nebraska Department of Education, University of North Carolina at Chapel Hill, and more will share their real-world success stories.</li>
+<li>Insights from thought leaders, including Microsoft’s Satya Nadella, Brad Smith, Dr. Julia Glidden, and others on the future of infrastructure and cybersecurity, workforce skills, sustainability, and additional public sector priorities.</li>
+</ul>
+<div> </div>
+<div><a href="https://msuspublicsectorsummit.eventcore.com/?wt.mc_ID=UPSS2021_fld_us_em_oo_FieldSeller_OFT" target="_blank" rel="noopener noreferrer">Learn more and register here</a></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Expert Panel | Dec 1 | Azure DevOps &amp; GitHub - Better Together</title>
         <author>
@@ -242,58 +299,6 @@
 <p>In complex cloud environments, you’ll want to connect to and consume both Azure services and third-party services, including responding to events from multiple sources. In this session, we’ll cover key aspects of Azure integration. You’ll see how to how to publish APIs, create policies to manage information shared through the API, and to manage access to their APIs by using the Azure API Management service. We’ll also go into details on how to build applications with event-based architectures.</p>
 <p><a href="https://mktoevents.com/Microsoft+Event/300786/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Important | Exchange Online Basic Auth Shutdown</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/"/>
-        <id>https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/</id>
-            <category term="Announcements"/>
-
-        <updated>2021-11-11T09:17:51-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/11/exchange-logo.png" alt="" />
-                    In February 2021 the Exchange team at Microsoft posted an announcement about their plans for turning off Basic Authentication in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/11/exchange-logo.png" alt="" />
-                <p>In February 2021 the Exchange team at Microsoft posted an announcement about their plans for turning off Basic Authentication in Exchange Online.</p>
-<p>Effective October 1, 2022 the team will begin to permanently disable Basic Auth in all Exchange Online tenants, with the exception of SMTP Auth (if it is being used).</p>
-<p>Basic Authentication is an outdated and all developers who are building or maintaining apps should be moving to OAuth 2.0, which has become an industry standard.  </p>
-<p><a href="https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210" target="_blank" rel="noopener noreferrer">Read the full announcement here</a></p>
-<p>Microsoft provides a series of authentication services, open-source libraries and application management tools to address identity and authentication needs.  Learn more about the Microsoft Identity Platform <a href="https://docs.microsoft.com/en-us/azure/active-directory/develop/" target="_blank" rel="noopener noreferrer">here</a>.</p>
-<p>If your are utilizing Basic Authentication today with Exchange Online and do not have experience with OAuth, we have you covered. <a href="https://docs.microsoft.com/en-us/exchange/client-developer/exchange-web-services/how-to-authenticate-an-ews-application-by-using-oauth" target="_blank" rel="noopener noreferrer"> Check out this great article</a> that provides information and examples on how to connect to Exchange Web Services using OAuth.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Nov 8 | What’s your plan for cybersecurity?</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/"/>
-        <id>https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/</id>
-            <category term="Events"/>
-
-        <updated>2021-11-11T09:14:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/10/securityevent.png" alt="" />
-                    Unlock your full cyber capability in preparation for Federal Funding State and local government cyberattacks are increasing every day. As&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/10/securityevent.png" alt="" />
-                <p>Unlock your full cyber capability in preparation for Federal Funding<br><br>State and local government cyberattacks are increasing every day. As agencies progress in an ever-changing world, they must transform operations through secure cloud solutions as the engine for innovation and efficiency, while delivering trust at scale for their communities.<br><br>Microsoft is here to help the government answer the nation’s call on strengthening inter- and intra-agency capabilities. Together, we can help your agency reach not only modernization milestones but also greater collaboration and trust, so we can protect what matters most.<br><br>Join us in this webinar where we’ll help you get started on your cybersecurity plan in advance of Federal funding initiatives.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/298157/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
             ]]>
         </content>
     </entry>
