@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government",
+    "title": "Mike Hacker | Microsoft Azure Application Innovation Specialist",
     "description": "",
     "home_page_url": "https://blog.mikehacker.net",
     "feed_url": "https://blog.mikehacker.net/feed.json",
@@ -39,7 +39,7 @@
                    "Events"
             ],
             "date_published": "2021-11-12T09:35:13-05:00",
-            "date_modified": "2021-11-12T09:35:13-05:00"
+            "date_modified": "2021-11-15T12:16:55-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/",
@@ -119,7 +119,7 @@
                    "Events"
             ],
             "date_published": "2021-11-03T09:26:33-04:00",
-            "date_modified": "2021-11-11T09:13:59-05:00"
+            "date_modified": "2021-11-15T12:17:01-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/",

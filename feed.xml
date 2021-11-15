@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Mike Hacker | Azure Application Innovation Specialist | Microsoft State and Local Government</title>
+    <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-12T09:40:01-05:00</updated>
+    <updated>2021-11-15T12:17:01-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -44,7 +44,7 @@
         <id>https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/</id>
             <category term="Events"/>
 
-        <updated>2021-11-12T09:35:13-05:00</updated>
+        <updated>2021-11-15T12:16:55-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/22/pubsecsummit.png" alt="" />
@@ -187,7 +187,7 @@
         <id>https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/</id>
             <category term="Events"/>
 
-        <updated>2021-11-11T09:13:59-05:00</updated>
+        <updated>2021-11-15T12:17:01-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/17/BoxBoat.jpg" alt="" />
