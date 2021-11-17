@@ -3,12 +3,76 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-15T12:17:01-05:00</updated>
+    <updated>2021-11-17T10:00:59-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Dec 8 | Embracing Hybrid Work with Microsoft Teams</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/"/>
+        <id>https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/</id>
+
+        <updated>2021-11-17T10:00:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/25/teams.png" alt="" />
+                    Embracing hybrid work with new Microsoft Teams innovations for Government 2 pm Eastern | 11 am Pacific Connect, engage, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/25/teams.png" alt="" />
+                <p><strong>Embracing hybrid work with new Microsoft Teams innovations for Government<br></strong><em>2 pm Eastern | 11 am Pacific</em></p>
+<p>Connect, engage, and empower your team to work together in the hybrid reality.</p>
+<p>Hybrid work is here. As governments begin to re-open in many regions across the United States, many can’t wait to get back to in-person collaboration. To succeed in this transition, organizations need to build a new operating model for their people, locations, and processes.</p>
+<p>Microsoft Teams is mission-critical for a more flexible world of work. New innovations deliver more natural meeting experiences and empower everyone to use hybrid work tools to the fullest.</p>
+<p>Join us in this webinar to find new ways to connect and engage regardless of location and time zone. You will learn how to:</p>
+<ul>
+<li>Use new Microsoft Teams features for more engaging meetings</li>
+<li>Bring together meetings, chat, calls, collaboration, and business process automation.</li>
+<li>Enable people to connect seamlessly with those inside and outside of their organizations, ensuring all voices are heard.</li>
+<li>Provide ways to make remote presentations richer and more impactful.</li>
+</ul>
+<p>Experts will be ready to take and answer your questions during the webinar.</p>
+<p>Get ready for the future of work with help from Microsoft.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/306617/157-GQE-382" target="_blank" rel="noopener noreferrer">Register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Webinar | Dec 9 | Building Trust and Security in Government</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/"/>
+        <id>https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/</id>
+
+        <updated>2021-11-17T09:56:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/24/security-office.jpg" alt="" />
+                    Noon - 1 pm Eastern | 9:00 am - 10 am Pacific Citizen confidence in government institutions and public servants&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/24/security-office.jpg" alt="" />
+                <p><em>Noon - 1 pm Eastern |  9:00 am - 10 am Pacific</em></p>
+<p>Citizen confidence in government institutions and public servants depends on trust. Citizens need to trust the individuals and agencies representing them will act in good faith to protect their interests.<br><br>Join this webinar to hear from government experts in public safety and justice, public finance, public health and social services, and critical infrastructure at Microsoft about the key areas and steps you can take to protect your organization from unwanted threats.<br><br>In this webinar, you’ll learn about:</p>
+<ul>
+<li>How to build and provide trusted government services to your constituents by adopting the highest standards of security and compliance.</li>
+<li>Practical use cases in government.</li>
+<li>Next steps to take in your journey.</li>
+</ul>
+<p><a href="https://info.microsoft.com/ww-landing-building-trust-and-security-in-government.html" target="_blank" rel="noopener noreferrer">Register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Nov 18 | Databricks Batch and Streaming</title>
         <author>
@@ -244,60 +308,6 @@
                     <img src="https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png" alt="" />
                 <p>The full recording of the recent webcast titled <em>Know Your Options for Kubernetes on Azure</em> is now available on-demand at the link below.</p>
 <p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FhCtd_f1M7a4&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C0762ed4a3868450f688108d99d5d419f%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637713847523120936%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&amp;sdata=P0MvhaNUS4Pe%2BZVvuzgceROdWJtVTKaiE9X4OoLbkH0%3D&amp;reserved=0">https://youtu.be/hCtd_f1M7a4</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Nov 2 | Your API Strategy Controls Your Digital Transformation Journey</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/"/>
-        <id>https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/</id>
-            <category term="Events"/>
-
-        <updated>2021-11-11T09:14:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/14/original.jfif" alt="" />
-                    Tuesday, November 2, 2021 | 11:30 AM - 01:00 PM | (GMT-06:00) Central Time (US &amp; Canada) - This is a joint&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/14/original.jfif" alt="" />
-                <p><em><span class="date"><bdo dir="auto">Tuesday, November 2, 2021</bdo> | </span><span class="time"><bdo dir="auto">11:30 AM - 01:00 PM | (GMT-06:00) Central Time (US &amp; Canada) - This is a joint event between Microsoft and Polaris Solutions.</bdo></span></em></p>
-<p>Leverage the Azure platform to unleash your data</p>
-<p>How do you harness your data to provide insights, enable digital experiences, take care of employees and customers and differentiate your business?  </p>
-<p>Join Microsoft and our partner, Polaris Solutions, as you learn how to leverage APIs and Azure technologies to master your data management, while empowering your company with the tools to develop a clear data strategy and accelerate your digital success. </p>
-<p>In this first session, Microsoft &amp; Polaris will take attendees on a journey through data. We will tap into APIs and Azure technologies and talk through the pieces needed to be successful in data management.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/304301/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Nov 11 | Implement API Management and Develop Event-Based Solutions</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/"/>
-        <id>https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/</id>
-            <category term="Events"/>
-
-        <updated>2021-11-11T09:14:22-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/12/1SMB_Bannerltr.png" alt="" />
-                    Thursday, November 11, 2021 | 11:00 AM – 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada) In complex cloud&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/12/1SMB_Bannerltr.png" alt="" />
-                <p><em>Thursday, November 11, 2021 | 11:00 AM – 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>
-<p>In complex cloud environments, you’ll want to connect to and consume both Azure services and third-party services, including responding to events from multiple sources. In this session, we’ll cover key aspects of Azure integration. You’ll see how to how to publish APIs, create policies to manage information shared through the API, and to manage access to their APIs by using the Azure API Management service. We’ll also go into details on how to build applications with event-based architectures.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/300786/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
 <p> </p>
             ]]>
         </content>
