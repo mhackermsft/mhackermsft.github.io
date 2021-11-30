@@ -3,12 +3,39 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-11-17T10:00:59-05:00</updated>
+    <updated>2021-11-30T15:03:06-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Dec 9 | App Innovate, a Solution Assessment</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/"/>
+        <id>https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/</id>
+            <category term="Events"/>
+
+        <updated>2021-11-30T15:03:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/27/tallanwebinar.jfif" alt="" />
+                    Dec 09, 2021 12:00 pm - 12:45 pm EST Join the team from Microsoft and Tallan to learn about App&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/27/tallanwebinar.jfif" alt="" />
+                <p><em>Dec 09, 2021 12:00 pm - 12:45 pm EST</em></p>
+<p>Join the team from Microsoft and Tallan to learn about App Innovate, and how it can benefit you!</p>
+<p>As part of Microsoft’s Solution Assessment program, this in-depth analysis of your most valuable apps will set you up with a complete architecture design and migration roadmap!</p>
+<p><strong>Funded by Microsoft, taking advantage of App Innovate might just give you the chance to free up $20,000 of your budget, or go bigger with your transformation plans!</strong></p>
+<p><a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-214724244997" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Dec 8 | Embracing Hybrid Work with Microsoft Teams</title>
         <author>
@@ -16,8 +43,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/"/>
         <id>https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/</id>
+            <category term="Events"/>
 
-        <updated>2021-11-17T10:00:59-05:00</updated>
+        <updated>2021-11-19T10:16:02-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/25/teams.png" alt="" />
@@ -51,8 +79,9 @@
         </author>
         <link href="https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/"/>
         <id>https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/</id>
+            <category term="Events"/>
 
-        <updated>2021-11-17T09:56:30-05:00</updated>
+        <updated>2021-11-19T10:16:26-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/24/security-office.jpg" alt="" />
@@ -284,31 +313,6 @@
 </li>
 </ul>
 <p><a href="https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,0UNzzuYCvkC8K36KzL2E9Q,Prhbv3DBkEyx7y2zIgR18g,Fxo_WULBH06hW0CUVx1Ssw?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3&amp;skipauthstrap=1" target="_blank" rel="noopener noreferrer">Learn more and register here!</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Video | Know Your Options for Kubernetes on Azure</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/"/>
-        <id>https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/</id>
-            <category term="Training"/>
-
-        <updated>2021-11-11T09:18:25-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png" alt="" />
-                    The full recording of the recent webcast titled Know Your Options for Kubernetes on Azure is now available on-demand at the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png" alt="" />
-                <p>The full recording of the recent webcast titled <em>Know Your Options for Kubernetes on Azure</em> is now available on-demand at the link below.</p>
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FhCtd_f1M7a4&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C0762ed4a3868450f688108d99d5d419f%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637713847523120936%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&amp;sdata=P0MvhaNUS4Pe%2BZVvuzgceROdWJtVTKaiE9X4OoLbkH0%3D&amp;reserved=0">https://youtu.be/hCtd_f1M7a4</a></p>
-<p> </p>
             ]]>
         </content>
     </entry>

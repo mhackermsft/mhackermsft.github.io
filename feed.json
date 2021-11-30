@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/",
+            "url": "https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/",
+            "title": "Webinar | Dec 9 | App Innovate, a Solution Assessment",
+            "summary": "Dec 09, 2021 12:00 pm - 12:45 pm EST Join the team from Microsoft and Tallan to learn about App&hellip;",
+            "content_html": "<p><em>Dec 09, 2021 12:00 pm - 12:45 pm EST</em></p>\n<p>Join the team from Microsoft and Tallan to learn about App Innovate, and how it can benefit you!</p>\n<p>As part of Microsoft’s Solution Assessment program, this in-depth analysis of your most valuable apps will set you up with a complete architecture design and migration roadmap!</p>\n<p><strong>Funded by Microsoft, taking advantage of App Innovate might just give you the chance to free up $20,000 of your budget, or go bigger with your transformation plans!</strong></p>\n<p><a href=\"https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-214724244997\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/27/tallanwebinar.jfif",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2021-11-30T15:03:06-05:00",
+            "date_modified": "2021-11-30T15:03:06-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/",
             "url": "https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/",
             "title": "Webinar | Dec 8 | Embracing Hybrid Work with Microsoft Teams",
@@ -20,9 +36,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-11-17T10:00:59-05:00",
-            "date_modified": "2021-11-17T10:00:59-05:00"
+            "date_modified": "2021-11-19T10:16:02-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/",
@@ -35,9 +52,10 @@
                 "name": "Mike Hacker"
             },
             "tags": [
+                   "Events"
             ],
             "date_published": "2021-11-17T09:54:11-05:00",
-            "date_modified": "2021-11-17T09:56:30-05:00"
+            "date_modified": "2021-11-19T10:16:26-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/",
@@ -150,22 +168,6 @@
             ],
             "date_published": "2021-11-03T09:26:33-04:00",
             "date_modified": "2021-11-15T12:17:01-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/",
-            "url": "https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/",
-            "title": "Video | Know Your Options for Kubernetes on Azure",
-            "summary": "The full recording of the recent webcast titled Know Your Options for Kubernetes on Azure is now available on-demand at the&hellip;",
-            "content_html": "<p>The full recording of the recent webcast titled <em>Know Your Options for Kubernetes on Azure</em> is now available on-demand at the link below.</p>\n<p><a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FhCtd_f1M7a4&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C0762ed4a3868450f688108d99d5d419f%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637713847523120936%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&amp;sdata=P0MvhaNUS4Pe%2BZVvuzgceROdWJtVTKaiE9X4OoLbkH0%3D&amp;reserved=0\">https://youtu.be/hCtd_f1M7a4</a></p>\n<p> </p>",
-            "image": "https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Training"
-            ],
-            "date_published": "2021-11-01T13:50:45-04:00",
-            "date_modified": "2021-11-11T09:18:25-05:00"
         }
     ]
 }
