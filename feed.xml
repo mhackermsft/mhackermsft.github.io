@@ -3,12 +3,36 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2021-12-03T09:40:55-05:00</updated>
+    <updated>2021-12-06T10:19:39-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>New Service | Azure Load Testing</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/new-service-or-azure-load-testing/"/>
+        <id>https://blog.mikehacker.net/new-service-or-azure-load-testing/</id>
+            <category term="Announcements"/>
+
+        <updated>2021-12-06T10:19:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/28/loadtesting.png" alt="" />
+                    On November 30th the Microsoft Azure Dev Tools team announced the preview of a new Azure Load Testing service. Azure&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/28/loadtesting.png" alt="" />
+                <p>On November 30th the Microsoft Azure Dev Tools team announced the preview of a new Azure Load Testing service. Azure Load Testing is a fully managed Azure service that enables developers and testers to generate high-scale load with custom Apache JMeter scripts.  That's right, you can use your existing experience and knowledge with one of the most popular open-source load testing tools with Azure Load Testing.</p>
+<p>Get started by first reading the <a href="https://azure.microsoft.com/en-us/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/" target="_blank" rel="noopener noreferrer">announcement post, </a> check out the <a href="https://docs.microsoft.com/en-us/azure/load-testing/?wt.mc_id=loadtesting_ablogannounce1_blog_azuremktg" target="_blank" rel="noopener noreferrer">preview documentation</a> and then c<a href="https://docs.microsoft.com/en-us/azure/load-testing/quickstart-create-and-run-load-test" target="_blank" rel="noopener noreferrer">reate your first load test</a>!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Dec 9 | App Innovate, a Solution Assessment</title>
         <author>
@@ -274,51 +298,6 @@
 <p>With the scale to zero option, you can configure the service so you are only paying for when your app is active in response to events and/or requests.  This is a very low cost way to quickly jump into the world of containers!</p>
 <p><a href="https://azure.microsoft.com/en-us/services/container-apps/" target="_blank" rel="noopener noreferrer">Learn more here</a></p>
 <p><a href="https://docs.microsoft.com/en-us/azure/container-apps/get-started?ocid=AID3042118&amp;tabs=bash" target="_blank" rel="noopener noreferrer">Want to get started quick, check out this quick start guide!</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Nov 16 | The Power of GitOps for Deploying Frequently</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/"/>
-        <id>https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/</id>
-            <category term="Events"/>
-
-        <updated>2021-11-15T12:17:01-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/17/BoxBoat.jpg" alt="" />
-                     Learn more and register here!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/17/BoxBoat.jpg" alt="" />
-                <p> </p>
-<div><em>Nov 16, 2021 | 2:00 pm - 3:30 pm Eastern Time</em></div>
-<div> </div>
-<div>Teams across organizations keep learning about "Kubernetes" and deciding to try it for greenfield/brownfield projects, especially with microservices-style architectures. Commonly, many of these teams continue to use basic push-based CI/CD practices that they would generally use on other platforms. However, Kubernetes has a massive advantage over other platforms, and that's GitOps.</div>
-<div> </div>
-<div>Learn about the power of GitOps for Kubernetes-based workload so that you can understand how application teams can be more efficient and deliver more value to the business.</div>
-<div> </div>
-<div>We'll cover:</div>
-<ul>
-<li>The typical CI/CD pipeline</li>
-<li>The problems, especially with microservices</li>
-<li>What is GitOps?</li>
-<li>Understanding its power</li>
-<li>When it's not a great fit</li>
-<li>Choosing a solution, quick comparison<br>
-<ul>
-<li>ArgoCD</li>
-<li>Azure Arc (Flux)</li>
-<li>Tekton</li>
-</ul>
-</li>
-</ul>
-<p><a href="https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,0UNzzuYCvkC8K36KzL2E9Q,Prhbv3DBkEyx7y2zIgR18g,Fxo_WULBH06hW0CUVx1Ssw?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3&amp;skipauthstrap=1" target="_blank" rel="noopener noreferrer">Learn more and register here!</a></p>
             ]]>
         </content>
     </entry>
