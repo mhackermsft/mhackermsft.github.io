@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-dec-14-or-advanced-cloud-native-deployment-strategies/",
+            "url": "https://blog.mikehacker.net/webinar-or-dec-14-or-advanced-cloud-native-deployment-strategies/",
+            "title": "Webinar | Dec 14 | Advanced Cloud-Native Deployment Strategies",
+            "summary": "Hosted by BoxBoat on December 14, 2021, 2pm - 3:30pm Eastern Time Zone Are you using Kubernetes but still deploying&hellip;",
+            "content_html": "<p><em>Hosted by BoxBoat on December 14, 2021, 2pm - 3:30pm Eastern Time Zone</em></p>\n<p>Are you using Kubernetes but still deploying application changes to production once per sprint, once per month, or once per a couple of months? Something is wrong.</p>\n<p>It's been found through several years of industry-wide reports that elite DevOps practitioners deploy on-demand (1+ per day) to production, regardless of industry. What's exciting is that if you're using Kubernetes, you have a lot of the capabilities to safely deploy at an increased frequency.</p>\n<p>In this webinar, you will learn various deployment strategies so that you can stop with the 50+ person deployment meetings, endless deployment checklists, release trains, and mind-numbing dependency tracking.</p>\n<p><a href=\"https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,y8CUYyfIOkukuTOTFr-GtA,LOU8UigRdU2a1VjDSPwX9g,QuD-z6CjSE2cnquOWJhIKQ?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3&amp;skipauthstrap=1\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a>!</p>",
+            "image": "https://blog.mikehacker.net/media/posts/29/AdvancedCloudNative.jfif",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2021-12-07T11:48:57-05:00",
+            "date_modified": "2021-12-07T11:48:57-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/new-service-or-azure-load-testing/",
             "url": "https://blog.mikehacker.net/new-service-or-azure-load-testing/",
             "title": "New Service | Azure Load Testing",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-11-05T13:21:01-04:00",
             "date_modified": "2021-11-11T09:13:48-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/new-service-or-azure-container-apps/",
-            "url": "https://blog.mikehacker.net/new-service-or-azure-container-apps/",
-            "title": "New Service | Azure Container Apps",
-            "summary": "Microsoft Azure now has a new method for deploying containerized applications that require orchestration without the steep learning curve of&hellip;",
-            "content_html": "<p>Microsoft Azure now has a new method for deploying containerized applications that require orchestration without the steep learning curve of Kubernetes. Azure Container Apps allows you to write code using your preferred programming language or framework and build microservices with full DAPR (Distributed Application Runtime) support.  Easily configure dynamic scaling of containers based on HTTP traffic or other events.</p>\n<p>This service is built on top of Kubernetes but provides a simple, serverless experience that can enable dev and ops teams to quickly.</p>\n<p>With the scale to zero option, you can configure the service so you are only paying for when your app is active in response to events and/or requests.  This is a very low cost way to quickly jump into the world of containers!</p>\n<p><a href=\"https://azure.microsoft.com/en-us/services/container-apps/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more here</a></p>\n<p><a href=\"https://docs.microsoft.com/en-us/azure/container-apps/get-started?ocid=AID3042118&amp;tabs=bash\" target=\"_blank\" rel=\"noopener noreferrer\">Want to get started quick, check out this quick start guide!</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/18/1635873135134-2.jfif",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Announcements"
-            ],
-            "date_published": "2021-11-03T09:49:10-04:00",
-            "date_modified": "2021-11-11T09:17:32-05:00"
         }
     ]
 }
