@@ -3,12 +3,37 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-01-05T09:48:05-05:00</updated>
+    <updated>2022-01-06T12:48:22-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Jan 26 | Red Hat on Azure Virtual Tour</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/"/>
+        <id>https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/</id>
+            <category term="Events"/>
+
+        <updated>2022-01-06T12:44:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png" alt="" />
+                    Wednesday, January 26, 2022, 1 pm - 2pm Eastern Join us for the Red Hat on Azure virtual tour to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png" alt="" />
+                <p><em>Wednesday, January 26, 2022, 1 pm - 2pm Eastern</em></p>
+<p>Join us for the Red Hat on Azure virtual tour to see how combining Microsoft Azure, Red HatⓇ OpenShiftⓇ and Red Hat Enterprise LinuxⓇ will help you and your organization solve business problems. Learn how you can deploy security-focused, reliable, hybrid cloud environments using Red Hat solutions on Azure—a fully comprehensive cloud for open-source architectures.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/313307/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Jan 13 | Messaging on Azure</title>
         <author>
@@ -87,7 +112,7 @@
         </content>
     </entry>
     <entry>
-        <title>Webinar | Dec 9 | App Innovate, a Solution Assessment</title>
+        <title>Webinar | Jan / Feb / Mar | App Innovate, a Solution Assessment</title>
         <author>
             <name>Mike Hacker</name>
         </author>
@@ -95,17 +120,17 @@
         <id>https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/</id>
             <category term="Events"/>
 
-        <updated>2022-01-05T09:48:05-05:00</updated>
+        <updated>2022-01-06T12:48:22-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/27/tallanwebinar.jfif" alt="" />
-                    Dec 09, 2021 12:00 pm - 12:45 pm EST Join the team from Microsoft and Tallan to learn about App&hellip;
+                    Multiple webinars in January, February and March Join the team from Microsoft and Tallan to learn about App Innovate, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blog.mikehacker.net/media/posts/27/tallanwebinar.jfif" alt="" />
-                <p><em>Dec 09, 2021 12:00 pm - 12:45 pm EST</em></p>
+                <p><em>Multiple webinars in January, February and March</em></p>
 <p>Join the team from Microsoft and Tallan to learn about App Innovate, and how it can benefit you!</p>
 <p>During this live and engaging session the team will cover the following topics:</p>
 <ul>
@@ -115,7 +140,7 @@
 <li>Tallan's real world success stories</li>
 <li>Opportunity for Q&amp;A with the Microsoft and Tallan team</li>
 </ul>
-<p><a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-214724244997" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+<p>Jan 25, 12 pm - 12:45 pm EST - <a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237648712697" target="_blank" rel="noopener noreferrer">Register</a><br>Feb 15 12 pm - 12:45 pm EST - <a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237716124327" target="_blank" rel="noopener noreferrer">Register</a><br>Mar 15 12 pm - 12:45 pm EST - <a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237791028367" target="_blank" rel="noopener noreferrer">Register</a></p>
             ]]>
         </content>
     </entry>
@@ -265,31 +290,6 @@
 <p>Join us for a private virtual Azure DevOps &amp; GitHub event with an expert panel featuring Atmosera's Ken Muse, VP of Professional Services, and DevOps Ranger, Heather Brevard, Sr. Azure App Innovation Specialist from Microsoft, and Robert Freeman, PMP, CTO, Public Sector from GitHub to discuss the benefits of incorporating GitHub into your current DevOps practice.<br><br>With Microsoft acquiring GitHub, many teams struggle to understand whether to adopt GitHub or Azure DevOps, especially if there is already an investment in Azure DevOps or Team Foundation Server (TFS). There is a third option that's often overlooked – the integration of both platforms!<br><br>All attendees can schedule a free one-hour DevOps consultation following the event.</p>
 <p><a href="https://info.atmosera.com/azure-devops-github-better-together-expert-panel-december-1st-2021" target="_blank" rel="noopener noreferrer">Register here</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Nov 10 | The Rise of Modern Apps</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/"/>
-        <id>https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/</id>
-            <category term="Events"/>
-
-        <updated>2021-11-11T09:13:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/20/catapult.png" alt="" />
-                    11am - 12pm Central Standard Time Join Catapult and Microsoft during this live event to discover how you can accelerate&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/20/catapult.png" alt="" />
-                <p><em>11am - 12pm Central Standard Time</em></p>
-<p>Join Catapult and Microsoft during this live event to discover how you can accelerate time to market, increase reliability, reduce costs, and secure your operation through the implementation of modern apps. Learn what they are, how they can be used, and how they can improve your business. </p>
-<p><a href="https://get.catapultsystems.com/rise-of-modern-apps/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
             ]]>
         </content>
     </entry>
