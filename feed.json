@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/",
+            "url": "https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/",
+            "title": "Webinar | Jan 27 | Microsoft DevOps Forum: Developer Velocity &amp; Culture",
+            "summary": "Thursday, January 27, 2022 09:00 AM – 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada) - Hosted by Microsoft and&hellip;",
+            "content_html": "<p><em><span class=\"date\"><bdo dir=\"auto\">Thursday, January 27, 2022</bdo> </span><span class=\"time\"><bdo dir=\"auto\">09:00 AM – 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada) - Hosted by Microsoft and Insight.</bdo></span></em></p>\n<p>Join us for an intimate virtual forum and learn how to measure and improve your company’s Developer Velocity from the experts at Microsoft, GitHub, and [Insight]. What’s in store during the event:</p>\n<ol>\n<li>Learn about Developer Velocity and the free tools available to increase developer productivity.</li>\n<li>A breakdown of the advantages derived from adopting new ways of measuring Developer Velocity and the pitfalls to avoid.</li>\n<li>The cultural transformation required to get there—and the opportunities that arise from such a shift.</li>\n<li>Perspectives from Microsoft DevOps specialists, GitHub, [Insight], and other industry-leading enterprises.</li>\n</ol>\n<p>Even if your organization is in the early stages of your Developer Velocity journey, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, <a href=\"https://mktoevents.com/Microsoft+Event/315228/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">so RSVP now to reserve yours</a>!</p>\n<p> </p>",
+            "image": "https://blog.mikehacker.net/media/posts/32/github-xxl.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-01-11T15:25:34-05:00",
+            "date_modified": "2022-01-11T15:26:16-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/",
             "url": "https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/",
             "title": "Webinar | Jan 26 | Red Hat on Azure Virtual Tour",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-11-12T09:35:13-05:00",
             "date_modified": "2021-12-03T09:40:45-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/",
-            "url": "https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/",
-            "title": "Expert Panel | Dec 1 | Azure DevOps &amp; GitHub - Better Together",
-            "summary": "12:00pm - 1:30pm PT / 3:00pm - 4:30pm ET Join us for a private virtual Azure DevOps &amp; GitHub event&hellip;",
-            "content_html": "<p><em>12:00pm - 1:30pm PT / 3:00pm - 4:30pm ET</em></p>\n<p>Join us for a private virtual Azure DevOps &amp; GitHub event with an expert panel featuring Atmosera's Ken Muse, VP of Professional Services, and DevOps Ranger, Heather Brevard, Sr. Azure App Innovation Specialist from Microsoft, and Robert Freeman, PMP, CTO, Public Sector from GitHub to discuss the benefits of incorporating GitHub into your current DevOps practice.<br><br>With Microsoft acquiring GitHub, many teams struggle to understand whether to adopt GitHub or Azure DevOps, especially if there is already an investment in Azure DevOps or Team Foundation Server (TFS). There is a third option that's often overlooked – the integration of both platforms!<br><br>All attendees can schedule a free one-hour DevOps consultation following the event.</p>\n<p><a href=\"https://info.atmosera.com/azure-devops-github-better-together-expert-panel-december-1st-2021\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>\n<p> </p>",
-            "image": "https://blog.mikehacker.net/media/posts/21/github.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2021-11-11T09:08:05-05:00",
-            "date_modified": "2021-11-11T11:03:38-05:00"
         }
     ]
 }
