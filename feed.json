@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/",
+            "url": "https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/",
+            "title": "Webinar | Jan 25 | Keep Your Kubernetes Cluster Safe",
+            "summary": "1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat Hopefully, if you're planning to go to Kubernetes, you're thinking about&hellip;",
+            "content_html": "<p><em>1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat</em></p>\n<p>Hopefully, if you're planning to go to Kubernetes, you're thinking about security throughout the entire journey. What if you already adopted Kubernetes? Does security continue to be a topic of discussion?</p>\n<p>The good news is that Kubernetes provides a lot of control and flexibility on how you secure your workloads. The bad news is that there is more surface area and, therefore, more attack vectors than typical VM-based workloads.</p>\n<p>Learn about gaps you might be missing in your cloud-native workloads. As a bonus, we will also talk about software supply-chain security to help you protect your code from new attack vectors and threats in 2022.</p>\n<p><a href=\"https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,uP6EXEGBcEea3nhErzQTHw,WDsiWTvqq02NzYApiIZLUQ,nv75Ep6R70myczZfhysApg?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/33/1642085049582.jfif",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-01-13T11:54:09-05:00",
+            "date_modified": "2022-01-13T11:54:14-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/",
             "url": "https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/",
             "title": "Webinar | Jan 27 | Microsoft DevOps Forum: Developer Velocity &amp; Culture",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-11-12T09:39:05-05:00",
             "date_modified": "2021-11-12T09:40:01-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/",
-            "url": "https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/",
-            "title": "Event | Dec 2 |US Public Sector Summit",
-            "summary": "8:00am - 9:30am PT / 11am - 12:30pm ET Microsoft is hosting a US Public Sector Summit on Thursday, December&hellip;",
-            "content_html": "<p><em>8:00am - 9:30am PT / 11am - 12:30pm ET</em></p>\n<p>Microsoft is hosting a US Public Sector Summit on Thursday, December 2nd for government and education decision makers.  This digital experience is focused on the future and celebrating the public sector's resilience, agility, and achievements over the course of the pandemic.  The event will feature</p>\n<div> </div>\n<ul>\n<li>Public sector organizations driving mission impact, data-driven excellence, and research and healthcare innovation. Top leaders from the US Navy, Choctaw Nation of Oklahoma, State of Illinois Department of Children and Family Services, Nebraska Department of Education, University of North Carolina at Chapel Hill, and more will share their real-world success stories.</li>\n<li>Insights from thought leaders, including Microsoft’s Satya Nadella, Brad Smith, Dr. Julia Glidden, and others on the future of infrastructure and cybersecurity, workforce skills, sustainability, and additional public sector priorities.</li>\n</ul>\n<div> </div>\n<div><a href=\"https://msuspublicsectorsummit.eventcore.com/?wt.mc_ID=UPSS2021_fld_us_em_oo_FieldSeller_OFT\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></div>",
-            "image": "https://blog.mikehacker.net/media/posts/22/pubsecsummit.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2021-11-12T09:35:13-05:00",
-            "date_modified": "2021-12-03T09:40:45-05:00"
         }
     ]
 }

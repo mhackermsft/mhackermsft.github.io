@@ -3,12 +3,39 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-01-11T15:26:16-05:00</updated>
+    <updated>2022-01-13T11:54:14-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Jan 25 | Keep Your Kubernetes Cluster Safe</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/"/>
+        <id>https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/</id>
+            <category term="Events"/>
+
+        <updated>2022-01-13T11:54:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/33/1642085049582.jfif" alt="" />
+                    1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat Hopefully, if you're planning to go to Kubernetes, you're thinking about&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/33/1642085049582.jfif" alt="" />
+                <p><em>1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat</em></p>
+<p>Hopefully, if you're planning to go to Kubernetes, you're thinking about security throughout the entire journey. What if you already adopted Kubernetes? Does security continue to be a topic of discussion?</p>
+<p>The good news is that Kubernetes provides a lot of control and flexibility on how you secure your workloads. The bad news is that there is more surface area and, therefore, more attack vectors than typical VM-based workloads.</p>
+<p>Learn about gaps you might be missing in your cloud-native workloads. As a bonus, we will also talk about software supply-chain security to help you protect your code from new attack vectors and threats in 2022.</p>
+<p><a href="https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,uP6EXEGBcEea3nhErzQTHw,WDsiWTvqq02NzYApiIZLUQ,nv75Ep6R70myczZfhysApg?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Jan 27 | Microsoft DevOps Forum: Developer Velocity &amp; Culture</title>
         <author>
@@ -265,37 +292,6 @@
 <p>Databricks is a leading big data processing service available on Azure. One of the nicest features in Databricks is the ability to develop workloads that run in batch or streaming modes.</p>
 <p>In this webinar, Wintellect will review the basics of a notebook running in batch mode. In this example, we’ll be focusing on Delta Tables for our sinks. You will learn the differences between batch and streaming and just how easy it is to convert a notebook to streaming mode. We’ll also review streaming limitations within Databricks. Finally, we will walk you through an example of how to develop a job that can be parameterized to run a notebook in both modes.</p>
 <p><a href="https://www.wintellect.com/webinar/databricks-batch-and-streaming" target="_blank" rel="noopener noreferrer">Register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Event | Dec 2 |US Public Sector Summit</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/"/>
-        <id>https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/</id>
-            <category term="Events"/>
-
-        <updated>2021-12-03T09:40:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/22/pubsecsummit.png" alt="" />
-                    8:00am - 9:30am PT / 11am - 12:30pm ET Microsoft is hosting a US Public Sector Summit on Thursday, December&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/22/pubsecsummit.png" alt="" />
-                <p><em>8:00am - 9:30am PT / 11am - 12:30pm ET</em></p>
-<p>Microsoft is hosting a US Public Sector Summit on Thursday, December 2nd for government and education decision makers.  This digital experience is focused on the future and celebrating the public sector's resilience, agility, and achievements over the course of the pandemic.  The event will feature</p>
-<div> </div>
-<ul>
-<li>Public sector organizations driving mission impact, data-driven excellence, and research and healthcare innovation. Top leaders from the US Navy, Choctaw Nation of Oklahoma, State of Illinois Department of Children and Family Services, Nebraska Department of Education, University of North Carolina at Chapel Hill, and more will share their real-world success stories.</li>
-<li>Insights from thought leaders, including Microsoft’s Satya Nadella, Brad Smith, Dr. Julia Glidden, and others on the future of infrastructure and cybersecurity, workforce skills, sustainability, and additional public sector priorities.</li>
-</ul>
-<div> </div>
-<div><a href="https://msuspublicsectorsummit.eventcore.com/?wt.mc_ID=UPSS2021_fld_us_em_oo_FieldSeller_OFT" target="_blank" rel="noopener noreferrer">Learn more and register here</a></div>
             ]]>
         </content>
     </entry>
