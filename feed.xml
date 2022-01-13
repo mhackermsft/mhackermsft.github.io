@@ -3,12 +3,84 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-01-13T11:54:14-05:00</updated>
+    <updated>2022-01-13T12:59:17-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Series | Feb 2022 | GitHub Shots Bootcamp</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/"/>
+        <id>https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/</id>
+            <category term="Events"/>
+
+        <updated>2022-01-13T12:59:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/34/github-xxl-xxl.png" alt="" />
+                    Free six part training session over 3 weeks created by the DevOps community within Microsoft. All sessions at 8:00 AM&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/34/github-xxl-xxl.png" alt="" />
+                <p><em>Free six part training session over 3 weeks created by the DevOps community within Microsoft.</em></p>
+<p><strong>All sessions at 8:00 AM Pacific on <a href="https://www.youtube.com/microsoftdevradio" target="_blank" rel="nofollow noopener noreferrer">our YouTube channel Microsoft Dev Radio</a></strong></p>
+<p>Feb 1, 2022: Introduction to GitHub</p>
+<p>Audience: Everyone</p>
+<ul>
+<li>Why GitHub?</li>
+<li>Products and roadmap</li>
+<li>Azure DevOps and GitHub comparison</li>
+<li>GitHub culture</li>
+</ul>
+<p>Feb 3, 2022: Agile / Team Project Management</p>
+<p>Audience: Everyone</p>
+<ul>
+<li>GitHub architecture</li>
+<li>Various entity relationship</li>
+<li>Agile project management</li>
+<li>Insights and KPIs</li>
+</ul>
+<p>Feb 8, 2022: GitHub Development</p>
+<p>Audience: Technical</p>
+<ul>
+<li>GitHub Repo and Codespaces</li>
+<li>GitHub Flow / Branch Policy / Pull Requests</li>
+<li>Intro to CI/CD process</li>
+<li>GitHub Apps</li>
+</ul>
+<p>Feb 10, 2022: Actions workflows</p>
+<p>Audience: Technical</p>
+<ul>
+<li>Action, event, workflow</li>
+<li>CI process with testing</li>
+<li>CD process with testing</li>
+<li>Self-hosted and GitHub hosted runner</li>
+</ul>
+<p>Feb 15, 2022: Security and Secret Policy</p>
+<p>Audience: Technical</p>
+<ul>
+<li>GitHub Advanced Security</li>
+<li>Secrets handling</li>
+<li>Authentication and Aothorization</li>
+<li>Security Branching Protection</li>
+</ul>
+<p>Feb 17, 2022: InnerSourcing and Ask Anything</p>
+<p>Audience: Everyone</p>
+<ul>
+<li>Open Source practices for any organizations dev process</li>
+<li>Microsoft and GitHub share how we use GitHub</li>
+<li>Bring your questions!</li>
+</ul>
+<p><a href="https://techcommunity.microsoft.com/t5/azure-devops/github-shots-bootcamp-live-on-microsoft-dev-radio-february-2022/m-p/3041259" target="_blank" rel="noopener noreferrer">Learn more</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Jan 25 | Keep Your Kubernetes Cluster Safe</title>
         <author>
@@ -266,32 +338,6 @@
 <li>Next steps to take in your journey.</li>
 </ul>
 <p><a href="https://info.microsoft.com/ww-landing-building-trust-and-security-in-government.html" target="_blank" rel="noopener noreferrer">Register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Nov 18 | Databricks Batch and Streaming</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/"/>
-        <id>https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/</id>
-            <category term="Events"/>
-
-        <updated>2021-11-12T09:40:01-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/23/azure-databricks.jpg" alt="" />
-                    November 18, 2pm ET hosted by Wintellect Databricks is a leading big data processing service available on Azure. One of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/23/azure-databricks.jpg" alt="" />
-                <p><em>November 18, 2pm ET hosted by Wintellect</em></p>
-<p>Databricks is a leading big data processing service available on Azure. One of the nicest features in Databricks is the ability to develop workloads that run in batch or streaming modes.</p>
-<p>In this webinar, Wintellect will review the basics of a notebook running in batch mode. In this example, we’ll be focusing on Delta Tables for our sinks. You will learn the differences between batch and streaming and just how easy it is to convert a notebook to streaming mode. We’ll also review streaming limitations within Databricks. Finally, we will walk you through an example of how to develop a job that can be parameterized to run a notebook in both modes.</p>
-<p><a href="https://www.wintellect.com/webinar/databricks-batch-and-streaming" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
         </content>
     </entry>

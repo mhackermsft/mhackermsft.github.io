@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/",
+            "url": "https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/",
+            "title": "Series | Feb 2022 | GitHub Shots Bootcamp",
+            "summary": "Free six part training session over 3 weeks created by the DevOps community within Microsoft. All sessions at 8:00 AM&hellip;",
+            "content_html": "<p><em>Free six part training session over 3 weeks created by the DevOps community within Microsoft.</em></p>\n<p><strong>All sessions at 8:00 AM Pacific on <a href=\"https://www.youtube.com/microsoftdevradio\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">our YouTube channel Microsoft Dev Radio</a></strong></p>\n<p>Feb 1, 2022: Introduction to GitHub</p>\n<p>Audience: Everyone</p>\n<ul>\n<li>Why GitHub?</li>\n<li>Products and roadmap</li>\n<li>Azure DevOps and GitHub comparison</li>\n<li>GitHub culture</li>\n</ul>\n<p>Feb 3, 2022: Agile / Team Project Management</p>\n<p>Audience: Everyone</p>\n<ul>\n<li>GitHub architecture</li>\n<li>Various entity relationship</li>\n<li>Agile project management</li>\n<li>Insights and KPIs</li>\n</ul>\n<p>Feb 8, 2022: GitHub Development</p>\n<p>Audience: Technical</p>\n<ul>\n<li>GitHub Repo and Codespaces</li>\n<li>GitHub Flow / Branch Policy / Pull Requests</li>\n<li>Intro to CI/CD process</li>\n<li>GitHub Apps</li>\n</ul>\n<p>Feb 10, 2022: Actions workflows</p>\n<p>Audience: Technical</p>\n<ul>\n<li>Action, event, workflow</li>\n<li>CI process with testing</li>\n<li>CD process with testing</li>\n<li>Self-hosted and GitHub hosted runner</li>\n</ul>\n<p>Feb 15, 2022: Security and Secret Policy</p>\n<p>Audience: Technical</p>\n<ul>\n<li>GitHub Advanced Security</li>\n<li>Secrets handling</li>\n<li>Authentication and Aothorization</li>\n<li>Security Branching Protection</li>\n</ul>\n<p>Feb 17, 2022: InnerSourcing and Ask Anything</p>\n<p>Audience: Everyone</p>\n<ul>\n<li>Open Source practices for any organizations dev process</li>\n<li>Microsoft and GitHub share how we use GitHub</li>\n<li>Bring your questions!</li>\n</ul>\n<p><a href=\"https://techcommunity.microsoft.com/t5/azure-devops/github-shots-bootcamp-live-on-microsoft-dev-radio-february-2022/m-p/3041259\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/34/github-xxl-xxl.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-01-13T12:59:17-05:00",
+            "date_modified": "2022-01-13T12:59:17-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/",
             "url": "https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/",
             "title": "Webinar | Jan 25 | Keep Your Kubernetes Cluster Safe",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-11-17T09:54:11-05:00",
             "date_modified": "2021-12-09T09:41:39-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/",
-            "url": "https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/",
-            "title": "Webinar | Nov 18 | Databricks Batch and Streaming",
-            "summary": "November 18, 2pm ET hosted by Wintellect Databricks is a leading big data processing service available on Azure. One of&hellip;",
-            "content_html": "<p><em>November 18, 2pm ET hosted by Wintellect</em></p>\n<p>Databricks is a leading big data processing service available on Azure. One of the nicest features in Databricks is the ability to develop workloads that run in batch or streaming modes.</p>\n<p>In this webinar, Wintellect will review the basics of a notebook running in batch mode. In this example, we’ll be focusing on Delta Tables for our sinks. You will learn the differences between batch and streaming and just how easy it is to convert a notebook to streaming mode. We’ll also review streaming limitations within Databricks. Finally, we will walk you through an example of how to develop a job that can be parameterized to run a notebook in both modes.</p>\n<p><a href=\"https://www.wintellect.com/webinar/databricks-batch-and-streaming\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/23/azure-databricks.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2021-11-12T09:39:05-05:00",
-            "date_modified": "2021-11-12T09:40:01-05:00"
         }
     ]
 }
