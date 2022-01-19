@@ -3,7 +3,7 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-01-13T12:59:17-05:00</updated>
+    <updated>2022-01-19T12:33:43-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -141,7 +141,7 @@
         </content>
     </entry>
     <entry>
-        <title>Webinar | Jan 26 | Red Hat on Azure Virtual Tour</title>
+        <title>Webinar | March 2 | Red Hat on Azure Virtual Tour</title>
         <author>
             <name>Mike Hacker</name>
         </author>
@@ -149,17 +149,17 @@
         <id>https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/</id>
             <category term="Events"/>
 
-        <updated>2022-01-06T12:44:02-05:00</updated>
+        <updated>2022-01-19T12:33:43-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png" alt="" />
-                    Wednesday, January 26, 2022, 1 pm - 2pm Eastern Join us for the Red Hat on Azure virtual tour to&hellip;
+                    DATE CHANGED: March 2, 2022, 1 pm - 2pm Eastern Join us for the Red Hat on Azure virtual tour&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blog.mikehacker.net/media/posts/31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png" alt="" />
-                <p><em>Wednesday, January 26, 2022, 1 pm - 2pm Eastern</em></p>
+                <p><em>DATE CHANGED:  March 2, 2022, 1 pm - 2pm Eastern</em></p>
 <p>Join us for the Red Hat on Azure virtual tour to see how combining Microsoft Azure, Red HatⓇ OpenShiftⓇ and Red Hat Enterprise LinuxⓇ will help you and your organization solve business problems. Learn how you can deploy security-focused, reliable, hybrid cloud environments using Red Hat solutions on Azure—a fully comprehensive cloud for open-source architectures.</p>
 <p><a href="https://mktoevents.com/Microsoft+Event/313307/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
             ]]>
