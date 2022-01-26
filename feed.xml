@@ -3,7 +3,7 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-01-26T09:47:48-05:00</updated>
+    <updated>2022-01-26T10:05:09-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/</id>
             <category term="Articles"/>
 
-        <updated>2022-01-26T09:47:48-05:00</updated>
+        <updated>2022-01-26T10:05:09-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/36/g0vkbnh738qr8y2mqat8.webp" alt="" />
@@ -37,6 +37,8 @@
 </ul>
 <p>Azure Functions can also be deployed using containers on Kubernetes, Azure Arc, or even the new Azure Container Apps.</p>
 <p>Christian Leinweber recently posted an article that outlines how he did a proof of concept on moving Azure Functions from Azure Kubernetes Service to Container Apps. This is a great read and shows the power of combining Azure Functions with other Azure services. <a href="https://dev.to/christle/moving-azure-functions-from-aks-to-container-apps-k60" target="_blank" rel="noopener noreferrer">Check out the article here</a>!</p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
