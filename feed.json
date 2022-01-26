@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/",
+            "url": "https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/",
+            "title": "Article | Moving Azure Functions from AKS to Container Apps",
+            "summary": "Microsoft Azure Functions enables users to execute event-driven serverless code which can be hosted in a wide range of environments.",
+            "content_html": "<p>Microsoft Azure Functions enables users to execute event-driven serverless code which can be hosted in a wide range of environments. Hosting options include:</p>\n<ul>\n<li>Consumption Plan - scale automatically and only pay for the compute resources the function is running.</li>\n<li>Premium Plan - Automatically scales based on demand using pre-warmed workers which run applications with no delay after being idle, runs on more powerful instances, and connects to virtual networks.</li>\n<li>Dedicated Plan - Run your Azure Functions within an App Service plan at the regular App Service plan rates.</li>\n<li>App Service Environment - Fully isolated and dedicated environment for running App Service apps and Azure Functions at high scale.</li>\n</ul>\n<p>Azure Functions can also be deployed using containers on Kubernetes, Azure Arc, or even the new Azure Container Apps.</p>\n<p>Christian Leinweber recently posted an article that outlines how he did a proof of concept on moving Azure Functions from Azure Kubernetes Service to Container Apps. This is a great read and shows the power of combining Azure Functions with other Azure services. <a href=\"https://dev.to/christle/moving-azure-functions-from-aks-to-container-apps-k60\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the article here</a>!</p>",
+            "image": "https://blog.mikehacker.net/media/posts/36/g0vkbnh738qr8y2mqat8.webp",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2022-01-26T09:47:48-05:00",
+            "date_modified": "2022-01-26T09:47:48-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/",
             "url": "https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/",
             "title": "Webinar | Jan 27 | Introduction to: Quantum Computing",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-11-30T15:03:06-05:00",
             "date_modified": "2022-01-06T12:48:22-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/",
-            "url": "https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/",
-            "title": "Webinar | Dec 8 | Embracing Hybrid Work with Microsoft Teams",
-            "summary": "Embracing hybrid work with new Microsoft Teams innovations for Government 2 pm Eastern | 11 am Pacific Connect, engage, and&hellip;",
-            "content_html": "<p><strong>Embracing hybrid work with new Microsoft Teams innovations for Government<br></strong><em>2 pm Eastern | 11 am Pacific</em></p>\n<p>Connect, engage, and empower your team to work together in the hybrid reality.</p>\n<p>Hybrid work is here. As governments begin to re-open in many regions across the United States, many can’t wait to get back to in-person collaboration. To succeed in this transition, organizations need to build a new operating model for their people, locations, and processes.</p>\n<p>Microsoft Teams is mission-critical for a more flexible world of work. New innovations deliver more natural meeting experiences and empower everyone to use hybrid work tools to the fullest.</p>\n<p>Join us in this webinar to find new ways to connect and engage regardless of location and time zone. You will learn how to:</p>\n<ul>\n<li>Use new Microsoft Teams features for more engaging meetings</li>\n<li>Bring together meetings, chat, calls, collaboration, and business process automation.</li>\n<li>Enable people to connect seamlessly with those inside and outside of their organizations, ensuring all voices are heard.</li>\n<li>Provide ways to make remote presentations richer and more impactful.</li>\n</ul>\n<p>Experts will be ready to take and answer your questions during the webinar.</p>\n<p>Get ready for the future of work with help from Microsoft.</p>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/306617/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/25/teams.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2021-11-17T10:00:59-05:00",
-            "date_modified": "2021-11-19T10:16:02-05:00"
         }
     ]
 }

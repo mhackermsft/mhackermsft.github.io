@@ -3,12 +3,43 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-01-26T09:13:58-05:00</updated>
+    <updated>2022-01-26T09:47:48-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Article | Moving Azure Functions from AKS to Container Apps</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/"/>
+        <id>https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/</id>
+            <category term="Articles"/>
+
+        <updated>2022-01-26T09:47:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/36/g0vkbnh738qr8y2mqat8.webp" alt="" />
+                    Microsoft Azure Functions enables users to execute event-driven serverless code which can be hosted in a wide range of environments.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/36/g0vkbnh738qr8y2mqat8.webp" alt="" />
+                <p>Microsoft Azure Functions enables users to execute event-driven serverless code which can be hosted in a wide range of environments. Hosting options include:</p>
+<ul>
+<li>Consumption Plan - scale automatically and only pay for the compute resources the function is running.</li>
+<li>Premium Plan - Automatically scales based on demand using pre-warmed workers which run applications with no delay after being idle, runs on more powerful instances, and connects to virtual networks.</li>
+<li>Dedicated Plan - Run your Azure Functions within an App Service plan at the regular App Service plan rates.</li>
+<li>App Service Environment - Fully isolated and dedicated environment for running App Service apps and Azure Functions at high scale.</li>
+</ul>
+<p>Azure Functions can also be deployed using containers on Kubernetes, Azure Arc, or even the new Azure Container Apps.</p>
+<p>Christian Leinweber recently posted an article that outlines how he did a proof of concept on moving Azure Functions from Azure Kubernetes Service to Container Apps. This is a great read and shows the power of combining Azure Functions with other Azure services. <a href="https://dev.to/christle/moving-azure-functions-from-aks-to-container-apps-k60" target="_blank" rel="noopener noreferrer">Check out the article here</a>!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Jan 27 | Introduction to: Quantum Computing</title>
         <author>
@@ -297,42 +328,6 @@
 <li>Opportunity for Q&amp;A with the Microsoft and Tallan team</li>
 </ul>
 <p>Jan 25, 12 pm - 12:45 pm EST - <a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237648712697" target="_blank" rel="noopener noreferrer">Register</a><br>Feb 15 12 pm - 12:45 pm EST - <a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237716124327" target="_blank" rel="noopener noreferrer">Register</a><br>Mar 15 12 pm - 12:45 pm EST - <a href="https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237791028367" target="_blank" rel="noopener noreferrer">Register</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Dec 8 | Embracing Hybrid Work with Microsoft Teams</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/"/>
-        <id>https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/</id>
-            <category term="Events"/>
-
-        <updated>2021-11-19T10:16:02-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/25/teams.png" alt="" />
-                    Embracing hybrid work with new Microsoft Teams innovations for Government 2 pm Eastern | 11 am Pacific Connect, engage, and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/25/teams.png" alt="" />
-                <p><strong>Embracing hybrid work with new Microsoft Teams innovations for Government<br></strong><em>2 pm Eastern | 11 am Pacific</em></p>
-<p>Connect, engage, and empower your team to work together in the hybrid reality.</p>
-<p>Hybrid work is here. As governments begin to re-open in many regions across the United States, many can’t wait to get back to in-person collaboration. To succeed in this transition, organizations need to build a new operating model for their people, locations, and processes.</p>
-<p>Microsoft Teams is mission-critical for a more flexible world of work. New innovations deliver more natural meeting experiences and empower everyone to use hybrid work tools to the fullest.</p>
-<p>Join us in this webinar to find new ways to connect and engage regardless of location and time zone. You will learn how to:</p>
-<ul>
-<li>Use new Microsoft Teams features for more engaging meetings</li>
-<li>Bring together meetings, chat, calls, collaboration, and business process automation.</li>
-<li>Enable people to connect seamlessly with those inside and outside of their organizations, ensuring all voices are heard.</li>
-<li>Provide ways to make remote presentations richer and more impactful.</li>
-</ul>
-<p>Experts will be ready to take and answer your questions during the webinar.</p>
-<p>Get ready for the future of work with help from Microsoft.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/306617/157-GQE-382" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
         </content>
     </entry>
