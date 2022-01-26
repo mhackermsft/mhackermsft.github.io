@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/",
+            "url": "https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/",
+            "title": "Webinar | Jan 27 | Introduction to: Quantum Computing",
+            "summary": "January 27, 2022 10:00 am - 10:30 am Learn more about Azure Quantum’s full stack approach; from redefining the meaning&hellip;",
+            "content_html": "<p><em>January 27, 2022 10:00 am - 10:30 am</em></p>\n<p>Learn more about Azure Quantum’s full stack approach; from redefining the meaning of computing and the path to scaled quantum computing to what tools are available today and how to get started having quantum impact today.</p>\n<p><a href=\"https://microsoftedu.eventbuilder.com/event/47145?source=PubSecSkillsPage\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register now!</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-01-26T09:13:58-05:00",
+            "date_modified": "2022-01-26T09:13:58-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/",
             "url": "https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/",
             "title": "Series | Feb 2022 | GitHub Shots Bootcamp",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-11-17T10:00:59-05:00",
             "date_modified": "2021-11-19T10:16:02-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/",
-            "url": "https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/",
-            "title": "Webinar | Dec 9 | Building Trust and Security in Government",
-            "summary": "Noon - 1 pm Eastern | 9:00 am - 10 am Pacific Citizen confidence in government institutions and public servants&hellip;",
-            "content_html": "<p><em>Noon - 1 pm Eastern |  9:00 am - 10 am Pacific</em></p>\n<p>Citizen confidence in government institutions and public servants depends on trust. Citizens need to trust the individuals and agencies representing them will act in good faith to protect their interests.<br><br>Join this webinar to hear from government experts in public safety and justice, public finance, public health and social services, and critical infrastructure at Microsoft about the key areas and steps you can take to protect your organization from unwanted threats.<br><br>In this webinar, you’ll learn about:</p>\n<ul>\n<li>How to build and provide trusted government services to your constituents by adopting the highest standards of security and compliance.</li>\n<li>Practical use cases in government.</li>\n<li>Next steps to take in your journey.</li>\n</ul>\n<p><a href=\"https://info.microsoft.com/ww-landing-building-trust-and-security-in-government.html\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/24/security-office.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2021-11-17T09:54:11-05:00",
-            "date_modified": "2021-12-09T09:41:39-05:00"
         }
     ]
 }

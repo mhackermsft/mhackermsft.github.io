@@ -3,12 +3,37 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-01-19T12:33:43-05:00</updated>
+    <updated>2022-01-26T09:13:58-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Jan 27 | Introduction to: Quantum Computing</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/"/>
+        <id>https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/</id>
+            <category term="Events"/>
+
+        <updated>2022-01-26T09:13:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg" alt="" />
+                    January 27, 2022 10:00 am - 10:30 am Learn more about Azure Quantum’s full stack approach; from redefining the meaning&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg" alt="" />
+                <p><em>January 27, 2022 10:00 am - 10:30 am</em></p>
+<p>Learn more about Azure Quantum’s full stack approach; from redefining the meaning of computing and the path to scaled quantum computing to what tools are available today and how to get started having quantum impact today.</p>
+<p><a href="https://microsoftedu.eventbuilder.com/event/47145?source=PubSecSkillsPage" target="_blank" rel="noopener noreferrer">Learn more and register now!</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Series | Feb 2022 | GitHub Shots Bootcamp</title>
         <author>
@@ -308,36 +333,6 @@
 <p>Experts will be ready to take and answer your questions during the webinar.</p>
 <p>Get ready for the future of work with help from Microsoft.</p>
 <p><a href="https://mktoevents.com/Microsoft+Event/306617/157-GQE-382" target="_blank" rel="noopener noreferrer">Register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Dec 9 | Building Trust and Security in Government</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/"/>
-        <id>https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/</id>
-            <category term="Events"/>
-
-        <updated>2021-12-09T09:41:39-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/24/security-office.jpg" alt="" />
-                    Noon - 1 pm Eastern | 9:00 am - 10 am Pacific Citizen confidence in government institutions and public servants&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/24/security-office.jpg" alt="" />
-                <p><em>Noon - 1 pm Eastern |  9:00 am - 10 am Pacific</em></p>
-<p>Citizen confidence in government institutions and public servants depends on trust. Citizens need to trust the individuals and agencies representing them will act in good faith to protect their interests.<br><br>Join this webinar to hear from government experts in public safety and justice, public finance, public health and social services, and critical infrastructure at Microsoft about the key areas and steps you can take to protect your organization from unwanted threats.<br><br>In this webinar, you’ll learn about:</p>
-<ul>
-<li>How to build and provide trusted government services to your constituents by adopting the highest standards of security and compliance.</li>
-<li>Practical use cases in government.</li>
-<li>Next steps to take in your journey.</li>
-</ul>
-<p><a href="https://info.microsoft.com/ww-landing-building-trust-and-security-in-government.html" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
         </content>
     </entry>
