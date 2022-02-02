@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-february-17-or-learn-kubernetes/",
+            "url": "https://blog.mikehacker.net/webinar-or-february-17-or-learn-kubernetes/",
+            "title": "Webinar | February 17 | Learn Kubernetes",
+            "summary": "February 17, 3:00 PM Eastern - Hosted by Atmoseara and Microsoft Kubernetes is the king of container orchestration, and the&hellip;",
+            "content_html": "<p><em>February 17, 3:00 PM Eastern - Hosted by Atmoseara and Microsoft</em></p>\n<p>Kubernetes is the king of container orchestration, and the results are clear: more than ever, employers are looking for IT professionals that know Kubernetes. It can, however, be hard to get started with Kubernetes because it is not trivial software.<br><br>In this webinar, we’ll help you get started with Kubernetes, particularly Azure Kubernetes Services, as we break it down into bite-size chunks so you can get a jump start on your Kubernetes experience. The event will be followed by a live Q&amp;A with Atmosera's Azure MVP Blaize Stewart and Microsoft's Heather Brevard.<br><br>- Understanding Kubernetes Architecture<br>- Working With Controllers<br>- Deploying Containers as Pods<br>- Exposing Pods to A Network with Services<br>- Controlling HTTP Traffic with Ingress</p>\n<p><a href=\"https://www.atmosera.com/resources/event/virtual-event-come-learn-kubernetes-with-atmosera-microsoft/?utm_campaign=Event%3A%20Come%20Learn%20Kubernetes%20with%20Microsoft%20%26%20Atmosera&amp;utm_medium=email&amp;_hsmi=202638986&amp;_hsenc=p2ANqtz-_yyifxaaGi69fQzGrGWMxXKqNC-BUq8XQNu6nEHc0vFtboOPtnrMYcplLDkR8b8nc-hCaFT1AjYpwOZz1xTb0QplM6VA&amp;utm_content=202638986&amp;utm_source=hs_email\" target=\"_blank\" rel=\"noopener noreferrer\">Register here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/37/487-4870857_kubernetes-logo-kubernetes-png-transparent-png.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-02-02T09:07:09-05:00",
+            "date_modified": "2022-02-02T09:07:09-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/",
             "url": "https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/",
             "title": "Article | Moving Azure Functions from AKS to Container Apps",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-12-06T10:19:39-05:00",
             "date_modified": "2021-12-06T10:19:39-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/",
-            "url": "https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/",
-            "title": "Webinar | Jan / Feb / Mar | App Innovate, a Solution Assessment",
-            "summary": "Multiple webinars in January, February and March Join the team from Microsoft and Tallan to learn about App Innovate, and&hellip;",
-            "content_html": "<p><em>Multiple webinars in January, February and March</em></p>\n<p>Join the team from Microsoft and Tallan to learn about App Innovate, and how it can benefit you!</p>\n<p>During this live and engaging session the team will cover the following topics:</p>\n<ul>\n<li>What this engagement is, and why it matters</li>\n<li>The process and what Microsoft, Tallan and your teams should bring to the table</li>\n<li>The basic deliverables you can expect, like customized planning session, an architectural design session, and a roadmap of your modernization plan</li>\n<li>Tallan's real world success stories</li>\n<li>Opportunity for Q&amp;A with the Microsoft and Tallan team</li>\n</ul>\n<p>Jan 25, 12 pm - 12:45 pm EST - <a href=\"https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237648712697\" target=\"_blank\" rel=\"noopener noreferrer\">Register</a><br>Feb 15 12 pm - 12:45 pm EST - <a href=\"https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237716124327\" target=\"_blank\" rel=\"noopener noreferrer\">Register</a><br>Mar 15 12 pm - 12:45 pm EST - <a href=\"https://www.eventbrite.com/e/app-innovate-a-solution-assessment-registration-237791028367\" target=\"_blank\" rel=\"noopener noreferrer\">Register</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/27/tallanwebinar.jfif",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2021-11-30T15:03:06-05:00",
-            "date_modified": "2022-01-06T12:48:22-05:00"
         }
     ]
 }
