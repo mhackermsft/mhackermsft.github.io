@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/",
+            "url": "https://blog.mikehacker.net/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/",
+            "title": "Webinar: Hot Path vs. Cold Path: Which One Should My Data Take?",
+            "summary": "March 24 | 2pm - 3pm Eastern | Hosted by atmosera “Hot Path” and “Cold Path” data are buzzwords in&hellip;",
+            "content_html": "<p><em>March 24 | 2pm - 3pm Eastern | Hosted by atmosera</em></p>\n<p>“Hot Path” and “Cold Path” data are buzzwords in data engineering. While the concepts themselves seem simple, it’s not always clear when one might want to use one or the other or even what constitutes one of the others. In the webinar, we’ll look at both of these and the supporting services on Azure that can make the Hot Path and Cold Path make sense. We’ll look at services like Event Hubs, Service Bus, Data Lakes, Data Factory, Stream Analytics, and others that support these workloads.</p>\n<p>Learn more and register <a href=\"https://atmosera.com/resources/event/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
+            "image": "https://blog.mikehacker.net/media/posts/38/webinar03242022.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-03-17T09:25:45-04:00",
+            "date_modified": "2022-03-17T09:25:45-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-february-17-or-learn-kubernetes/",
             "url": "https://blog.mikehacker.net/webinar-or-february-17-or-learn-kubernetes/",
             "title": "Webinar | February 17 | Learn Kubernetes",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2021-12-07T11:48:57-05:00",
             "date_modified": "2021-12-09T09:41:48-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/new-service-or-azure-load-testing/",
-            "url": "https://blog.mikehacker.net/new-service-or-azure-load-testing/",
-            "title": "New Service | Azure Load Testing",
-            "summary": "On November 30th the Microsoft Azure Dev Tools team announced the preview of a new Azure Load Testing service. Azure&hellip;",
-            "content_html": "<p>On November 30th the Microsoft Azure Dev Tools team announced the preview of a new Azure Load Testing service. Azure Load Testing is a fully managed Azure service that enables developers and testers to generate high-scale load with custom Apache JMeter scripts.  That's right, you can use your existing experience and knowledge with one of the most popular open-source load testing tools with Azure Load Testing.</p>\n<p>Get started by first reading the <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/\" target=\"_blank\" rel=\"noopener noreferrer\">announcement post, </a> check out the <a href=\"https://docs.microsoft.com/en-us/azure/load-testing/?wt.mc_id=loadtesting_ablogannounce1_blog_azuremktg\" target=\"_blank\" rel=\"noopener noreferrer\">preview documentation</a> and then c<a href=\"https://docs.microsoft.com/en-us/azure/load-testing/quickstart-create-and-run-load-test\" target=\"_blank\" rel=\"noopener noreferrer\">reate your first load test</a>!</p>",
-            "image": "https://blog.mikehacker.net/media/posts/28/loadtesting.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Announcements"
-            ],
-            "date_published": "2021-12-06T10:19:39-05:00",
-            "date_modified": "2021-12-06T10:19:39-05:00"
         }
     ]
 }
