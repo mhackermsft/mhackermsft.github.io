@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/microsoft-build-or-may-24-26-2022/",
+            "url": "https://blog.mikehacker.net/microsoft-build-or-may-24-26-2022/",
+            "title": "Microsoft Build | May 24-26 2022",
+            "summary": "Come together with peers and experts May 24–26, 2022, for an engaging experience around the latest in innovation and tools&hellip;",
+            "content_html": "<p>Come together with peers and experts May 24–26, 2022, for an engaging experience around the latest in innovation and tools that will help you stay informed. </p>\n<p>Make sure you block out the dates on your calendar for this amazing event!</p>\n<p><a href=\"https://mybuild.microsoft.com/en-US/home\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/40/Build2022-2.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-04-07T09:28:38-04:00",
+            "date_modified": "2022-04-07T09:29:55-04:00"
+        },
+        {
+            "id": "https://blog.mikehacker.net/webinar-or-apr-28-and-29-or-modernize-net-apps/",
+            "url": "https://blog.mikehacker.net/webinar-or-apr-28-and-29-or-modernize-net-apps/",
+            "title": "Webinar | APR 28 &amp; 29 | Modernize .NET Apps",
+            "summary": "Thursday, April 28, 2022 | 10:00 AM - 1:00 PM | (GMT-05:00) Eastern Time (US &amp; Canada) Friday, April 29,&hellip;",
+            "content_html": "<p><em>Thursday, April 28, 2022 | 10:00 AM - 1:00 PM | (GMT-05:00) Eastern Time (US &amp; Canada)<br></em><br><em>Friday, April 29, 2022 | 10:00 AM - 12:15 PM | (GMT-05:00) Eastern Time (US &amp; Canada)</em></p>\n<p>Join us at Microsoft Azure Virtual Training Day: Modernize .NET Apps to discover how to modernize your workloads and simplify the migration of your .NET apps to Azure. Get step-by-step guidance for migrating an existing .NET app, setting up the network, adding authorization and security, and monitoring the app. Learn how to autoscale apps, protect against threats, and create pipelines to build and deploy solutions faster and more reliably.</p>\n<p>Who should attend:</p>\n<ul>\n<li>Developers</li>\n<li>IT professionals</li>\n</ul>\n<p>Technical level: Attendees are able to credibly discuss, offer perspective and integrate technology from minimumal practical experience.</p>\n<p>After completing this training, you will be able to:</p>\n<ul>\n<li>Learn about the best options for migrating your data.</li>\n<li>Modernize workloads and migrate live databases to the cloud quickly and easily.</li>\n<li>Use Azure Key Vault to autoscale and secure application configuration information.</li>\n</ul>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/328657/157-GQE-382\">Click here to learn more and register</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/39/AzureTrainingDay.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-04-07T09:24:21-04:00",
+            "date_modified": "2022-04-07T09:24:21-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/",
             "url": "https://blog.mikehacker.net/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/",
             "title": "Webinar: Hot Path vs. Cold Path: Which One Should My Data Take?",
@@ -136,38 +168,6 @@
             ],
             "date_published": "2022-01-06T12:40:13-05:00",
             "date_modified": "2022-01-19T12:33:43-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-jan-13-or-messaging-on-azure/",
-            "url": "https://blog.mikehacker.net/webinar-or-jan-13-or-messaging-on-azure/",
-            "title": "Webinar | Jan 13 | Messaging on Azure",
-            "summary": "Exploring the Myriad of Different Messaging Services on Azure, presented by Atmosera on January 13, 2022 at 11am PT /&hellip;",
-            "content_html": "<p><em>Exploring the Myriad of Different Messaging Services on Azure, presented by Atmosera on January 13, 2022 at 11am PT / 2pm ET.</em></p>\n<p>Messaging between application components and devices is why engineers invented computer networks. The ultimate computer network is the Internet, which has practically connected all the world’s devices to a single network where any device can send a message to another device. For this reason, there are tons of solutions that provide messaging infrastructure to help broker messages between different kinds of clients and for different use cases. Azure alone has at least eight different services that systems can use to send messages. Some of these are general-purpose, while others are purpose-built.</p>\n<p>In this webinar, we’ll show eight different services, when to use them, and some demos of how a few of them work! We’ll look at Storage Queues, Message Bus, Event Hub, Event Grid, IoT Hub, SingnalR Service, Notification Hub, and Send Grid.</p>\n<p><a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.atmosera.com%2Fe3t%2FBtc%2FZU%2B113%2Fd118VN04%2FVWplP82rxZpHW5X1zYp79YspGW5DT7xy4CTMF3N4CDgdJ5nCVBV3Zsc37CgZFmW19XPCw6B6Bq9W3Sf7tN3ZMslZW91nLhk5mhhG7N771_LQ2d0zTW8p-P5g7bVL5dW6V9P0Y8rM1vNW9lWxyq5HmsxhW77wvpB6GvP_lW1HLGkg1lgzzwVj7g305VB1MlVB3bKR9cw_78W1YZ9125fP_FgW5qTj-q98W_6cW5zckLn4JG4wbN1tk_ZHHl7D2W1XxgyS6nKshqW4j7-228djRbkN100CqXL7pRvW8XlXSy4FtD5qW5CJN7y5SFcDQVTB-hQ4jNj6GW4hW_s496d7CFW2JglRY4Xm5wpVjZmKz4sCBHdW5lcfFg6fQ9NWW55g1_N5qwChBW3txCKw5Qw9NVW8PjDGm1zQZ92W8-WkV63xmBrDVkgdtQ8s8wd-V2hyHL1-XzBpW67gxH64CtGNSW5NMRc284yt9jW8LxWqn15mlLyW7lX2Z18QXqPDW7gCSvG7LK0yzW7fF-TR1mBFCbVgbWw78dX54D31Vk1&amp;data=04%7C01%7Cmhacker%40microsoft.com%7C37ee588577734a07a03c08d9ceef9b64%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637768351322663781%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=vgD%2BdKClGvfEJRnrHGD2VMNuARgpYLvXwqhnqJ6N3dI%3D&amp;reserved=0\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register now</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/30/webinar-header-azure-blaize-01132021.webp",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-01-05T09:46:26-05:00",
-            "date_modified": "2022-01-05T09:47:29-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-dec-14-or-advanced-cloud-native-deployment-strategies/",
-            "url": "https://blog.mikehacker.net/webinar-or-dec-14-or-advanced-cloud-native-deployment-strategies/",
-            "title": "Webinar | Dec 14 | Advanced Cloud-Native Deployment Strategies",
-            "summary": "Hosted by BoxBoat on December 14, 2021, 2pm - 3:30pm Eastern Time Zone Are you using Kubernetes but still deploying&hellip;",
-            "content_html": "<p><em>Hosted by BoxBoat on December 14, 2021, 2pm - 3:30pm Eastern Time Zone</em></p>\n<p>Are you using Kubernetes but still deploying application changes to production once per sprint, once per month, or once per a couple of months? Something is wrong.</p>\n<p>It's been found through several years of industry-wide reports that elite DevOps practitioners deploy on-demand (1+ per day) to production, regardless of industry. What's exciting is that if you're using Kubernetes, you have a lot of the capabilities to safely deploy at an increased frequency.</p>\n<p>In this webinar, you will learn various deployment strategies so that you can stop with the 50+ person deployment meetings, endless deployment checklists, release trains, and mind-numbing dependency tracking.</p>\n<p><a href=\"https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,y8CUYyfIOkukuTOTFr-GtA,LOU8UigRdU2a1VjDSPwX9g,QuD-z6CjSE2cnquOWJhIKQ?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3&amp;skipauthstrap=1\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a>!</p>",
-            "image": "https://blog.mikehacker.net/media/posts/29/AdvancedCloudNative.jfif",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2021-12-07T11:48:57-05:00",
-            "date_modified": "2021-12-09T09:41:48-05:00"
         }
     ]
 }
