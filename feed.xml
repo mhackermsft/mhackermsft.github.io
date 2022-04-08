@@ -3,12 +3,45 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-04-07T09:29:55-04:00</updated>
+    <updated>2022-04-08T09:11:44-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | Apr 20 | Moving Beyond Lift and Shift</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-apr-20-or-moving-beyond-lift-and-shift/"/>
+        <id>https://blog.mikehacker.net/webinar-or-apr-20-or-moving-beyond-lift-and-shift/</id>
+            <category term="Events"/>
+
+        <updated>2022-04-08T09:11:44-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/41/cast.png" alt="" />
+                    Hosted by CAST Software | April 20, 1PM CST Moving beyond lift &amp; shift to modernize critical applications is a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/41/cast.png" alt="" />
+                <p><em>Hosted by CAST Software | April 20, 1PM CST</em></p>
+<p>Moving beyond lift &amp; shift to modernize critical applications is a high-stakes, high-anxiety affair for IT leaders, especially when looking at refactoring and shifting them to cloud. Lack of accurate knowledge and insight into the inner working of the applications further exacerbates the challenge during the migration process.</p>
+<p>CAST Software, a global leader in Software Intelligence and Application Modernization, will share how customers are refactoring and migrating applications to cloud with a smarter, transparent and more automated approach. Enterprises globally are using automated application insights from CAST to modernize legacy business critical applications with control, speed and accuracy leveraging cloud native micro services saving months of time and avoiding u-turns common to manual approach.</p>
+<p>In this session, CAST will share the approach and real-world examples.</p>
+<p>Learn about:</p>
+<ul>
+<li>Key challenges to be aware of when moving to cloud native and containers</li>
+<li>Benefits of refactoring apps for PaaS vs rehosting to IaaS</li>
+<li>How to use software intelligence to de-risk and accelerate the transformation</li>
+</ul>
+<p><a href="https://content.castsoftware.com/moving-beyond-lift-and-shift-to-modernize-business-critical-applications-cloud-natively-webinar?utm_campaign=2022_Q2_NA_Moving%20beyond%20lift%20%26shift%20MSFT%20Webinar&amp;utm_medium=email&amp;_hsmi=209333507&amp;_hsenc=p2ANqtz-9DkNK1LOtEyEGEPoXP2Q5U6J4IZ_SZFNJnQQt708oDBHhxZxolFtNXTMDj63vQ6ArTTVLewvgoQcNiKEnHkzjmJ8ZC0A&amp;utm_content=209333507&amp;utm_source=hs_email" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Microsoft Build | May 24-26 2022</title>
         <author>
@@ -307,31 +340,6 @@
 </ol>
 <p>Even if your organization is in the early stages of your Developer Velocity journey, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, <a href="https://mktoevents.com/Microsoft+Event/315228/157-GQE-382" target="_blank" rel="noopener noreferrer">so RSVP now to reserve yours</a>!</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | March 2 | Red Hat on Azure Virtual Tour</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/"/>
-        <id>https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/</id>
-            <category term="Events"/>
-
-        <updated>2022-01-19T12:33:43-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png" alt="" />
-                    DATE CHANGED: March 2, 2022, 1 pm - 2pm Eastern Join us for the Red Hat on Azure virtual tour&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png" alt="" />
-                <p><em>DATE CHANGED:  March 2, 2022, 1 pm - 2pm Eastern</em></p>
-<p>Join us for the Red Hat on Azure virtual tour to see how combining Microsoft Azure, Red HatⓇ OpenShiftⓇ and Red Hat Enterprise LinuxⓇ will help you and your organization solve business problems. Learn how you can deploy security-focused, reliable, hybrid cloud environments using Red Hat solutions on Azure—a fully comprehensive cloud for open-source architectures.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/313307/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
             ]]>
         </content>
     </entry>
