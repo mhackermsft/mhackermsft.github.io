@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/net-50-end-of-support/",
+            "url": "https://blog.mikehacker.net/net-50-end-of-support/",
+            "title": ".NET 5.0 End of Support",
+            "summary": ".NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer&hellip;",
+            "content_html": "<p>.NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer provide servicing updates, including security fixes or technical support, for .NET 5.0. You’ll need to update the version of .NET you’re using to a supported version (.NET 6.0) before this date in order to continue to receive updates.</p>\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to learn more</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Announcements"
+            ],
+            "date_published": "2022-04-12T09:41:05-04:00",
+            "date_modified": "2022-04-12T09:41:05-04:00"
+        },
+        {
+            "id": "https://blog.mikehacker.net/net-framework-452-46-and-461-end-of-support/",
+            "url": "https://blog.mikehacker.net/net-framework-452-46-and-461-end-of-support/",
+            "title": ".NET Framework 4.5.2, 4.6, and 4.6.1 End of Support",
+            "summary": "Just a reminder that .NET Framework versions 4.5.2, 4.6 and 4.6.1 will reach end of support on April 26, 2022.",
+            "content_html": "<p>Just a reminder that .NET Framework versions 4.5.2, 4.6 and 4.6.1 will reach end of support on April 26, 2022.</p>\n<p>Update your deployed runtime to version 4.6.2 by April 26th to continue to receive updates and technical support from Microsoft.  You do not need to recompile your application or retarget it to 4.6.2.</p>\n<p>For more information <a href=\"https://devblogs.microsoft.com/dotnet/dotnet-framework-45-46-461-end-of-support/\" target=\"_blank\" rel=\"noopener noreferrer\">check out this link</a>.</p>",
+            "image": "https://blog.mikehacker.net/media/posts/42/dotnet-bot_handybot.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Announcements"
+            ],
+            "date_published": "2022-04-12T09:39:40-04:00",
+            "date_modified": "2022-04-12T09:39:40-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-apr-20-or-moving-beyond-lift-and-shift/",
             "url": "https://blog.mikehacker.net/webinar-or-apr-20-or-moving-beyond-lift-and-shift/",
             "title": "Webinar | Apr 20 | Moving Beyond Lift and Shift",
@@ -136,38 +168,6 @@
             ],
             "date_published": "2022-01-13T12:59:17-05:00",
             "date_modified": "2022-01-13T12:59:17-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/",
-            "url": "https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/",
-            "title": "Webinar | Jan 25 | Keep Your Kubernetes Cluster Safe",
-            "summary": "1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat Hopefully, if you're planning to go to Kubernetes, you're thinking about&hellip;",
-            "content_html": "<p><em>1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat</em></p>\n<p>Hopefully, if you're planning to go to Kubernetes, you're thinking about security throughout the entire journey. What if you already adopted Kubernetes? Does security continue to be a topic of discussion?</p>\n<p>The good news is that Kubernetes provides a lot of control and flexibility on how you secure your workloads. The bad news is that there is more surface area and, therefore, more attack vectors than typical VM-based workloads.</p>\n<p>Learn about gaps you might be missing in your cloud-native workloads. As a bonus, we will also talk about software supply-chain security to help you protect your code from new attack vectors and threats in 2022.</p>\n<p><a href=\"https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,uP6EXEGBcEea3nhErzQTHw,WDsiWTvqq02NzYApiIZLUQ,nv75Ep6R70myczZfhysApg?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/33/1642085049582.jfif",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-01-13T11:54:09-05:00",
-            "date_modified": "2022-01-13T11:54:14-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/",
-            "url": "https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/",
-            "title": "Webinar | Jan 27 | Microsoft DevOps Forum: Developer Velocity &amp; Culture",
-            "summary": "Thursday, January 27, 2022 09:00 AM – 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada) - Hosted by Microsoft and&hellip;",
-            "content_html": "<p><em><span class=\"date\"><bdo dir=\"auto\">Thursday, January 27, 2022</bdo> </span><span class=\"time\"><bdo dir=\"auto\">09:00 AM – 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada) - Hosted by Microsoft and Insight.</bdo></span></em></p>\n<p>Join us for an intimate virtual forum and learn how to measure and improve your company’s Developer Velocity from the experts at Microsoft, GitHub, and [Insight]. What’s in store during the event:</p>\n<ol>\n<li>Learn about Developer Velocity and the free tools available to increase developer productivity.</li>\n<li>A breakdown of the advantages derived from adopting new ways of measuring Developer Velocity and the pitfalls to avoid.</li>\n<li>The cultural transformation required to get there—and the opportunities that arise from such a shift.</li>\n<li>Perspectives from Microsoft DevOps specialists, GitHub, [Insight], and other industry-leading enterprises.</li>\n</ol>\n<p>Even if your organization is in the early stages of your Developer Velocity journey, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, <a href=\"https://mktoevents.com/Microsoft+Event/315228/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">so RSVP now to reserve yours</a>!</p>\n<p> </p>",
-            "image": "https://blog.mikehacker.net/media/posts/32/github-xxl.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-01-11T15:25:34-05:00",
-            "date_modified": "2022-01-11T15:26:16-05:00"
         }
     ]
 }

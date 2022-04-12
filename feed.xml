@@ -3,12 +3,61 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-04-08T09:11:44-04:00</updated>
+    <updated>2022-04-12T09:41:05-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>.NET 5.0 End of Support</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/net-50-end-of-support/"/>
+        <id>https://blog.mikehacker.net/net-50-end-of-support/</id>
+            <category term="Announcements"/>
+
+        <updated>2022-04-12T09:41:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png" alt="" />
+                    .NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png" alt="" />
+                <p>.NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer provide servicing updates, including security fixes or technical support, for .NET 5.0. You’ll need to update the version of .NET you’re using to a supported version (.NET 6.0) before this date in order to continue to receive updates.</p>
+<p><a href="https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/" target="_blank" rel="noopener noreferrer">Click here to learn more</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>.NET Framework 4.5.2, 4.6, and 4.6.1 End of Support</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/net-framework-452-46-and-461-end-of-support/"/>
+        <id>https://blog.mikehacker.net/net-framework-452-46-and-461-end-of-support/</id>
+            <category term="Announcements"/>
+
+        <updated>2022-04-12T09:39:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/42/dotnet-bot_handybot.png" alt="" />
+                    Just a reminder that .NET Framework versions 4.5.2, 4.6 and 4.6.1 will reach end of support on April 26, 2022.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/42/dotnet-bot_handybot.png" alt="" />
+                <p>Just a reminder that .NET Framework versions 4.5.2, 4.6 and 4.6.1 will reach end of support on April 26, 2022.</p>
+<p>Update your deployed runtime to version 4.6.2 by April 26th to continue to receive updates and technical support from Microsoft.  You do not need to recompile your application or retarget it to 4.6.2.</p>
+<p>For more information <a href="https://devblogs.microsoft.com/dotnet/dotnet-framework-45-46-461-end-of-support/" target="_blank" rel="noopener noreferrer">check out this link</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Apr 20 | Moving Beyond Lift and Shift</title>
         <author>
@@ -281,65 +330,6 @@
 <li>Bring your questions!</li>
 </ul>
 <p><a href="https://techcommunity.microsoft.com/t5/azure-devops/github-shots-bootcamp-live-on-microsoft-dev-radio-february-2022/m-p/3041259" target="_blank" rel="noopener noreferrer">Learn more</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Jan 25 | Keep Your Kubernetes Cluster Safe</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/"/>
-        <id>https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/</id>
-            <category term="Events"/>
-
-        <updated>2022-01-13T11:54:14-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/33/1642085049582.jfif" alt="" />
-                    1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat Hopefully, if you're planning to go to Kubernetes, you're thinking about&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/33/1642085049582.jfif" alt="" />
-                <p><em>1/25/2022, 3:30 PM Eastern Time - Hosted by BoxBoat</em></p>
-<p>Hopefully, if you're planning to go to Kubernetes, you're thinking about security throughout the entire journey. What if you already adopted Kubernetes? Does security continue to be a topic of discussion?</p>
-<p>The good news is that Kubernetes provides a lot of control and flexibility on how you secure your workloads. The bad news is that there is more surface area and, therefore, more attack vectors than typical VM-based workloads.</p>
-<p>Learn about gaps you might be missing in your cloud-native workloads. As a bonus, we will also talk about software supply-chain security to help you protect your code from new attack vectors and threats in 2022.</p>
-<p><a href="https://teams.microsoft.com/registration/kUhhxUpBuU2FBD-rLfuf8w,rhFM28eeJkCqeYV4SoPbJA,fZcZkSHcRUW3i7-tu_A8UA,uP6EXEGBcEea3nhErzQTHw,WDsiWTvqq02NzYApiIZLUQ,nv75Ep6R70myczZfhysApg?mode=read&amp;tenantId=c5614891-414a-4db9-8504-3fab2dfb9ff3" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Jan 27 | Microsoft DevOps Forum: Developer Velocity &amp; Culture</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/"/>
-        <id>https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/</id>
-            <category term="Events"/>
-
-        <updated>2022-01-11T15:26:16-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/32/github-xxl.png" alt="" />
-                    Thursday, January 27, 2022 09:00 AM – 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada) - Hosted by Microsoft and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/32/github-xxl.png" alt="" />
-                <p><em><span class="date"><bdo dir="auto">Thursday, January 27, 2022</bdo> </span><span class="time"><bdo dir="auto">09:00 AM – 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada) - Hosted by Microsoft and Insight.</bdo></span></em></p>
-<p>Join us for an intimate virtual forum and learn how to measure and improve your company’s Developer Velocity from the experts at Microsoft, GitHub, and [Insight]. What’s in store during the event:</p>
-<ol>
-<li>Learn about Developer Velocity and the free tools available to increase developer productivity.</li>
-<li>A breakdown of the advantages derived from adopting new ways of measuring Developer Velocity and the pitfalls to avoid.</li>
-<li>The cultural transformation required to get there—and the opportunities that arise from such a shift.</li>
-<li>Perspectives from Microsoft DevOps specialists, GitHub, [Insight], and other industry-leading enterprises.</li>
-</ol>
-<p>Even if your organization is in the early stages of your Developer Velocity journey, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, <a href="https://mktoevents.com/Microsoft+Event/315228/157-GQE-382" target="_blank" rel="noopener noreferrer">so RSVP now to reserve yours</a>!</p>
-<p> </p>
             ]]>
         </content>
     </entry>
