@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/",
+            "url": "https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/",
+            "title": "Webinar | June 7 | Microsoft DevSecOps Forum",
+            "summary": "Tuesday, June 7, 2022 | 9:00 AM - 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada) Join us for an&hellip;",
+            "content_html": "<p><em><span class=\"date\"><bdo dir=\"auto\">Tuesday, June 7, 2022 | </bdo></span><span class=\"time\"><bdo dir=\"auto\">9:00 AM - 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</bdo></span></em></p>\n<p>Join us for an intimate virtual forum and learn how to build secure apps with collaborative DevSecOps practices from the experts at Microsoft, GitHub, and Atmosera, Inc. What’s in store during the event:</p>\n<ol>\n<li>Learn about DevSecOps and how to integrate security into your DevOps practices.</li>\n<li>Find out how to build secure apps with collaborative DevSecOps practices shown through technical demos.</li>\n<li>A panel that speaks to the ever-growing threat landscape, how developers and security practitioners are impacted, and how implementing security earlier can help.</li>\n<li>Walkthrough how GitHub leverages GitHub Advanced Security to secure their code, dependencies, and secrets.</li>\n<li>Check out some real-world examples of how our customers have prospered after incorporating a DevSecOps approach.</li>\n</ol>\n<p>Even if your organization is in the early stages of adopting DevSecOps, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, so RSVP now to reserve yours!</p>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/340150/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to learn more and register</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/44/backgroundevent.jfif",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-05-10T12:56:04-04:00",
+            "date_modified": "2022-05-10T12:57:14-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/net-50-end-of-support/",
             "url": "https://blog.mikehacker.net/net-50-end-of-support/",
             "title": ".NET 5.0 End of Support",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2022-01-26T09:13:58-05:00",
             "date_modified": "2022-01-26T09:13:58-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/",
-            "url": "https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/",
-            "title": "Series | Feb 2022 | GitHub Shots Bootcamp",
-            "summary": "Free six part training session over 3 weeks created by the DevOps community within Microsoft. All sessions at 8:00 AM&hellip;",
-            "content_html": "<p><em>Free six part training session over 3 weeks created by the DevOps community within Microsoft.</em></p>\n<p><strong>All sessions at 8:00 AM Pacific on <a href=\"https://www.youtube.com/microsoftdevradio\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">our YouTube channel Microsoft Dev Radio</a></strong></p>\n<p>Feb 1, 2022: Introduction to GitHub</p>\n<p>Audience: Everyone</p>\n<ul>\n<li>Why GitHub?</li>\n<li>Products and roadmap</li>\n<li>Azure DevOps and GitHub comparison</li>\n<li>GitHub culture</li>\n</ul>\n<p>Feb 3, 2022: Agile / Team Project Management</p>\n<p>Audience: Everyone</p>\n<ul>\n<li>GitHub architecture</li>\n<li>Various entity relationship</li>\n<li>Agile project management</li>\n<li>Insights and KPIs</li>\n</ul>\n<p>Feb 8, 2022: GitHub Development</p>\n<p>Audience: Technical</p>\n<ul>\n<li>GitHub Repo and Codespaces</li>\n<li>GitHub Flow / Branch Policy / Pull Requests</li>\n<li>Intro to CI/CD process</li>\n<li>GitHub Apps</li>\n</ul>\n<p>Feb 10, 2022: Actions workflows</p>\n<p>Audience: Technical</p>\n<ul>\n<li>Action, event, workflow</li>\n<li>CI process with testing</li>\n<li>CD process with testing</li>\n<li>Self-hosted and GitHub hosted runner</li>\n</ul>\n<p>Feb 15, 2022: Security and Secret Policy</p>\n<p>Audience: Technical</p>\n<ul>\n<li>GitHub Advanced Security</li>\n<li>Secrets handling</li>\n<li>Authentication and Aothorization</li>\n<li>Security Branching Protection</li>\n</ul>\n<p>Feb 17, 2022: InnerSourcing and Ask Anything</p>\n<p>Audience: Everyone</p>\n<ul>\n<li>Open Source practices for any organizations dev process</li>\n<li>Microsoft and GitHub share how we use GitHub</li>\n<li>Bring your questions!</li>\n</ul>\n<p><a href=\"https://techcommunity.microsoft.com/t5/azure-devops/github-shots-bootcamp-live-on-microsoft-dev-radio-february-2022/m-p/3041259\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/34/github-xxl-xxl.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-01-13T12:59:17-05:00",
-            "date_modified": "2022-01-13T12:59:17-05:00"
         }
     ]
 }
