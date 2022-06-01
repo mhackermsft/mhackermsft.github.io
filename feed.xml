@@ -3,12 +3,42 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-05-27T10:57:42-04:00</updated>
+    <updated>2022-06-01T08:45:27-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>GitHub vs. ...</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/github-vs/"/>
+        <id>https://blog.mikehacker.net/github-vs/</id>
+            <category term="Articles"/>
+
+        <updated>2022-06-01T08:45:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/46/OctoCat.jpg" alt="" />
+                    GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/46/OctoCat.jpg" alt="" />
+                <p>GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest open-source software repository.  With so many other DevOps solutions available in the marketplace, you may be wondering which one will meet your organizations specific needs.  </p>
+<p>On the GitHub Vs. site you can see how GitHub compares to other DevOps solutions including:</p>
+<ul>
+<li>GitLab</li>
+<li>Bitbucket</li>
+<li>Jenkins</li>
+</ul>
+<p><a href="https://resources.github.com/devops/tools/compare/" target="_blank" rel="noopener noreferrer">Check out the comparison</a> and then <a href="https://github.com/organizations/enterprise_plan?ref_cta=Start%2520a%2520free%2520trial&amp;ref_loc=card&amp;ref_page=compete" target="_blank" rel="noopener noreferrer">start your free trial</a> of GitHub today.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | June 7 | Microsoft DevSecOps Forum</title>
         <author>
@@ -266,31 +296,6 @@
 <p>Christian Leinweber recently posted an article that outlines how he did a proof of concept on moving Azure Functions from Azure Kubernetes Service to Container Apps. This is a great read and shows the power of combining Azure Functions with other Azure services. <a href="https://dev.to/christle/moving-azure-functions-from-aks-to-container-apps-k60" target="_blank" rel="noopener noreferrer">Check out the article here</a>!</p>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Jan 27 | Introduction to: Quantum Computing</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/"/>
-        <id>https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/</id>
-            <category term="Events"/>
-
-        <updated>2022-01-26T09:13:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg" alt="" />
-                    January 27, 2022 10:00 am - 10:30 am Learn more about Azure Quantum’s full stack approach; from redefining the meaning&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg" alt="" />
-                <p><em>January 27, 2022 10:00 am - 10:30 am</em></p>
-<p>Learn more about Azure Quantum’s full stack approach; from redefining the meaning of computing and the path to scaled quantum computing to what tools are available today and how to get started having quantum impact today.</p>
-<p><a href="https://microsoftedu.eventbuilder.com/event/47145?source=PubSecSkillsPage" target="_blank" rel="noopener noreferrer">Learn more and register now!</a></p>
             ]]>
         </content>
     </entry>

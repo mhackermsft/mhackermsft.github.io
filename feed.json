@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/github-vs/",
+            "url": "https://blog.mikehacker.net/github-vs/",
+            "title": "GitHub vs. ...",
+            "summary": "GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest&hellip;",
+            "content_html": "<p>GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest open-source software repository.  With so many other DevOps solutions available in the marketplace, you may be wondering which one will meet your organizations specific needs.  </p>\n<p>On the GitHub Vs. site you can see how GitHub compares to other DevOps solutions including:</p>\n<ul>\n<li>GitLab</li>\n<li>Bitbucket</li>\n<li>Jenkins</li>\n</ul>\n<p><a href=\"https://resources.github.com/devops/tools/compare/\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the comparison</a> and then <a href=\"https://github.com/organizations/enterprise_plan?ref_cta=Start%2520a%2520free%2520trial&amp;ref_loc=card&amp;ref_page=compete\" target=\"_blank\" rel=\"noopener noreferrer\">start your free trial</a> of GitHub today.</p>",
+            "image": "https://blog.mikehacker.net/media/posts/46/OctoCat.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2022-06-01T08:45:27-04:00",
+            "date_modified": "2022-06-01T08:45:27-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/",
             "url": "https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/",
             "title": "Webinar | June 7 | Microsoft DevSecOps Forum",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2022-01-26T09:47:48-05:00",
             "date_modified": "2022-01-26T10:05:09-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/",
-            "url": "https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/",
-            "title": "Webinar | Jan 27 | Introduction to: Quantum Computing",
-            "summary": "January 27, 2022 10:00 am - 10:30 am Learn more about Azure Quantum’s full stack approach; from redefining the meaning&hellip;",
-            "content_html": "<p><em>January 27, 2022 10:00 am - 10:30 am</em></p>\n<p>Learn more about Azure Quantum’s full stack approach; from redefining the meaning of computing and the path to scaled quantum computing to what tools are available today and how to get started having quantum impact today.</p>\n<p><a href=\"https://microsoftedu.eventbuilder.com/event/47145?source=PubSecSkillsPage\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register now!</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-01-26T09:13:58-05:00",
-            "date_modified": "2022-01-26T09:13:58-05:00"
         }
     ]
 }
