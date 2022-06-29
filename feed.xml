@@ -3,7 +3,7 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-06-29T10:28:43-04:00</updated>
+    <updated>2022-06-29T10:48:26-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://blog.mikehacker.net/webinar-series-or-july-13-or-docker-and-kubernetes/</id>
             <category term="Events"/>
 
-        <updated>2022-06-29T10:28:43-04:00</updated>
+        <updated>2022-06-29T10:48:26-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/47/thumbnail_image002.png" alt="" />
@@ -28,7 +28,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://blog.mikehacker.net/media/posts/47/thumbnail_image002.png" alt="" />
-                <h2><span data-ogsc="black">Microsoft SLG Docker/Kubernetes Talks with Dr. Ron Sumida</span></h2>
+                <h2><span data-ogsc="black">Microsoft SLG Docker/Kubernetes Talks with Dr. Ron Sumida </span></h2>
 <p class="x_x_elementToProof">Microsoft and <span class="x_x_x_SpellE">atmosera</span> will be co-hosting a webinar series on Docker and Kubernetes starting on July 13, 2022.  Each webinar will be approximately 1 hour in length and will cover a specific topic related to Docker or Kubernetes.  Attendees of the event are encouraged to bring their questions about these technologies and ask them during the sessions!</p>
 <h3><span data-ogsc="black">Wednesday, July 13 – Docker Storage and Networking</span></h3>
 <p>Docker provides a number of options for storing data and for networking. This module discusses the techniques for sharing files between containers using volumes, sharing files with the host using bind mounts, and storing files in the host’s memory using <span class="x_x_x_SpellE">tmpfs</span> mounts. It also presents the available Docker networking drivers, with an emphasis on bridge networks, which connect containers running on the same host, and host networks, which enable binding the container directly to the host network.</p>
