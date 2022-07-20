@@ -3,14 +3,164 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-07-05T16:04:00-04:00</updated>
+    <updated>2022-07-20T11:08:52-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
     <entry>
-        <title>WEBINAR SERIES | JULY 13 | Docker &amp; Kubernetes</title>
+        <title>Microsoft Azure Virtual Training Day: Fundamentals | Aug 11 &amp; 12</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/microsoft-azure-virtual-training-day-fundamentals-or-aug-11-and-12/"/>
+        <id>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-fundamentals-or-aug-11-and-12/</id>
+            <category term="Events"/>
+
+        <updated>2022-07-20T11:08:52-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/53/logo2.png" alt="" />
+                    Microsoft Azure Virtual Training Day: Fundamentals Thursday, August 11, 2022 | 9:00 AM - 11:15 AM | (GMT-05:00) Eastern Time&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/53/logo2.png" alt="" />
+                <p><strong>Microsoft Azure Virtual Training Day: Fundamentals</strong><br><em>Thursday, August 11, 2022 | 9:00 AM - 11:15 AM | (GMT-05:00) Eastern Time (US &amp; Canada)</em><br><em>Friday, August 12, 2022 | 9:00 AM - 11:30 AM | (GMT-05:00) Eastern Time (US &amp; Canada)</em></p>
+<p>Join us at Microsoft Azure Virtual Training Day: Fundamentals for an introduction to cloud computing concepts, models, and services—from public to private to hybrid cloud. You’ll also learn the basics of infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Prepare to take full advantage of the key Azure pillars of security, privacy, compliance, and trust.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/349416/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Microsoft Azure Virtual Training Day: Modernize .NET Apps | Aug 1</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/microsoft-azure-virtual-training-day-modernize-net-apps-or-aug-1/"/>
+        <id>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-modernize-net-apps-or-aug-1/</id>
+            <category term="Events"/>
+
+        <updated>2022-07-20T11:07:11-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/52/logo2.png" alt="" />
+                    Microsoft Azure Virtual Training Day: Modernize .NET Apps Monday, August 1, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/52/logo2.png" alt="" />
+                <p><strong>Microsoft Azure Virtual Training Day: Modernize .NET Apps</strong><br><em>Monday, August 1, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em><br><em>Tuesday, August 2, 2022 | 10:00 AM - 12:15 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>
+<p>Join us at Microsoft Azure Virtual Training Day: Modernize .NET Apps to discover how to modernize your workloads and simplify the migration of your .NET apps to Azure. Get step-by-step guidance for migrating an existing .NET app, setting up the network, adding authorization and security, and monitoring the app. Learn how to autoscale apps, protect against threats, and create pipelines to build and deploy solutions faster and more reliably.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/349695/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Microsoft Azure Virtual Training Day: DevOps with GitHub | July 28 &amp; 29</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/microsoft-azure-virtual-training-day-devops-with-github-or-july-28-and-29/"/>
+        <id>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-devops-with-github-or-july-28-and-29/</id>
+            <category term="Events"/>
+
+        <updated>2022-07-20T11:05:29-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/51/logo2.png" alt="" />
+                    Microsoft Azure Virtual Training Day: DevOps with GitHub Thursday, July 28, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/51/logo2.png" alt="" />
+                <p><strong>Microsoft Azure Virtual Training Day: DevOps with GitHub</strong><br><em>Thursday, July 28, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em><br><em>Friday, July 29, 2022 | 10:00 AM - 12:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>
+<p>Join us at Microsoft Azure Virtual Training Day: DevOps with GitHub to learn about the tools and processes to help you communicate and collaborate more effectively. Learn how to implement DevOps concepts, manage the flow of work, and get step-by-step guidance for solving real-world challenges.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/345406/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Microsoft Azure Virtual Training Day: Cloud-Native Apps | July 26 &amp; 27</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/microsoft-azure-virtual-training-day-cloud-native-apps/"/>
+        <id>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-cloud-native-apps/</id>
+            <category term="Events"/>
+
+        <updated>2022-07-20T11:03:23-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/50/logo2.png" alt="" />
+                    Microsoft Azure Virtual Training Day: Cloud-Native Apps Tuesday, July 26, 2022 | 9:00 AM - 11:45 AM | (GMT-08:00) Pacific&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/50/logo2.png" alt="" />
+                <p><strong>Microsoft Azure Virtual Training Day: Cloud-Native Apps</strong><br><em>Tuesday, July 26, 2022 | 9:00 AM - 11:45 AM | (GMT-08:00) Pacific Time (US &amp; Canada)</em><br><em>Wednesday, July 27, 2022 | 9:00 AM - 11:45 AM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>
+<p>Join us at Microsoft Azure Virtual Training Day: Cloud-Native Apps to learn best practices for creating the foundation of your cloud-based environment. You’ll gain knowledge about selecting the best components for your apps, putting those components together, and deploying the completed apps to Azure. Discover the storage, security, and performance features that will help your web, mobile, and analytics apps thrive in the cloud.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/344597/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>.NET Modernization Workshop | August 26</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/net-modernization-workshop/"/>
+        <id>https://blog.mikehacker.net/net-modernization-workshop/</id>
+            <category term="Events"/>
+
+        <updated>2022-07-20T11:03:09-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/49/logo.png" alt="" />
+                    Microsoft Azure Immersion Workshop: .NET App Modernization Friday, August 26, 2022 | 11:00 AM - 3:30 PM | (GMT-05:00) Eastern Time&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/49/logo.png" alt="" />
+                <p><strong>Microsoft Azure Immersion Workshop: .NET App Modernization</strong><br><em><span id="onDemandDate" class="date">Friday, August 26, 2022 |</span> <span id="onDemandTime" class="time">11:00 AM - 3:30 PM | (GMT-05:00) Eastern Time (US &amp; Canada)</span></em></p>
+<p>Join Microsoft and a specialized partner to explore new and improved ways to manage and create efficiencies in your .NET application estate at Microsoft Azure Immersion Workshop: .NET App Modernization. You’ll learn how to evaluate and prioritize your .NET apps for modernization—while limiting interruptions, increasing resiliency and scalability, and preparing for migration and hosting on Azure.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/349451/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Modernize Java Apps Workshop | August 17</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/modernize-java-apps-workshop/"/>
+        <id>https://blog.mikehacker.net/modernize-java-apps-workshop/</id>
+            <category term="Events"/>
+
+        <updated>2022-07-20T11:03:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/48/logo.png" alt="" />
+                    Microsoft Azure Immersion Workshop: Modernize Java Apps Wednesday, August 17, 2022 | 10:00 AM - 3:45 PM | (GMT-08:00) Pacific Time&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/48/logo.png" alt="" />
+                <p><strong>Microsoft Azure Immersion Workshop: Modernize Java Apps</strong><br><em><span id="onDemandDate" class="date">Wednesday, August 17, 2022 |</span> <span id="onDemandTime" class="time">10:00 AM - 3:45 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</span></em></p>
+<p>Join Microsoft and a specialized partner for a comprehensive overview of the range of hosting options for Java apps on Azure at Microsoft Azure Immersion Workshop: Modernize Java Apps. You’ll learn how to design solutions using DevOps tooling and continuous integration and continuous delivery (CI/CD), secrets management, virtual networks, authentication and authorization, monitoring, and autoscaling.</p>
+<p><a href="https://mktoevents.com/Microsoft+Event/349538/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>WEBINAR SERIES | JULY 28 | Docker &amp; Kubernetes</title>
         <author>
             <name>Mike Hacker</name>
         </author>
@@ -18,7 +168,7 @@
         <id>https://blog.mikehacker.net/webinar-series-or-july-13-or-docker-and-kubernetes/</id>
             <category term="Events"/>
 
-        <updated>2022-07-05T16:04:00-04:00</updated>
+        <updated>2022-07-20T10:51:25-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/47/thumbnail_image002.png" alt="" />
@@ -32,7 +182,7 @@
 <p class="x_x_elementToProof">Microsoft and <span class="x_x_x_SpellE">atmosera</span> will be co-hosting a webinar series on Docker and Kubernetes starting on July 13, 2022.  Each webinar will be approximately 1 hour in length and will cover a specific topic related to Docker or Kubernetes.  Attendees of the event are encouraged to bring their questions about these technologies and ask them during the sessions!</p>
 <h3><span data-ogsc="black">Wednesday, July 13 – <strong>Build, Share and Run Applications by Containerizing with Docker</strong></span></h3>
 <p>The talk provides a general introduction to the motivation and architecture of containers and Docker. Containers are built from images and represent the fundamental building blocks of Docker. The talk discusses how to create, build, run and remove containers and images, and presents of overview of Docker storage and networking.</p>
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftraining.atmosera.com%2Fcourse%2Fmicrosoft-slg-docker-kubernetes-talks-with-ron-sumida%2F&amp;data=05%7C01%7Cmhacker%40microsoft.com%7Cff34f05784ba4cf3f6d208da59d9dde4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637921089514560613%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=772K4%2B0%2BNZnVEc8PpsU2%2FpBM8ixCPfPKeTRYTTgnSOU%3D&amp;reserved=0" data-auth="Verified" originalsrc="https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/" shash="lqSoraxljpSk+GCZtRLShYhef5PoYRroJLW45vhA17bJc3Yx54WMdxtSt+o4FHu0Ml9N9YChT/nPS/zgB9bD3DA2xvKa/777QIizqCly+QYNP3nwIMVWkenfhecvRazGx4IkOkXZOCNClLqZfTTYNj0x2c5eJ0Fc8snx2HlkNn0=" title="Original URL: https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/. Click or tap if you trust this link." data-linkindex="0" data-ogsc="">REGISTER NOW</a></p>
+<p> </p>
 <h3><span data-ogsc="black">Thursday, July 28 – Kubernetes Storage</span></h3>
 <p>Kubernetes has a wide range of different volume types for providing persistent and temporary storage. This module surveys the major volume types, with a detailed discussion of local and host path volumes. The module concludes by showing how to use persistent volumes by defining a Persistent Volume (PV), a Persistent Volume Claim (PVC), and a Pod that uses the PVC to request storage, and how to delete PVs and PVCs.</p>
 <p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftraining.atmosera.com%2Fcourse%2Fmicrosoft-slg-docker-kubernetes-talks-with-ron-sumida%2F&amp;data=05%7C01%7Cmhacker%40microsoft.com%7Cff34f05784ba4cf3f6d208da59d9dde4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637921089514560613%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=772K4%2B0%2BNZnVEc8PpsU2%2FpBM8ixCPfPKeTRYTTgnSOU%3D&amp;reserved=0" data-auth="Verified" originalsrc="https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/" shash="lqSoraxljpSk+GCZtRLShYhef5PoYRroJLW45vhA17bJc3Yx54WMdxtSt+o4FHu0Ml9N9YChT/nPS/zgB9bD3DA2xvKa/777QIizqCly+QYNP3nwIMVWkenfhecvRazGx4IkOkXZOCNClLqZfTTYNj0x2c5eJ0Fc8snx2HlkNn0=" title="Original URL: https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/. Click or tap if you trust this link." data-linkindex="1" data-ogsc="">REGISTER NOW</a></p>
@@ -131,176 +281,6 @@
                     <img src="https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png" alt="" />
                 <p>.NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer provide servicing updates, including security fixes or technical support, for .NET 5.0. You’ll need to update the version of .NET you’re using to a supported version (.NET 6.0) before this date in order to continue to receive updates.</p>
 <p><a href="https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/" target="_blank" rel="noopener noreferrer">Click here to learn more</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>.NET Framework 4.5.2, 4.6, and 4.6.1 End of Support</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/net-framework-452-46-and-461-end-of-support/"/>
-        <id>https://blog.mikehacker.net/net-framework-452-46-and-461-end-of-support/</id>
-            <category term="Announcements"/>
-
-        <updated>2022-04-12T09:39:40-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/42/dotnet-bot_handybot.png" alt="" />
-                    Just a reminder that .NET Framework versions 4.5.2, 4.6 and 4.6.1 will reach end of support on April 26, 2022.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/42/dotnet-bot_handybot.png" alt="" />
-                <p>Just a reminder that .NET Framework versions 4.5.2, 4.6 and 4.6.1 will reach end of support on April 26, 2022.</p>
-<p>Update your deployed runtime to version 4.6.2 by April 26th to continue to receive updates and technical support from Microsoft.  You do not need to recompile your application or retarget it to 4.6.2.</p>
-<p>For more information <a href="https://devblogs.microsoft.com/dotnet/dotnet-framework-45-46-461-end-of-support/" target="_blank" rel="noopener noreferrer">check out this link</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Apr 20 | Moving Beyond Lift and Shift</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-apr-20-or-moving-beyond-lift-and-shift/"/>
-        <id>https://blog.mikehacker.net/webinar-or-apr-20-or-moving-beyond-lift-and-shift/</id>
-            <category term="Events"/>
-
-        <updated>2022-04-08T09:11:44-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/41/cast.png" alt="" />
-                    Hosted by CAST Software | April 20, 1PM CST Moving beyond lift &amp; shift to modernize critical applications is a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/41/cast.png" alt="" />
-                <p><em>Hosted by CAST Software | April 20, 1PM CST</em></p>
-<p>Moving beyond lift &amp; shift to modernize critical applications is a high-stakes, high-anxiety affair for IT leaders, especially when looking at refactoring and shifting them to cloud. Lack of accurate knowledge and insight into the inner working of the applications further exacerbates the challenge during the migration process.</p>
-<p>CAST Software, a global leader in Software Intelligence and Application Modernization, will share how customers are refactoring and migrating applications to cloud with a smarter, transparent and more automated approach. Enterprises globally are using automated application insights from CAST to modernize legacy business critical applications with control, speed and accuracy leveraging cloud native micro services saving months of time and avoiding u-turns common to manual approach.</p>
-<p>In this session, CAST will share the approach and real-world examples.</p>
-<p>Learn about:</p>
-<ul>
-<li>Key challenges to be aware of when moving to cloud native and containers</li>
-<li>Benefits of refactoring apps for PaaS vs rehosting to IaaS</li>
-<li>How to use software intelligence to de-risk and accelerate the transformation</li>
-</ul>
-<p><a href="https://content.castsoftware.com/moving-beyond-lift-and-shift-to-modernize-business-critical-applications-cloud-natively-webinar?utm_campaign=2022_Q2_NA_Moving%20beyond%20lift%20%26shift%20MSFT%20Webinar&amp;utm_medium=email&amp;_hsmi=209333507&amp;_hsenc=p2ANqtz-9DkNK1LOtEyEGEPoXP2Q5U6J4IZ_SZFNJnQQt708oDBHhxZxolFtNXTMDj63vQ6ArTTVLewvgoQcNiKEnHkzjmJ8ZC0A&amp;utm_content=209333507&amp;utm_source=hs_email" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Build | May 24-26 2022</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/microsoft-build-or-may-24-26-2022/"/>
-        <id>https://blog.mikehacker.net/microsoft-build-or-may-24-26-2022/</id>
-            <category term="Events"/>
-
-        <updated>2022-05-27T10:57:29-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/40/Build2022-2.png" alt="" />
-                    Come together with peers and experts May 24–26, 2022, for an engaging experience around the latest in innovation and tools&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/40/Build2022-2.png" alt="" />
-                <p>Come together with peers and experts May 24–26, 2022, for an engaging experience around the latest in innovation and tools that will help you stay informed. </p>
-<p>Make sure you block out the dates on your calendar for this amazing event!</p>
-<p><a href="https://mybuild.microsoft.com/en-US/home" target="_blank" rel="noopener noreferrer">Learn more here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | APR 28 &amp; 29 | Modernize .NET Apps</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-apr-28-and-29-or-modernize-net-apps/"/>
-        <id>https://blog.mikehacker.net/webinar-or-apr-28-and-29-or-modernize-net-apps/</id>
-            <category term="Events"/>
-
-        <updated>2022-04-07T09:24:21-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/39/AzureTrainingDay.png" alt="" />
-                    Thursday, April 28, 2022 | 10:00 AM - 1:00 PM | (GMT-05:00) Eastern Time (US &amp; Canada) Friday, April 29,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/39/AzureTrainingDay.png" alt="" />
-                <p><em>Thursday, April 28, 2022 | 10:00 AM - 1:00 PM | (GMT-05:00) Eastern Time (US &amp; Canada)<br></em><br><em>Friday, April 29, 2022 | 10:00 AM - 12:15 PM | (GMT-05:00) Eastern Time (US &amp; Canada)</em></p>
-<p>Join us at Microsoft Azure Virtual Training Day: Modernize .NET Apps to discover how to modernize your workloads and simplify the migration of your .NET apps to Azure. Get step-by-step guidance for migrating an existing .NET app, setting up the network, adding authorization and security, and monitoring the app. Learn how to autoscale apps, protect against threats, and create pipelines to build and deploy solutions faster and more reliably.</p>
-<p>Who should attend:</p>
-<ul>
-<li>Developers</li>
-<li>IT professionals</li>
-</ul>
-<p>Technical level: Attendees are able to credibly discuss, offer perspective and integrate technology from minimumal practical experience.</p>
-<p>After completing this training, you will be able to:</p>
-<ul>
-<li>Learn about the best options for migrating your data.</li>
-<li>Modernize workloads and migrate live databases to the cloud quickly and easily.</li>
-<li>Use Azure Key Vault to autoscale and secure application configuration information.</li>
-</ul>
-<p><a href="https://mktoevents.com/Microsoft+Event/328657/157-GQE-382">Click here to learn more and register</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar: Hot Path vs. Cold Path: Which One Should My Data Take?</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/"/>
-        <id>https://blog.mikehacker.net/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/</id>
-            <category term="Events"/>
-
-        <updated>2022-03-17T09:25:45-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/38/webinar03242022.png" alt="" />
-                    March 24 | 2pm - 3pm Eastern | Hosted by atmosera “Hot Path” and “Cold Path” data are buzzwords in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/38/webinar03242022.png" alt="" />
-                <p><em>March 24 | 2pm - 3pm Eastern | Hosted by atmosera</em></p>
-<p>“Hot Path” and “Cold Path” data are buzzwords in data engineering. While the concepts themselves seem simple, it’s not always clear when one might want to use one or the other or even what constitutes one of the others. In the webinar, we’ll look at both of these and the supporting services on Azure that can make the Hot Path and Cold Path make sense. We’ll look at services like Event Hubs, Service Bus, Data Lakes, Data Factory, Stream Analytics, and others that support these workloads.</p>
-<p>Learn more and register <a href="https://atmosera.com/resources/event/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/" target="_blank" rel="noopener noreferrer">here</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | February 17 | Learn Kubernetes</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-february-17-or-learn-kubernetes/"/>
-        <id>https://blog.mikehacker.net/webinar-or-february-17-or-learn-kubernetes/</id>
-            <category term="Events"/>
-
-        <updated>2022-02-02T09:07:09-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/37/487-4870857_kubernetes-logo-kubernetes-png-transparent-png.jpg" alt="" />
-                    February 17, 3:00 PM Eastern - Hosted by Atmoseara and Microsoft Kubernetes is the king of container orchestration, and the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/37/487-4870857_kubernetes-logo-kubernetes-png-transparent-png.jpg" alt="" />
-                <p><em>February 17, 3:00 PM Eastern - Hosted by Atmoseara and Microsoft</em></p>
-<p>Kubernetes is the king of container orchestration, and the results are clear: more than ever, employers are looking for IT professionals that know Kubernetes. It can, however, be hard to get started with Kubernetes because it is not trivial software.<br><br>In this webinar, we’ll help you get started with Kubernetes, particularly Azure Kubernetes Services, as we break it down into bite-size chunks so you can get a jump start on your Kubernetes experience. The event will be followed by a live Q&amp;A with Atmosera's Azure MVP Blaize Stewart and Microsoft's Heather Brevard.<br><br>- Understanding Kubernetes Architecture<br>- Working With Controllers<br>- Deploying Containers as Pods<br>- Exposing Pods to A Network with Services<br>- Controlling HTTP Traffic with Ingress</p>
-<p><a href="https://www.atmosera.com/resources/event/virtual-event-come-learn-kubernetes-with-atmosera-microsoft/?utm_campaign=Event%3A%20Come%20Learn%20Kubernetes%20with%20Microsoft%20%26%20Atmosera&amp;utm_medium=email&amp;_hsmi=202638986&amp;_hsenc=p2ANqtz-_yyifxaaGi69fQzGrGWMxXKqNC-BUq8XQNu6nEHc0vFtboOPtnrMYcplLDkR8b8nc-hCaFT1AjYpwOZz1xTb0QplM6VA&amp;utm_content=202638986&amp;utm_source=hs_email" target="_blank" rel="noopener noreferrer">Register here</a></p>
             ]]>
         </content>
     </entry>
