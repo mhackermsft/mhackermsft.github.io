@@ -3,12 +3,39 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-07-20T11:08:52-04:00</updated>
+    <updated>2022-07-21T09:03:08-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Understanding Azure App Services | Webinar | July 27</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/"/>
+        <id>https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/</id>
+            <category term="Events"/>
+
+        <updated>2022-07-21T09:03:08-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/54/atmosera.png" alt="" />
+                    July 27th, 2022 11 am PT / 2 pm ET Azure App Services is a Swiss Army Knife for apps&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/54/atmosera.png" alt="" />
+                <p><em>July 27th, 2022 11 am PT / 2 pm ET</em></p>
+<p>Azure App Services is a Swiss Army Knife for apps on Azure. It provides out-of-the-box features for running apps in many popular languages like .net, Java, PHP, Node JS, and Python. And even if you can't run it natively, there's probably a way to handle it.</p>
+<p>In this webinar, we'll look at the features and functions of App Services and how to make your app run on Azure.</p>
+<p>This webinar will be followed by a live Q&amp;A.</p>
+<p><a href="https://www.atmosera.com/resources/event/understanding-azure-app-services/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Microsoft Azure Virtual Training Day: Fundamentals | Aug 11 &amp; 12</title>
         <author>
@@ -257,30 +284,6 @@
 </ol>
 <p>Even if your organization is in the early stages of adopting DevSecOps, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, so RSVP now to reserve yours!</p>
 <p><a href="https://mktoevents.com/Microsoft+Event/340150/157-GQE-382" target="_blank" rel="noopener noreferrer">Click here to learn more and register</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>.NET 5.0 End of Support</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/net-50-end-of-support/"/>
-        <id>https://blog.mikehacker.net/net-50-end-of-support/</id>
-            <category term="Announcements"/>
-
-        <updated>2022-04-12T09:41:05-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png" alt="" />
-                    .NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png" alt="" />
-                <p>.NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer provide servicing updates, including security fixes or technical support, for .NET 5.0. You’ll need to update the version of .NET you’re using to a supported version (.NET 6.0) before this date in order to continue to receive updates.</p>
-<p><a href="https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/" target="_blank" rel="noopener noreferrer">Click here to learn more</a></p>
             ]]>
         </content>
     </entry>

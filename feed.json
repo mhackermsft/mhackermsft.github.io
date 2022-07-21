@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/",
+            "url": "https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/",
+            "title": "Understanding Azure App Services | Webinar | July 27",
+            "summary": "July 27th, 2022 11 am PT / 2 pm ET Azure App Services is a Swiss Army Knife for apps&hellip;",
+            "content_html": "<p><em>July 27th, 2022 11 am PT / 2 pm ET</em></p>\n<p>Azure App Services is a Swiss Army Knife for apps on Azure. It provides out-of-the-box features for running apps in many popular languages like .net, Java, PHP, Node JS, and Python. And even if you can't run it natively, there's probably a way to handle it.</p>\n<p>In this webinar, we'll look at the features and functions of App Services and how to make your app run on Azure.</p>\n<p>This webinar will be followed by a live Q&amp;A.</p>\n<p><a href=\"https://www.atmosera.com/resources/event/understanding-azure-app-services/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/54/atmosera.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-07-21T09:03:08-04:00",
+            "date_modified": "2022-07-21T09:03:08-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/microsoft-azure-virtual-training-day-fundamentals-or-aug-11-and-12/",
             "url": "https://blog.mikehacker.net/microsoft-azure-virtual-training-day-fundamentals-or-aug-11-and-12/",
             "title": "Microsoft Azure Virtual Training Day: Fundamentals | Aug 11 &amp; 12",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2022-05-10T12:56:04-04:00",
             "date_modified": "2022-06-29T10:25:46-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/net-50-end-of-support/",
-            "url": "https://blog.mikehacker.net/net-50-end-of-support/",
-            "title": ".NET 5.0 End of Support",
-            "summary": ".NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer&hellip;",
-            "content_html": "<p>.NET 5.0 will reach end of support on May 08, 2022. After the .NET May updates, Microsoft will no longer provide servicing updates, including security fixes or technical support, for .NET 5.0. You’ll need to update the version of .NET you’re using to a supported version (.NET 6.0) before this date in order to continue to receive updates.</p>\n<p><a href=\"https://devblogs.microsoft.com/dotnet/dotnet-5-end-of-support-update/\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to learn more</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Announcements"
-            ],
-            "date_published": "2022-04-12T09:41:05-04:00",
-            "date_modified": "2022-04-12T09:41:05-04:00"
         }
     ]
 }
