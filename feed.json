@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/net-conf-or-focus-on-maui-or-aug-9/",
+            "url": "https://blog.mikehacker.net/net-conf-or-focus-on-maui-or-aug-9/",
+            "title": ".NET Conf | Focus on MAUI | Aug. 9",
+            "summary": ".NET Conf: Focus on MAUI is a free, one-day livestream event that features speakers from the community and Microsoft teams working&hellip;",
+            "content_html": "<p><em>.NET Conf: Focus on MAUI</em> is a free, one-day livestream event that features speakers from the community and Microsoft teams working on and using <a href=\"https://dot.net/maui\" target=\"_blank\" rel=\"noopener\">.NET Multi-platform App UI</a>. Learn how to build native apps for Android, iOS, macOS and Windows with a single codebase using .NET MAUI. Hear from the team building the .NET MAUI framework and tools as well as experts building .NET MAUI apps, libraries, components and controls.</p>\n<p><a href=\"https://focus.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more here</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/56/hero.svg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-08-02T12:59:09-04:00",
+            "date_modified": "2022-08-02T12:59:09-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/",
             "url": "https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/",
             "title": "Microsoft Power Platform Conference | Sept 20 - 23 | Orlando, FL",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2022-06-29T10:28:38-04:00",
             "date_modified": "2022-08-02T09:43:06-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/github-vs/",
-            "url": "https://blog.mikehacker.net/github-vs/",
-            "title": "GitHub vs. ...",
-            "summary": "GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest&hellip;",
-            "content_html": "<p>GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest open-source software repository.  With so many other DevOps solutions available in the marketplace, you may be wondering which one will meet your organizations specific needs.  </p>\n<p>On the GitHub Vs. site you can see how GitHub compares to other DevOps solutions including:</p>\n<ul>\n<li>GitLab</li>\n<li>Bitbucket</li>\n<li>Jenkins</li>\n</ul>\n<p><a href=\"https://resources.github.com/devops/tools/compare/\" target=\"_blank\" rel=\"noopener noreferrer\">Check out the comparison</a> and then <a href=\"https://github.com/organizations/enterprise_plan?ref_cta=Start%2520a%2520free%2520trial&amp;ref_loc=card&amp;ref_page=compete\" target=\"_blank\" rel=\"noopener noreferrer\">start your free trial</a> of GitHub today.</p>",
-            "image": "https://blog.mikehacker.net/media/posts/46/OctoCat.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Articles"
-            ],
-            "date_published": "2022-06-01T08:45:27-04:00",
-            "date_modified": "2022-06-01T08:45:27-04:00"
         }
     ]
 }

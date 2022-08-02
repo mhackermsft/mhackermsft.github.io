@@ -3,12 +3,36 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-08-02T09:43:06-04:00</updated>
+    <updated>2022-08-02T12:59:09-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>.NET Conf | Focus on MAUI | Aug. 9</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/net-conf-or-focus-on-maui-or-aug-9/"/>
+        <id>https://blog.mikehacker.net/net-conf-or-focus-on-maui-or-aug-9/</id>
+            <category term="Events"/>
+
+        <updated>2022-08-02T12:59:09-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/56/hero.svg" alt="" />
+                    .NET Conf: Focus on MAUI is a free, one-day livestream event that features speakers from the community and Microsoft teams working&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/56/hero.svg" alt="" />
+                <p><em>.NET Conf: Focus on MAUI</em> is a free, one-day livestream event that features speakers from the community and Microsoft teams working on and using <a href="https://dot.net/maui" target="_blank" rel="noopener">.NET Multi-platform App UI</a>. Learn how to build native apps for Android, iOS, macOS and Windows with a single codebase using .NET MAUI. Hear from the team building the .NET MAUI framework and tools as well as experts building .NET MAUI apps, libraries, components and controls.</p>
+<p><a href="https://focus.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Learn more here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Microsoft Power Platform Conference | Sept 20 - 23 | Orlando, FL</title>
         <author>
@@ -262,36 +286,6 @@
 <p>He still has a passion for user interfaces, having also authored a course on Windows Forms and having taught courses in WPF, Silverlight, Expression Blend and ASP.NET <span class="x_x_x_SpellE">WebForms</span> and MVC. Dr. Sumida also is passionate about multithreaded programming, having worked extensively with threads from the days of Win32 through the current versions of .NET. Ron is also an early adopter and course author for .NET Core/5.0.  He teaches a wide range of other .NET related topics, including (but not limited to): C#, <span class="x_x_x_SpellE">Linq</span>, What’s New in .NET, WCF, Windows Workflow, Advanced .NET, debugging, entity framework, web programming, Azure, and Artificial Intelligence and Machine Learning.</p>
 <p>He received his PhD in Artificial Intelligence from UCLA, where he conducted research on applying neural networks to problems in natural language processing (NLP). Dr. Sumida has spoken at a number of AI and Neural Network conferences, including the Conference of the Cognitive Science Society (<span class="x_x_x_SpellE">CogSci</span>), the International Joint Conference on Artificial Intelligence (IJCAI) and the Conference on Neural Information Processing Systems (NIPS).  He was a Teaching Associate at the UCLA Computer Science Department, where he presented weekly lectures on LISP, MS-DOS, Artificial Intelligence, and Natural Language Processing, and provided students with assistance on programming projects. His dissertation involved integrating the best features of symbolic and neural network approaches to NLP.</p>
 <p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftraining.atmosera.com%2Fcourse%2Fmicrosoft-slg-docker-kubernetes-talks-with-ron-sumida%2F&amp;data=05%7C01%7Cmhacker%40microsoft.com%7Cff34f05784ba4cf3f6d208da59d9dde4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637921089514560613%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=772K4%2B0%2BNZnVEc8PpsU2%2FpBM8ixCPfPKeTRYTTgnSOU%3D&amp;reserved=0" data-auth="Verified" originalsrc="https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/" shash="lqSoraxljpSk+GCZtRLShYhef5PoYRroJLW45vhA17bJc3Yx54WMdxtSt+o4FHu0Ml9N9YChT/nPS/zgB9bD3DA2xvKa/777QIizqCly+QYNP3nwIMVWkenfhecvRazGx4IkOkXZOCNClLqZfTTYNj0x2c5eJ0Fc8snx2HlkNn0=" title="Original URL: https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/. Click or tap if you trust this link." data-linkindex="3" data-ogsc="">REGISTER NOW</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>GitHub vs. ...</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/github-vs/"/>
-        <id>https://blog.mikehacker.net/github-vs/</id>
-            <category term="Articles"/>
-
-        <updated>2022-06-01T08:45:27-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/46/OctoCat.jpg" alt="" />
-                    GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/46/OctoCat.jpg" alt="" />
-                <p>GitHub Enterprise is used by over 90% of the Fortune 500 companies and is also home to the world's largest open-source software repository.  With so many other DevOps solutions available in the marketplace, you may be wondering which one will meet your organizations specific needs.  </p>
-<p>On the GitHub Vs. site you can see how GitHub compares to other DevOps solutions including:</p>
-<ul>
-<li>GitLab</li>
-<li>Bitbucket</li>
-<li>Jenkins</li>
-</ul>
-<p><a href="https://resources.github.com/devops/tools/compare/" target="_blank" rel="noopener noreferrer">Check out the comparison</a> and then <a href="https://github.com/organizations/enterprise_plan?ref_cta=Start%2520a%2520free%2520trial&amp;ref_loc=card&amp;ref_page=compete" target="_blank" rel="noopener noreferrer">start your free trial</a> of GitHub today.</p>
             ]]>
         </content>
     </entry>
