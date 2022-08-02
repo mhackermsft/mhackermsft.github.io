@@ -3,7 +3,7 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-08-02T09:38:29-04:00</updated>
+    <updated>2022-08-02T09:43:06-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -228,7 +228,7 @@
         </content>
     </entry>
     <entry>
-        <title>WEBINAR SERIES | JULY 28 | Docker &amp; Kubernetes</title>
+        <title>WEBINAR SERIES | Aug 10 | Docker &amp; Kubernetes</title>
         <author>
             <name>Mike Hacker</name>
         </author>
@@ -236,7 +236,7 @@
         <id>https://blog.mikehacker.net/webinar-series-or-july-13-or-docker-and-kubernetes/</id>
             <category term="Events"/>
 
-        <updated>2022-07-20T10:51:25-04:00</updated>
+        <updated>2022-08-02T09:43:06-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/47/thumbnail_image002.png" alt="" />
@@ -253,7 +253,7 @@
 <p> </p>
 <h3><span data-ogsc="black">Thursday, July 28 – Kubernetes Storage</span></h3>
 <p>Kubernetes has a wide range of different volume types for providing persistent and temporary storage. This module surveys the major volume types, with a detailed discussion of local and host path volumes. The module concludes by showing how to use persistent volumes by defining a Persistent Volume (PV), a Persistent Volume Claim (PVC), and a Pod that uses the PVC to request storage, and how to delete PVs and PVCs.</p>
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftraining.atmosera.com%2Fcourse%2Fmicrosoft-slg-docker-kubernetes-talks-with-ron-sumida%2F&amp;data=05%7C01%7Cmhacker%40microsoft.com%7Cff34f05784ba4cf3f6d208da59d9dde4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637921089514560613%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=772K4%2B0%2BNZnVEc8PpsU2%2FpBM8ixCPfPKeTRYTTgnSOU%3D&amp;reserved=0" data-auth="Verified" originalsrc="https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/" shash="lqSoraxljpSk+GCZtRLShYhef5PoYRroJLW45vhA17bJc3Yx54WMdxtSt+o4FHu0Ml9N9YChT/nPS/zgB9bD3DA2xvKa/777QIizqCly+QYNP3nwIMVWkenfhecvRazGx4IkOkXZOCNClLqZfTTYNj0x2c5eJ0Fc8snx2HlkNn0=" title="Original URL: https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/. Click or tap if you trust this link." data-linkindex="1" data-ogsc="">REGISTER NOW</a></p>
+<p> </p>
 <h3><span data-ogsc="black">Wednesday, August 10 – Azure Kubernetes Service and DevOps</span></h3>
 <p>Modern software development best practices mandate the use of a CI/CD solution. Azure DevOps provides the requisite support for the critical parts of the software development process, from planning to building to deploying applications. This module shows how to use Azure DevOps in conjunction with AKS. Specifically, it discusses how to create a CI/CD pipeline that pushes an updated image to the ACR every time a GIT code repo is modified and that deploys the changes to AKS.</p>
 <p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftraining.atmosera.com%2Fcourse%2Fmicrosoft-slg-docker-kubernetes-talks-with-ron-sumida%2F&amp;data=05%7C01%7Cmhacker%40microsoft.com%7Cff34f05784ba4cf3f6d208da59d9dde4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637921089514560613%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=772K4%2B0%2BNZnVEc8PpsU2%2FpBM8ixCPfPKeTRYTTgnSOU%3D&amp;reserved=0" data-auth="Verified" originalsrc="https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/" shash="lqSoraxljpSk+GCZtRLShYhef5PoYRroJLW45vhA17bJc3Yx54WMdxtSt+o4FHu0Ml9N9YChT/nPS/zgB9bD3DA2xvKa/777QIizqCly+QYNP3nwIMVWkenfhecvRazGx4IkOkXZOCNClLqZfTTYNj0x2c5eJ0Fc8snx2HlkNn0=" title="Original URL: https://training.atmosera.com/course/microsoft-slg-docker-kubernetes-talks-with-ron-sumida/. Click or tap if you trust this link." data-linkindex="2" data-ogsc="">REGISTER NOW</a></p>
