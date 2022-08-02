@@ -3,12 +3,53 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-07-21T09:03:08-04:00</updated>
+    <updated>2022-08-02T09:38:29-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Microsoft Power Platform Conference | Sept 20 - 23 | Orlando, FL</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/"/>
+        <id>https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/</id>
+            <category term="Events"/>
+
+        <updated>2022-08-02T09:38:29-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/55/mascot-standing.svg" alt="" />
+                    Produced by Power Platform Conf | Sponsored by Microsoft We are excited to announce the first annual Microsoft Power Platform Conference&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/55/mascot-standing.svg" alt="" />
+                <div class="col-md-12">
+<p><em>Produced by Power Platform Conf | Sponsored by Microsoft</em></p>
+</div>
+<div class="col-md-12">
+<p>We are excited to announce the first annual <strong>Microsoft Power Platform Conference 2022</strong>! This event is sponsored by Microsoft and will be held in-person on September 20-22 in Orlando, Florida.</p>
+<p>Come and get inspired by Microsoft’s senior thought leaders, software engineers, and community experts who are focused on uniting humanity and technology. You’ll also have the chance to hear from users that solve real business problems daily. Our fantastic speakers are ready to share their insights on how to accelerate and transform your business with Power Platform.</p>
+<p>This one-of-a-kind event is <strong>dedicated</strong> to Microsoft Power Platform products including Power Apps, Power Automate, Power BI, Power Pages, and Power Virtual Agents.</p>
+<p>You’ll have insider access to all the information, opportunities, and connections you need to further your Power Platform journey.</p>
+<ul class="text-normal">
+<li><strong>Understand how your peers</strong> are using the Power Platform and putting them to work</li>
+<li><strong>Get new ideas</strong> on how you can utilize the tools in more useful ways</li>
+<li><strong>Meet new #PowerAddicts</strong> just like you!</li>
+<li><strong>Learn about</strong> all the tools in the platform</li>
+<li><strong>Give your organization the edge it needs</strong> to provide a more productive and exciting work environment</li>
+<li><strong>Ask product experts</strong> your questions during the live Q&amp;A</li>
+</ul>
+<p><strong>+ Conference-exclusive night, in partnership with Microsoft, at Universal Orlando, home to the Wizarding World of Harry Potter® and Islands of Adventure™!</strong></p>
+<p><a href="https://www.powerplatformconf.com/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Understanding Azure App Services | Webinar | July 27</title>
         <author>
@@ -251,39 +292,6 @@
 <li>Jenkins</li>
 </ul>
 <p><a href="https://resources.github.com/devops/tools/compare/" target="_blank" rel="noopener noreferrer">Check out the comparison</a> and then <a href="https://github.com/organizations/enterprise_plan?ref_cta=Start%2520a%2520free%2520trial&amp;ref_loc=card&amp;ref_page=compete" target="_blank" rel="noopener noreferrer">start your free trial</a> of GitHub today.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | June 7 | Microsoft DevSecOps Forum</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/"/>
-        <id>https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/</id>
-            <category term="Events"/>
-
-        <updated>2022-06-29T10:25:46-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/44/backgroundevent.jfif" alt="" />
-                    Tuesday, June 7, 2022 | 9:00 AM - 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada) Join us for an&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/44/backgroundevent.jfif" alt="" />
-                <p><em><span class="date"><bdo dir="auto">Tuesday, June 7, 2022 | </bdo></span><span class="time"><bdo dir="auto">9:00 AM - 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</bdo></span></em></p>
-<p>Join us for an intimate virtual forum and learn how to build secure apps with collaborative DevSecOps practices from the experts at Microsoft, GitHub, and Atmosera, Inc. What’s in store during the event:</p>
-<ol>
-<li>Learn about DevSecOps and how to integrate security into your DevOps practices.</li>
-<li>Find out how to build secure apps with collaborative DevSecOps practices shown through technical demos.</li>
-<li>A panel that speaks to the ever-growing threat landscape, how developers and security practitioners are impacted, and how implementing security earlier can help.</li>
-<li>Walkthrough how GitHub leverages GitHub Advanced Security to secure their code, dependencies, and secrets.</li>
-<li>Check out some real-world examples of how our customers have prospered after incorporating a DevSecOps approach.</li>
-</ol>
-<p>Even if your organization is in the early stages of adopting DevSecOps, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, so RSVP now to reserve yours!</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/340150/157-GQE-382" target="_blank" rel="noopener noreferrer">Click here to learn more and register</a></p>
             ]]>
         </content>
     </entry>

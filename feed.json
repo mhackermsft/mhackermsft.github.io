@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/",
+            "url": "https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/",
+            "title": "Microsoft Power Platform Conference | Sept 20 - 23 | Orlando, FL",
+            "summary": "Produced by Power Platform Conf | Sponsored by Microsoft We are excited to announce the first annual Microsoft Power Platform Conference&hellip;",
+            "content_html": "<div class=\"col-md-12\">\n<p><em>Produced by Power Platform Conf | Sponsored by Microsoft</em></p>\n</div>\n<div class=\"col-md-12\">\n<p>We are excited to announce the first annual <strong>Microsoft Power Platform Conference 2022</strong>! This event is sponsored by Microsoft and will be held in-person on September 20-22 in Orlando, Florida.</p>\n<p>Come and get inspired by Microsoft’s senior thought leaders, software engineers, and community experts who are focused on uniting humanity and technology. You’ll also have the chance to hear from users that solve real business problems daily. Our fantastic speakers are ready to share their insights on how to accelerate and transform your business with Power Platform.</p>\n<p>This one-of-a-kind event is <strong>dedicated</strong> to Microsoft Power Platform products including Power Apps, Power Automate, Power BI, Power Pages, and Power Virtual Agents.</p>\n<p>You’ll have insider access to all the information, opportunities, and connections you need to further your Power Platform journey.</p>\n<ul class=\"text-normal\">\n<li><strong>Understand how your peers</strong> are using the Power Platform and putting them to work</li>\n<li><strong>Get new ideas</strong> on how you can utilize the tools in more useful ways</li>\n<li><strong>Meet new #PowerAddicts</strong> just like you!</li>\n<li><strong>Learn about</strong> all the tools in the platform</li>\n<li><strong>Give your organization the edge it needs</strong> to provide a more productive and exciting work environment</li>\n<li><strong>Ask product experts</strong> your questions during the live Q&amp;A</li>\n</ul>\n<p><strong>+ Conference-exclusive night, in partnership with Microsoft, at Universal Orlando, home to the Wizarding World of Harry Potter® and Islands of Adventure™!</strong></p>\n<p><a href=\"https://www.powerplatformconf.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>\n</div>",
+            "image": "https://blog.mikehacker.net/media/posts/55/mascot-standing.svg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2022-08-02T09:38:29-04:00",
+            "date_modified": "2022-08-02T09:38:29-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/",
             "url": "https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/",
             "title": "Understanding Azure App Services | Webinar | July 27",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2022-06-01T08:45:27-04:00",
             "date_modified": "2022-06-01T08:45:27-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/",
-            "url": "https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/",
-            "title": "Webinar | June 7 | Microsoft DevSecOps Forum",
-            "summary": "Tuesday, June 7, 2022 | 9:00 AM - 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada) Join us for an&hellip;",
-            "content_html": "<p><em><span class=\"date\"><bdo dir=\"auto\">Tuesday, June 7, 2022 | </bdo></span><span class=\"time\"><bdo dir=\"auto\">9:00 AM - 12:30 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</bdo></span></em></p>\n<p>Join us for an intimate virtual forum and learn how to build secure apps with collaborative DevSecOps practices from the experts at Microsoft, GitHub, and Atmosera, Inc. What’s in store during the event:</p>\n<ol>\n<li>Learn about DevSecOps and how to integrate security into your DevOps practices.</li>\n<li>Find out how to build secure apps with collaborative DevSecOps practices shown through technical demos.</li>\n<li>A panel that speaks to the ever-growing threat landscape, how developers and security practitioners are impacted, and how implementing security earlier can help.</li>\n<li>Walkthrough how GitHub leverages GitHub Advanced Security to secure their code, dependencies, and secrets.</li>\n<li>Check out some real-world examples of how our customers have prospered after incorporating a DevSecOps approach.</li>\n</ol>\n<p>Even if your organization is in the early stages of adopting DevSecOps, you can still learn how to unlock your company’s full potential. In an effort to keep discussions intimate and engaging, seats will be limited, so RSVP now to reserve yours!</p>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/340150/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to learn more and register</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/44/backgroundevent.jfif",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-05-10T12:56:04-04:00",
-            "date_modified": "2022-06-29T10:25:46-04:00"
         }
     ]
 }
