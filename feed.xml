@@ -3,12 +3,38 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2022-08-26T09:01:57-04:00</updated>
+    <updated>2022-10-19T09:14:32-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Webinar | The Power of Training | Oct 27</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/"/>
+        <id>https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/</id>
+            <category term="Events"/>
+
+        <updated>2022-10-19T09:14:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/58/atmosera.png" alt="" />
+                    October 27, 2:00 pm - 3:00 pm EDT presented by atmosera Are your top technical performers potentially hurting your organization&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.mikehacker.net/media/posts/58/atmosera.png" alt="" />
+                <p><em>October 27, 2:00 pm - 3:00 pm EDT presented by atmosera</em></p>
+<p>Are your top technical performers potentially hurting your organization without you realizing it? Do you ask yourself if you should hire top new talent or invest in current team members? Are you losing talent to competitors causing a backlog of projects and a standstill on innovation?<br><br>If any of these questions resonate with you, it might be time to consider the power of training. Join our webinar on October 27th outlining the power training has had for organizations and explore what steps you can take to put the power back in your hands. We will look at concrete examples and trending data to help you make sense of the value training will bring to your organization. Anyone who helps oversee technical teams within their organization should attend this eye-opening webinar.</p>
+<p><a href="https://www.atmosera.com/resources/event/the-power-of-training/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Azure Training for Developers</title>
         <author>
@@ -308,31 +334,6 @@
                 <p><strong>Microsoft Azure Virtual Training Day: Cloud-Native Apps</strong><br><em>Tuesday, July 26, 2022 | 9:00 AM - 11:45 AM | (GMT-08:00) Pacific Time (US &amp; Canada)</em><br><em>Wednesday, July 27, 2022 | 9:00 AM - 11:45 AM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>
 <p>Join us at Microsoft Azure Virtual Training Day: Cloud-Native Apps to learn best practices for creating the foundation of your cloud-based environment. You’ll gain knowledge about selecting the best components for your apps, putting those components together, and deploying the completed apps to Azure. Discover the storage, security, and performance features that will help your web, mobile, and analytics apps thrive in the cloud.</p>
 <p><a href="https://mktoevents.com/Microsoft+Event/344597/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>.NET Modernization Workshop | August 26</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/net-modernization-workshop/"/>
-        <id>https://blog.mikehacker.net/net-modernization-workshop/</id>
-            <category term="Events"/>
-
-        <updated>2022-07-20T11:03:09-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/49/logo.png" alt="" />
-                    Microsoft Azure Immersion Workshop: .NET App Modernization Friday, August 26, 2022 | 11:00 AM - 3:30 PM | (GMT-05:00) Eastern Time&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blog.mikehacker.net/media/posts/49/logo.png" alt="" />
-                <p><strong>Microsoft Azure Immersion Workshop: .NET App Modernization</strong><br><em><span id="onDemandDate" class="date">Friday, August 26, 2022 |</span> <span id="onDemandTime" class="time">11:00 AM - 3:30 PM | (GMT-05:00) Eastern Time (US &amp; Canada)</span></em></p>
-<p>Join Microsoft and a specialized partner to explore new and improved ways to manage and create efficiencies in your .NET application estate at Microsoft Azure Immersion Workshop: .NET App Modernization. You’ll learn how to evaluate and prioritize your .NET apps for modernization—while limiting interruptions, increasing resiliency and scalability, and preparing for migration and hosting on Azure.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/349451/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
             ]]>
         </content>
     </entry>
