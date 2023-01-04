@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/application-modernization/",
+            "url": "https://blog.mikehacker.net/application-modernization/",
+            "title": "Application Modernization",
+            "summary": "Modernizing applications is an essential part of any business' digital strategy. It helps organizations stay competitive, improve efficiency, and enhance&hellip;",
+            "content_html": "<p>Modernizing applications is an essential part of any business' digital strategy. It helps organizations stay competitive, improve efficiency, and enhance the user experience. In this blog post, we'll explore the benefits of modernizing applications and why it's important to do so.</p>\n<p>One of the main benefits of modernizing applications is increased efficiency. Outdated applications can be slow and cumbersome, causing delays and frustration for users. Modernizing these applications can help streamline processes and improve the speed and performance of the application. This can lead to increased productivity and a better user experience.</p>\n<p>Another benefit of modernizing applications is the ability to integrate new technologies and features. As new technologies emerge, it's important for businesses to be able to take advantage of them in order to stay competitive. Modernizing applications allows organizations to incorporate new technologies, such as artificial intelligence and machine learning, and offer more advanced capabilities to their users.</p>\n<p>In addition to increased efficiency and the ability to incorporate new technologies, modernizing applications can also improve security. Cybersecurity threats are constantly evolving, and outdated applications may not have the necessary security measures in place to protect against these threats. Modernizing applications can help ensure that they are secure and compliant with industry standards and regulations. According to a report by Cybersecurity Ventures, cybercrime is expected to cost the world $10.5 trillion annually by 2025. Modernizing applications can help protect against these threats and prevent costly data breaches.</p>\n<p>The importance of modernizing applications is clear, but what about the tangible benefits? According to a survey conducted by Digital Shift, modernizing applications resulted in an average of 20% cost savings for organizations. It can also lead to increased revenue, with another survey finding that modernizing applications resulted in a 20-30% increase in revenue for businesses.</p>\n<p>In conclusion, modernizing applications is an essential part of any digital strategy. It can lead to increased efficiency, the ability to incorporate new technologies, improved security, and cost savings and increased revenue. Don't let your organization fall behind – make sure to prioritize modernizing your applications.</p>",
+            "image": "https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2023-01-04T11:26:29-05:00",
+            "date_modified": "2023-01-04T11:26:39-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/net-conf-2022/",
             "url": "https://blog.mikehacker.net/net-conf-2022/",
             "title": ".NET CONF 2022",
@@ -23,7 +39,7 @@
                    "Events"
             ],
             "date_published": "2022-11-16T09:26:18-05:00",
-            "date_modified": "2022-11-16T09:26:18-05:00"
+            "date_modified": "2023-01-04T11:26:36-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2022-07-20T11:07:11-04:00",
             "date_modified": "2022-07-20T11:07:11-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/microsoft-azure-virtual-training-day-devops-with-github-or-july-28-and-29/",
-            "url": "https://blog.mikehacker.net/microsoft-azure-virtual-training-day-devops-with-github-or-july-28-and-29/",
-            "title": "Microsoft Azure Virtual Training Day: DevOps with GitHub | July 28 &amp; 29",
-            "summary": "Microsoft Azure Virtual Training Day: DevOps with GitHub Thursday, July 28, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00)&hellip;",
-            "content_html": "<p><strong>Microsoft Azure Virtual Training Day: DevOps with GitHub</strong><br><em>Thursday, July 28, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em><br><em>Friday, July 29, 2022 | 10:00 AM - 12:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>\n<p>Join us at Microsoft Azure Virtual Training Day: DevOps with GitHub to learn about the tools and processes to help you communicate and collaborate more effectively. Learn how to implement DevOps concepts, manage the flow of work, and get step-by-step guidance for solving real-world challenges.</p>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/345406/157-GQE-382\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/51/logo2.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-07-20T11:05:29-04:00",
-            "date_modified": "2022-07-20T11:05:29-04:00"
         }
     ]
 }
