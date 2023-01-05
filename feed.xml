@@ -3,12 +3,63 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-01-04T11:26:39-05:00</updated>
+    <updated>2023-01-05T10:55:39-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Modernization is Expensive</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/modernization-is-expensive/"/>
+        <id>https://blog.mikehacker.net/modernization-is-expensive/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/61/cost.jpg" medium="image" />
+            <category term="Articles"/>
+
+        <updated>2023-01-05T10:55:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/61/cost.jpg" alt="Costs" />
+                    One common theme I hear when speaking with customers about Application Modernization is that they don't have the budget or&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/61/cost.jpg" class="type:primaryImage" alt="Costs" /></p>
+                <p>One common theme I hear when speaking with customers about Application Modernization is that they don't have the budget or that they can't dedicate the necessary resources to complete a modernization project.  It is true that Application Modernization will have a cost and that it will require dedicated resources.  But, does it really make sense to not invest in modernization and instead continue on legacy applications?</p>
+<p>It is important to look at the bigger picture and identify the potential risks and costs of not doing anything.  Specifically:</p>
+<ul>
+<li>
+<p>Security risks: Legacy applications may be more vulnerable to security threats such as hackers, malware, and data breaches, due to their outdated technology and lack of support. Modernization can help address these security risks by updating the application with the latest security protocols and patches, as well as incorporating features such as encryption and authentication.</p>
+</li>
+<li>
+<p>Compliance risks: Government agencies may also face compliance risks if they continue to use legacy applications that do not meet current regulations or standards. Modernization can help ensure that the application is compliant with relevant laws, policies, and industry standards, which can help prevent costly fines, legal issues, and reputational damage.</p>
+</li>
+<li>
+<p>Cost of maintenance and support: Continuing to support and maintain a legacy application can also be costly, as it may require specialized skills and resources that may not be readily available. Modernization can help reduce these costs by simplifying the application, improving its maintainability, and leveraging the latest tools and technologies.</p>
+</li>
+</ul>
+<p>Modernizing an application can also help reduce technical debt by addressing the underlying issues that contribute to technical debt in the first place. Technical debt is the cost that an organization incurs when it takes shortcuts or makes trade-offs that compromise the long-term quality or maintainability of its systems. This can happen for a variety of reasons, such as a lack of resources, time, or skills, or a need to meet short-term goals.</p>
+<p>Over time, technical debt can accumulate and become a significant burden on an organization, as it can lead to a number of problems, including:</p>
+<ul>
+<li>
+<p>Reduced performance: Technical debt can slow down the performance of an application, as it may require more resources and processing power to run. This can lead to a poor user experience, as well as increased costs for infrastructure and support.</p>
+</li>
+<li>
+<p>Increased maintenance costs: Technical debt can also make an application more difficult and costly to maintain, as it may require specialized skills or resources to fix or update. This can lead to increased maintenance costs and a higher risk of failure or downtime.</p>
+</li>
+<li>
+<p>Reduced flexibility and agility: Technical debt can also limit an organization's ability to respond to changing business needs or take advantage of new opportunities. It may be difficult or costly to make changes or updates to an application with high levels of technical debt, which can limit the organization's flexibility and agility.</p>
+</li>
+</ul>
+<p>By modernizing an application, an organization can address the underlying issues that contribute to technical debt and reduce the costs and risks associated with it. Modernization can involve a variety of activities, such as updating the technology stack, refactoring the code, improving the architecture, and introducing best practices and standards. By taking these steps, an organization can improve the performance, maintainability, and agility of its applications, and reduce its technical debt.</p>
+<p>Overall, modernization may be a necessary investment for a government agency to address the risks and costs associated with legacy applications. By carefully evaluating the potential benefits and costs, and developing a clear roadmap and plan for modernization, the agency can make informed decisions about whether and how to modernize their legacy applications.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Application Modernization</title>
         <author>
@@ -19,16 +70,16 @@
         <media:content url="https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg" medium="image" />
             <category term="Articles"/>
 
-        <updated>2023-01-04T11:26:39-05:00</updated>
+        <updated>2023-01-05T10:55:29-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg" alt="" />
+                        <img src="https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg" alt="Woman sitting in front of a computer" />
                     Modernizing applications is an essential part of any business' digital strategy. It helps organizations stay competitive, improve efficiency, and enhance&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg" class="type:primaryImage" alt="Woman sitting in front of a computer" /></p>
                 <p>Modernizing applications is an essential part of any business' digital strategy. It helps organizations stay competitive, improve efficiency, and enhance the user experience. In this blog post, we'll explore the benefits of modernizing applications and why it's important to do so.</p>
 <p>One of the main benefits of modernizing applications is increased efficiency. Outdated applications can be slow and cumbersome, causing delays and frustration for users. Modernizing these applications can help streamline processes and improve the speed and performance of the application. This can lead to increased productivity and a better user experience.</p>
 <p>Another benefit of modernizing applications is the ability to integrate new technologies and features. As new technologies emerge, it's important for businesses to be able to take advantage of them in order to stay competitive. Modernizing applications allows organizations to incorporate new technologies, such as artificial intelligence and machine learning, and offer more advanced capabilities to their users.</p>
@@ -320,32 +371,6 @@
                 <p><strong>Microsoft Azure Virtual Training Day: Fundamentals</strong><br><em>Thursday, August 11, 2022 | 9:00 AM - 11:15 AM | (GMT-05:00) Eastern Time (US &amp; Canada)</em><br><em>Friday, August 12, 2022 | 9:00 AM - 11:30 AM | (GMT-05:00) Eastern Time (US &amp; Canada)</em></p>
 <p>Join us at Microsoft Azure Virtual Training Day: Fundamentals for an introduction to cloud computing concepts, models, and services—from public to private to hybrid cloud. You’ll also learn the basics of infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Prepare to take full advantage of the key Azure pillars of security, privacy, compliance, and trust.</p>
 <p><a href="https://mktoevents.com/Microsoft+Event/349416/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Azure Virtual Training Day: Modernize .NET Apps | Aug 1</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/microsoft-azure-virtual-training-day-modernize-net-apps-or-aug-1/"/>
-        <id>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-modernize-net-apps-or-aug-1/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/52/logo2.png" medium="image" />
-            <category term="Events"/>
-
-        <updated>2022-07-20T11:07:11-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/52/logo2.png" alt="" />
-                    Microsoft Azure Virtual Training Day: Modernize .NET Apps Monday, August 1, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00)&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/52/logo2.png" class="type:primaryImage" alt="" /></p>
-                <p><strong>Microsoft Azure Virtual Training Day: Modernize .NET Apps</strong><br><em>Monday, August 1, 2022 | 10:00 AM - 1:00 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em><br><em>Tuesday, August 2, 2022 | 10:00 AM - 12:15 PM | (GMT-08:00) Pacific Time (US &amp; Canada)</em></p>
-<p>Join us at Microsoft Azure Virtual Training Day: Modernize .NET Apps to discover how to modernize your workloads and simplify the migration of your .NET apps to Azure. Get step-by-step guidance for migrating an existing .NET app, setting up the network, adding authorization and security, and monitoring the app. Learn how to autoscale apps, protect against threats, and create pipelines to build and deploy solutions faster and more reliably.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/349695/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
             ]]>
         </content>
     </entry>
