@@ -3,12 +3,94 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-01-05T10:55:39-05:00</updated>
+    <updated>2023-01-10T09:40:36-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Free Azure Virtual Training Day: Fundamentals</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/free-azure-virtual-training-day-fundamentals/"/>
+        <id>https://blog.mikehacker.net/free-azure-virtual-training-day-fundamentals/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/63/fundamentals.png" medium="image" />
+            <category term="Events"/>
+
+        <updated>2023-01-10T09:40:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/63/fundamentals.png" alt="" />
+                    Monday, January 30, 2023 | 9:00 AM - 11:15 AM | (GMT-08:00) Pacific Time (US &amp; Canada) Tuesday, January 31,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/63/fundamentals.png" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>Monday, January 30, 2023 | 9:00 AM - 11:15 AM | (GMT-08:00) Pacific Time (US &amp; Canada)<br>Tuesday, January 31, 2023 | 9:00 AM - 11:30 AM | (GMT-08:00) Pacific Time (US &amp; Canada</p>
+</blockquote>
+<p>Join us at Microsoft Azure Virtual Training Day: Fundamentals for an introduction to cloud computing concepts, models, and services—from public to private to hybrid cloud. You’ll also learn the basics of infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Prepare to take full advantage of the key Azure pillars of security, privacy, compliance, and trust.</p>
+<p>Who should attend:</p>
+<ul>
+<li>Developers</li>
+<li>Architects</li>
+<li>IT professionals</li>
+<li>Cloud novices</li>
+</ul>
+<p>Technical level: For those who are just beginning to work with cloud-based solutions and services or are new to Azure.</p>
+<p>After completing this training, you will be able to:</p>
+<ul>
+<li>Prepare for cloud migration with the training to evaluate your existing on-premises environment.</li>
+<li>Optimize your Azure-based workloads for maximum ROI.</li>
+<li>Learn best practices for managing your virtual machines, applications, and data with Azure.</li>
+<li>Take the <a href="https://docs.microsoft.com/learn/certifications/azure-fundamentals/" target="_blank" alt="Click to learn more about the Azure Fundamentals certification exam." rel="noopener">Microsoft Azure Fundamentals certification exam</a> at no cost.</li>
+</ul>
+<p><a href="https://mktoevents.com/Microsoft+Event/377897/157-GQE-382">Learn more and register here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Benefits of Low Code for App Dev</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/benefits-of-low-code-for-app-dev/"/>
+        <id>https://blog.mikehacker.net/benefits-of-low-code-for-app-dev/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/62/covid_hero_desktop.jpg" medium="image" />
+            <category term="Articles"/>
+
+        <updated>2023-01-05T11:19:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/62/covid_hero_desktop.jpg" alt="Woman sitting in front of computer running Microsoft Power Apps" />
+                    In today's fast-paced business environment, organizations are under constant pressure to deliver value to customers quickly and efficiently. One way&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/62/covid_hero_desktop.jpg" class="type:primaryImage" alt="Woman sitting in front of computer running Microsoft Power Apps" /></p>
+                <p>In today's fast-paced business environment, organizations are under constant pressure to deliver value to customers quickly and efficiently. One way to meet this challenge is by using low code solutions such as <a href="https://powerapps.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">Microsoft Power Apps</a> to build and deploy applications.</p>
+<p>Low code solutions allow non-technical users to create custom applications by dragging and dropping pre-built components, rather than writing code from scratch. This can save a significant amount of time and effort, and can make it easier for organizations to build and deploy applications quickly.</p>
+<p>There are several benefits to using low code solutions:</p>
+<ul>
+<li>
+<p>Speed and agility: Low code solutions can help organizations build and deploy applications faster, as they do not require the same level of technical expertise or coding knowledge. This can help organizations respond more quickly to changing business needs and deliver value to customers more rapidly.</p>
+</li>
+<li>
+<p>Increased productivity: Low code solutions can also increase productivity by empowering non-technical users to build and customize applications themselves, rather than relying on IT or professional developers. This can reduce the workload for IT and developers, allowing them to focus on more strategic tasks.</p>
+</li>
+<li>
+<p>Cost savings: Low code solutions can also help organizations save money by reducing the need for specialized skills and resources. Non-technical users can build and maintain applications themselves, which can lower the costs of development and maintenance.</p>
+</li>
+</ul>
+<p>Some professional developers may be hesitant to adopt low code solutions due to concerns about the quality or flexibility of the resulting applications. However, low code solutions have come a long way in recent years, and can now support a wide range of capabilities and customization options. Additionally, professional developers and low code developers can work together to ensure that the resulting applications meet the necessary standards and requirements. For example, professional developers can build APIs that low code developers can use, which can help to extend the capabilities of the application and improve its integration with other systems.</p>
+<p>Low code solutions can be a valuable tool for organizations looking to build and deploy applications quickly and efficiently. By leveraging the benefits of low code and working together with professional developers, organizations can deliver value to customers faster and respond more effectively to changing business needs.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Modernization is Expensive</title>
         <author>
@@ -19,7 +101,7 @@
         <media:content url="https://blog.mikehacker.net/media/posts/61/cost.jpg" medium="image" />
             <category term="Articles"/>
 
-        <updated>2023-01-05T10:55:39-05:00</updated>
+        <updated>2023-01-10T09:40:33-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/61/cost.jpg" alt="Costs" />
@@ -317,60 +399,6 @@
 <p><strong>+ Conference-exclusive night, in partnership with Microsoft, at Universal Orlando, home to the Wizarding World of Harry Potter® and Islands of Adventure™!</strong></p>
 <p><a href="https://www.powerplatformconf.com/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Understanding Azure App Services | Webinar | July 27</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/"/>
-        <id>https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/54/atmosera.png" medium="image" />
-            <category term="Events"/>
-
-        <updated>2022-07-21T09:03:08-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/54/atmosera.png" alt="" />
-                    July 27th, 2022 11 am PT / 2 pm ET Azure App Services is a Swiss Army Knife for apps&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/54/atmosera.png" class="type:primaryImage" alt="" /></p>
-                <p><em>July 27th, 2022 11 am PT / 2 pm ET</em></p>
-<p>Azure App Services is a Swiss Army Knife for apps on Azure. It provides out-of-the-box features for running apps in many popular languages like .net, Java, PHP, Node JS, and Python. And even if you can't run it natively, there's probably a way to handle it.</p>
-<p>In this webinar, we'll look at the features and functions of App Services and how to make your app run on Azure.</p>
-<p>This webinar will be followed by a live Q&amp;A.</p>
-<p><a href="https://www.atmosera.com/resources/event/understanding-azure-app-services/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Azure Virtual Training Day: Fundamentals | Aug 11 &amp; 12</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/microsoft-azure-virtual-training-day-fundamentals-or-aug-11-and-12/"/>
-        <id>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-fundamentals-or-aug-11-and-12/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/53/logo2.png" medium="image" />
-            <category term="Events"/>
-
-        <updated>2022-07-20T11:08:52-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/53/logo2.png" alt="" />
-                    Microsoft Azure Virtual Training Day: Fundamentals Thursday, August 11, 2022 | 9:00 AM - 11:15 AM | (GMT-05:00) Eastern Time&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/53/logo2.png" class="type:primaryImage" alt="" /></p>
-                <p><strong>Microsoft Azure Virtual Training Day: Fundamentals</strong><br><em>Thursday, August 11, 2022 | 9:00 AM - 11:15 AM | (GMT-05:00) Eastern Time (US &amp; Canada)</em><br><em>Friday, August 12, 2022 | 9:00 AM - 11:30 AM | (GMT-05:00) Eastern Time (US &amp; Canada)</em></p>
-<p>Join us at Microsoft Azure Virtual Training Day: Fundamentals for an introduction to cloud computing concepts, models, and services—from public to private to hybrid cloud. You’ll also learn the basics of infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Prepare to take full advantage of the key Azure pillars of security, privacy, compliance, and trust.</p>
-<p><a href="https://mktoevents.com/Microsoft+Event/349416/157-GQE-382" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
             ]]>
         </content>
     </entry>
