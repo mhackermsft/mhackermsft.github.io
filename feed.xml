@@ -3,12 +3,38 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-01-10T09:40:36-05:00</updated>
+    <updated>2023-01-24T12:35:29-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Upcoming iPaaS &amp; GitHub Events</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/upcoming-ipaas-and-github-events/"/>
+        <id>https://blog.mikehacker.net/upcoming-ipaas-and-github-events/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/64/atmoseraevent.png" medium="image" />
+            <category term="Events"/>
+
+        <updated>2023-01-24T12:35:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/64/atmoseraevent.png" alt="" />
+                    Microsoft partner, Atmosera, will be hosting 2 free webinars early in February covering topics such as iPaaS, GitHub and Cloud&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/64/atmoseraevent.png" class="type:primaryImage" alt="" /></p>
+                <p>Microsoft partner, Atmosera, will be hosting 2 free webinars early in February covering topics such as iPaaS, GitHub and Cloud Native solutions.  See below for details and registration link.</p>
+<p><strong>Modern Integration Platform as a Service (iPaaS) Architecture + GitHub<br></strong>February 2, 2023 from 8am to 12pm PST<br><a href="https://info.atmosera.com/modern-integration-ipaas-github">Modern Integration Platform-as-a-Service (iPaaS) Architecture + GitHub (atmosera.com)</a></p>
+<p><strong>GitHub + Cloud Native + light iPaaS<br></strong>February 8, 2023 from 9am to 4:30pm PST<br><a href="https://info.atmosera.com/github-cloudnative-light-paas-1">GitHub + Cloud Native + light iPaaS (atmosera.com)</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Free Azure Virtual Training Day: Fundamentals</title>
         <author>
@@ -357,48 +383,6 @@
                     <p><img src="https://blog.mikehacker.net/media/posts/56/hero.svg" class="type:primaryImage" alt="" /></p>
                 <p><em>.NET Conf: Focus on MAUI</em> is a free, one-day livestream event that features speakers from the community and Microsoft teams working on and using <a href="https://dot.net/maui" target="_blank" rel="noopener">.NET Multi-platform App UI</a>. Learn how to build native apps for Android, iOS, macOS and Windows with a single codebase using .NET MAUI. Hear from the team building the .NET MAUI framework and tools as well as experts building .NET MAUI apps, libraries, components and controls.</p>
 <p><a href="https://focus.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Learn more here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Microsoft Power Platform Conference | Sept 20 - 23 | Orlando, FL</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/"/>
-        <id>https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/55/mascot-standing.svg" medium="image" />
-            <category term="Events"/>
-
-        <updated>2022-08-02T09:38:29-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/55/mascot-standing.svg" alt="" />
-                    Produced by Power Platform Conf | Sponsored by Microsoft We are excited to announce the first annual Microsoft Power Platform Conference&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/55/mascot-standing.svg" class="type:primaryImage" alt="" /></p>
-                <div class="col-md-12">
-<p><em>Produced by Power Platform Conf | Sponsored by Microsoft</em></p>
-</div>
-<div class="col-md-12">
-<p>We are excited to announce the first annual <strong>Microsoft Power Platform Conference 2022</strong>! This event is sponsored by Microsoft and will be held in-person on September 20-22 in Orlando, Florida.</p>
-<p>Come and get inspired by Microsoft’s senior thought leaders, software engineers, and community experts who are focused on uniting humanity and technology. You’ll also have the chance to hear from users that solve real business problems daily. Our fantastic speakers are ready to share their insights on how to accelerate and transform your business with Power Platform.</p>
-<p>This one-of-a-kind event is <strong>dedicated</strong> to Microsoft Power Platform products including Power Apps, Power Automate, Power BI, Power Pages, and Power Virtual Agents.</p>
-<p>You’ll have insider access to all the information, opportunities, and connections you need to further your Power Platform journey.</p>
-<ul class="text-normal">
-<li><strong>Understand how your peers</strong> are using the Power Platform and putting them to work</li>
-<li><strong>Get new ideas</strong> on how you can utilize the tools in more useful ways</li>
-<li><strong>Meet new #PowerAddicts</strong> just like you!</li>
-<li><strong>Learn about</strong> all the tools in the platform</li>
-<li><strong>Give your organization the edge it needs</strong> to provide a more productive and exciting work environment</li>
-<li><strong>Ask product experts</strong> your questions during the live Q&amp;A</li>
-</ul>
-<p><strong>+ Conference-exclusive night, in partnership with Microsoft, at Universal Orlando, home to the Wizarding World of Harry Potter® and Islands of Adventure™!</strong></p>
-<p><a href="https://www.powerplatformconf.com/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-</div>
             ]]>
         </content>
     </entry>
