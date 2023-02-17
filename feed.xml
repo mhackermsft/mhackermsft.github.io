@@ -3,7 +3,7 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-02-08T10:47:33-05:00</updated>
+    <updated>2023-02-17T11:19:40-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png" medium="image" />
             <category term="Events"/>
 
-        <updated>2023-02-08T10:47:33-05:00</updated>
+        <updated>2023-02-17T11:19:40-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png" alt="Photo of a skyline" />
@@ -30,7 +30,7 @@
             <![CDATA[
                     <p><img src="https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png" class="type:primaryImage" alt="Photo of a skyline" /></p>
                 <p>Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.  Click on the links below for additional details and registration.</p>
-<p><strong>Event: Cloud Native Development + GitHub</strong><br>February 16, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/cloud-native-development-github" target="_blank" rel="noopener noreferrer">Learn more and register</a><br><br><strong>Event: Containerization with Azure (AKS + Container Apps)</strong><br>February 21, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/containerization-with-azure-aks-container-apps" target="_blank" rel="noopener noreferrer">Learn more and register</a></p>
+<p><strong>Event: Cloud Native Development + GitHub</strong><br>March 28, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/cloud-native-development-github" target="_blank" rel="noopener noreferrer">Learn more and register</a><br><br><strong>Event: Containerization with Azure (AKS + Container Apps)</strong><br>February 21, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/containerization-with-azure-aks-container-apps" target="_blank" rel="noopener noreferrer">Learn more and register</a></p>
             ]]>
         </content>
     </entry>

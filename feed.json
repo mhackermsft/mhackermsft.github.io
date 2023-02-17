@@ -14,7 +14,7 @@
             "url": "https://blog.mikehacker.net/upcoming-events-on-kubernetes-and-cloud-native/",
             "title": "Upcoming Events on Kubernetes and Cloud Native",
             "summary": "Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.",
-            "content_html": "<p>Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.  Click on the links below for additional details and registration.</p>\n<p><strong>Event: Cloud Native Development + GitHub</strong><br>February 16, 2023 from 8 AM - Noon PST<br><a href=\"https://info.atmosera.com/cloud-native-development-github\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register</a><br><br><strong>Event: Containerization with Azure (AKS + Container Apps)</strong><br>February 21, 2023 from 8 AM - Noon PST<br><a href=\"https://info.atmosera.com/containerization-with-azure-aks-container-apps\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register</a></p>",
+            "content_html": "<p>Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.  Click on the links below for additional details and registration.</p>\n<p><strong>Event: Cloud Native Development + GitHub</strong><br>March 28, 2023 from 8 AM - Noon PST<br><a href=\"https://info.atmosera.com/cloud-native-development-github\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register</a><br><br><strong>Event: Containerization with Azure (AKS + Container Apps)</strong><br>February 21, 2023 from 8 AM - Noon PST<br><a href=\"https://info.atmosera.com/containerization-with-azure-aks-container-apps\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register</a></p>",
             "image": "https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png",
             "author": {
                 "name": "Mike Hacker"
@@ -23,7 +23,7 @@
                    "Events"
             ],
             "date_published": "2023-02-08T10:47:33-05:00",
-            "date_modified": "2023-02-08T10:47:33-05:00"
+            "date_modified": "2023-02-17T11:19:40-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/winter-tech-briefing-or-columbus-ohio/",
