@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/architecture-pattern-reliable-web-app/",
+            "url": "https://blog.mikehacker.net/architecture-pattern-reliable-web-app/",
+            "title": "Architecture Pattern: Reliable Web App",
+            "summary": "The reliable web app pattern is a set of best practices built on the Azure Well-Architected Framework that helps developers successfully migrate&hellip;",
+            "content_html": "<p>The reliable web app pattern is a set of best practices built on the <a href=\"https://learn.microsoft.com/en-us/azure/architecture/framework/\" data-linktype=\"absolute-path\">Azure Well-Architected Framework</a> that helps developers successfully migrate web applications to the cloud. The goal is to improve the cost, performance, security, operations, and reliability of your web application with minimal changes. The reliable web app pattern is an essential first step for web applications converging on the cloud and sets a foundation for future modernizations in Azure.</p>\n<p>Check out the details for the <a href=\"https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/pattern-overview\" target=\"_blank\" rel=\"noopener noreferrer\">Reliable Web App pattern</a> and see how you can <a href=\"https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/apply-pattern\" target=\"_blank\" rel=\"noopener noreferrer\">apply the pattern with best practices</a>.</p>\n<p>Looking to build new applications or modernize existing applications, reach out to your Microsoft account team to see how they can help!</p>",
+            "image": "https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "How To",
+                   "Articles"
+            ],
+            "date_published": "2023-02-28T14:35:56-05:00",
+            "date_modified": "2023-02-28T14:35:56-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-or-simplify-and-scale-enterprise-spring-apps-in-the-cloud/",
             "url": "https://blog.mikehacker.net/webinar-or-simplify-and-scale-enterprise-spring-apps-in-the-cloud/",
             "title": "Webinar | Simplify and Scale Enterprise Spring Apps in the Cloud",
@@ -152,22 +169,6 @@
             ],
             "date_published": "2022-11-16T09:26:18-05:00",
             "date_modified": "2023-01-04T11:26:36-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/",
-            "url": "https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/",
-            "title": "Webinar | The Power of Training | Oct 27",
-            "summary": "October 27, 2:00 pm - 3:00 pm EDT presented by atmosera Are your top technical performers potentially hurting your organization&hellip;",
-            "content_html": "<p><em>October 27, 2:00 pm - 3:00 pm EDT presented by atmosera</em></p>\n<p>Are your top technical performers potentially hurting your organization without you realizing it? Do you ask yourself if you should hire top new talent or invest in current team members? Are you losing talent to competitors causing a backlog of projects and a standstill on innovation?<br><br>If any of these questions resonate with you, it might be time to consider the power of training. Join our webinar on October 27th outlining the power training has had for organizations and explore what steps you can take to put the power back in your hands. We will look at concrete examples and trending data to help you make sense of the value training will bring to your organization. Anyone who helps oversee technical teams within their organization should attend this eye-opening webinar.</p>\n<p><a href=\"https://www.atmosera.com/resources/event/the-power-of-training/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register here</a></p>\n<p> </p>",
-            "image": "https://blog.mikehacker.net/media/posts/58/atmosera.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2022-10-19T09:14:32-04:00",
-            "date_modified": "2022-10-19T09:14:32-04:00"
         }
     ]
 }

@@ -3,12 +3,39 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-02-27T11:48:34-05:00</updated>
+    <updated>2023-02-28T14:35:56-05:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Architecture Pattern: Reliable Web App</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/architecture-pattern-reliable-web-app/"/>
+        <id>https://blog.mikehacker.net/architecture-pattern-reliable-web-app/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png" medium="image" />
+            <category term="How To"/>
+            <category term="Articles"/>
+
+        <updated>2023-02-28T14:35:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png" alt="" />
+                    The reliable web app pattern is a set of best practices built on the Azure Well-Architected Framework that helps developers successfully migrate&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png" class="type:primaryImage" alt="" /></p>
+                <p>The reliable web app pattern is a set of best practices built on the <a href="https://learn.microsoft.com/en-us/azure/architecture/framework/" data-linktype="absolute-path">Azure Well-Architected Framework</a> that helps developers successfully migrate web applications to the cloud. The goal is to improve the cost, performance, security, operations, and reliability of your web application with minimal changes. The reliable web app pattern is an essential first step for web applications converging on the cloud and sets a foundation for future modernizations in Azure.</p>
+<p>Check out the details for the <a href="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/pattern-overview" target="_blank" rel="noopener noreferrer">Reliable Web App pattern</a> and see how you can <a href="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/apply-pattern" target="_blank" rel="noopener noreferrer">apply the pattern with best practices</a>.</p>
+<p>Looking to build new applications or modernize existing applications, reach out to your Microsoft account team to see how they can help!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Webinar | Simplify and Scale Enterprise Spring Apps in the Cloud</title>
         <author>
@@ -319,33 +346,6 @@
                     <p><img src="https://blog.mikehacker.net/media/posts/59/hero-illustration-bot.svg" class="type:primaryImage" alt="" /></p>
                 <p>Did you miss .NET CONF 2022?  No worries, you can watch the event on-demand and learn about all of the great new features of .NET 7!</p>
 <p>.NET 7 brings amazing performance upgrades, up to 11x faster than node.js, along with several great features such as minimal APIs.  <a href="https://www.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Check out .NET CONF 2022 here!</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | The Power of Training | Oct 27</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/"/>
-        <id>https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/58/atmosera.png" medium="image" />
-            <category term="Events"/>
-
-        <updated>2022-10-19T09:14:32-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/58/atmosera.png" alt="" />
-                    October 27, 2:00 pm - 3:00 pm EDT presented by atmosera Are your top technical performers potentially hurting your organization&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/58/atmosera.png" class="type:primaryImage" alt="" /></p>
-                <p><em>October 27, 2:00 pm - 3:00 pm EDT presented by atmosera</em></p>
-<p>Are your top technical performers potentially hurting your organization without you realizing it? Do you ask yourself if you should hire top new talent or invest in current team members? Are you losing talent to competitors causing a backlog of projects and a standstill on innovation?<br><br>If any of these questions resonate with you, it might be time to consider the power of training. Join our webinar on October 27th outlining the power training has had for organizations and explore what steps you can take to put the power back in your hands. We will look at concrete examples and trending data to help you make sense of the value training will bring to your organization. Anyone who helps oversee technical teams within their organization should attend this eye-opening webinar.</p>
-<p><a href="https://www.atmosera.com/resources/event/the-power-of-training/" target="_blank" rel="noopener noreferrer">Learn more and register here</a></p>
-<p> </p>
             ]]>
         </content>
     </entry>
