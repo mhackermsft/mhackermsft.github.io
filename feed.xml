@@ -3,12 +3,37 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-02-28T14:35:56-05:00</updated>
+    <updated>2023-03-15T09:31:51-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Microsoft Build | May 23-24, 2023</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/microsoft-build-or-may-23-24-2023/"/>
+        <id>https://blog.mikehacker.net/microsoft-build-or-may-23-24-2023/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png" medium="image" />
+            <category term="Events"/>
+
+        <updated>2023-03-15T09:31:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png" alt="Microsoft Build Logo" />
+                    Are you a developer or tech enthusiast looking to stay ahead of the curve? Then don't miss out on the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png" class="type:primaryImage" alt="Microsoft Build Logo" /></p>
+                <p>Are you a developer or tech enthusiast looking to stay ahead of the curve? Then don't miss out on the opportunity to attend Microsoft Build on May 23-24! This annual conference is packed with informative sessions and hands-on workshops led by industry experts. You'll have the chance to learn about the latest technologies and trends in software development and connect with other professionals in your field.</p>
+<p>Don't wait - <a href="https://build.microsoft.com/en-US/home">register now</a> and join us for an unforgettable experience!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Architecture Pattern: Reliable Web App</title>
         <author>
@@ -321,31 +346,6 @@
 <p>In addition to increased efficiency and the ability to incorporate new technologies, modernizing applications can also improve security. Cybersecurity threats are constantly evolving, and outdated applications may not have the necessary security measures in place to protect against these threats. Modernizing applications can help ensure that they are secure and compliant with industry standards and regulations. According to a report by Cybersecurity Ventures, cybercrime is expected to cost the world $10.5 trillion annually by 2025. Modernizing applications can help protect against these threats and prevent costly data breaches.</p>
 <p>The importance of modernizing applications is clear, but what about the tangible benefits? According to a survey conducted by Digital Shift, modernizing applications resulted in an average of 20% cost savings for organizations. It can also lead to increased revenue, with another survey finding that modernizing applications resulted in a 20-30% increase in revenue for businesses.</p>
 <p>In conclusion, modernizing applications is an essential part of any digital strategy. It can lead to increased efficiency, the ability to incorporate new technologies, improved security, and cost savings and increased revenue. Don't let your organization fall behind – make sure to prioritize modernizing your applications.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>.NET CONF 2022</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/net-conf-2022/"/>
-        <id>https://blog.mikehacker.net/net-conf-2022/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/59/hero-illustration-bot.svg" medium="image" />
-            <category term="Events"/>
-
-        <updated>2023-01-04T11:26:36-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/59/hero-illustration-bot.svg" alt="" />
-                    Did you miss .NET CONF 2022? No worries, you can watch the event on-demand and learn about all of the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/59/hero-illustration-bot.svg" class="type:primaryImage" alt="" /></p>
-                <p>Did you miss .NET CONF 2022?  No worries, you can watch the event on-demand and learn about all of the great new features of .NET 7!</p>
-<p>.NET 7 brings amazing performance upgrades, up to 11x faster than node.js, along with several great features such as minimal APIs.  <a href="https://www.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Check out .NET CONF 2022 here!</a></p>
             ]]>
         </content>
     </entry>
