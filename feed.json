@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/how-to-choose-between-azure-kubernetes-service-or-azure-red-hat-openshift/",
+            "url": "https://blog.mikehacker.net/how-to-choose-between-azure-kubernetes-service-or-azure-red-hat-openshift/",
+            "title": "How to choose between Azure Kubernetes Service or Azure Red Hat OpenShift",
+            "summary": "Note: Portions of this blog post were written using Bing Chat. Azure Kubernetes Service (AKS) and Azure Red Hat OpenShift&hellip;",
+            "content_html": "<blockquote>\n<p><em>Note: Portions of this blog post were written using Bing Chat.</em></p>\n</blockquote>\n<p>Azure Kubernetes Service (AKS) and Azure Red Hat OpenShift (ARO) are two options for deploying and managing containerized applications on Azure. Both services are based on Kubernetes, the open-source platform for orchestrating containers, but they have some differences and trade-offs that you should consider before choosing one over the other.</p>\n<p>AKS is a fully managed Kubernetes service that offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience, and enterprise-grade security and governance. AKS is optimized for running general purpose containers, especially for applications that span many microservices deployed in containers. AKS supports Kubernetes-style apps and microservices with features like service discovery and traffic splitting. AKS also enables event-driven application architectures by supporting scale based on traffic and pulling from event sources like queues, including scale to zero. AKS does not provide direct access to the underlying Kubernetes APIs and control plane, which means you have less control and customization options over your cluster.</p>\n<p>ARO is a fully managed OpenShift service that provides a consistent hybrid cloud foundation for building and scaling containerized applications. OpenShift is a distribution of Kubernetes that adds additional features and integrations to enhance the developer experience and enterprise readiness of Kubernetes. OpenShift provides a web console, an integrated image registry, a built-in CI/CD pipeline, a source-to-image tool, a service catalog, and many other tools to help developers build, deploy, and manage applications. OpenShift also offers more security features than AKS, such as role-based access control, security context constraints, network policies, and encryption. ARO provides direct access to the underlying Kubernetes APIs and control plane, which gives you more flexibility and customization options over your cluster.</p>\n<p>The pros and cons of each service depend on your specific use case and requirements. Some general considerations are:</p>\n<p>- If you want a fully managed Kubernetes experience with minimal configuration and maintenance, AKS may be a good choice.</p>\n<p>- If you want a more comprehensive platform that includes additional tools and integrations for developing and deploying containerized applications, ARO may be a better option.</p>\n<p>- If you need direct access to the Kubernetes APIs and control plane, or if you want to use OpenShift-specific features or extensions, ARO is the only option.</p>\n<p>- If you need to scale your applications based on events or traffic, or if you want to leverage serverless containers, AKS has more support for these scenarios than ARO.</p>\n<p>- If you are concerned about security and compliance, ARO may offer more features and capabilities than AKS to meet your needs.</p>\n<p>Ultimately, the best way to choose between AKS and ARO is to try them out for yourself and see which one suits your needs better. You can get started with AKS using the quickstarts or with ARO using the tutorials.</p>",
+            "image": "https://blog.mikehacker.net/media/posts/70/OIG.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2023-04-21T14:25:17-04:00",
+            "date_modified": "2023-04-21T14:29:53-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/microsoft-build-or-may-23-24-2023/",
             "url": "https://blog.mikehacker.net/microsoft-build-or-may-23-24-2023/",
             "title": "Microsoft Build | May 23-24, 2023",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2023-01-05T10:55:11-05:00",
             "date_modified": "2023-01-10T09:40:33-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/application-modernization/",
-            "url": "https://blog.mikehacker.net/application-modernization/",
-            "title": "Application Modernization",
-            "summary": "Modernizing applications is an essential part of any business' digital strategy. It helps organizations stay competitive, improve efficiency, and enhance&hellip;",
-            "content_html": "<p>Modernizing applications is an essential part of any business' digital strategy. It helps organizations stay competitive, improve efficiency, and enhance the user experience. In this blog post, we'll explore the benefits of modernizing applications and why it's important to do so.</p>\n<p>One of the main benefits of modernizing applications is increased efficiency. Outdated applications can be slow and cumbersome, causing delays and frustration for users. Modernizing these applications can help streamline processes and improve the speed and performance of the application. This can lead to increased productivity and a better user experience.</p>\n<p>Another benefit of modernizing applications is the ability to integrate new technologies and features. As new technologies emerge, it's important for businesses to be able to take advantage of them in order to stay competitive. Modernizing applications allows organizations to incorporate new technologies, such as artificial intelligence and machine learning, and offer more advanced capabilities to their users.</p>\n<p>In addition to increased efficiency and the ability to incorporate new technologies, modernizing applications can also improve security. Cybersecurity threats are constantly evolving, and outdated applications may not have the necessary security measures in place to protect against these threats. Modernizing applications can help ensure that they are secure and compliant with industry standards and regulations. According to a report by Cybersecurity Ventures, cybercrime is expected to cost the world $10.5 trillion annually by 2025. Modernizing applications can help protect against these threats and prevent costly data breaches.</p>\n<p>The importance of modernizing applications is clear, but what about the tangible benefits? According to a survey conducted by Digital Shift, modernizing applications resulted in an average of 20% cost savings for organizations. It can also lead to increased revenue, with another survey finding that modernizing applications resulted in a 20-30% increase in revenue for businesses.</p>\n<p>In conclusion, modernizing applications is an essential part of any digital strategy. It can lead to increased efficiency, the ability to incorporate new technologies, improved security, and cost savings and increased revenue. Don't let your organization fall behind – make sure to prioritize modernizing your applications.</p>",
-            "image": "https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Articles"
-            ],
-            "date_published": "2023-01-04T11:26:29-05:00",
-            "date_modified": "2023-01-05T10:55:29-05:00"
         }
     ]
 }

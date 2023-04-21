@@ -12,7 +12,7 @@
 <loc>https://blog.mikehacker.net/application-modernization/</loc>
 <lastmod>2023-01-05T10:55:29-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\60/CLO20b_Sylvie_office_night_001.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/60/CLO20b_Sylvie_office_night_001.jpg</image:loc>
 <image:title><![CDATA[Woman sitting in front of a computer]]></image:title>
 </image:image>
 </url>
@@ -20,7 +20,7 @@
 <loc>https://blog.mikehacker.net/architecture-pattern-reliable-web-app/</loc>
 <lastmod>2023-02-28T14:35:56-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\68/reliable-web-app-dotnet.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -28,7 +28,7 @@
 <loc>https://blog.mikehacker.net/article-or-moving-azure-functions-from-aks-to-container-apps/</loc>
 <lastmod>2022-01-26T10:05:09-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\36/g0vkbnh738qr8y2mqat8.webp</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/36/g0vkbnh738qr8y2mqat8.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -36,7 +36,7 @@
 <loc>https://blog.mikehacker.net/azure-training-for-developers/</loc>
 <lastmod>2022-11-16T09:26:23-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\57/header_1_light.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/57/header_1_light.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -44,7 +44,7 @@
 <loc>https://blog.mikehacker.net/benefits-of-low-code-for-app-dev/</loc>
 <lastmod>2023-01-05T11:19:05-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\62/covid_hero_desktop.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/62/covid_hero_desktop.jpg</image:loc>
 <image:title><![CDATA[Woman sitting in front of computer running Microsoft Power Apps]]></image:title>
 </image:image>
 </url>
@@ -52,7 +52,7 @@
 <loc>https://blog.mikehacker.net/event-or-dec-2-orus-public-sector-summit/</loc>
 <lastmod>2021-12-03T09:40:45-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\22/pubsecsummit.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/22/pubsecsummit.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -60,7 +60,7 @@
 <loc>https://blog.mikehacker.net/expert-panel-or-dec-1-or-azure-devops-and-github-better-together/</loc>
 <lastmod>2021-11-11T11:03:38-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\21/github.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/21/github.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -68,7 +68,7 @@
 <loc>https://blog.mikehacker.net/free-azure-virtual-training-day-fundamentals/</loc>
 <lastmod>2023-02-01T09:38:13-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\63/fundamentals.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/63/fundamentals.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -76,15 +76,23 @@
 <loc>https://blog.mikehacker.net/github-vs/</loc>
 <lastmod>2022-06-01T08:45:27-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\46/OctoCat.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/46/OctoCat.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.mikehacker.net/how-to-choose-between-azure-kubernetes-service-or-azure-red-hat-openshift/</loc>
+<lastmod>2023-04-21T14:29:53-04:00</lastmod>
+<image:image>
+<image:loc>https://blog.mikehacker.net/media/posts/70/OIG.jpg</image:loc>
+<image:title><![CDATA[Man trying to make a decision]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://blog.mikehacker.net/important-or-exchange-online-basic-auth-shutdown/</loc>
 <lastmod>2021-11-11T09:17:51-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\11/exchange-logo.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/11/exchange-logo.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -96,7 +104,7 @@
 <loc>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-cloud-native-apps/</loc>
 <lastmod>2022-07-20T11:03:23-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\50/logo2.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/50/logo2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -104,7 +112,7 @@
 <loc>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-devops-with-github-or-july-28-and-29/</loc>
 <lastmod>2022-07-20T11:05:29-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\51/logo2.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/51/logo2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -112,7 +120,7 @@
 <loc>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-fundamentals-or-aug-11-and-12/</loc>
 <lastmod>2022-07-20T11:08:52-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\53/logo2.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/53/logo2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -120,7 +128,7 @@
 <loc>https://blog.mikehacker.net/microsoft-azure-virtual-training-day-modernize-net-apps-or-aug-1/</loc>
 <lastmod>2022-07-20T11:07:11-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\52/logo2.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/52/logo2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -128,7 +136,7 @@
 <loc>https://blog.mikehacker.net/microsoft-build-or-may-23-24-2023/</loc>
 <lastmod>2023-03-15T09:35:18-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png</image:loc>
 <image:title><![CDATA[Microsoft Build Logo]]></image:title>
 </image:image>
 </url>
@@ -136,7 +144,7 @@
 <loc>https://blog.mikehacker.net/microsoft-build-or-may-24-26-2022/</loc>
 <lastmod>2022-05-27T10:57:29-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\40/Build2022-2.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/40/Build2022-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -144,7 +152,7 @@
 <loc>https://blog.mikehacker.net/microsoft-ignite-or-nov-2-4/</loc>
 <lastmod>2021-11-04T15:59:15-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/5/MSFT_Ignite_Tools_Banners_Connections_Desktop-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -152,7 +160,7 @@
 <loc>https://blog.mikehacker.net/microsoft-power-platform-conference-or-sept-20-23-or-orlando-fl/</loc>
 <lastmod>2022-08-02T09:38:29-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\55/mascot-standing.svg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/55/mascot-standing.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -160,7 +168,7 @@
 <loc>https://blog.mikehacker.net/modernization-is-expensive/</loc>
 <lastmod>2023-01-10T09:40:33-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\61/cost.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/61/cost.jpg</image:loc>
 <image:title><![CDATA[Costs]]></image:title>
 </image:image>
 </url>
@@ -168,7 +176,7 @@
 <loc>https://blog.mikehacker.net/modernize-java-apps-workshop/</loc>
 <lastmod>2022-07-20T11:03:00-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\48/logo.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/48/logo.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -176,7 +184,7 @@
 <loc>https://blog.mikehacker.net/net-50-end-of-support/</loc>
 <lastmod>2022-04-12T09:41:05-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\43/dotnet-bot_handybot.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/43/dotnet-bot_handybot.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -184,7 +192,7 @@
 <loc>https://blog.mikehacker.net/net-conf-2021-or-nov-9-11/</loc>
 <lastmod>2021-11-11T09:14:44-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\8/netconf.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/8/netconf.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -192,7 +200,7 @@
 <loc>https://blog.mikehacker.net/net-conf-2022/</loc>
 <lastmod>2023-01-04T11:26:36-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\59/hero-illustration-bot.svg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/59/hero-illustration-bot.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -200,7 +208,7 @@
 <loc>https://blog.mikehacker.net/net-conf-or-focus-on-maui-or-aug-9/</loc>
 <lastmod>2022-08-02T12:59:09-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\56/hero.svg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/56/hero.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -208,7 +216,7 @@
 <loc>https://blog.mikehacker.net/net-framework-452-46-and-461-end-of-support/</loc>
 <lastmod>2022-04-12T09:39:40-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\42/dotnet-bot_handybot.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/42/dotnet-bot_handybot.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -216,7 +224,7 @@
 <loc>https://blog.mikehacker.net/net-modernization-workshop/</loc>
 <lastmod>2022-07-20T11:03:09-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\49/logo.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/49/logo.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -224,7 +232,7 @@
 <loc>https://blog.mikehacker.net/new-service-or-azure-container-apps/</loc>
 <lastmod>2021-11-11T09:17:32-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\18/1635873135134-2.jfif</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/18/1635873135134-2.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -232,7 +240,7 @@
 <loc>https://blog.mikehacker.net/new-service-or-azure-load-testing/</loc>
 <lastmod>2021-12-06T10:19:39-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\28/loadtesting.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/28/loadtesting.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -246,10 +254,13 @@
 <loc>https://blog.mikehacker.net/page/4/</loc>
 </url>
 <url>
+<loc>https://blog.mikehacker.net/page/5/</loc>
+</url>
+<url>
 <loc>https://blog.mikehacker.net/series-or-feb-2022-or-github-shots-bootcamp/</loc>
 <lastmod>2022-01-13T12:59:17-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\34/github-xxl-xxl.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/34/github-xxl-xxl.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -257,7 +268,7 @@
 <loc>https://blog.mikehacker.net/technical-training/</loc>
 <lastmod>2023-01-11T09:32:05-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\7/learn.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/7/learn.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -265,7 +276,7 @@
 <loc>https://blog.mikehacker.net/understanding-azure-app-services-or-webinar-or-july-27/</loc>
 <lastmod>2022-07-21T09:03:08-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\54/atmosera.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/54/atmosera.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -273,7 +284,7 @@
 <loc>https://blog.mikehacker.net/upcoming-events-on-kubernetes-and-cloud-native/</loc>
 <lastmod>2023-02-17T11:19:40-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\66/atmoseraevent-xxl.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png</image:loc>
 <image:title><![CDATA[Photo of a skyline]]></image:title>
 </image:image>
 </url>
@@ -281,7 +292,7 @@
 <loc>https://blog.mikehacker.net/upcoming-ipaas-and-github-events/</loc>
 <lastmod>2023-01-24T12:35:29-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\64/atmoseraevent.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/64/atmoseraevent.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -289,7 +300,7 @@
 <loc>https://blog.mikehacker.net/video-or-know-your-options-for-kubernetes-on-azure/</loc>
 <lastmod>2021-11-11T09:18:25-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\16/AROAKSBoxBoat.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/16/AROAKSBoxBoat.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -297,7 +308,7 @@
 <loc>https://blog.mikehacker.net/webinar-hot-path-vs-cold-path-which-one-should-my-data-take/</loc>
 <lastmod>2022-03-17T09:25:45-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\38/webinar03242022.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/38/webinar03242022.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -305,7 +316,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-apr-20-or-moving-beyond-lift-and-shift/</loc>
 <lastmod>2022-04-08T09:11:44-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\41/cast.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/41/cast.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -313,7 +324,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-apr-28-and-29-or-modernize-net-apps/</loc>
 <lastmod>2022-04-07T09:24:21-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\39/AzureTrainingDay.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/39/AzureTrainingDay.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -321,7 +332,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-dec-14-or-advanced-cloud-native-deployment-strategies/</loc>
 <lastmod>2021-12-09T09:41:48-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\29/AdvancedCloudNative.jfif</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/29/AdvancedCloudNative.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -329,7 +340,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-dec-8-or-embracing-hybrid-work-with-microsoft-teams/</loc>
 <lastmod>2021-11-19T10:16:02-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\25/teams.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/25/teams.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -337,7 +348,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-dec-9-or-app-innovate-a-solution-assessment/</loc>
 <lastmod>2022-01-06T12:48:22-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\27/tallanwebinar.jfif</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/27/tallanwebinar.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -345,7 +356,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-dec-9-or-building-trust-and-security-in-government/</loc>
 <lastmod>2021-12-09T09:41:39-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\24/security-office.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/24/security-office.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -353,7 +364,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-february-17-or-learn-kubernetes/</loc>
 <lastmod>2022-02-02T09:07:09-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\37/487-4870857_kubernetes-logo-kubernetes-png-transparent-png.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/37/487-4870857_kubernetes-logo-kubernetes-png-transparent-png.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -361,7 +372,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-jan-13-or-messaging-on-azure/</loc>
 <lastmod>2022-01-05T09:47:29-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\30/webinar-header-azure-blaize-01132021.webp</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/30/webinar-header-azure-blaize-01132021.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -369,7 +380,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-jan-25-or-keep-your-kubernetes-cluster-safe/</loc>
 <lastmod>2022-01-13T11:54:14-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\33/1642085049582.jfif</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/33/1642085049582.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -377,7 +388,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-jan-26-or-red-hat-on-azure-virtual-tour/</loc>
 <lastmod>2022-01-19T12:33:43-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/31/EN-WBNR-Banner-SRDEM96161-1920X300ltr.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -385,7 +396,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-jan-27-or-introduction-to-quantum-computing/</loc>
 <lastmod>2022-01-26T09:13:58-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/35/Gov_Public-Sector-Skills-Webinars-Event-Pages.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -393,7 +404,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-jan-27-or-microsoft-devops-forum-developer-velocity-and-culture/</loc>
 <lastmod>2022-01-11T15:26:16-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\32/github-xxl.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/32/github-xxl.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -401,7 +412,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-june-7-or-microsoft-devsecops-forum/</loc>
 <lastmod>2022-06-29T10:25:46-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\44/backgroundevent.jfif</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/44/backgroundevent.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -409,7 +420,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-10-or-become-cloud-native/</loc>
 <lastmod>2021-11-11T09:13:48-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\19/original.jfif</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/19/original.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -417,7 +428,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-10-or-the-rise-of-modern-apps/</loc>
 <lastmod>2021-11-11T09:13:41-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\20/catapult.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/20/catapult.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -425,7 +436,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-11-or-implement-api-management-and-develop-event-based-solutions/</loc>
 <lastmod>2021-11-11T09:14:22-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\12/1SMB_Bannerltr.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/12/1SMB_Bannerltr.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -433,7 +444,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-16-or-the-power-of-gitops-for-deploying-frequently/</loc>
 <lastmod>2021-11-15T12:17:01-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\17/BoxBoat.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/17/BoxBoat.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -441,7 +452,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-18-or-databricks-batch-and-streaming/</loc>
 <lastmod>2021-11-12T09:40:01-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\23/azure-databricks.jpg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/23/azure-databricks.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -449,7 +460,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-2-or-your-api-strategy-controls-your-digital-transformation-journey/</loc>
 <lastmod>2021-11-11T09:14:13-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\14/original.jfif</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/14/original.jfif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -457,7 +468,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-4-or-azure-storage-options-with-azure-kubernetes-services/</loc>
 <lastmod>2021-11-11T09:14:58-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\3/aks-1600x375.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/3/aks-1600x375.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -465,7 +476,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-nov-8-or-whats-your-plan-for-cybersecurity/</loc>
 <lastmod>2021-11-11T09:14:31-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\10/securityevent.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/10/securityevent.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -473,7 +484,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-simplify-and-scale-enterprise-spring-apps-in-the-cloud/</loc>
 <lastmod>2023-02-27T11:48:34-05:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\67/marketo-banner-dark.svg</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/67/marketo-banner-dark.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -481,7 +492,7 @@
 <loc>https://blog.mikehacker.net/webinar-or-the-power-of-training-or-oct-27/</loc>
 <lastmod>2022-10-19T09:14:32-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\58/atmosera.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/58/atmosera.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -489,7 +500,7 @@
 <loc>https://blog.mikehacker.net/webinar-series-or-july-13-or-docker-and-kubernetes/</loc>
 <lastmod>2022-08-26T09:01:57-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\47/thumbnail_image002.png</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/47/thumbnail_image002.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -497,7 +508,7 @@
 <loc>https://blog.mikehacker.net/winter-tech-briefing-or-columbus-ohio/</loc>
 <lastmod>2023-03-15T09:35:23-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.mikehacker.net/media\posts\65/https___cdn.evbuc.com_images_433792799_109757458479_1_original.webp</image:loc>
+<image:loc>https://blog.mikehacker.net/media/posts/65/https___cdn.evbuc.com_images_433792799_109757458479_1_original.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
