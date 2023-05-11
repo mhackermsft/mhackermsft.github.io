@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/logic-app-unable-to-retrieve-record-from-cosmos-db/",
+            "url": "https://blog.mikehacker.net/logic-app-unable-to-retrieve-record-from-cosmos-db/",
+            "title": "Logic App: Unable to retrieve record from Cosmos DB.",
+            "summary": "Recently while I was working on a customer demo I ran into a bit of an issue when trying to&hellip;",
+            "content_html": "<p>Recently while I was working on a customer demo I ran into a bit of an issue when trying to delete a record from a Cosmos DB using Logic Apps.  I kept receiving an error indicating that the document id I was specifying didn't exist even though I could see it was in the database. I was also running into similar issues when trying to retrieve a specific document from the database.</p>\n<p>The Logic Apps actions I was using included the <em>Delete a document (V2) and Get a document (V2).  </em></p>\n<p>I searched through documentation and found nothing that seemed to give any clear indication as to what the error was. I did some searches using Bing and found other folks who were having similar challenges but I didn't run across any one specific way to fix it. Everyone seemed to just be guessing as to what the issue was. </p>\n<p>In those actions, there are required fields which include Cosmos DB account name, database ID, Collection ID and Document ID.  In most cases you will need to also add the parameter Partition key value in order for the delete or get actions to find the proper document.  In my database, the Document ID and Partition key values are the same. </p>\n<p>My Logic app is acting as a REST API to do basic CRUD (create, read, update and delete) operations.  When a client calls the REST API it passes in a value which is stored as the variable id, which represents the id of the document I wish to get or delete.  Originally I was just taking that id variable and placing it in both the Document ID and partition key value fields in the Logic Apps action. As logical as that sounds, this did not work and I kept getting errors related to the document not being found.</p>\n<p>So what ultimately fixed the issue?  The Partition key value needs to be surrounded by double quotes.  That's it.  Once I placed double quotes around this field, my Logic Apps started functioning correctly.</p>\n<p>Hopefully this little nugget of information comes in handy for someone else who is running into similar challenges with the Cosmos DB actions for Logic Apps.</p>\n<p> </p>\n<p> </p>",
+            "image": "https://blog.mikehacker.net/media/posts/71/LogicApps-3.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2023-05-11T08:55:07-04:00",
+            "date_modified": "2023-05-11T08:58:27-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/how-to-choose-between-azure-kubernetes-service-or-azure-red-hat-openshift/",
             "url": "https://blog.mikehacker.net/how-to-choose-between-azure-kubernetes-service-or-azure-red-hat-openshift/",
             "title": "How to choose between Azure Kubernetes Service or Azure Red Hat OpenShift",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2023-01-05T11:19:05-05:00",
             "date_modified": "2023-01-05T11:19:05-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/modernization-is-expensive/",
-            "url": "https://blog.mikehacker.net/modernization-is-expensive/",
-            "title": "Modernization is Expensive",
-            "summary": "One common theme I hear when speaking with customers about Application Modernization is that they don't have the budget or&hellip;",
-            "content_html": "<p>One common theme I hear when speaking with customers about Application Modernization is that they don't have the budget or that they can't dedicate the necessary resources to complete a modernization project.  It is true that Application Modernization will have a cost and that it will require dedicated resources.  But, does it really make sense to not invest in modernization and instead continue on legacy applications?</p>\n<p>It is important to look at the bigger picture and identify the potential risks and costs of not doing anything.  Specifically:</p>\n<ul>\n<li>\n<p>Security risks: Legacy applications may be more vulnerable to security threats such as hackers, malware, and data breaches, due to their outdated technology and lack of support. Modernization can help address these security risks by updating the application with the latest security protocols and patches, as well as incorporating features such as encryption and authentication.</p>\n</li>\n<li>\n<p>Compliance risks: Government agencies may also face compliance risks if they continue to use legacy applications that do not meet current regulations or standards. Modernization can help ensure that the application is compliant with relevant laws, policies, and industry standards, which can help prevent costly fines, legal issues, and reputational damage.</p>\n</li>\n<li>\n<p>Cost of maintenance and support: Continuing to support and maintain a legacy application can also be costly, as it may require specialized skills and resources that may not be readily available. Modernization can help reduce these costs by simplifying the application, improving its maintainability, and leveraging the latest tools and technologies.</p>\n</li>\n</ul>\n<p>Modernizing an application can also help reduce technical debt by addressing the underlying issues that contribute to technical debt in the first place. Technical debt is the cost that an organization incurs when it takes shortcuts or makes trade-offs that compromise the long-term quality or maintainability of its systems. This can happen for a variety of reasons, such as a lack of resources, time, or skills, or a need to meet short-term goals.</p>\n<p>Over time, technical debt can accumulate and become a significant burden on an organization, as it can lead to a number of problems, including:</p>\n<ul>\n<li>\n<p>Reduced performance: Technical debt can slow down the performance of an application, as it may require more resources and processing power to run. This can lead to a poor user experience, as well as increased costs for infrastructure and support.</p>\n</li>\n<li>\n<p>Increased maintenance costs: Technical debt can also make an application more difficult and costly to maintain, as it may require specialized skills or resources to fix or update. This can lead to increased maintenance costs and a higher risk of failure or downtime.</p>\n</li>\n<li>\n<p>Reduced flexibility and agility: Technical debt can also limit an organization's ability to respond to changing business needs or take advantage of new opportunities. It may be difficult or costly to make changes or updates to an application with high levels of technical debt, which can limit the organization's flexibility and agility.</p>\n</li>\n</ul>\n<p>By modernizing an application, an organization can address the underlying issues that contribute to technical debt and reduce the costs and risks associated with it. Modernization can involve a variety of activities, such as updating the technology stack, refactoring the code, improving the architecture, and introducing best practices and standards. By taking these steps, an organization can improve the performance, maintainability, and agility of its applications, and reduce its technical debt.</p>\n<p>Overall, modernization may be a necessary investment for a government agency to address the risks and costs associated with legacy applications. By carefully evaluating the potential benefits and costs, and developing a clear roadmap and plan for modernization, the agency can make informed decisions about whether and how to modernize their legacy applications.</p>",
-            "image": "https://blog.mikehacker.net/media/posts/61/cost.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Articles"
-            ],
-            "date_published": "2023-01-05T10:55:11-05:00",
-            "date_modified": "2023-01-10T09:40:33-05:00"
         }
     ]
 }
