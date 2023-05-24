@@ -3,12 +3,53 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-05-11T08:58:27-04:00</updated>
+    <updated>2023-05-24T12:00:14-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Migrate to Modernize</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/migrate-to-modernize/"/>
+        <id>https://blog.mikehacker.net/migrate-to-modernize/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" medium="image" />
+            <category term="Articles"/>
+
+        <updated>2023-05-24T12:00:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" alt="" />
+                    Migrate to Modernize is an approach for application modernization that enables organizations to see immediate value while also addressing common&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" class="type:primaryImage" alt="" /></p>
+                <p>Migrate to Modernize is an approach for application modernization that enables organizations to see immediate value while also addressing common modernization challenges.</p>
+<p>Modernizing an application means to pay back that technical debt and to enable the application to take advantage of modern platform services. Modern platform services enables organizations to focus more on solving business challenges and provides more value by not having to focus on hardware, patching and server maintenance.</p>
+<p>The fastest way to modernize is to first migrate your applications to Azure. Once the application is in Azure you can begin to modernize parts of the solution by replacing virtual machines with platform services. For example, you can replace the SQL database VM with Azure SQL, that IIS server with Azure App Service, and modernize the applications identity to use Azure Active Directory for authentication.</p>
+<p><a href="https://www.linkedin.com/posts/mphacker_msftadvocate-azure-government-activity-7056263142070243328-a9sM?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">Here is a short video</a> that explains the Migrate to Modernize approach.</p>
+<p>Below are a few recommendations and things to consider with using the Migrate to Modernize approach:</p>
+<ul>
+<li>Quickly get started by modernizing the database first by utilizing Azure SQL Database, Azure SQL Managed Instance, MySQL, or PostgreSQL platform services.</li>
+<li>Migrate the application VMs to Azure and reconfigure the application to utilize the new hosted database service</li>
+<li>Establish policies that incentivize completing the full application modernization process within an acceptable timeframe.</li>
+<li>Developers should modernize the application to utilize modern authentication solutions such as Azure Active Directory and Azure AD B2C.</li>
+<li>Developers should upgrade the code to utilize the latest frameworks and libraries to help protect against security vulnerabilities. </li>
+<li>Architects and developers can work together to determine the best platform services to use for hosting the updated application. Options include services such as Azure Kubernetes Service, Azure Container Apps, Azure Red Hat OpenShift, and Azure App Service.</li>
+<li>Architects and developers can consider decomposing the application into microservices and APIs that can be hosted on container or serverless platforms.</li>
+<li>Architects and developers can begin to look for options to enhance their application with other platform as a service features such as Logic Apps, Service Bus, Redis Cache, Configuration Services, Functions.</li>
+</ul>
+<p>The key point is that you start with modernizing the database while migrating the application. From there you can begin to modernize components of the app while receiving the benefits of using database platform services and having access to a wide range of additional platform services for your application.</p>
+<p>To get started today, speak with your Microsoft Account Team for details on how they can assist you with your modernization journey.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Logic App: Unable to retrieve record from Cosmos DB.</title>
         <author>
@@ -295,45 +336,6 @@
 <li>Take the <a href="https://docs.microsoft.com/learn/certifications/azure-fundamentals/" target="_blank" alt="Click to learn more about the Azure Fundamentals certification exam." rel="noopener">Microsoft Azure Fundamentals certification exam</a> at no cost.</li>
 </ul>
 <p><a href="https://mktoevents.com/Microsoft+Event/377897/157-GQE-382">Learn more and register here</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Benefits of Low Code for App Dev</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/benefits-of-low-code-for-app-dev/"/>
-        <id>https://blog.mikehacker.net/benefits-of-low-code-for-app-dev/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/62/covid_hero_desktop.jpg" medium="image" />
-            <category term="Articles"/>
-
-        <updated>2023-01-05T11:19:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/62/covid_hero_desktop.jpg" alt="Woman sitting in front of computer running Microsoft Power Apps" />
-                    In today's fast-paced business environment, organizations are under constant pressure to deliver value to customers quickly and efficiently. One way&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/62/covid_hero_desktop.jpg" class="type:primaryImage" alt="Woman sitting in front of computer running Microsoft Power Apps" /></p>
-                <p>In today's fast-paced business environment, organizations are under constant pressure to deliver value to customers quickly and efficiently. One way to meet this challenge is by using low code solutions such as <a href="https://powerapps.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer">Microsoft Power Apps</a> to build and deploy applications.</p>
-<p>Low code solutions allow non-technical users to create custom applications by dragging and dropping pre-built components, rather than writing code from scratch. This can save a significant amount of time and effort, and can make it easier for organizations to build and deploy applications quickly.</p>
-<p>There are several benefits to using low code solutions:</p>
-<ul>
-<li>
-<p>Speed and agility: Low code solutions can help organizations build and deploy applications faster, as they do not require the same level of technical expertise or coding knowledge. This can help organizations respond more quickly to changing business needs and deliver value to customers more rapidly.</p>
-</li>
-<li>
-<p>Increased productivity: Low code solutions can also increase productivity by empowering non-technical users to build and customize applications themselves, rather than relying on IT or professional developers. This can reduce the workload for IT and developers, allowing them to focus on more strategic tasks.</p>
-</li>
-<li>
-<p>Cost savings: Low code solutions can also help organizations save money by reducing the need for specialized skills and resources. Non-technical users can build and maintain applications themselves, which can lower the costs of development and maintenance.</p>
-</li>
-</ul>
-<p>Some professional developers may be hesitant to adopt low code solutions due to concerns about the quality or flexibility of the resulting applications. However, low code solutions have come a long way in recent years, and can now support a wide range of capabilities and customization options. Additionally, professional developers and low code developers can work together to ensure that the resulting applications meet the necessary standards and requirements. For example, professional developers can build APIs that low code developers can use, which can help to extend the capabilities of the application and improve its integration with other systems.</p>
-<p>Low code solutions can be a valuable tool for organizations looking to build and deploy applications quickly and efficiently. By leveraging the benefits of low code and working together with professional developers, organizations can deliver value to customers faster and respond more effectively to changing business needs.</p>
             ]]>
         </content>
     </entry>
