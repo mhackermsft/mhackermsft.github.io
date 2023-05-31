@@ -3,12 +3,44 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-05-25T09:15:58-04:00</updated>
+    <updated>2023-05-31T10:03:20-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Azure is the home for your Java Applications</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/"/>
+        <id>https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png" medium="image" />
+            <category term="Training"/>
+            <category term="Articles"/>
+
+        <updated>2023-05-31T10:03:20-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png" alt="Build or Migrate Java Apps with Azure" />
+                    Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png" class="type:primaryImage" alt="Build or Migrate Java Apps with Azure" /></p>
+                <p>Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. We employ thousands of Java engineers, run millions of JVMs, and process terabytes of data every day, to deliver the services everyone loves. We also built tools and services specifically designed for Java developers and applications.</p>
+<p>After watching the videos, <a href="https://blog.mikehacker.net/java-on-azure/" target="_blank" rel="noopener noreferrer">check out the other Java on Azure resources here</a>.</p>
+<p>Part 1</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/lCzcQ0Q5cSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+<p>Part 2</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/IyVneQO67zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Migrate to Modernize</title>
         <author>
@@ -293,49 +325,6 @@
                 <p>Microsoft partner, Atmosera, will be hosting 2 free webinars early in February covering topics such as iPaaS, GitHub and Cloud Native solutions.  See below for details and registration link.</p>
 <p><strong>Modern Integration Platform as a Service (iPaaS) Architecture + GitHub<br></strong>February 2, 2023 from 8am to 12pm PST<br><a href="https://info.atmosera.com/modern-integration-ipaas-github">Modern Integration Platform-as-a-Service (iPaaS) Architecture + GitHub (atmosera.com)</a></p>
 <p><strong>GitHub + Cloud Native + light iPaaS<br></strong>February 8, 2023 from 9am to 4:30pm PST<br><a href="https://info.atmosera.com/github-cloudnative-light-paas-1">GitHub + Cloud Native + light iPaaS (atmosera.com)</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Free Azure Virtual Training Day: Fundamentals</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/free-azure-virtual-training-day-fundamentals/"/>
-        <id>https://blog.mikehacker.net/free-azure-virtual-training-day-fundamentals/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/63/fundamentals.png" medium="image" />
-            <category term="Events"/>
-
-        <updated>2023-02-01T09:38:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/63/fundamentals.png" alt="" />
-                    Monday, January 30, 2023 | 9:00 AM - 11:15 AM | (GMT-08:00) Pacific Time (US &amp; Canada) Tuesday, January 31,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/63/fundamentals.png" class="type:primaryImage" alt="" /></p>
-                <blockquote>
-<p>Monday, January 30, 2023 | 9:00 AM - 11:15 AM | (GMT-08:00) Pacific Time (US &amp; Canada)<br>Tuesday, January 31, 2023 | 9:00 AM - 11:30 AM | (GMT-08:00) Pacific Time (US &amp; Canada</p>
-</blockquote>
-<p>Join us at Microsoft Azure Virtual Training Day: Fundamentals for an introduction to cloud computing concepts, models, and services—from public to private to hybrid cloud. You’ll also learn the basics of infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Prepare to take full advantage of the key Azure pillars of security, privacy, compliance, and trust.</p>
-<p>Who should attend:</p>
-<ul>
-<li>Developers</li>
-<li>Architects</li>
-<li>IT professionals</li>
-<li>Cloud novices</li>
-</ul>
-<p>Technical level: For those who are just beginning to work with cloud-based solutions and services or are new to Azure.</p>
-<p>After completing this training, you will be able to:</p>
-<ul>
-<li>Prepare for cloud migration with the training to evaluate your existing on-premises environment.</li>
-<li>Optimize your Azure-based workloads for maximum ROI.</li>
-<li>Learn best practices for managing your virtual machines, applications, and data with Azure.</li>
-<li>Take the <a href="https://docs.microsoft.com/learn/certifications/azure-fundamentals/" target="_blank" alt="Click to learn more about the Azure Fundamentals certification exam." rel="noopener">Microsoft Azure Fundamentals certification exam</a> at no cost.</li>
-</ul>
-<p><a href="https://mktoevents.com/Microsoft+Event/377897/157-GQE-382">Learn more and register here</a></p>
             ]]>
         </content>
     </entry>

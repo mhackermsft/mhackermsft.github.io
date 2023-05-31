@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/",
+            "url": "https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/",
+            "title": "Azure is the home for your Java Applications",
+            "summary": "Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a&hellip;",
+            "content_html": "<p>Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. We employ thousands of Java engineers, run millions of JVMs, and process terabytes of data every day, to deliver the services everyone loves. We also built tools and services specifically designed for Java developers and applications.</p>\n<p>After watching the videos, <a href=\"https://blog.mikehacker.net/java-on-azure/\" target=\"_blank\" rel=\"noopener noreferrer\">check out the other Java on Azure resources here</a>.</p>\n<p>Part 1</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lCzcQ0Q5cSQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>\n<p>Part 2</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IyVneQO67zA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
+            "image": "https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Training",
+                   "Articles"
+            ],
+            "date_published": "2023-05-31T09:58:49-04:00",
+            "date_modified": "2023-05-31T10:03:20-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/migrate-to-modernize/",
             "url": "https://blog.mikehacker.net/migrate-to-modernize/",
             "title": "Migrate to Modernize",
@@ -153,22 +170,6 @@
             ],
             "date_published": "2023-01-24T12:35:29-05:00",
             "date_modified": "2023-01-24T12:35:29-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/free-azure-virtual-training-day-fundamentals/",
-            "url": "https://blog.mikehacker.net/free-azure-virtual-training-day-fundamentals/",
-            "title": "Free Azure Virtual Training Day: Fundamentals",
-            "summary": "Monday, January 30, 2023 | 9:00 AM - 11:15 AM | (GMT-08:00) Pacific Time (US &amp; Canada) Tuesday, January 31,&hellip;",
-            "content_html": "<blockquote>\n<p>Monday, January 30, 2023 | 9:00 AM - 11:15 AM | (GMT-08:00) Pacific Time (US &amp; Canada)<br>Tuesday, January 31, 2023 | 9:00 AM - 11:30 AM | (GMT-08:00) Pacific Time (US &amp; Canada</p>\n</blockquote>\n<p>Join us at Microsoft Azure Virtual Training Day: Fundamentals for an introduction to cloud computing concepts, models, and services—from public to private to hybrid cloud. You’ll also learn the basics of infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Prepare to take full advantage of the key Azure pillars of security, privacy, compliance, and trust.</p>\n<p>Who should attend:</p>\n<ul>\n<li>Developers</li>\n<li>Architects</li>\n<li>IT professionals</li>\n<li>Cloud novices</li>\n</ul>\n<p>Technical level: For those who are just beginning to work with cloud-based solutions and services or are new to Azure.</p>\n<p>After completing this training, you will be able to:</p>\n<ul>\n<li>Prepare for cloud migration with the training to evaluate your existing on-premises environment.</li>\n<li>Optimize your Azure-based workloads for maximum ROI.</li>\n<li>Learn best practices for managing your virtual machines, applications, and data with Azure.</li>\n<li>Take the <a href=\"https://docs.microsoft.com/learn/certifications/azure-fundamentals/\" target=\"_blank\" alt=\"Click to learn more about the Azure Fundamentals certification exam.\" rel=\"noopener\">Microsoft Azure Fundamentals certification exam</a> at no cost.</li>\n</ul>\n<p><a href=\"https://mktoevents.com/Microsoft+Event/377897/157-GQE-382\">Learn more and register here</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/63/fundamentals.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2023-01-10T09:40:18-05:00",
-            "date_modified": "2023-02-01T09:38:13-05:00"
         }
     ]
 }
