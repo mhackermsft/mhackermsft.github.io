@@ -3,12 +3,36 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-06-13T10:56:56-04:00</updated>
+    <updated>2023-08-10T11:21:38-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>AI Training</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/ai-training/"/>
+        <id>https://blog.mikehacker.net/ai-training/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/75/ai.jpg" medium="image" />
+
+        <updated>2023-08-10T11:21:38-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/75/ai.jpg" alt="" />
+                    Semantic Kernel Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/75/ai.jpg" class="type:primaryImage" alt="" /></p>
+                <p><strong><a href="https://learn.microsoft.com/en-us/semantic-kernel/overview/" target="_blank" rel="noopener noreferrer">Semantic Kernel</a></strong><br>Semantic Kernel is an open-source SDK that lets you easily combine AI services like <a href="https://platform.openai.com/docs/" data-linktype="external">OpenAI</a>, <a href="https://azure.microsoft.com/products/cognitive-services/openai-service/" data-linktype="external">Azure OpenAI</a>, and <a href="https://huggingface.co/" data-linktype="external">Hugging Face</a> with conventional programming languages like C# and Python. By doing so, you can create AI apps that combine the best of both worlds.</p>
+<p><strong><a href="https://learn.microsoft.com/en-us/ai/" target="_blank" rel="noopener noreferrer">AI Learning Hub</a><br></strong>Build AI skills, connect with the community, earn credentials, learn from experts, and discover upcoming events.<strong><br></strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to use Azure OpenAI Service to unlock new insights from government data and improve citizen services</title>
         <author>
@@ -360,47 +384,6 @@
                     <p><img src="https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png" class="type:primaryImage" alt="Photo of a skyline" /></p>
                 <p>Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.  Click on the links below for additional details and registration.</p>
 <p><strong>Event: Cloud Native Development + GitHub</strong><br>March 28, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/cloud-native-development-github" target="_blank" rel="noopener noreferrer">Learn more and register</a><br><br><strong>Event: Containerization with Azure (AKS + Container Apps)</strong><br>February 21, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/containerization-with-azure-aks-container-apps" target="_blank" rel="noopener noreferrer">Learn more and register</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Winter Tech Briefing | Columbus Ohio</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/winter-tech-briefing-or-columbus-ohio/"/>
-        <id>https://blog.mikehacker.net/winter-tech-briefing-or-columbus-ohio/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/65/https___cdn.evbuc.com_images_433792799_109757458479_1_original.webp" medium="image" />
-            <category term="Events"/>
-
-        <updated>2023-03-15T09:35:23-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/65/https___cdn.evbuc.com_images_433792799_109757458479_1_original.webp" alt="" />
-                    Join Microsoft, Citrix, Dell, Slalom CGI, Improving, MAVEN and Planet Technologies for a Winter Tech Briefing in Columbus, Ohio on&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/65/https___cdn.evbuc.com_images_433792799_109757458479_1_original.webp" class="type:primaryImage" alt="" /></p>
-                <p>Join Microsoft, Citrix, Dell, Slalom CGI, Improving, MAVEN and Planet Technologies for a Winter Tech Briefing in Columbus, Ohio on March 15 and 16, 2023.</p>
-<p>During this in-person tech briefing you can attend sessions on:</p>
-<ul>
-<li>Machine Learning</li>
-<li>Azure Pipelines</li>
-<li>Sentinel</li>
-<li>Azure Design Patterns</li>
-<li>Intune</li>
-<li>Evolving Journey for Cloud Architects</li>
-<li>Zero Trust Architecture</li>
-<li>FinOps</li>
-<li>Microservices,</li>
-<li>Trench Warefare</li>
-<li>Microsoft Teams</li>
-<li>Citrix VDI</li>
-<li>M365 Compliance</li>
-</ul>
-<p><a href="https://www.eventbrite.com/e/central-ohio-winter-tech-briefings-tickets-525779961017">Learn more and register</a> before the event fills up!</p>
             ]]>
         </content>
     </entry>

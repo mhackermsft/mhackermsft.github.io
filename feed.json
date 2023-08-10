@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/ai-training/",
+            "url": "https://blog.mikehacker.net/ai-training/",
+            "title": "AI Training",
+            "summary": "Semantic Kernel Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional&hellip;",
+            "content_html": "<p><strong><a href=\"https://learn.microsoft.com/en-us/semantic-kernel/overview/\" target=\"_blank\" rel=\"noopener noreferrer\">Semantic Kernel</a></strong><br>Semantic Kernel is an open-source SDK that lets you easily combine AI services like <a href=\"https://platform.openai.com/docs/\" data-linktype=\"external\">OpenAI</a>, <a href=\"https://azure.microsoft.com/products/cognitive-services/openai-service/\" data-linktype=\"external\">Azure OpenAI</a>, and <a href=\"https://huggingface.co/\" data-linktype=\"external\">Hugging Face</a> with conventional programming languages like C# and Python. By doing so, you can create AI apps that combine the best of both worlds.</p>\n<p><strong><a href=\"https://learn.microsoft.com/en-us/ai/\" target=\"_blank\" rel=\"noopener noreferrer\">AI Learning Hub</a><br></strong>Build AI skills, connect with the community, earn credentials, learn from experts, and discover upcoming events.<strong><br></strong></p>",
+            "image": "https://blog.mikehacker.net/media/posts/75/ai.jpg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-10T11:14:03-04:00",
+            "date_modified": "2023-08-10T11:21:38-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/how-to-use-azure-openai-service-to-unlock-new-insights-from-government-data-and-improve-citizen-services/",
             "url": "https://blog.mikehacker.net/how-to-use-azure-openai-service-to-unlock-new-insights-from-government-data-and-improve-citizen-services/",
             "title": "How to use Azure OpenAI Service to unlock new insights from government data and improve citizen services",
@@ -154,22 +169,6 @@
             ],
             "date_published": "2023-02-08T10:47:33-05:00",
             "date_modified": "2023-02-17T11:19:40-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/winter-tech-briefing-or-columbus-ohio/",
-            "url": "https://blog.mikehacker.net/winter-tech-briefing-or-columbus-ohio/",
-            "title": "Winter Tech Briefing | Columbus Ohio",
-            "summary": "Join Microsoft, Citrix, Dell, Slalom CGI, Improving, MAVEN and Planet Technologies for a Winter Tech Briefing in Columbus, Ohio on&hellip;",
-            "content_html": "<p>Join Microsoft, Citrix, Dell, Slalom CGI, Improving, MAVEN and Planet Technologies for a Winter Tech Briefing in Columbus, Ohio on March 15 and 16, 2023.</p>\n<p>During this in-person tech briefing you can attend sessions on:</p>\n<ul>\n<li>Machine Learning</li>\n<li>Azure Pipelines</li>\n<li>Sentinel</li>\n<li>Azure Design Patterns</li>\n<li>Intune</li>\n<li>Evolving Journey for Cloud Architects</li>\n<li>Zero Trust Architecture</li>\n<li>FinOps</li>\n<li>Microservices,</li>\n<li>Trench Warefare</li>\n<li>Microsoft Teams</li>\n<li>Citrix VDI</li>\n<li>M365 Compliance</li>\n</ul>\n<p><a href=\"https://www.eventbrite.com/e/central-ohio-winter-tech-briefings-tickets-525779961017\">Learn more and register</a> before the event fills up!</p>",
-            "image": "https://blog.mikehacker.net/media/posts/65/https___cdn.evbuc.com_images_433792799_109757458479_1_original.webp",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2023-02-01T09:37:31-05:00",
-            "date_modified": "2023-03-15T09:35:23-04:00"
         }
     ]
 }
