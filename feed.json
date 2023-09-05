@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/webinar-optimize-azure-costs/",
+            "url": "https://blog.mikehacker.net/webinar-optimize-azure-costs/",
+            "title": "WEBINAR: Optimize Azure Costs",
+            "summary": "Optimize Your Azure Costs: Unlock Savings and Efficiency Free webinar from Atmosera | September 14, 11 am PDT / 2&hellip;",
+            "content_html": "<h1>Optimize Your Azure Costs: Unlock Savings and Efficiency</h1>\n<p>Free webinar from Atmosera | September 14, 11 am PDT / 2 pm EDT</p>\n<p>Join the upcoming webinar on Azure cost optimization to discover valuable strategies and best practices that will help you optimize your cloud spending without compromising performance. Cost management becomes essential as businesses increasingly rely on the cloud for their computing needs. In this webinar, the expert speakers will guide you through practical tips, tools, and insights to maximize your Azure investment and unlock significant savings. Don’t miss this opportunity to gain a competitive edge while minimizing your cloud expenses.</p>\n<p><a href=\"https://www.atmosera.com/resources/event/optimize-your-azure-costs-unlock-savings-and-efficiency/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register now!</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2023-09-05T09:25:32-04:00",
+            "date_modified": "2023-09-05T09:25:32-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/ai-training/",
             "url": "https://blog.mikehacker.net/ai-training/",
             "title": "AI Training",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2023-02-27T11:48:34-05:00",
             "date_modified": "2023-02-27T11:48:34-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/upcoming-events-on-kubernetes-and-cloud-native/",
-            "url": "https://blog.mikehacker.net/upcoming-events-on-kubernetes-and-cloud-native/",
-            "title": "Upcoming Events on Kubernetes and Cloud Native",
-            "summary": "Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.",
-            "content_html": "<p>Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.  Click on the links below for additional details and registration.</p>\n<p><strong>Event: Cloud Native Development + GitHub</strong><br>March 28, 2023 from 8 AM - Noon PST<br><a href=\"https://info.atmosera.com/cloud-native-development-github\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register</a><br><br><strong>Event: Containerization with Azure (AKS + Container Apps)</strong><br>February 21, 2023 from 8 AM - Noon PST<br><a href=\"https://info.atmosera.com/containerization-with-azure-aks-container-apps\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more and register</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2023-02-08T10:47:33-05:00",
-            "date_modified": "2023-02-17T11:19:40-05:00"
         }
     ]
 }

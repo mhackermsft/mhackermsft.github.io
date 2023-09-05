@@ -3,12 +3,39 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-08-10T11:21:38-04:00</updated>
+    <updated>2023-09-05T09:25:32-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>WEBINAR: Optimize Azure Costs</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/webinar-optimize-azure-costs/"/>
+        <id>https://blog.mikehacker.net/webinar-optimize-azure-costs/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png" medium="image" />
+            <category term="Events"/>
+
+        <updated>2023-09-05T09:25:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png" alt="Azure Logo" />
+                    Optimize Your Azure Costs: Unlock Savings and Efficiency Free webinar from Atmosera | September 14, 11 am PDT / 2&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png" class="type:primaryImage" alt="Azure Logo" /></p>
+                <h1>Optimize Your Azure Costs: Unlock Savings and Efficiency</h1>
+<p>Free webinar from Atmosera | September 14, 11 am PDT / 2 pm EDT</p>
+<p>Join the upcoming webinar on Azure cost optimization to discover valuable strategies and best practices that will help you optimize your cloud spending without compromising performance. Cost management becomes essential as businesses increasingly rely on the cloud for their computing needs. In this webinar, the expert speakers will guide you through practical tips, tools, and insights to maximize your Azure investment and unlock significant savings. Don’t miss this opportunity to gain a competitive edge while minimizing your cloud expenses.</p>
+<p><a href="https://www.atmosera.com/resources/event/optimize-your-azure-costs-unlock-savings-and-efficiency/" target="_blank" rel="noopener noreferrer">Learn more and register now!</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AI Training</title>
         <author>
@@ -359,31 +386,6 @@
 <li>How to simplify cloud-native app architecture with Azure Spring Apps Enterprise, including security, request routing, configuration, discovery, and more</li>
 <li>How Azure Spring Apps simplifies DevSecOps for polyglot applications</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Upcoming Events on Kubernetes and Cloud Native</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/upcoming-events-on-kubernetes-and-cloud-native/"/>
-        <id>https://blog.mikehacker.net/upcoming-events-on-kubernetes-and-cloud-native/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png" medium="image" />
-            <category term="Events"/>
-
-        <updated>2023-02-17T11:19:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png" alt="Photo of a skyline" />
-                    Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/66/atmoseraevent-xxl.png" class="type:primaryImage" alt="Photo of a skyline" /></p>
-                <p>Microsoft partner, Atmosera, will be delivering two free webinars in February related to cloud native development and Azure Kubernetes Service.  Click on the links below for additional details and registration.</p>
-<p><strong>Event: Cloud Native Development + GitHub</strong><br>March 28, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/cloud-native-development-github" target="_blank" rel="noopener noreferrer">Learn more and register</a><br><br><strong>Event: Containerization with Azure (AKS + Container Apps)</strong><br>February 21, 2023 from 8 AM - Noon PST<br><a href="https://info.atmosera.com/containerization-with-azure-aks-container-apps" target="_blank" rel="noopener noreferrer">Learn more and register</a></p>
             ]]>
         </content>
     </entry>
