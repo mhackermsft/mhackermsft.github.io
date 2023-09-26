@@ -3,12 +3,44 @@
     <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-09-05T09:25:32-04:00</updated>
+    <updated>2023-09-26T09:56:55-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>.NET Conf 2023</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/net-conf-2023/"/>
+        <id>https://blog.mikehacker.net/net-conf-2023/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png" medium="image" />
+            <category term="Events"/>
+
+        <updated>2023-09-26T09:56:55-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png" alt=".NET Conf 2023 logo" />
+                    November 14 - 16, 2023 | Online | Free .NET Conf is an annual online conference that showcases the latest&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png" class="type:primaryImage" alt=".NET Conf 2023 logo" /></p>
+                <p>November 14 - 16, 2023 | Online | Free</p>
+<div class="content" tabindex="0">
+<div class="ac-container ac-adaptiveCard">
+<div class="ac-textBlock">
+<p>.NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community and the .NET team, live sessions, Q&amp;A, trivia games, and prizes. It is a great opportunity for .NET developers to learn new skills, network with peers, and have fun. This year, .NET Conf 2023 will take place on November 14-16 2023. </p>
+</div>
+</div>
+</div>
+<p><a href="https://www.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Learn more</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WEBINAR: Optimize Azure Costs</title>
         <author>
@@ -204,7 +236,7 @@
         <media:content url="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" medium="image" />
             <category term="Articles"/>
 
-        <updated>2023-05-25T09:15:58-04:00</updated>
+        <updated>2023-09-26T09:56:52-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" alt="" />
@@ -352,40 +384,6 @@
                 <p>The reliable web app pattern is a set of best practices built on the <a href="https://learn.microsoft.com/en-us/azure/architecture/framework/" data-linktype="absolute-path">Azure Well-Architected Framework</a> that helps developers successfully migrate web applications to the cloud. The goal is to improve the cost, performance, security, operations, and reliability of your web application with minimal changes. The reliable web app pattern is an essential first step for web applications converging on the cloud and sets a foundation for future modernizations in Azure.</p>
 <p>Check out the details for the <a href="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/pattern-overview" target="_blank" rel="noopener noreferrer">Reliable Web App pattern</a> and see how you can <a href="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/apply-pattern" target="_blank" rel="noopener noreferrer">apply the pattern with best practices</a>.</p>
 <p>Looking to build new applications or modernize existing applications, reach out to your Microsoft account team to see how they can help!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Webinar | Simplify and Scale Enterprise Spring Apps in the Cloud</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-or-simplify-and-scale-enterprise-spring-apps-in-the-cloud/"/>
-        <id>https://blog.mikehacker.net/webinar-or-simplify-and-scale-enterprise-spring-apps-in-the-cloud/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/67/marketo-banner-dark.svg" medium="image" />
-            <category term="Events"/>
-
-        <updated>2023-02-27T11:48:34-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/67/marketo-banner-dark.svg" alt="" />
-                    March 23, 2023 | 7 AM - 8:30 AM PST or 4 PM to 5:30 PM PST Zero Management. Maximum&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/67/marketo-banner-dark.svg" class="type:primaryImage" alt="" /></p>
-                <p>March 23, 2023 | 7 AM - 8:30 AM PST or 4 PM to 5:30 PM PST</p>
-<p><strong>Zero Management. Maximum Productivity.</strong></p>
-<p><strong>Struggling to quickly develop and deploy Java or polyglot apps? Bogged down with implementation challenges and management effort?</strong></p>
-<p>If you're an application developer, architect, or platform engineer looking to build and scale enterprise-ready apps in the cloud, Azure Spring Apps Enterprise is a fully managed service that can help you reach your goals sooner − all while minimizing busywork and maximizing security with Azure. Want to learn more?</p>
-<p>Join an interactive virtual session where we will show the value Azure Spring Apps Enterprise can bring to your organization. We will cover the following topics:</p>
-<ul>
-<li>Ideal use cases for Azure Spring Apps Enterprise </li>
-<li>How to streamline deployment, scaling, patching and resilience for your apps</li>
-<li>How to simplify cloud-native app architecture with Azure Spring Apps Enterprise, including security, request routing, configuration, discovery, and more</li>
-<li>How Azure Spring Apps simplifies DevSecOps for polyglot applications</li>
-</ul>
             ]]>
         </content>
     </entry>

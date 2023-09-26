@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/net-conf-2023/",
+            "url": "https://blog.mikehacker.net/net-conf-2023/",
+            "title": ".NET Conf 2023",
+            "summary": "November 14 - 16, 2023 | Online | Free .NET Conf is an annual online conference that showcases the latest&hellip;",
+            "content_html": "<p>November 14 - 16, 2023 | Online | Free</p>\n<div class=\"content\" tabindex=\"0\">\n<div class=\"ac-container ac-adaptiveCard\">\n<div class=\"ac-textBlock\">\n<p>.NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community and the .NET team, live sessions, Q&amp;A, trivia games, and prizes. It is a great opportunity for .NET developers to learn new skills, network with peers, and have fun. This year, .NET Conf 2023 will take place on November 14-16 2023. </p>\n</div>\n</div>\n</div>\n<p><a href=\"https://www.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2023-09-26T09:56:41-04:00",
+            "date_modified": "2023-09-26T09:56:55-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/webinar-optimize-azure-costs/",
             "url": "https://blog.mikehacker.net/webinar-optimize-azure-costs/",
             "title": "WEBINAR: Optimize Azure Costs",
@@ -87,7 +103,7 @@
                    "Articles"
             ],
             "date_published": "2023-05-24T11:13:37-04:00",
-            "date_modified": "2023-05-25T09:15:58-04:00"
+            "date_modified": "2023-09-26T09:56:52-04:00"
         },
         {
             "id": "https://blog.mikehacker.net/logic-app-unable-to-retrieve-record-from-cosmos-db/",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2023-02-28T14:35:56-05:00",
             "date_modified": "2023-02-28T14:35:56-05:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/webinar-or-simplify-and-scale-enterprise-spring-apps-in-the-cloud/",
-            "url": "https://blog.mikehacker.net/webinar-or-simplify-and-scale-enterprise-spring-apps-in-the-cloud/",
-            "title": "Webinar | Simplify and Scale Enterprise Spring Apps in the Cloud",
-            "summary": "March 23, 2023 | 7 AM - 8:30 AM PST or 4 PM to 5:30 PM PST Zero Management. Maximum&hellip;",
-            "content_html": "<p>March 23, 2023 | 7 AM - 8:30 AM PST or 4 PM to 5:30 PM PST</p>\n<p><strong>Zero Management. Maximum Productivity.</strong></p>\n<p><strong>Struggling to quickly develop and deploy Java or polyglot apps? Bogged down with implementation challenges and management effort?</strong></p>\n<p>If you're an application developer, architect, or platform engineer looking to build and scale enterprise-ready apps in the cloud, Azure Spring Apps Enterprise is a fully managed service that can help you reach your goals sooner − all while minimizing busywork and maximizing security with Azure. Want to learn more?</p>\n<p>Join an interactive virtual session where we will show the value Azure Spring Apps Enterprise can bring to your organization. We will cover the following topics:</p>\n<ul>\n<li>Ideal use cases for Azure Spring Apps Enterprise </li>\n<li>How to streamline deployment, scaling, patching and resilience for your apps</li>\n<li>How to simplify cloud-native app architecture with Azure Spring Apps Enterprise, including security, request routing, configuration, discovery, and more</li>\n<li>How Azure Spring Apps simplifies DevSecOps for polyglot applications</li>\n</ul>",
-            "image": "https://blog.mikehacker.net/media/posts/67/marketo-banner-dark.svg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2023-02-27T11:48:34-05:00",
-            "date_modified": "2023-02-27T11:48:34-05:00"
         }
     ]
 }
