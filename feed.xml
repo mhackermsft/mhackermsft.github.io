@@ -3,7 +3,7 @@
     <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-09-28T13:25:56-04:00</updated>
+    <updated>2023-09-28T14:14:55-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
@@ -61,7 +61,7 @@
         <media:content url="https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png" medium="image" />
             <category term="Events"/>
 
-        <updated>2023-09-26T09:56:55-04:00</updated>
+        <updated>2023-09-28T14:14:55-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png" alt=".NET Conf 2023 logo" />
@@ -72,13 +72,7 @@
             <![CDATA[
                     <p><img src="https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png" class="type:primaryImage" alt=".NET Conf 2023 logo" /></p>
                 <p>November 14 - 16, 2023 | Online | Free</p>
-<div class="content" tabindex="0">
-<div class="ac-container ac-adaptiveCard">
-<div class="ac-textBlock">
 <p>.NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community and the .NET team, live sessions, Q&amp;A, trivia games, and prizes. It is a great opportunity for .NET developers to learn new skills, network with peers, and have fun. This year, .NET Conf 2023 will take place on November 14-16 2023. </p>
-</div>
-</div>
-</div>
 <p><a href="https://www.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Learn more</a></p>
             ]]>
         </content>

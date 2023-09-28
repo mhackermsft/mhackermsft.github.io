@@ -29,7 +29,7 @@
             "url": "https://blog.mikehacker.net/net-conf-2023/",
             "title": ".NET Conf 2023",
             "summary": "November 14 - 16, 2023 | Online | Free .NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community&hellip;",
-            "content_html": "<p>November 14 - 16, 2023 | Online | Free</p>\n<div class=\"content\" tabindex=\"0\">\n<div class=\"ac-container ac-adaptiveCard\">\n<div class=\"ac-textBlock\">\n<p>.NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community and the .NET team, live sessions, Q&amp;A, trivia games, and prizes. It is a great opportunity for .NET developers to learn new skills, network with peers, and have fun. This year, .NET Conf 2023 will take place on November 14-16 2023. </p>\n</div>\n</div>\n</div>\n<p><a href=\"https://www.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more</a></p>",
+            "content_html": "<p>November 14 - 16, 2023 | Online | Free</p>\n<p>.NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community and the .NET team, live sessions, Q&amp;A, trivia games, and prizes. It is a great opportunity for .NET developers to learn new skills, network with peers, and have fun. This year, .NET Conf 2023 will take place on November 14-16 2023. </p>\n<p><a href=\"https://www.dotnetconf.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Learn more</a></p>",
             "image": "https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png",
             "author": {
                 "name": "Mike Hacker"
@@ -38,7 +38,7 @@
                    "Events"
             ],
             "date_published": "2023-09-26T09:56:41-04:00",
-            "date_modified": "2023-09-26T09:56:55-04:00"
+            "date_modified": "2023-09-28T14:14:55-04:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-optimize-azure-costs/",
