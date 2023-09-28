@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Mike Hacker | Microsoft Azure Application Innovation Specialist</title>
+    <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2023-09-26T09:56:55-04:00</updated>
+    <updated>2023-09-28T13:25:56-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Are your organization’s secrets safe?</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/are-your-organizations-secrets-safe/"/>
+        <id>https://blog.mikehacker.net/are-your-organizations-secrets-safe/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/78/8ea77848-14fa-411b-9036-47aede65c5d7.jpg" medium="image" />
+
+        <updated>2023-09-28T13:25:56-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/78/8ea77848-14fa-411b-9036-47aede65c5d7.jpg" alt="" />
+                    Keeping secrets safe is one of the most important aspects of software development and deployment. Secrets are sensitive information that can grant access to valuable resources, such as passwords, API keys, tokens, encryption keys, and certificates. If secrets are exposed, they can be used by&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/78/8ea77848-14fa-411b-9036-47aede65c5d7.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Keeping secrets safe is one of the most important aspects of software development and deployment. Secrets are sensitive information that can grant access to valuable resources, such as passwords, API keys, tokens, encryption keys, and certificates. If secrets are exposed, they can be used by malicious actors to compromise the security and integrity of the software and the data it handles. Therefore, developers need to follow best practices to protect their secrets from unauthorized access and leakage.</p>
+<p>One of the common mistakes that developers make is embedding secrets in source code or in configuration files. This can lead to secrets being compromised in several ways, such as:</p>
+<ul>
+<li>Secrets in source code or configuration files can be accidentally checked into version control systems.</li>
+<li>Source code or configuration files can be copied or transferred to other locations, such as backup servers, cloud storage, or email attachments, and become accessible to unauthorized parties.</li>
+<li>Source code or configuration files can be exposed to third-party services or tools, such as code analysis, testing, or deployment tools, and become vulnerable to interception or theft.</li>
+<li>Improperly protected encrypted configuration files can be stolen and brute force decrypted over time.</li>
+</ul>
+<p>To avoid these risks, developers should never embed secrets in source code or in configuration files. Instead, they should use secure methods to store and manage their secrets, such as Azure Key Vault.</p>
+<p>By following this best practice, developers can ensure that their secrets are kept safe and their software is secure. In this blog post, we will explore how you can use Azure Key Vault with your custom on-premises applications to protect your secrets.</p>
+<p>So what exactly is Azure Key Vault? Azure Key Vault is a cloud service that lets you securely store and access secrets, such as passwords, certificates, or cryptographic keys. You can use it to protect all of your secrets and control who can access it.</p>
+<p>For web applications running on Azure services, such as Azure App Service, using Key Vault is simple. The Azure App Service has a managed identity stored in Azure Active Directory that is used to enable the application to authenticate against Azure Key Vault.  Once authenticated the application can perform any necessary operations such as retrieving the latest value of a specific secret.  A simple tutorial for this process can be found here: <a href="https://learn.microsoft.com/en-us/azure/key-vault/general/tutorial-net-create-vault-azure-web-app">Tutorial - Use Azure Key Vault with an Azure web app in .NET | Microsoft Learn</a></p>
+<p>In the past, using Azure Key Vault for on-premises applications was a bit challenging. The biggest hurdle was that your application needed to authenticate against Azure Key Vault in order to have permissions to perform operations in the Vault.  This meant that you would still need to protect at least one secret, which was the API key for accessing Key Vault.  With Azure Arc, all of this has changed!</p>
+<p>Azure Arc is a service that enables you to manage and govern your hybrid cloud resources across different environments, such as on-premises, edge, and multi-cloud. One of the benefits of Azure Arc is that it allows you to extend Azure services and management capabilities to any infrastructure. Arc enabled servers receive an Azure managed identity, which is a secure and convenient way to authenticate and authorize access to Azure resources without storing any credentials in your code or configuration files. With an Azure managed identity, you can use the same identity and access management (IAM) policies and role-based access control (RBAC) that you use for your Azure resources to manage your arc enabled servers. This simplifies the security and compliance of your hybrid cloud environment.</p>
+<p>This means that if you arc enable your on-premises servers your developers can utilize Azure Key Vault with a managed identity. With managed identities, your custom applications can easily retrieve secrets directly from Key Vault without the need for any API keys or any other secrets being stored in source code or configuration files.  This is a huge step forward for your organization’s security practices.</p>
+<p>To get started you will need to Arc enable your on-premises application server for free. You can do this directly through the Azure portal using the steps included in this article: <a href="https://learn.microsoft.com/en-us/azure/azure-arc/servers/learn/quick-enable-hybrid-vm">Quickstart - Connect hybrid machine with Azure Arc-enabled servers - Azure Arc | Microsoft Learn</a></p>
+<p>Once your server is arc enabled, developers can use the Azure Key Vault SDK for .NET to easily access Key Vault with your servers managed identity.  An example C# application can be found here: <a href="https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net?tabs=azure-cli">Quickstart - Azure Key Vault secrets client library for .NET | Microsoft Learn</a></p>
+<p>One additional benefit of using the Azure Key Vault SDK is that the same code that is used to authenticate your on-premises server to Key Vault is the exact same code that is used if your app is running directly in an Azure App Service. This makes your future application migration to Azure just a little bit easier.</p>
+<p>In this blog post, you have learned how to use Azure Arc to provide on-premises servers a managed identity so they can safely and securely authenticate with Azure Key Vault. This allows your developers to avoid storing sensitive credentials in your source code or configuration files and instead leverage the security and scalability of Azure. I hope you have found this post useful and informative.</p>
+<p>If you have any questions or would like to learn more about how using Azure Arc, Managed Identities, and Azure Key Vault can keep your organization’s secrets secure, please reach out to your Microsoft account team.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>.NET Conf 2023</title>
         <author>
@@ -23,7 +65,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png" alt=".NET Conf 2023 logo" />
-                    November 14 - 16, 2023 | Online | Free .NET Conf is an annual online conference that showcases the latest&hellip;
+                    November 14 - 16, 2023 | Online | Free .NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -55,7 +97,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png" alt="Azure Logo" />
-                    Optimize Your Azure Costs: Unlock Savings and Efficiency Free webinar from Atmosera | September 14, 11 am PDT / 2&hellip;
+                    Optimize Your Azure Costs: Unlock Savings and Efficiency Free webinar from Atmosera | September 14, 11 am PDT / 2 pm EDT Join the upcoming webinar on Azure cost optimization to discover valuable strategies and best practices that will help you optimize your cloud spending&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -81,7 +123,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/75/ai.jpg" alt="" />
-                    Semantic Kernel Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional&hellip;
+                    Semantic Kernel Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. By doing so, you can create AI apps that combine the best of both worlds. AI Learning Hub Build&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -106,7 +148,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/74/AIImage.jpg" alt="" />
-                    Note: This blog post was partially generated using AI. Introduction Government agencies have a wealth of data that can be&hellip;
+                    Note: This blog post was partially generated using AI. Introduction Government agencies have a wealth of data that can be used to enhance their decision making and service delivery. However, extracting meaningful insights from large and complex datasets can be challenging and time-consuming. Moreover, citizens&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -209,7 +251,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png" alt="Build or Migrate Java Apps with Azure" />
-                    Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a&hellip;
+                    Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. We employ thousands of Java engineers, run millions of JVMs, and process&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -240,7 +282,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" alt="" />
-                    Migrate to Modernize is an approach for application modernization that enables organizations to see immediate value while also addressing common&hellip;
+                    Migrate to Modernize is an approach for application modernization that enables organizations to see immediate value while also addressing common modernization challenges. Modernizing an application means to pay back that technical debt and to enable the application to take advantage of modern platform services. Modern&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -281,7 +323,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/71/LogicApps-3.jpg" alt="Purple and blue artistic circles" />
-                    Recently while I was working on a customer demo I ran into a bit of an issue when trying to&hellip;
+                    Recently while I was working on a customer demo I ran into a bit of an issue when trying to delete a record from a Cosmos DB using Logic Apps. I kept receiving an error indicating that the document id I was specifying didn't exist&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -313,7 +355,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/70/OIG.jpg" alt="Man trying to make a decision" />
-                    Note: Portions of this blog post were written using Bing Chat. Azure Kubernetes Service (AKS) and Azure Red Hat OpenShift&hellip;
+                    Note: Portions of this blog post were written using Bing Chat. Azure Kubernetes Service (AKS) and Azure Red Hat OpenShift (ARO) are two options for deploying and managing containerized applications on Azure. Both services are based on Kubernetes, the open-source platform for orchestrating containers, but&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -349,7 +391,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.mikehacker.net/media/posts/69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png" alt="Microsoft Build Logo" />
-                    Are you a developer or tech enthusiast looking to stay ahead of the curve? Then don't miss out on the&hellip;
+                    Are you a developer or tech enthusiast looking to stay ahead of the curve? Then don't miss out on the opportunity to attend Microsoft Build on May 23-24! This annual conference is packed with informative sessions and hands-on workshops led by industry experts. You'll have&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -357,33 +399,6 @@
                     <p><img src="https://blog.mikehacker.net/media/posts/69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png" class="type:primaryImage" alt="Microsoft Build Logo" /></p>
                 <p>Are you a developer or tech enthusiast looking to stay ahead of the curve? Then don't miss out on the opportunity to attend Microsoft Build on May 23-24! This annual conference is packed with informative sessions and hands-on workshops led by industry experts. You'll have the chance to learn about the latest technologies and trends in software development and connect with other professionals in your field.</p>
 <p>Don't wait - <a href="https://build.microsoft.com/en-US/home">register now</a> and join us for an unforgettable experience!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Architecture Pattern: Reliable Web App</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/architecture-pattern-reliable-web-app/"/>
-        <id>https://blog.mikehacker.net/architecture-pattern-reliable-web-app/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png" medium="image" />
-            <category term="How To"/>
-            <category term="Articles"/>
-
-        <updated>2023-02-28T14:35:56-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png" alt="" />
-                    The reliable web app pattern is a set of best practices built on the Azure Well-Architected Framework that helps developers successfully migrate&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/68/reliable-web-app-dotnet.png" class="type:primaryImage" alt="" /></p>
-                <p>The reliable web app pattern is a set of best practices built on the <a href="https://learn.microsoft.com/en-us/azure/architecture/framework/" data-linktype="absolute-path">Azure Well-Architected Framework</a> that helps developers successfully migrate web applications to the cloud. The goal is to improve the cost, performance, security, operations, and reliability of your web application with minimal changes. The reliable web app pattern is an essential first step for web applications converging on the cloud and sets a foundation for future modernizations in Azure.</p>
-<p>Check out the details for the <a href="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/pattern-overview" target="_blank" rel="noopener noreferrer">Reliable Web App pattern</a> and see how you can <a href="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/reliable-web-app/dotnet/apply-pattern" target="_blank" rel="noopener noreferrer">apply the pattern with best practices</a>.</p>
-<p>Looking to build new applications or modernize existing applications, reach out to your Microsoft account team to see how they can help!</p>
             ]]>
         </content>
     </entry>
