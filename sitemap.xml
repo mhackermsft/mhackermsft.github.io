@@ -6,7 +6,7 @@
 </url>
 <url>
 <loc>https://blog.mikehacker.net/about/</loc>
-<lastmod>2021-10-11T16:31:01-04:00</lastmod>
+<lastmod>2023-09-28T14:25:36-04:00</lastmod>
 </url>
 <url>
 <loc>https://blog.mikehacker.net/ai-training/</loc>
@@ -130,7 +130,7 @@
 </url>
 <url>
 <loc>https://blog.mikehacker.net/java-on-azure/</loc>
-<lastmod>2023-05-31T10:07:27-04:00</lastmod>
+<lastmod>2023-10-06T09:19:15-04:00</lastmod>
 </url>
 <url>
 <loc>https://blog.mikehacker.net/logic-app-unable-to-retrieve-record-from-cosmos-db/</loc>
@@ -169,6 +169,14 @@
 <lastmod>2022-07-20T11:07:11-04:00</lastmod>
 <image:image>
 <image:loc>https://blog.mikehacker.net/media/posts/52/logo2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.mikehacker.net/microsoft-build-2024/</loc>
+<lastmod>2024-04-24T09:33:50-04:00</lastmod>
+<image:image>
+<image:loc>https://blog.mikehacker.net/media/posts/79/buildbackground2024.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -254,7 +262,7 @@
 </url>
 <url>
 <loc>https://blog.mikehacker.net/net-conf-2023/</loc>
-<lastmod>2023-09-28T14:14:55-04:00</lastmod>
+<lastmod>2024-04-24T09:28:56-04:00</lastmod>
 <image:image>
 <image:loc>https://blog.mikehacker.net/media/posts/77/NETCONF2023Nov14to16.png</image:loc>
 <image:title><![CDATA[.NET Conf 2023 logo]]></image:title>

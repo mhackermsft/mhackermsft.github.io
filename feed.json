@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/microsoft-build-2024/",
+            "url": "https://blog.mikehacker.net/microsoft-build-2024/",
+            "title": "Microsoft Build 2024",
+            "summary": "The Microsoft Build Conference 2024 is scheduled to take place from May 21 to May 23, 2024. This year, the conference offers a hybrid experience, allowing attendees to participate either in-person at Seattle’s new Summit Building or online. Registration is open, priced at $2,125 for&hellip;",
+            "content_html": "<div class=\"content\" tabindex=\"0\" aria-description=\"\" aria-label=\"Sent by Copilot: [1]: https://build.microsoft.com/en-US/home &quot;&quot;\n[2]: https://www.msn.com/en-us/news/technology/build-2024-dates-confirmed-as-microsoft-prepares-yet-even-more-ai-announcements/ar-BB1ildHy &quot;&quot;\n[3]: https://www.neowin.net/news/microsoft-build-2024-is-officially-confirmed-for-may-21-23-in-seattle/ &quot;&quot;\n[4]: https://register.build.microsoft.com/ &quot;&quot;\n\nThe **Microsoft Build Conference 2024** is scheduled to take place from **May 21 to May 23, 2024**. This year, the conference offers a **hybrid experience**, allowing attendees to participate either **in-person** at Seattle's new Summit Building or **online**. **Early bird registration** is available until **April 22, 2024**, priced at **$1,825** for the in-person event. Participants can learn from industry experts, engage in hands-on sessions with the latest AI innovations, and connect with the vibrant developer community[^1^][1] [^2^][2] [^3^][3] [^4^][4].\">\n<div class=\"ac-container ac-adaptiveCard\">\n<div class=\"ac-textBlock\">\n<p>The <strong>Microsoft Build Conference 2024</strong> is scheduled to take place from <strong>May 21 to May 23, 2024</strong>. This year, the conference offers a hybrid experience, allowing attendees to participate either in-person at Seattle’s new Summit Building or online. Registration is open, priced at $2,125 for the in-person event or free for the digital event. Participants can learn from industry experts, engage in hands-on sessions with the latest AI innovations, and connect with the vibrant developer community.</p>\n<p>Check out the Microsoft Build Website for more details and to register.</p>\n</div>\n<div class=\"ac-horizontal-separator\" aria-hidden=\"true\"> </div>\n</div>\n<div class=\"ad-container\"> </div>\n</div>",
+            "image": "https://blog.mikehacker.net/media/posts/79/buildbackground2024.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2024-04-24T09:33:50-04:00",
+            "date_modified": "2024-04-24T09:33:50-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/are-your-organizations-secrets-safe/",
             "url": "https://blog.mikehacker.net/are-your-organizations-secrets-safe/",
             "title": "Are your organization’s secrets safe?",
@@ -38,7 +54,7 @@
                    "Events"
             ],
             "date_published": "2023-09-26T09:56:41-04:00",
-            "date_modified": "2023-09-28T14:14:55-04:00"
+            "date_modified": "2024-04-24T09:28:56-04:00"
         },
         {
             "id": "https://blog.mikehacker.net/webinar-optimize-azure-costs/",
@@ -151,22 +167,6 @@
             ],
             "date_published": "2023-04-21T14:25:17-04:00",
             "date_modified": "2023-04-21T14:41:49-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/microsoft-build-or-may-23-24-2023/",
-            "url": "https://blog.mikehacker.net/microsoft-build-or-may-23-24-2023/",
-            "title": "Microsoft Build | May 23-24, 2023",
-            "summary": "Are you a developer or tech enthusiast looking to stay ahead of the curve? Then don't miss out on the opportunity to attend Microsoft Build on May 23-24! This annual conference is packed with informative sessions and hands-on workshops led by industry experts. You'll have&hellip;",
-            "content_html": "<p>Are you a developer or tech enthusiast looking to stay ahead of the curve? Then don't miss out on the opportunity to attend Microsoft Build on May 23-24! This annual conference is packed with informative sessions and hands-on workshops led by industry experts. You'll have the chance to learn about the latest technologies and trends in software development and connect with other professionals in your field.</p>\n<p>Don't wait - <a href=\"https://build.microsoft.com/en-US/home\">register now</a> and join us for an unforgettable experience!</p>",
-            "image": "https://blog.mikehacker.net/media/posts/69/8659ae4d-4633-4d2d-aeca-88e1b6f3e31a.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2023-03-15T09:31:51-04:00",
-            "date_modified": "2023-05-25T09:15:52-04:00"
         }
     ]
 }
