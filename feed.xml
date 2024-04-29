@@ -3,12 +3,38 @@
     <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2024-04-25T09:12:10-04:00</updated>
+    <updated>2024-04-29T13:56:17-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>On-Demand: GitHub CoPilot Tips from the Field</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/on-demand-github-copilot-tips-from-the-field/"/>
+        <id>https://blog.mikehacker.net/on-demand-github-copilot-tips-from-the-field/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/81/reactor-video-IaC.png" medium="image" />
+            <category term="Training"/>
+
+        <updated>2024-04-29T13:53:58-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/81/reactor-video-IaC.png" alt="" />
+                    GitHub Copilot tips from the field: How to accelerate Infrastructure as Code adoption. Check out this great on-demand video that includes a deep dive demo on how to leverage GitHub Copilot to write, refactor and use Infrastructure as Code to deploy resource to the cloud.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/81/reactor-video-IaC.png" class="type:primaryImage" alt="" /></p>
+                <p class="style-scope ytd-watch-metadata"><strong>GitHub Copilot tips from the field: How to accelerate Infrastructure as Code adoption.</strong></p>
+<p>Check out this great on-demand video that includes a deep dive demo on how to leverage GitHub Copilot to write, refactor and use Infrastructure as Code to deploy resource to the cloud.</p>
+<p><a href="https://www.youtube.com/watch?v=NTYJqgGBChM" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Azure Developers .NET DAY 2024</title>
         <author>
@@ -55,21 +81,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://blog.mikehacker.net/media/posts/79/buildbackground2024.png" class="type:primaryImage" alt="" /></p>
-                <div class="content" tabindex="0" aria-description="" aria-label="Sent by Copilot: [1]: https://build.microsoft.com/en-US/home &quot;&quot;
-[2]: https://www.msn.com/en-us/news/technology/build-2024-dates-confirmed-as-microsoft-prepares-yet-even-more-ai-announcements/ar-BB1ildHy &quot;&quot;
-[3]: https://www.neowin.net/news/microsoft-build-2024-is-officially-confirmed-for-may-21-23-in-seattle/ &quot;&quot;
-[4]: https://register.build.microsoft.com/ &quot;&quot;
-
-The **Microsoft Build Conference 2024** is scheduled to take place from **May 21 to May 23, 2024**. This year, the conference offers a **hybrid experience**, allowing attendees to participate either **in-person** at Seattle's new Summit Building or **online**. **Early bird registration** is available until **April 22, 2024**, priced at **$1,825** for the in-person event. Participants can learn from industry experts, engage in hands-on sessions with the latest AI innovations, and connect with the vibrant developer community[^1^][1] [^2^][2] [^3^][3] [^4^][4].">
-<div class="ac-container ac-adaptiveCard">
-<div class="ac-textBlock">
-<p>The <strong>Microsoft Build Conference 2024</strong> is scheduled to take place from <strong>May 21 to May 23, 2024</strong>. This year, the conference offers a hybrid experience, allowing attendees to participate either in-person at Seattle’s new Summit Building or online. Registration is open, priced at $2,125 for the in-person event or free for the digital event. Participants can learn from industry experts, engage in hands-on sessions with the latest AI innovations, and connect with the vibrant developer community.</p>
+                <p>The Microsoft Build Conference 2024 is scheduled to take place from May 21 to May 23, 2024. This year, the conference offers a hybrid experience, allowing attendees to participate either in-person at Seattle’s new Summit Building or online. Registration is open, priced at $2,125 for the in-person event or free for the digital event. Participants can learn from industry experts, engage in hands-on sessions with the latest AI innovations, and connect with the vibrant developer community.</p>
 <p><a href="https://build.microsoft.com/" target="_blank" rel="noopener noreferrer">Check out the Microsoft Build Website for more details and to register</a>.</p>
-</div>
-<div class="ac-horizontal-separator" aria-hidden="true"> </div>
-</div>
-<div class="ad-container"> </div>
-</div>
             ]]>
         </content>
     </entry>
@@ -363,38 +376,6 @@ The **Microsoft Build Conference 2024** is scheduled to take place from **May 21
 </ul>
 <p>The key point is that you start with modernizing the database while migrating the application. From there you can begin to modernize components of the app while receiving the benefits of using database platform services and having access to a wide range of additional platform services for your application.</p>
 <p>To get started today, speak with your Microsoft Account Team for details on how they can assist you with your modernization journey.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Logic App: Unable to retrieve record from Cosmos DB.</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/logic-app-unable-to-retrieve-record-from-cosmos-db/"/>
-        <id>https://blog.mikehacker.net/logic-app-unable-to-retrieve-record-from-cosmos-db/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/71/LogicApps-3.jpg" medium="image" />
-            <category term="Articles"/>
-
-        <updated>2023-05-11T08:55:07-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/71/LogicApps-3.jpg" alt="Purple and blue artistic circles" />
-                    Recently while I was working on a customer demo I ran into a bit of an issue when trying to delete a record from a Cosmos DB using Logic Apps. I kept receiving an error indicating that the document id I was specifying didn't exist&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/71/LogicApps-3.jpg" class="type:primaryImage" alt="Purple and blue artistic circles" /></p>
-                <p>Recently while I was working on a customer demo I ran into a bit of an issue when trying to delete a record from a Cosmos DB using Logic Apps.  I kept receiving an error indicating that the document id I was specifying didn't exist even though I could see it was in the database. I was also running into similar issues when trying to retrieve a specific document from the database.</p>
-<p>The Logic Apps actions I was using included the <em>Delete a document (V2) and Get a document (V2).  </em></p>
-<p>I searched through documentation and found nothing that seemed to give any clear indication as to what the error was. I did some searches using Bing and found other folks who were having similar challenges but I didn't run across any one specific way to fix it. Everyone seemed to just be guessing as to what the issue was. </p>
-<p>In those actions, there are required fields which include Cosmos DB account name, database ID, Collection ID and Document ID.  In most cases you will need to also add the parameter Partition key value in order for the delete or get actions to find the proper document.  In my database, the Document ID and Partition key values are the same. </p>
-<p>My Logic app is acting as a REST API to do basic CRUD (create, read, update and delete) operations.  When a client calls the REST API it passes in a value which is stored as the variable id, which represents the id of the document I wish to get or delete.  Originally I was just taking that id variable and placing it in both the Document ID and partition key value fields in the Logic Apps action. As logical as that sounds, this did not work and I kept getting errors related to the document not being found.</p>
-<p>So what ultimately fixed the issue?  The Partition key value needs to be surrounded by double quotes.  That's it.  Once I placed double quotes around this field, my Logic Apps started functioning correctly.</p>
-<p>Hopefully this little nugget of information comes in handy for someone else who is running into similar challenges with the Cosmos DB actions for Logic Apps.</p>
-<p> </p>
 <p> </p>
             ]]>
         </content>
