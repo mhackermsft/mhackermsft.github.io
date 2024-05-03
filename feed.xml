@@ -3,12 +3,45 @@
     <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2024-04-29T13:56:17-04:00</updated>
+    <updated>2024-05-03T09:19:39-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Harness the Power of Intelligent Apps: Modernize with Azure</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/harness-the-power-of-intelligent-apps-modernize-with-azure/"/>
+        <id>https://blog.mikehacker.net/harness-the-power-of-intelligent-apps-modernize-with-azure/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/82/612e678d-a06c-4407-8117-2b0a47179573.jpg" medium="image" />
+            <category term="Events"/>
+
+        <updated>2024-05-03T09:19:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/82/612e678d-a06c-4407-8117-2b0a47179573.jpg" alt="" />
+                    Wednesday, May 8, 2024 10:00 AM–11:30 AM Pacific Time Generative AI has accelerated the speed of value delivery, yet many challenges can still roadblock innovation. Applications that are slow, inefficient, and costly to maintain can hinder innovation and make orgs vulnerable to security threats. These challenges can be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/82/612e678d-a06c-4407-8117-2b0a47179573.jpg" class="type:primaryImage" alt="" /></p>
+                <div id="progDateTime" class="dateTime mktoText"><span class="date"><bdo dir="auto">Wednesday, May 8, 2024</bdo></span> <span class="time"><bdo dir="auto">10:00 AM–11:30 AM Pacific Time</bdo></span></div>
+<section id="mainBodyCopy" class="mktoText">
+<p>Generative AI has accelerated the speed of value delivery, yet many challenges can still roadblock innovation. Applications that are slow, inefficient, and costly to maintain can hinder innovation and make orgs vulnerable to security threats. These challenges can be overcome to meet market demand.<br><br>Join us for this webinar to learn:  </p>
+<ul>
+<li>How you can modernize with Azure to future-proof your business, become AI-ready, and outpace your competitors. </li>
+<li>How to power your AI transformation strategy by modernizing existing applications. </li>
+<li>How to plan and execute your modernization strategy using the best practices and methodologies that suit your business needs. </li>
+</ul>
+<p><a href="https://info.microsoft.com/ww-landing-harness-the-power-of-intelligent-apps-modernize-with-azure.html?lcid=en-us" target="_blank" rel="noopener noreferrer">Read more and register here</a></p>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>On-Demand: GitHub CoPilot Tips from the Field</title>
         <author>
@@ -335,47 +368,6 @@
 <p> </p>
 <p>Part 2</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/IyVneQO67zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Migrate to Modernize</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/migrate-to-modernize/"/>
-        <id>https://blog.mikehacker.net/migrate-to-modernize/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" medium="image" />
-            <category term="Articles"/>
-
-        <updated>2023-05-24T11:13:37-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" alt="" />
-                    Migrate to Modernize is an approach for application modernization that enables organizations to see immediate value while also addressing common modernization challenges. Modernizing an application means to pay back that technical debt and to enable the application to take advantage of modern platform services. Modern&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/72/lf68lk9r.png" class="type:primaryImage" alt="" /></p>
-                <p>Migrate to Modernize is an approach for application modernization that enables organizations to see immediate value while also addressing common modernization challenges.</p>
-<p>Modernizing an application means to pay back that technical debt and to enable the application to take advantage of modern platform services. Modern platform services enables organizations to focus more on solving business challenges and provides more value by not having to focus on hardware, patching and server maintenance.</p>
-<p>The fastest way to modernize is to first migrate your applications to Azure. Once the application is in Azure you can begin to modernize parts of the solution by replacing virtual machines with platform services. For example, you can replace the SQL database VM with Azure SQL, that IIS server with Azure App Service, and modernize the applications identity to use Azure Active Directory for authentication.</p>
-<p><a href="https://www.linkedin.com/posts/mphacker_msftadvocate-azure-government-activity-7056263142070243328-a9sM?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">Here is a short video</a> that explains the Migrate to Modernize approach.</p>
-<p>Below are a few recommendations and things to consider with using the Migrate to Modernize approach:</p>
-<ul>
-<li>Quickly get started by modernizing the database first by utilizing Azure SQL Database, Azure SQL Managed Instance, MySQL, or PostgreSQL platform services.</li>
-<li>Migrate the application VMs to Azure and reconfigure the application to utilize the new hosted database service</li>
-<li>Establish policies that incentivize completing the full application modernization process within an acceptable timeframe.</li>
-<li>Developers should modernize the application to utilize modern authentication solutions such as Azure Active Directory and Azure AD B2C.</li>
-<li>Developers should upgrade the code to utilize the latest frameworks and libraries to help protect against security vulnerabilities. </li>
-<li>Architects and developers can work together to determine the best platform services to use for hosting the updated application. Options include services such as Azure Kubernetes Service, Azure Container Apps, Azure Red Hat OpenShift, and Azure App Service.</li>
-<li>Architects and developers can consider decomposing the application into microservices and APIs that can be hosted on container or serverless platforms.</li>
-<li>Architects and developers can begin to look for options to enhance their application with other platform as a service features such as Logic Apps, Service Bus, Redis Cache, Configuration Services, Functions.</li>
-</ul>
-<p>The key point is that you start with modernizing the database while migrating the application. From there you can begin to modernize components of the app while receiving the benefits of using database platform services and having access to a wide range of additional platform services for your application.</p>
-<p>To get started today, speak with your Microsoft Account Team for details on how they can assist you with your modernization journey.</p>
 <p> </p>
             ]]>
         </content>
