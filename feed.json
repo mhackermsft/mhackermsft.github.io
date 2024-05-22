@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/build-book-of-news/",
+            "url": "https://blog.mikehacker.net/build-book-of-news/",
+            "title": "Build Book of News",
+            "summary": "Microsoft Build is the annual flagship event for developers. This year there were approximately 60 announcements covering AI, developer tools, and cloud solutions. The Microsoft Build Book of News 2024 covers all of these announcements in a convenient web site. Check it out here!",
+            "content_html": "<p>Microsoft Build is the annual flagship event for developers.  This year there were approximately 60 announcements covering AI, developer tools, and cloud solutions.  The Microsoft Build Book of News 2024 covers all of these announcements in a convenient web site.  <a href=\"https://news.microsoft.com/build-2024-book-of-news/\" target=\"_blank\" rel=\"noopener noreferrer\">Check it out here!</a></p>\n<p> </p>",
+            "image": "https://blog.mikehacker.net/media/posts/83/Screenshot-2024-05-22-100306.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events",
+                   "Announcements"
+            ],
+            "date_published": "2024-05-22T10:04:37-04:00",
+            "date_modified": "2024-05-22T10:04:37-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/harness-the-power-of-intelligent-apps-modernize-with-azure/",
             "url": "https://blog.mikehacker.net/harness-the-power-of-intelligent-apps-modernize-with-azure/",
             "title": "Harness the Power of Intelligent Apps: Modernize with Azure",
@@ -71,7 +88,7 @@
                    "Events"
             ],
             "date_published": "2024-04-24T09:33:50-04:00",
-            "date_modified": "2024-04-29T13:56:17-04:00"
+            "date_modified": "2024-05-22T10:04:44-04:00"
         },
         {
             "id": "https://blog.mikehacker.net/are-your-organizations-secrets-safe/",
@@ -150,23 +167,6 @@
             ],
             "date_published": "2023-06-13T10:23:15-04:00",
             "date_modified": "2023-06-13T10:56:56-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/",
-            "url": "https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/",
-            "title": "Azure is the home for your Java Applications",
-            "summary": "Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. We employ thousands of Java engineers, run millions of JVMs, and process&hellip;",
-            "content_html": "<p>Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. We employ thousands of Java engineers, run millions of JVMs, and process terabytes of data every day, to deliver the services everyone loves. We also built tools and services specifically designed for Java developers and applications.</p>\n<p>After watching the videos, <a href=\"https://blog.mikehacker.net/java-on-azure/\" target=\"_blank\" rel=\"noopener noreferrer\">check out the other Java on Azure resources here</a>.</p>\n<p>Part 1</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lCzcQ0Q5cSQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>\n<p>Part 2</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IyVneQO67zA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
-            "image": "https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Training",
-                   "Articles"
-            ],
-            "date_published": "2023-05-31T09:58:49-04:00",
-            "date_modified": "2023-05-31T10:03:20-04:00"
         }
     ]
 }

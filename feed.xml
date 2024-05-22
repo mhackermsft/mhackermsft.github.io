@@ -3,12 +3,38 @@
     <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2024-05-03T09:19:39-04:00</updated>
+    <updated>2024-05-22T10:04:44-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Build Book of News</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/build-book-of-news/"/>
+        <id>https://blog.mikehacker.net/build-book-of-news/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/83/Screenshot-2024-05-22-100306.png" medium="image" />
+            <category term="Events"/>
+            <category term="Announcements"/>
+
+        <updated>2024-05-22T10:04:37-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/83/Screenshot-2024-05-22-100306.png" alt="" />
+                    Microsoft Build is the annual flagship event for developers. This year there were approximately 60 announcements covering AI, developer tools, and cloud solutions. The Microsoft Build Book of News 2024 covers all of these announcements in a convenient web site. Check it out here!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/83/Screenshot-2024-05-22-100306.png" class="type:primaryImage" alt="" /></p>
+                <p>Microsoft Build is the annual flagship event for developers.  This year there were approximately 60 announcements covering AI, developer tools, and cloud solutions.  The Microsoft Build Book of News 2024 covers all of these announcements in a convenient web site.  <a href="https://news.microsoft.com/build-2024-book-of-news/" target="_blank" rel="noopener noreferrer">Check it out here!</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Harness the Power of Intelligent Apps: Modernize with Azure</title>
         <author>
@@ -336,38 +362,6 @@
 <p>In this blog post, we have shown you how to use Azure OpenAI Service to perform some common tasks that can benefit government agencies and their citizens. We have also discussed some best practices and responsible AI considerations when using generative models. We hope you find this blog post informative and engaging.</p>
 <p>If you want to learn more about Azure OpenAI Service, you can visit our <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/" target="_blank" rel="noopener noreferrer">documentation page</a> for more details and examples. You can also apply for access to Azure OpenAI Service within your Azure Portal.</p>
 <p>Thank you for your interest in Azure OpenAI Service and we hope you enjoy using it. If you have any feedback or questions, please feel free to contact your Microsoft representative.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Azure is the home for your Java Applications</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/"/>
-        <id>https://blog.mikehacker.net/azure-is-the-home-for-your-java-applications/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png" medium="image" />
-            <category term="Training"/>
-            <category term="Articles"/>
-
-        <updated>2023-05-31T09:58:49-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png" alt="Build or Migrate Java Apps with Azure" />
-                    Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. We employ thousands of Java engineers, run millions of JVMs, and process&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/73/JavaOnAzure.png" class="type:primaryImage" alt="Build or Migrate Java Apps with Azure" /></p>
-                <p>Bruno Borges joins Scott Hanselman to talk about Java development with Microsoft. Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. We employ thousands of Java engineers, run millions of JVMs, and process terabytes of data every day, to deliver the services everyone loves. We also built tools and services specifically designed for Java developers and applications.</p>
-<p>After watching the videos, <a href="https://blog.mikehacker.net/java-on-azure/" target="_blank" rel="noopener noreferrer">check out the other Java on Azure resources here</a>.</p>
-<p>Part 1</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/lCzcQ0Q5cSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<p> </p>
-<p>Part 2</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/IyVneQO67zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
             ]]>
         </content>
