@@ -3,12 +3,96 @@
     <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2024-05-22T10:04:44-04:00</updated>
+    <updated>2024-09-10T09:41:16-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Unleashing the Power of AI with Semantic Kernel and Kernel Memory</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/unleashing-the-power-of-ai-with-semantic-kernel-and-kernel-memory/"/>
+        <id>https://blog.mikehacker.net/unleashing-the-power-of-ai-with-semantic-kernel-and-kernel-memory/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/84/semanticKernelPost-2.jpeg" medium="image" />
+            <category term="Articles"/>
+
+        <updated>2024-09-10T09:35:15-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/84/semanticKernelPost-2.jpeg" alt="" />
+                    In the dynamic world of AI, having the right tools can transform your development journey from a daunting task into an exhilarating adventure. Enter Semantic Kernel and Kernel Memory—two powerful allies that can help you build intelligent, responsive, and scalable AI applications. Let’s explore these tools and discover&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/84/semanticKernelPost-2.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>In the dynamic world of AI, having the right tools can transform your development journey from a daunting task into an exhilarating adventure. Enter <strong>Semantic Kernel</strong> and <strong>Kernel Memory</strong>—two powerful allies that can help you build intelligent, responsive, and scalable AI applications. Let’s explore these tools and discover how they can revolutionize your projects.</p>
+<h4>What is Semantic Kernel?</h4>
+<p>Imagine having a toolkit that not only simplifies the integration of AI models into your applications but also supercharges them with advanced capabilities. That’s <strong>Semantic Kernel</strong> for you—a lightweight, open-source development kit designed to make your AI dreams a reality.</p>
+<h5>Why Developers Love Semantic Kernel</h5>
+<ol>
+<li>
+<p><strong>Enterprise-Grade Reliability</strong>: Trusted by industry giants like Microsoft, Semantic Kernel is built to be flexible, modular, and secure. It includes features like telemetry support and responsible AI hooks, ensuring your applications are robust and trustworthy.</p>
+</li>
+<li>
+<p><strong>Streamlined Automation</strong>: Semantic Kernel excels at automating business processes. By combining prompts with existing APIs, it translates model requests into function calls and seamlessly passes results back to the model. This means you can automate complex tasks with ease, saving time and reducing manual effort.</p>
+</li>
+<li>
+<p><strong>Modular Magic</strong>: One of the standout features of Semantic Kernel is its modularity. You can integrate your existing code as plugins, maximizing your current investments. Plus, with out-of-the-box connectors, you can effortlessly integrate various AI services, making your applications more versatile.</p>
+</li>
+<li>
+<p><strong>Future-Proof Flexibility</strong>: Stay ahead of the curve with Semantic Kernel’s ability to connect your code to the latest AI models. Swap out models without rewriting your entire codebase, ensuring your applications remain cutting-edge.</p>
+</li>
+</ol>
+<h5>Supported Languages:</h5>
+<p>Semantic Kernel supports multiple programming languages, including C#, Java and Python, making it accessible to a wide range of developers.</p>
+<h4>What is Kernel Memory?</h4>
+<p>Now, let’s talk about <strong>Kernel Memory (KM)</strong>—a multi-modal AI service that takes data handling to the next level. Kernel Memory specializes in efficient indexing of datasets through custom continuous data hybrid pipelines, supporting Retrieval Augmented Generation (RAG), synthetic memory, prompt engineering, and custom semantic memory processing.</p>
+<h5>Why Kernel Memory is a Game-Changer</h5>
+<ol>
+<li>
+<p><strong>Efficient Data Indexing</strong>: Kernel Memory uses advanced embeddings and large language models (LLMs) to index datasets. This enables natural language querying and retrieval of information, making it easier to build applications that understand and respond to user queries effectively.</p>
+</li>
+<li>
+<p><strong>Retrieval Augmented Generation (RAG)</strong>: RAG enhances the ability to generate responses by retrieving relevant information from indexed data. This is particularly useful for applications that require accurate and contextually relevant responses, such as chatbots and virtual assistants.</p>
+</li>
+<li>
+<p><strong>Synthetic Memory</strong>: Kernel Memory supports the creation of synthetic memory, allowing AI models to remember and utilize past interactions. This feature can significantly improve the user experience by making interactions more personalized and context-aware.</p>
+</li>
+<li>
+<p><strong>Seamless Integration</strong>: Kernel Memory is designed to integrate smoothly with Semantic Kernel, Microsoft Copilot, and ChatGPT. This enhances the data-driven features in your applications, making it easier to build comprehensive AI solutions.</p>
+</li>
+</ol>
+<h5>Supported Languages:</h5>
+<p>Kernel Memory can be integrated directly into your .NET applications or you can run it as a container and call it from any language via a REST API calls.</p>
+<h4>Accelerating AI Solution Delivery</h4>
+<p>Using Semantic Kernel and Kernel Memory together can greatly accelerate the time to deliver new AI solutions. Here’s how:</p>
+<ul>
+<li>
+<p><strong>Rapid Prototyping</strong>: The modular and extensible nature of Semantic Kernel allows you to quickly prototype and test new features. You can integrate existing code and leverage out-of-the-box connectors to build functional prototypes in a fraction of the time it would take using traditional methods.</p>
+</li>
+<li>
+<p><strong>Efficient Data Handling</strong>: Kernel Memory’s efficient data indexing and retrieval capabilities ensure that your AI models have quick access to the necessary information. This reduces latency and improves the performance of your applications, allowing you to deliver solutions faster.</p>
+</li>
+<li>
+<p><strong>Scalability</strong>: Both Semantic Kernel and Kernel Memory are designed to scale with your application. This means you can start small and expand your solution as needed, without worrying about performance bottlenecks or data management issues.</p>
+</li>
+<li>
+<p><strong>Future-Proofing</strong>: By using these tools, you can ensure that your AI solutions remain up-to-date with the latest advancements in AI technology. This reduces the need for frequent rewrites and allows you to focus on adding new features and improving user experience.</p>
+</li>
+</ul>
+<h3>Conclusion</h3>
+<p>For developers new to AI, understanding and utilizing tools like Semantic Kernel and Kernel Memory can be a game-changer. These components not only simplify the development process but also enhance the capabilities of your applications, making them more intuitive, efficient, and scalable. By leveraging these tools, you can build AI applications that truly stand out and deliver exceptional user experiences.</p>
+<p>Resources:</p>
+<p><a href="https://learn.microsoft.com/en-us/semantic-kernel/overview/" target="_blank" rel="noopener noreferrer">Introduction to Semantic Kernel | Microsoft Learn</a></p>
+<p><a href="https://github.com/microsoft/kernel-memory" target="_blank" rel="noopener noreferrer">Kernel Memory GitHub repo</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Build Book of News</title>
         <author>
@@ -261,108 +345,6 @@
                     <p><img src="https://blog.mikehacker.net/media/posts/75/ai.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong><a href="https://learn.microsoft.com/en-us/semantic-kernel/overview/" target="_blank" rel="noopener noreferrer">Semantic Kernel</a></strong><br>Semantic Kernel is an open-source SDK that lets you easily combine AI services like <a href="https://platform.openai.com/docs/" data-linktype="external">OpenAI</a>, <a href="https://azure.microsoft.com/products/cognitive-services/openai-service/" data-linktype="external">Azure OpenAI</a>, and <a href="https://huggingface.co/" data-linktype="external">Hugging Face</a> with conventional programming languages like C# and Python. By doing so, you can create AI apps that combine the best of both worlds.</p>
 <p><strong><a href="https://learn.microsoft.com/en-us/ai/" target="_blank" rel="noopener noreferrer">AI Learning Hub</a><br></strong>Build AI skills, connect with the community, earn credentials, learn from experts, and discover upcoming events.<strong><br></strong></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to use Azure OpenAI Service to unlock new insights from government data and improve citizen services</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/how-to-use-azure-openai-service-to-unlock-new-insights-from-government-data-and-improve-citizen-services/"/>
-        <id>https://blog.mikehacker.net/how-to-use-azure-openai-service-to-unlock-new-insights-from-government-data-and-improve-citizen-services/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/74/AIImage.jpg" medium="image" />
-            <category term="Articles"/>
-
-        <updated>2023-06-13T10:23:15-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/74/AIImage.jpg" alt="" />
-                    Note: This blog post was partially generated using AI. Introduction Government agencies have a wealth of data that can be used to enhance their decision making and service delivery. However, extracting meaningful insights from large and complex datasets can be challenging and time-consuming. Moreover, citizens&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/74/AIImage.jpg" class="type:primaryImage" alt="" /></p>
-                <pre>Note: This blog post was partially generated using AI.</pre>
-<h1 class="ParagraphTextStyle">Introduction</h1>
-<p class="ParagraphTextStyle">Government agencies have a wealth of data that can be used to enhance their decision making and service delivery. However, extracting meaningful insights from large and complex datasets can be challenging and time-consuming. Moreover, citizens expect more from government services in terms of user experience and speed of access.</p>
-<p class="ParagraphTextStyle">This is where Azure OpenAI Service can help. Azure OpenAI Service provides REST API access to OpenAI's powerful language models including the GPT-4, GPT-3, Codex and Embeddings model series. These models can be easily adapted to your specific task including but not limited to content generation, summarization, semantic search, and natural language to code translation. You can access the service through REST APIs, Python SDK, or our web-based interface in the Azure OpenAI Studio.</p>
-<p class="ParagraphTextStyle">In this blog post, we will show you how to use Azure OpenAI Service to perform some common tasks that can benefit government agencies and their citizens. We will also discuss some best practices and responsible AI considerations when using generative models.</p>
-<h1>Content generation</h1>
-<p class="ParagraphTextStyle">One of the most popular applications of Azure OpenAI Service is content generation. You can use the service to generate text for various purposes such as reports, newsletters, emails, social media posts, etc. You can also customize the tone, style, and format of the generated text by providing some examples or parameters.</p>
-<p class="ParagraphTextStyle">For example, suppose you want to generate a newsletter for your agency that highlights some of the recent achievements and initiatives. You can use the GPT-4 model series to generate a draft of the newsletter based on some bullet points. Here is an example of how you can do that using Python SDK:</p>
-<p class="ParagraphTextStyle"><code>from azure.openai import GPT4Client<br></code><code>client = GPT4Client("&lt;your_api_key&gt;")<br></code><code>prompt = """<br></code><code>Generate a newsletter for our agency based on these bullet points:<br></code><code>- We launched a new website that provides easy access to our services and information<br></code><code>- We received an award for excellence in customer service from the National Association of Government Agencies<br></code><code>- We partnered with a local university to conduct a research project on improving public health outcomes<br></code><code>- We are hiring new staff members for various positions<br></code><code>The newsletter should:<br></code><code>- Have a catchy title<br></code><code>- Have an introduction that summarizes the main points<br></code><code>- Have a paragraph for each bullet point that provides more details<br></code><code>- Have a conclusion that thanks the readers and invites them to contact us for feedback or questions<br></code><code>- Have a professional and positive tone<br></code><code>"""<br></code><code>response = client.completions(prompt, model="gpt-4", stop="\n\n")<br></code><code>print(response.text)</code></p>
-<p class="ParagraphTextStyle">The output might look something like this:</p>
-<blockquote>
-<p class="ParagraphTextStyle">Our Agency's News: A New Website, An Award, A Research Project, And More!</p>
-<p class="ParagraphTextStyle">Hello,</p>
-<p class="ParagraphTextStyle">We are excited to share with you some of the latest news and updates from our agency. We have been working hard to improve our services and deliver value to our citizens. Here are some of the highlights:</p>
-<p class="ParagraphTextStyle">- We launched a new website that provides easy access to our services and information. You can now find everything you need on our website, from applying for benefits to requesting documents. You can also learn more about our mission, vision, and values, as well as our programs and projects. Our website is designed to be user-friendly, responsive, and accessible. We hope you enjoy it and find it useful.</p>
-<p class="ParagraphTextStyle">- We received an award for excellence in customer service from the National Association of Government Agencies. This award recognizes our efforts to provide high-quality service to our customers and stakeholders. We are honored by this recognition and we thank you for your trust and support. We will continue to strive for excellence and innovation in everything we do.</p>
-<p class="ParagraphTextStyle">- We partnered with a local university to conduct a research project on improving public health outcomes. This project aims to identify the best practices and strategies for enhancing public health in our community. We are collaborating with experts from various disciplines and sectors to conduct surveys, interviews, and data analysis. We expect to share the results and recommendations of this project in the near future.</p>
-<p class="ParagraphTextStyle">- We are hiring new staff members for various positions. We are looking for talented and motivated individuals who share our passion for public service. If you are interested in joining our team, please visit our website for more information on how to apply. We offer competitive salaries and benefits, as well as opportunities for learning and growth.</p>
-<p class="ParagraphTextStyle">We thank you for your interest in our agency and we hope you find this newsletter informative and engaging. If you have any feedback or questions, please feel free to contact us at &lt;your_email_address&gt;. We would love to hear from you.</p>
-<p class="ParagraphTextStyle">Sincerely,</p>
-<p>&lt;Your_name&gt;<br>&lt;Your_title&gt;<br>&lt;Your_agency&gt;</p>
-</blockquote>
-<p class="ParagraphTextStyle">As you can see, the GPT-4 model series can generate coherent and relevant text based on the given prompt. However, you should always review and edit the generated text before using it for any official purpose. You should also be aware of the potential risks and limitations of content generation, such as factual errors, plagiarism, bias, or harmful content. We will discuss more about responsible AI later in this post.</p>
-<h1 class="ParagraphTextStyle">Summarization</h1>
-<p class="ParagraphTextStyle">Another common task that can benefit from Azure OpenAI Service is summarization. You can use the service to summarize long and complex texts into shorter and simpler texts that capture the main points and key information. This can help you save time and resources, as well as improve readability and comprehension.</p>
-<p class="ParagraphTextStyle">For example, suppose you want to summarize a research paper that is relevant to your agency's work. You can use the Codex model series to generate a summary based on the abstract or the full text of the paper. Here is an example of how you can do that using Python SDK:</p>
-<p><code>from azure.openai import CodexClient</code><br><code>client = CodexClient("&lt;your_api_key&gt;")</code><br><code>prompt = """Summarize this research paper based on its abstract:</code></p>
-<p class="ParagraphTextStyle"><code>Title: The impact of COVID-19 on public health and social services: A systematic review and meta-analysis</code></p>
-<p class="ParagraphTextStyle"><code>Abstract: Background: The COVID-19 pandemic has posed unprecedented challenges to public health and social services worldwide. However, the evidence on the impact of COVID-19 on these sectors is still limited and fragmented.</code></p>
-<p class="ParagraphTextStyle"><code>Objective: To systematically review and synthesize the existing literature on the impact of COVID-19 on public health and social services, and to identify the gaps and priorities for future research.</code></p>
-<p class="ParagraphTextStyle"><code>Methods: We searched PubMed, Web of Science, Scopus, and Cochrane Library databases for studies published from January 1, 2020 to December 31, 2020 that assessed the impact of COVID-19 on public health and social services. We included studies that reported quantitative or qualitative data on outcomes such as service delivery, utilization, quality, access, satisfaction, workforce, costs, and policy responses. We excluded studies that focused on clinical aspects of COVID-19 or non-health-related sectors. We performed a narrative synthesis and a meta-analysis of the quantitative studies using random-effects models.</code></p>
-<p class="ParagraphTextStyle"><code>Results: We identified 8,734 records and included 176 studies in the review. The majority of the studies were from high-income countries (82%), used observational designs (85%), and focused on specific services or populations (79%). The most common outcomes were service delivery (59%), service utilization (55%), and workforce (36%). The narrative synthesis revealed that COVID-19 had a negative impact on public health and social services in terms of reduced availability, accessibility, and quality of services; decreased service utilization and satisfaction; increased workload and stress among staff; and increased costs and budget constraints. The meta-analysis showed that COVID-19 was associated with a significant decrease in service utilization across different types of services, with a pooled relative change of -0.34 (95% CI: -0.42, -0.26). The heterogeneity among the studies was high (I2 = 99%). The quality of the evidence was low to moderate according to the GRADE approach.</code></p>
-<p class="ParagraphTextStyle"><code>Conclusions: COVID-19 has had a substantial impact on public health and social services, affecting both the supply and demand sides of these sectors. There is a need for more comprehensive, comparative, and rigorous research to assess the long-term effects of COVID-19 and the effectiveness of policy responses on public health and social services."""</code></p>
-<p><code>response = client.completions(prompt, model="codex", stop="\n\n")</code><br><code>print(response.text)</code></p>
-<p class="ParagraphTextStyle">The output might look something like this:</p>
-<blockquote>
-<p class="ParagraphTextStyle">A possible summary is:</p>
-<p class="ParagraphTextStyle">This paper reviews how COVID-19 affected public health and social services around the world in 2020. It finds that COVID-19 reduced the availability, accessibility, and quality of these services; decreased their use and satisfaction; increased the workload and stress of staff; and increased costs and budget constraints. It also finds that COVID-19 reduced service utilization by 34% on average across different types of services. It calls for more research to evaluate the long-term effects of COVID-19 and the policy responses on these sectors.</p>
-</blockquote>
-<h1 class="ParagraphTextStyle">Semantic search</h1>
-<p class="ParagraphTextStyle">Another useful task that can benefit from Azure OpenAI Service is semantic search. You can use the service to search for relevant information or documents based on the meaning and context of your query, rather than just the keywords. This can help you find more accurate and comprehensive results, as well as discover new insights and connections.</p>
-<p class="ParagraphTextStyle">For example, suppose you want to search for best practices and guidelines for reopening schools during the COVID-19 pandemic. You can use the Embeddings model series to generate a semantic vector for your query and compare it with the semantic vectors of various documents or sources. Here is an example of how you can do that using Python SDK:</p>
-<p><code>from azure.openai import EmbeddingsClient</code><br><code>client = EmbeddingsClient("&lt;your_api_key&gt;")</code><br><code>query = "best practices and guidelines for reopening schools during the COVID-19 pandemic"</code><br><br><code>query_vector = client.embeddings(query)</code><br><br><code>documents = [    "CDC - Operational Strategy for K-12 Schools through Phased Prevention", "UNICEF - Framework for reopening schools", "WHO - Considerations for school-related public health measures in the context of COVID-19", "OECD - Education responses to COVID-19: Embracing digital learning and online collaboration",    "World Bank - Reopening Schools: When, Where and How?"]</code><br><code>document_vectors = client.embeddings(documents)</code><br><br><code>scores = client.similarity(query_vector, document_vectors)</code><br><br><code>results = sorted(zip(documents, scores), key=lambda x: x[1], reverse=True)</code><br><br><code>for result in results:</code><br><code>    print(result[0], result[1])</code></p>
-<p> </p>
-<p class="ParagraphTextStyle">The output might look something like this:</p>
-<blockquote>
-<p class="ParagraphTextStyle">CDC - Operational Strategy for K-12 Schools through Phased Prevention 0.86</p>
-<p class="ParagraphTextStyle">UNICEF - Framework for reopening schools 0.84</p>
-<p class="ParagraphTextStyle">WHO - Considerations for school-related public health measures in the context of COVID-19 0.83</p>
-<p class="ParagraphTextStyle">World Bank - Reopening Schools: When, Where and How? 0.81</p>
-<p class="ParagraphTextStyle">OECD - Education responses to COVID-19: Embracing digital learning and online collaboration 0.76</p>
-</blockquote>
-<p class="ParagraphTextStyle">As you can see, the Embeddings model series can rank the documents based on their semantic relevance to the query. The higher the score, the more relevant the document is. You can then access the documents and read more about the topic. You can also use semantic search to find similar or related documents within a corpus or a database.</p>
-<h1 class="ParagraphTextStyle">Natural language to code translation</h1>
-<p class="ParagraphTextStyle">Another interesting task that can benefit from Azure OpenAI Service is natural language to code translation. You can use the service to translate natural language descriptions or instructions into executable code snippets in various programming languages. This can help you save time and effort, as well as learn new skills and techniques.</p>
-<p class="ParagraphTextStyle">For example, suppose you want to write a Python function that takes a list of numbers as input and returns the average of the numbers. You can use the Codex model series to generate a code snippet based on your natural language description. Here is an example of how you can do that using Python SDK:</p>
-<p><code>from azure.openai import CodexClient</code><br><code>client = CodexClient("&lt;your_api_key&gt;")</code><br><code>prompt = """Write a Python function that takes a list of numbers as input and returns the average of the numbers."""</code><br><code>response = client.completions(prompt, model="codex", stop="\n\n")</code><br><code>print(response.text)</code></p>
-<p>The output might look something like this:</p>
-<p><code>def average(numbers):</code><br><code>    # check if the input is a valid list of numbers</code></p>
-<p><code>    if not isinstance(numbers, list) or len(numbers) == 0 or not all(isinstance(n, (int, float)) for n in numbers):</code><br><code>        return None</code></p>
-<p><code>    # calculate the sum of the numbers</code><br><code>    total = 0</code><br><code>    for n in numbers:</code><br><code>        total += n  </code></p>
-<p><code>    # calculate and return the average</code><br><code>    return total / len(numbers)</code></p>
-<h1>Responsible AI</h1>
-<p>As we have seen, Azure OpenAI Service can enable many powerful and useful applications for government agencies and their citizens. However, it is also important to be aware of the potential risks and limitations of using generative models, and to follow some best practices and responsible AI principles when using the service.</p>
-<p>Some of the challenges and considerations when using Azure OpenAI Service are:</p>
-<p> - Factual errors: The models are trained on large and diverse datasets that may contain inaccurate or outdated information. Therefore, the generated text may not always be factually correct or consistent. You should always verify the accuracy and validity of the generated text before using it for any official purpose.</p>
-<p> - Plagiarism: The models may generate text that is similar or identical to existing sources, which may violate intellectual property rights or academic integrity. You should always check the originality and attribution of the generated text before using it for any public or academic purpose.</p>
-<p> - Bias: The models may reflect or amplify the biases or stereotypes that exist in the training data or in the society. Therefore, the generated text may not always be fair, inclusive, or respectful to different groups of people. You should always monitor and mitigate the potential bias or harm of the generated text before using it for any sensitive or impactful purpose.</p>
-<p> - Harmful content: The models may generate text that is inappropriate, offensive, or harmful to individuals or groups of people. This may include profanity, hate speech, violence, misinformation, etc. You should always filter and moderate the generated text before using it for any public or personal purpose.</p>
-<p>To help you address these challenges and considerations, Azure OpenAI Service provides some features and resources such as:</p>
-<p> - Content filtering: The service evaluates the prompts and completions against our content policy with automated systems. High severity content will be filtered. You can also specify your own content filter preferences in the request parameters.</p>
-<p> - Quality rating: The service provides a quality score for each completion, which indicates the confidence and coherence of the generated text. You can use this score to filter out low-quality completions or to request a new completion.</p>
-<p> - Responsible AI guidance: The service provides a set of guidelines and best practices for using generative models in a responsible and ethical way. You can find these resources in our <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/" target="_blank" rel="noopener noreferrer">documentation</a> and our <a href="https://www.microsoft.com/en-us/ai/responsible-ai" target="_blank" rel="noopener noreferrer">Responsible AI portal</a>.</p>
-<p>We encourage you to use Azure OpenAI Service in a responsible and ethical way. We also welcome your feedback and suggestions on how we can improve our service and our responsible AI practices.</p>
-<h1>Conclusion</h1>
-<p>In this blog post, we have shown you how to use Azure OpenAI Service to perform some common tasks that can benefit government agencies and their citizens. We have also discussed some best practices and responsible AI considerations when using generative models. We hope you find this blog post informative and engaging.</p>
-<p>If you want to learn more about Azure OpenAI Service, you can visit our <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/openai/" target="_blank" rel="noopener noreferrer">documentation page</a> for more details and examples. You can also apply for access to Azure OpenAI Service within your Azure Portal.</p>
-<p>Thank you for your interest in Azure OpenAI Service and we hope you enjoy using it. If you have any feedback or questions, please feel free to contact your Microsoft representative.</p>
-<p> </p>
             ]]>
         </content>
     </entry>
