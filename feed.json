@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/solution-accelerators-for-azure-openai/",
+            "url": "https://blog.mikehacker.net/solution-accelerators-for-azure-openai/",
+            "title": "Solution Accelerators for Azure OpenAI",
+            "summary": "I’m excited to share that I’ve just released two AI solution accelerators that you can easily download, tweak, and deploy. These accelerators are designed to be: Both solutions are built with .NET Blazor using C#. You can check them out, deploy, or download them from&hellip;",
+            "content_html": "<p>I’m excited to share that I’ve just released two AI solution accelerators that you can easily download, tweak, and deploy. These accelerators are designed to be:</p>\n<ul>\n<li><strong>Easy to Deploy</strong>: Just hit the 1-click deploy to Azure button on GitHub.</li>\n<li><strong>Cost-Effective</strong>: They use a limited number of Azure features, but you can configure them to use more services for better performance and scalability.</li>\n<li><strong>Educational</strong>: The C# code is well-commented to help developers understand how to use both Semantic Kernel and Kernel Memory to build amazing AI solutions.</li>\n</ul>\n<p>Both solutions are built with .NET Blazor using C#. You can check them out, deploy, or download them from GitHub. They showcase two different approaches to AI solutions: one is an interactive chatbot, and the other uses AI to generate Word documents from templates.</p>\n<h3>Blazor AI Chat </h3>\n<p>A multi-user AI chat solution that lets users upload documents, images, or specify URLs to serve as knowledge for their chat sessions.<br><a href=\"https://github.com/mhackermsft/BlazorAIChat\" target=\"_blank\" rel=\"noopener noreferrer\">Visit the GitHub repo</a></p>\n<h3>AI Document Generation</h3>\n<p>Generate Word documents from templates using AI and uploaded knowledge.<br><a href=\"https://github.com/mhackermsft/AI-Doc-Generator\" target=\"_blank\" rel=\"noopener noreferrer\">Visit the GitHub repo</a></p>\n<h3>Disclaimer</h3>\n<p>These accelerators are meant to be examples to help developers quickly get started with building AI solutions. Keep in mind, the code isn’t designed to showcase best coding practices or recommended application architecture. It also hasn’t undergone a security review. So, I wouldn’t recommend pushing these directly into production without proper reviews by you or your organization.</p>\n<p> </p>",
+            "image": "https://blog.mikehacker.net/media/posts/85/AISolutionAcceleratorBlogPost.jpeg",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "How To",
+                   "Articles"
+            ],
+            "date_published": "2024-09-10T10:04:33-04:00",
+            "date_modified": "2024-09-10T10:07:44-04:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/unleashing-the-power-of-ai-with-semantic-kernel-and-kernel-memory/",
             "url": "https://blog.mikehacker.net/unleashing-the-power-of-ai-with-semantic-kernel-and-kernel-memory/",
             "title": "Unleashing the Power of AI with Semantic Kernel and Kernel Memory",
@@ -23,7 +40,7 @@
                    "Articles"
             ],
             "date_published": "2024-09-10T09:35:15-04:00",
-            "date_modified": "2024-09-10T09:41:16-04:00"
+            "date_modified": "2024-09-10T10:07:41-04:00"
         },
         {
             "id": "https://blog.mikehacker.net/build-book-of-news/",
@@ -152,21 +169,6 @@
             ],
             "date_published": "2023-09-05T09:25:32-04:00",
             "date_modified": "2023-09-05T09:25:32-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/ai-training/",
-            "url": "https://blog.mikehacker.net/ai-training/",
-            "title": "AI Training",
-            "summary": "Semantic Kernel Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. By doing so, you can create AI apps that combine the best of both worlds. AI Learning Hub Build&hellip;",
-            "content_html": "<p><strong><a href=\"https://learn.microsoft.com/en-us/semantic-kernel/overview/\" target=\"_blank\" rel=\"noopener noreferrer\">Semantic Kernel</a></strong><br>Semantic Kernel is an open-source SDK that lets you easily combine AI services like <a href=\"https://platform.openai.com/docs/\" data-linktype=\"external\">OpenAI</a>, <a href=\"https://azure.microsoft.com/products/cognitive-services/openai-service/\" data-linktype=\"external\">Azure OpenAI</a>, and <a href=\"https://huggingface.co/\" data-linktype=\"external\">Hugging Face</a> with conventional programming languages like C# and Python. By doing so, you can create AI apps that combine the best of both worlds.</p>\n<p><strong><a href=\"https://learn.microsoft.com/en-us/ai/\" target=\"_blank\" rel=\"noopener noreferrer\">AI Learning Hub</a><br></strong>Build AI skills, connect with the community, earn credentials, learn from experts, and discover upcoming events.<strong><br></strong></p>",
-            "image": "https://blog.mikehacker.net/media/posts/75/ai.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-08-10T11:14:03-04:00",
-            "date_modified": "2023-08-10T11:21:38-04:00"
         }
     ]
 }
