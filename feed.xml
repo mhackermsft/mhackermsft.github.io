@@ -3,12 +3,38 @@
     <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2024-09-10T10:07:44-04:00</updated>
+    <updated>2024-09-11T09:05:28-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Free Innovation Workshops</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/free-innovation-workshops/"/>
+        <id>https://blog.mikehacker.net/free-innovation-workshops/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/86/ms-innovation-workshops-desktop.png" medium="image" />
+            <category term="Training"/>
+            <category term="Events"/>
+
+        <updated>2024-09-11T09:02:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/86/ms-innovation-workshops-desktop.png" alt="" />
+                    Learn first-hand from Microsoft subject matter experts how you can leverage some of the most popular Azure services allowing you to deliver applications and services faster than ever before. All for free! Check out the upcoming events and register here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/86/ms-innovation-workshops-desktop.png" class="type:primaryImage" alt="" /></p>
+                <p>Learn first-hand from Microsoft subject matter experts how you can leverage some of the most popular Azure services allowing you to deliver applications and services faster than ever before. All for free!</p>
+<p>Check out the upcoming events and <a href="https://ms-workshops.cloudevents.ai/ms-innovation-workshops/events" target="_blank" rel="noopener noreferrer">register here</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Solution Accelerators for Azure OpenAI</title>
         <author>
@@ -332,33 +358,6 @@
                 <p>November 14 - 16, 2023 | Online | Free</p>
 <p>.NET Conf is an annual online conference that showcases the latest developments and innovations in the .NET platform, open source, and dev tools. It is a free and interactive event that features speakers from the community and the .NET team, live sessions, Q&amp;A, trivia games, and prizes. It is a great opportunity for .NET developers to learn new skills, network with peers, and have fun. This year, .NET Conf 2023 will take place on November 14-16 2023. </p>
 <p><a href="https://www.dotnetconf.net/" target="_blank" rel="noopener noreferrer">Learn more</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>WEBINAR: Optimize Azure Costs</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/webinar-optimize-azure-costs/"/>
-        <id>https://blog.mikehacker.net/webinar-optimize-azure-costs/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png" medium="image" />
-            <category term="Events"/>
-
-        <updated>2023-09-05T09:25:32-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png" alt="Azure Logo" />
-                    Optimize Your Azure Costs: Unlock Savings and Efficiency Free webinar from Atmosera | September 14, 11 am PDT / 2 pm EDT Join the upcoming webinar on Azure cost optimization to discover valuable strategies and best practices that will help you optimize your cloud spending&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/76/Azure_Logo-Stacked.png" class="type:primaryImage" alt="Azure Logo" /></p>
-                <h1>Optimize Your Azure Costs: Unlock Savings and Efficiency</h1>
-<p>Free webinar from Atmosera | September 14, 11 am PDT / 2 pm EDT</p>
-<p>Join the upcoming webinar on Azure cost optimization to discover valuable strategies and best practices that will help you optimize your cloud spending without compromising performance. Cost management becomes essential as businesses increasingly rely on the cloud for their computing needs. In this webinar, the expert speakers will guide you through practical tips, tools, and insights to maximize your Azure investment and unlock significant savings. Don’t miss this opportunity to gain a competitive edge while minimizing your cloud expenses.</p>
-<p><a href="https://www.atmosera.com/resources/event/optimize-your-azure-costs-unlock-savings-and-efficiency/" target="_blank" rel="noopener noreferrer">Learn more and register now!</a></p>
             ]]>
         </content>
     </entry>
