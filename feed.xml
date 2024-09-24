@@ -3,12 +3,73 @@
     <title>Mike Hacker</title>
     <link href="https://blog.mikehacker.net/feed.xml" rel="self" />
     <link href="https://blog.mikehacker.net" />
-    <updated>2024-09-23T13:48:02-04:00</updated>
+    <updated>2024-09-24T12:28:13-04:00</updated>
     <author>
         <name>Mike Hacker</name>
     </author>
     <id>https://blog.mikehacker.net</id>
 
+    <entry>
+        <title>Understanding the Evaluation of Large Language Models: A Guide for State and Local Government Agencies</title>
+        <author>
+            <name>Mike Hacker</name>
+        </author>
+        <link href="https://blog.mikehacker.net/understanding-the-evaluation-of-large-language-models-a-guide-for-state-and-local-government-agencies/"/>
+        <id>https://blog.mikehacker.net/understanding-the-evaluation-of-large-language-models-a-guide-for-state-and-local-government-agencies/</id>
+        <media:content url="https://blog.mikehacker.net/media/posts/88/EvaluateLLMs.jpg" medium="image" />
+            <category term="Articles"/>
+
+        <updated>2024-09-24T12:14:15-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.mikehacker.net/media/posts/88/EvaluateLLMs.jpg" alt="" />
+                    In the rapidly evolving landscape of artificial intelligence, state and local government agencies are increasingly exploring the potential of large language models (LLMs) to enhance their operations. However, evaluating these models can be challenging, especially when comparing offerings from different providers like Google, AWS, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.mikehacker.net/media/posts/88/EvaluateLLMs.jpg" class="type:primaryImage" alt="" /></p>
+                <p>In the rapidly evolving landscape of artificial intelligence, state and local government agencies are increasingly exploring the potential of large language models (LLMs) to enhance their operations. However, evaluating these models can be challenging, especially when comparing offerings from different providers like Google, AWS, and Microsoft. This blog post aims to provide a clear framework for understanding how to properly evaluate LLM solutions and ensure that results are not skewed by supplementary processes such as Retrieval-Augmented Generation (RAG) or embedding models.</p>
+<p><strong>1. The Basics of Large Language Models</strong></p>
+<p>Large language models are AI systems trained on vast amounts of text data to understand and generate human-like language. They can perform a variety of tasks, from answering questions to generating content. However, the effectiveness of an LLM depends on several factors, including the quality of the training data, the architecture of the model, and the specific use case it is applied to. When evaluating LLMs, it is crucial to understand these foundational elements to make informed decisions.</p>
+<p><strong>2. The Role of Retrieval-Augmented Generation (RAG)</strong></p>
+<p>RAG is a technique that enhances the capabilities of LLMs by integrating external knowledge sources. This process involves retrieving relevant information from a database or the internet and using it to generate more accurate and contextually relevant responses. While RAG can significantly improve the performance of an LLM, it can also introduce variability in the results. Therefore, when comparing LLM solutions, it is essential to consider whether and how RAG is being used, as it can impact the perceived quality and consistency of the model’s outputs.</p>
+<p><strong>3. The Importance of Embedding Models</strong></p>
+<p>Embedding models play a critical role in how LLMs understand and process language. These models convert words and phrases into numerical vectors that capture their meanings and relationships. Different providers may use different embedding techniques, which can affect the performance of their LLMs. When evaluating LLM solutions, it is important to understand the embedding models being used and how they influence the results. This understanding can help ensure that comparisons between different LLMs are fair and based on the underlying technology rather than supplementary processes.</p>
+<p><strong>4. Evaluating LLM Solutions: Key Considerations</strong></p>
+<p>To properly evaluate LLM solutions, agencies should consider several key factors:</p>
+<ul>
+<li><strong>Accuracy and Relevance</strong>: Assess the model’s ability to generate accurate and contextually relevant responses.</li>
+<li><strong>Consistency</strong>: Evaluate the consistency of the model’s outputs across different queries and use cases.</li>
+<li><strong>Transparency</strong>: Understand the methodologies and technologies used by the provider, including RAG and embedding models.</li>
+<li><strong>Scalability</strong>: Consider the model’s ability to scale and handle increasing amounts of data and queries.</li>
+<li><strong>Cost</strong>: Evaluate the cost-effectiveness of the solution in relation to its performance and benefits.</li>
+</ul>
+<p><strong>5. Data Privacy and Security</strong></p>
+<p>One of the most critical aspects of evaluating LLMs for government use is data privacy and security. Agencies must ensure that the LLM provider complies with relevant regulations and standards, such as GDPR or CCPA. Additionally, understanding how data is stored, processed, and protected is essential to prevent unauthorized access and data breaches.</p>
+<p><strong>6. Customization and Fine-Tuning</strong></p>
+<p>The ability to customize and fine-tune an LLM to specific needs can significantly impact its effectiveness. Some providers offer more flexibility in this regard, allowing agencies to adapt the model to their unique requirements. Evaluating the ease and extent of customization options is crucial for ensuring the LLM can meet specific operational needs.</p>
+<p><strong>7. Performance Metrics and Benchmarks</strong></p>
+<p>When comparing LLM solutions, it is helpful to use standardized performance metrics and benchmarks. These can include measures such as accuracy, response time, and resource utilization. By using consistent metrics, agencies can make more objective comparisons between different LLM offerings.</p>
+<p><strong>8. Ethical Considerations</strong></p>
+<p>Ethical considerations are increasingly important in the deployment of AI technologies. Agencies should evaluate how LLM providers address issues such as bias, fairness, and transparency. Understanding the ethical frameworks and practices of the provider can help ensure that the LLM is used responsibly and equitably.</p>
+<p><strong>9. Vendor Reputation and Track Record</strong></p>
+<p>The reputation and track record of the LLM provider can provide valuable insights into the reliability and quality of their solutions. Researching the provider’s history, customer reviews, and case studies can help agencies gauge the provider’s expertise and commitment to delivering high-quality AI solutions.</p>
+<p><strong>10. Future-Proofing and Innovation</strong></p>
+<p>AI technology is constantly evolving, and it is important to choose an LLM provider that is committed to innovation and continuous improvement. Evaluating the provider’s roadmap, investment in research and development, and ability to adapt to emerging trends can help ensure that the chosen solution remains relevant and effective in the long term.</p>
+<p><strong>11. Community and Ecosystem</strong></p>
+<p>The strength of the community and ecosystem surrounding an LLM can also impact its effectiveness. Providers with active developer communities, extensive third-party integrations, and robust ecosystems can offer additional resources and support that enhance the overall value of the solution.</p>
+<p><strong>12. Real-World Use Cases and Success Stories</strong></p>
+<p>Examining real-world use cases and success stories can provide practical insights into how an LLM solution performs in similar contexts. Agencies should look for case studies and testimonials from other government entities or organizations with similar needs to understand the potential benefits and challenges of the solution.</p>
+<p><strong>13. Pilot Programs and Trials</strong></p>
+<p>Before committing to a full-scale implementation, agencies can benefit from pilot programs and trials. These allow for hands-on evaluation of the LLM solution in a controlled environment, providing valuable data on its performance, usability, and integration capabilities.</p>
+<p><strong>14. Feedback and Continuous Improvement</strong></p>
+<p>Finally, it is important to establish mechanisms for ongoing feedback and continuous improvement. Regularly assessing the performance of the LLM solution and gathering feedback from users can help identify areas for enhancement and ensure that the solution continues to meet evolving needs.</p>
+<p><strong>Conclusion</strong></p>
+<p>Evaluating large language models is a complex process that requires careful consideration of multiple factors. By understanding the role of RAG, embedding models, and other critical variables, state and local government agencies can make informed decisions that align with their specific needs and objectives. This comprehensive approach will help ensure that the chosen LLM solution delivers maximum value, enhancing the efficiency and effectiveness of government operations.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Exploring the OpenAI o1 Model: A Leap in AI Capabilities</title>
         <author>
@@ -341,48 +402,6 @@
                     <p><img src="https://blog.mikehacker.net/media/posts/79/buildbackground2024.png" class="type:primaryImage" alt="" /></p>
                 <p>The Microsoft Build Conference 2024 is scheduled to take place from May 21 to May 23, 2024. This year, the conference offers a hybrid experience, allowing attendees to participate either in-person at Seattle’s new Summit Building or online. Registration is open, priced at $2,125 for the in-person event or free for the digital event. Participants can learn from industry experts, engage in hands-on sessions with the latest AI innovations, and connect with the vibrant developer community.</p>
 <p><a href="https://build.microsoft.com/" target="_blank" rel="noopener noreferrer">Check out the Microsoft Build Website for more details and to register</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Are your organization’s secrets safe?</title>
-        <author>
-            <name>Mike Hacker</name>
-        </author>
-        <link href="https://blog.mikehacker.net/are-your-organizations-secrets-safe/"/>
-        <id>https://blog.mikehacker.net/are-your-organizations-secrets-safe/</id>
-        <media:content url="https://blog.mikehacker.net/media/posts/78/8ea77848-14fa-411b-9036-47aede65c5d7.jpg" medium="image" />
-
-        <updated>2023-09-28T13:02:45-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.mikehacker.net/media/posts/78/8ea77848-14fa-411b-9036-47aede65c5d7.jpg" alt="" />
-                    Keeping secrets safe is one of the most important aspects of software development and deployment. Secrets are sensitive information that can grant access to valuable resources, such as passwords, API keys, tokens, encryption keys, and certificates. If secrets are exposed, they can be used by&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.mikehacker.net/media/posts/78/8ea77848-14fa-411b-9036-47aede65c5d7.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Keeping secrets safe is one of the most important aspects of software development and deployment. Secrets are sensitive information that can grant access to valuable resources, such as passwords, API keys, tokens, encryption keys, and certificates. If secrets are exposed, they can be used by malicious actors to compromise the security and integrity of the software and the data it handles. Therefore, developers need to follow best practices to protect their secrets from unauthorized access and leakage.</p>
-<p>One of the common mistakes that developers make is embedding secrets in source code or in configuration files. This can lead to secrets being compromised in several ways, such as:</p>
-<ul>
-<li>Secrets in source code or configuration files can be accidentally checked into version control systems.</li>
-<li>Source code or configuration files can be copied or transferred to other locations, such as backup servers, cloud storage, or email attachments, and become accessible to unauthorized parties.</li>
-<li>Source code or configuration files can be exposed to third-party services or tools, such as code analysis, testing, or deployment tools, and become vulnerable to interception or theft.</li>
-<li>Improperly protected encrypted configuration files can be stolen and brute force decrypted over time.</li>
-</ul>
-<p>To avoid these risks, developers should never embed secrets in source code or in configuration files. Instead, they should use secure methods to store and manage their secrets, such as Azure Key Vault.</p>
-<p>By following this best practice, developers can ensure that their secrets are kept safe and their software is secure. In this blog post, we will explore how you can use Azure Key Vault with your custom on-premises applications to protect your secrets.</p>
-<p>So what exactly is Azure Key Vault? Azure Key Vault is a cloud service that lets you securely store and access secrets, such as passwords, certificates, or cryptographic keys. You can use it to protect all of your secrets and control who can access it.</p>
-<p>For web applications running on Azure services, such as Azure App Service, using Key Vault is simple. The Azure App Service has a managed identity stored in Azure Active Directory that is used to enable the application to authenticate against Azure Key Vault.  Once authenticated the application can perform any necessary operations such as retrieving the latest value of a specific secret.  A simple tutorial for this process can be found here: <a href="https://learn.microsoft.com/en-us/azure/key-vault/general/tutorial-net-create-vault-azure-web-app">Tutorial - Use Azure Key Vault with an Azure web app in .NET | Microsoft Learn</a></p>
-<p>In the past, using Azure Key Vault for on-premises applications was a bit challenging. The biggest hurdle was that your application needed to authenticate against Azure Key Vault in order to have permissions to perform operations in the Vault.  This meant that you would still need to protect at least one secret, which was the API key for accessing Key Vault.  With Azure Arc, all of this has changed!</p>
-<p>Azure Arc is a service that enables you to manage and govern your hybrid cloud resources across different environments, such as on-premises, edge, and multi-cloud. One of the benefits of Azure Arc is that it allows you to extend Azure services and management capabilities to any infrastructure. Arc enabled servers receive an Azure managed identity, which is a secure and convenient way to authenticate and authorize access to Azure resources without storing any credentials in your code or configuration files. With an Azure managed identity, you can use the same identity and access management (IAM) policies and role-based access control (RBAC) that you use for your Azure resources to manage your arc enabled servers. This simplifies the security and compliance of your hybrid cloud environment.</p>
-<p>This means that if you arc enable your on-premises servers your developers can utilize Azure Key Vault with a managed identity. With managed identities, your custom applications can easily retrieve secrets directly from Key Vault without the need for any API keys or any other secrets being stored in source code or configuration files.  This is a huge step forward for your organization’s security practices.</p>
-<p>To get started you will need to Arc enable your on-premises application server for free. You can do this directly through the Azure portal using the steps included in this article: <a href="https://learn.microsoft.com/en-us/azure/azure-arc/servers/learn/quick-enable-hybrid-vm">Quickstart - Connect hybrid machine with Azure Arc-enabled servers - Azure Arc | Microsoft Learn</a></p>
-<p>Once your server is arc enabled, developers can use the Azure Key Vault SDK for .NET to easily access Key Vault with your servers managed identity.  An example C# application can be found here: <a href="https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net?tabs=azure-cli">Quickstart - Azure Key Vault secrets client library for .NET | Microsoft Learn</a></p>
-<p>One additional benefit of using the Azure Key Vault SDK is that the same code that is used to authenticate your on-premises server to Key Vault is the exact same code that is used if your app is running directly in an Azure App Service. This makes your future application migration to Azure just a little bit easier.</p>
-<p>In this blog post, you have learned how to use Azure Arc to provide on-premises servers a managed identity so they can safely and securely authenticate with Azure Key Vault. This allows your developers to avoid storing sensitive credentials in your source code or configuration files and instead leverage the security and scalability of Azure. I hope you have found this post useful and informative.</p>
-<p>If you have any questions or would like to learn more about how using Azure Arc, Managed Identities, and Azure Key Vault can keep your organization’s secrets secure, please reach out to your Microsoft account team.</p>
             ]]>
         </content>
     </entry>
