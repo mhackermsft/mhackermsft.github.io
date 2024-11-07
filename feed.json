@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://blog.mikehacker.net/exploring-github-models-empowering-developers-with-ai-and-semantic-kernel/",
+            "url": "https://blog.mikehacker.net/exploring-github-models-empowering-developers-with-ai-and-semantic-kernel/",
+            "title": "Exploring GitHub Models: Empowering Developers with AI and Semantic Kernel",
+            "summary": "In the evolving landscape of artificial intelligence, GitHub Models emerges as a game-changer for developers. This innovative feature allows developers to access and experiment with various AI models directly within the GitHub ecosystem. Offering a seamless integration with development workflows, GitHub Models empowers developers to&hellip;",
+            "content_html": "<p>In the evolving landscape of artificial intelligence, GitHub Models emerges as a game-changer for developers. This innovative feature allows developers to access and experiment with various AI models directly within the GitHub ecosystem. Offering a seamless integration with development workflows, GitHub Models empowers developers to enhance their applications with AI capabilities, driving innovation and efficiency.</p>\n<p><strong>What is GitHub Models?</strong></p>\n<p>GitHub Models is a feature that brings together top-performing AI models from industry leaders like Meta, Mistral, and Microsoft. It provides a playground where developers can test different prompts, model parameters, and integrate these models into their projects. This multi-model approach ensures that developers have the right tools for various tasks, from code generation to advanced problem-solving.</p>\n<p><strong>Benefits for Developers</strong></p>\n<p>The primary benefit of GitHub Models lies in its flexibility and accessibility. Developers can choose from a range of AI models, selecting the one that best fits their specific needs. This feature is particularly valuable for projects requiring different AI capabilities, allowing for tailored solutions. Integration with GitHub’s development environment, including Visual Studio Code and GitHub Codespaces, streamlines the process of experimenting with and deploying AI models. This seamless workflow enhances productivity, allowing developers to focus on building and innovating.</p>\n<p>Moreover, GitHub Models simplifies the learning curve associated with AI. By providing a unified platform to access and test models, it eliminates the need for developers to juggle multiple tools and services. This ease of use encourages more developers to explore AI, democratizing access to advanced technologies and fostering a broader adoption within the development community.</p>\n<p><strong>When to Choose GitHub Models Over Azure OpenAI Service</strong></p>\n<p>While both GitHub Models and Azure OpenAI Service offer robust AI capabilities, the choice between them depends on the specific needs of the project. GitHub Models is ideal for scenarios where developers need to quickly test and compare different AI models within their existing GitHub workflow. Its built-in playground is perfect for side-by-side experimentation, enabling rapid iteration and learning.</p>\n<p>On the other hand, Azure OpenAI Service excels in deploying AI models at scale with enterprise-grade security and compliance features. It is the go-to solution for projects that require robust infrastructure, high availability, and integration with other Azure services. For state and local government projects, Azure OpenAI might be preferable when handling sensitive data or deploying mission-critical applications.</p>\n<p>GitHub Models is a powerful tool that empowers developers to harness the potential of AI. By providing access to top AI models and integrating seamlessly with development workflows, it enhances productivity and innovation. Whether you're a solo developer, a startup, or part of a large enterprise, GitHub Models offers the tools and capabilities to bring your AI-powered projects to life.</p>\n<p>For those interested in diving deeper into AI, exploring GitHub Models could be the first step towards unlocking new possibilities in software development. Embrace the future of AI with GitHub Models and transform your projects into cutting-edge solutions.</p>\n<p><strong>Easily Use GitHub Models in .NET with Semantic Kernel</strong></p>\n<p>By combining Semantic Kernel with GitHub Models, developers can seamlessly integrate AI capabilities into their .NET applications, enabling natural language understanding and generation features. This integration streamlines the development process, making it easier to build intelligent applications that can understand and generate human language or even code. For more details, check out the blog post on <a target=\"_blank\" href=\"https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/?form=MG0AV3\" aria-label=\"https://devblogs.microsoft.com/dotnet/github-ai-models-dotnet-semantic-kernel/\" rel=\"noopener\">Unlocking the Power of GitHub Models in .NET with Semantic Kernel</a></p>",
+            "image": "https://blog.mikehacker.net/media/posts/92/GitHub-Simbolo.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Articles"
+            ],
+            "date_published": "2024-11-07T09:48:06-05:00",
+            "date_modified": "2024-11-07T09:55:55-05:00"
+        },
+        {
+            "id": "https://blog.mikehacker.net/azure-developers-net-aspire-day-2024-on-demand/",
+            "url": "https://blog.mikehacker.net/azure-developers-net-aspire-day-2024-on-demand/",
+            "title": "Azure Developers .NET Aspire Day 2024 On-Demand",
+            "summary": "Great news for all developers! The sessions from the Azure Developers .NET Aspire Day 2024 are now available on demand. Dive into the latest insights, trends, and expert sessions from the event by visiting this YouTube playlist. Whether you missed the live event or want&hellip;",
+            "content_html": "<p>Great news for all developers! The sessions from the Azure Developers .NET Aspire Day 2024 are now available on demand. Dive into the latest insights, trends, and expert sessions from the event by visiting <a role=\"link\" initial=\"start\" animate=\"end\" variants=\"[object Object]\" custom=\"0\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/playlist?list=PLI7iePan8aH70Ref8ac9oB3D4F3CQ-mhO&amp;form=MG0AV3\" aria-label=\"https://www.youtube.com/playlist?list=PLI7iePan8aH70Ref8ac9oB3D4F3CQ-mhO\">this YouTube playlist</a>. Whether you missed the live event or want to revisit your favorite talks, this is your chance to catch up on all the valuable content and continue your learning journey. Happy watching!</p>",
+            "image": "https://blog.mikehacker.net/media/posts/91/Screenshot-2024-11-07-093750.png",
+            "author": {
+                "name": "Mike Hacker"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2024-11-07T09:38:55-05:00",
+            "date_modified": "2024-11-07T09:38:55-05:00"
+        },
+        {
             "id": "https://blog.mikehacker.net/modernizing-government-operations-with-ai-powered-document-processing/",
             "url": "https://blog.mikehacker.net/modernizing-government-operations-with-ai-powered-document-processing/",
             "title": "Modernizing Government Operations with AI-Powered Document Processing",
@@ -23,7 +55,7 @@
                    "Articles"
             ],
             "date_published": "2024-11-06T09:30:52-05:00",
-            "date_modified": "2024-11-06T09:33:51-05:00"
+            "date_modified": "2024-11-07T09:39:03-05:00"
         },
         {
             "id": "https://blog.mikehacker.net/understanding-retrieval-augmented-generation-rag-for-large-language-models-llms/",
@@ -139,38 +171,6 @@
             ],
             "date_published": "2024-05-22T10:04:37-04:00",
             "date_modified": "2024-09-10T09:38:20-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/harness-the-power-of-intelligent-apps-modernize-with-azure/",
-            "url": "https://blog.mikehacker.net/harness-the-power-of-intelligent-apps-modernize-with-azure/",
-            "title": "Harness the Power of Intelligent Apps: Modernize with Azure",
-            "summary": "Wednesday, May 8, 2024 10:00 AM–11:30 AM Pacific Time Generative AI has accelerated the speed of value delivery, yet many challenges can still roadblock innovation. Applications that are slow, inefficient, and costly to maintain can hinder innovation and make orgs vulnerable to security threats. These challenges can be&hellip;",
-            "content_html": "<div id=\"progDateTime\" class=\"dateTime mktoText\"><span class=\"date\"><bdo dir=\"auto\">Wednesday, May 8, 2024</bdo></span> <span class=\"time\"><bdo dir=\"auto\">10:00 AM–11:30 AM Pacific Time</bdo></span></div>\n<section id=\"mainBodyCopy\" class=\"mktoText\">\n<p>Generative AI has accelerated the speed of value delivery, yet many challenges can still roadblock innovation. Applications that are slow, inefficient, and costly to maintain can hinder innovation and make orgs vulnerable to security threats. These challenges can be overcome to meet market demand.<br><br>Join us for this webinar to learn:  </p>\n<ul>\n<li>How you can modernize with Azure to future-proof your business, become AI-ready, and outpace your competitors. </li>\n<li>How to power your AI transformation strategy by modernizing existing applications. </li>\n<li>How to plan and execute your modernization strategy using the best practices and methodologies that suit your business needs. </li>\n</ul>\n<p><a href=\"https://info.microsoft.com/ww-landing-harness-the-power-of-intelligent-apps-modernize-with-azure.html?lcid=en-us\" target=\"_blank\" rel=\"noopener noreferrer\">Read more and register here</a></p>\n</section>",
-            "image": "https://blog.mikehacker.net/media/posts/82/612e678d-a06c-4407-8117-2b0a47179573.jpg",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Events"
-            ],
-            "date_published": "2024-05-03T09:19:39-04:00",
-            "date_modified": "2024-05-03T09:19:39-04:00"
-        },
-        {
-            "id": "https://blog.mikehacker.net/on-demand-github-copilot-tips-from-the-field/",
-            "url": "https://blog.mikehacker.net/on-demand-github-copilot-tips-from-the-field/",
-            "title": "On-Demand: GitHub CoPilot Tips from the Field",
-            "summary": "GitHub Copilot tips from the field: How to accelerate Infrastructure as Code adoption. Check out this great on-demand video that includes a deep dive demo on how to leverage GitHub Copilot to write, refactor and use Infrastructure as Code to deploy resource to the cloud.",
-            "content_html": "<p class=\"style-scope ytd-watch-metadata\"><strong>GitHub Copilot tips from the field: How to accelerate Infrastructure as Code adoption.</strong></p>\n<p>Check out this great on-demand video that includes a deep dive demo on how to leverage GitHub Copilot to write, refactor and use Infrastructure as Code to deploy resource to the cloud.</p>\n<p><a href=\"https://www.youtube.com/watch?v=NTYJqgGBChM\" target=\"_blank\" rel=\"noopener noreferrer\">Watch on YouTube</a></p>",
-            "image": "https://blog.mikehacker.net/media/posts/81/reactor-video-IaC.png",
-            "author": {
-                "name": "Mike Hacker"
-            },
-            "tags": [
-                   "Training"
-            ],
-            "date_published": "2024-04-29T13:53:58-04:00",
-            "date_modified": "2024-04-29T13:53:58-04:00"
         }
     ]
 }
