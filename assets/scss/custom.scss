@@ -1,0 +1,301 @@
+/* ============================================================
+   MIKE HACKER - Azure for Government
+   Professional blog styling inspired by blog.mikehacker.net
+   ============================================================ */
+
+/* ---------- Color Palette ---------- */
+:root {
+    --accent-color: #4A6CF7;
+    --accent-color-darker: #3B5DE7;
+    --accent-color-text: #fff;
+    --body-background: #F4F5FA;
+    --card-background: #fff;
+    --card-border-radius: 12px;
+    --card-text-color-main: #1a1a2e;
+    --card-text-color-secondary: #555;
+    --card-text-color-tertiary: #888;
+    --body-text-color: #555;
+    --tag-border-radius: 4px;
+    --shadow-l1: 0 2px 8px rgba(74, 108, 247, 0.06), 0 0 1px rgba(0,0,0,0.06);
+    --shadow-l2: 0 8px 24px rgba(74, 108, 247, 0.08), 0 2px 6px rgba(0,0,0,0.04);
+    --section-separation: 32px;
+    --card-padding: 24px;
+}
+
+:root[data-scheme="dark"] {
+    --accent-color: #6D83F7;
+    --accent-color-darker: #5A70E8;
+    --accent-color-text: #fff;
+    --body-background: #0F1117;
+    --card-background: #1A1D2E;
+    --card-text-color-main: #E8E8ED;
+    --card-text-color-secondary: #A0A3B1;
+    --card-text-color-tertiary: #6B6E7B;
+    --body-text-color: #A0A3B1;
+    --shadow-l1: 0 2px 8px rgba(0,0,0,0.2), 0 0 1px rgba(0,0,0,0.3);
+    --shadow-l2: 0 8px 24px rgba(0,0,0,0.25), 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* ---------- Typography ---------- */
+:root {
+    --base-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --article-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --article-font-size: 1.6rem;
+    --article-line-height: 1.8;
+}
+
+/* ---------- Sidebar ---------- */
+.left-sidebar {
+    .site-name {
+        font-size: 1.8rem !important;
+        font-weight: 800 !important;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: var(--accent-color);
+    }
+
+    .site-description {
+        font-size: 1.3rem !important;
+        color: var(--body-text-color);
+        font-weight: 400;
+        line-height: 1.5;
+        opacity: 0.85;
+    }
+
+    .site-avatar {
+        .site-logo {
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(74, 108, 247, 0.15);
+        }
+    }
+}
+
+/* Uppercase nav links like original site */
+#main-menu {
+    li {
+        a {
+            font-weight: 600 !important;
+            font-size: 1.4rem !important;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--card-text-color-secondary);
+            transition: color 0.2s ease;
+
+            &:hover, &.current {
+                color: var(--accent-color);
+            }
+        }
+
+        svg {
+            opacity: 0.6;
+            width: 20px;
+            height: 20px;
+        }
+    }
+}
+
+/* Social icons refinement */
+.menu-social {
+    li a {
+        svg {
+            width: 22px;
+            height: 22px;
+            color: var(--card-text-color-secondary);
+            transition: color 0.2s ease;
+        }
+
+        &:hover svg {
+            color: var(--accent-color);
+        }
+    }
+}
+
+/* ---------- Article Cards ---------- */
+.article-list {
+    article {
+        border-radius: var(--card-border-radius);
+        overflow: hidden;
+        transition: transform 0.25s ease, box-shadow 0.25s ease;
+        border: 1px solid rgba(0, 0, 0, 0.04);
+
+        &:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-l2);
+            border-color: rgba(74, 108, 247, 0.12);
+        }
+
+        .article-title {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: var(--card-text-color-main);
+            letter-spacing: -0.01em;
+        }
+
+        .article-subtitle {
+            color: var(--card-text-color-secondary);
+            font-size: 1.5rem;
+            line-height: 1.6;
+        }
+    }
+}
+
+/* Category badge on cards — override inline color-from-str */
+.article-details > .article-category a,
+.article-category a {
+    background: var(--accent-color) !important;
+    background-color: var(--accent-color) !important;
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 1.15rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 3px 10px;
+}
+
+/* Tag pills */
+.article-tags a {
+    background: rgba(74, 108, 247, 0.1) !important;
+    color: var(--accent-color) !important;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 1.25rem;
+    padding: 4px 10px;
+    transition: background 0.2s ease, color 0.2s ease;
+    border: none;
+
+    &:hover {
+        background: var(--accent-color) !important;
+        color: var(--accent-color-text) !important;
+    }
+}
+
+[data-scheme="dark"] .article-tags a {
+    background: rgba(109, 131, 247, 0.15) !important;
+}
+
+[data-scheme="dark"] .article-category a {
+    background: var(--accent-color) !important;
+}
+
+/* ---------- Article Page Content ---------- */
+.article-content {
+    h2 {
+        border-left: 4px solid var(--accent-color);
+        padding-left: 16px;
+        margin-top: 32px;
+        font-weight: 700;
+        font-size: 2.4rem;
+    }
+
+    h3 {
+        font-weight: 600;
+        font-size: 2rem;
+        margin-top: 24px;
+    }
+
+    a {
+        color: var(--accent-color);
+        text-decoration: none;
+        border-bottom: 1px solid rgba(74, 108, 247, 0.3);
+        transition: border-color 0.2s ease;
+
+        &:hover {
+            border-bottom-color: var(--accent-color);
+        }
+    }
+
+    blockquote {
+        border-left-color: var(--accent-color);
+        background: rgba(74, 108, 247, 0.04);
+    }
+}
+
+/* ---------- Right Sidebar Widgets ---------- */
+.widget {
+    border-radius: var(--card-border-radius);
+    overflow: hidden;
+
+    .widget-title {
+        font-weight: 700;
+        font-size: 1.4rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--card-text-color-main);
+    }
+}
+
+.tagCloud .tagCloud-tags a {
+    border-radius: 4px !important;
+    font-weight: 500;
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+    .copyright {
+        font-weight: 600;
+        color: var(--accent-color);
+        font-size: 1.3rem;
+    }
+
+    .powerby {
+        font-size: 1.2rem;
+        color: var(--card-text-color-tertiary);
+    }
+}
+
+/* ---------- Search ---------- */
+.search-input {
+    border-radius: 8px;
+    border: 2px solid transparent;
+    transition: border-color 0.2s ease;
+
+    &:focus {
+        border-color: var(--accent-color);
+    }
+}
+
+/* ---------- Dark Mode Toggle ---------- */
+.darkmode-btn {
+    svg {
+        opacity: 0.5;
+        transition: opacity 0.2s ease;
+    }
+
+    &:hover svg {
+        opacity: 1;
+        color: var(--accent-color);
+    }
+}
+
+/* ---------- Scrollbar ---------- */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(74, 108, 247, 0.2);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(74, 108, 247, 0.4);
+}
+
+/* ---------- Selection ---------- */
+::selection {
+    background: rgba(74, 108, 247, 0.2);
+    color: inherit;
+}
+
+/* ---------- Table of Contents ---------- */
+.article-toc {
+    border-radius: 8px;
+
+    .toc-title {
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        font-size: 1.3rem;
+    }
+}
