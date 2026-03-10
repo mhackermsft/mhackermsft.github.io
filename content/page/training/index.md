@@ -15,8 +15,6 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 ---
 
 <!-- EVENTS_START -->
-Based on the events visible on the Microsoft Events homepage, let me fetch more details on the key events:I found Microsoft Build 2026. Let me get a few more relevant events:I found event navigation links. Let me fetch details for the Migrate and Modernize Summit and Microsoft Secure:I now have all the information needed to compile the table. Based on what I found on the Microsoft Events homepage and build.microsoft.com:
-
 ## Upcoming Microsoft Events
 
 *Last updated: March 10, 2026*
