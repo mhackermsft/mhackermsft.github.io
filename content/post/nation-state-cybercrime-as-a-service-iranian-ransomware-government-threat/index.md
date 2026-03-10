@@ -10,7 +10,7 @@ categories:
 - Security
 - Government
 summary: Iranian state-sponsored threat actors are not just conducting espionage - they are actively brokering network access to ransomware affiliates, making US state and local government agencies prime targets in a dangerous new hybrid threat model.
-draft: true
+draft: false
 image: cover.png
 ---
 

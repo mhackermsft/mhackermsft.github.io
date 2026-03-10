@@ -11,7 +11,7 @@ categories:
 - AI & Copilot
 - Government
 summary: As AI agents multiply across government workplaces, Microsoft's centralized Agent management tools in the Microsoft 365 admin center give IT administrators the visibility, control, and governance guardrails they need to deploy confidently.
-draft: true
+draft: false
 image: cover.png
 ---
 

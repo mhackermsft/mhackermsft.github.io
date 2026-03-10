@@ -9,7 +9,7 @@ tags:
 categories:
 - Security
 summary: Learn how Microsoft Entra Conditional Access and Intune device compliance policies - including rooted and jailbroken device blocking - form a critical layer of Zero Trust protection for state and local government organizations.
-draft: true
+draft: false
 image: cover.png
 ---
 
