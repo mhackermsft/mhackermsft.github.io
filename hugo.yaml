@@ -73,7 +73,7 @@ params:
 
   footer:
     since: 2024
-    customText: "Azure Application Innovation Specialist · Microsoft"
+    customText: "Azure Specialist · Microsoft"
 
   dateFormat:
     published: "Jan 02, 2006"
