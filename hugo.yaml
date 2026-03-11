@@ -109,7 +109,7 @@ params:
 
   colorScheme:
     toggle: true
-    default: "light"
+    default: "dark"
 
   imageProcessing:
     autoOrient: false
