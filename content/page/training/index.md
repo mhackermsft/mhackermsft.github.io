@@ -1,5 +1,5 @@
 ---
-title: "Training & Learning"
+title: "Training & Education"
 description: "Azure training resources, certifications, and learning paths for government IT professionals"
 date: 2024-01-01
 slug: "training"
