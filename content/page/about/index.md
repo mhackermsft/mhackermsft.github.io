@@ -31,3 +31,15 @@ Every post is written with government audiences in mind — both CxOs evaluating
 
 - [LinkedIn](https://linkedin.com/in/mphacker/)
 - [GitHub](https://github.com/mhackermsft)
+
+---
+
+## Disclaimer
+
+This is a personal blog. The views, opinions, and statements expressed here are my own and do not necessarily reflect the official positions, strategies, or opinions of Microsoft Corporation or any of its affiliates.
+
+While I make every effort to ensure the accuracy of the information published on this site as of each post's publication date, the technology landscape evolves rapidly. Content may become outdated, and features, services, or configurations referenced may change without notice. Readers should independently verify any technical guidance, recommendations, or instructions before applying them in their own environments. This blog is provided for informational purposes only and should not be relied upon as a substitute for official Microsoft documentation or professional consultation.
+
+Some content on this site, including text and images, may be generated or assisted by artificial intelligence. All AI-generated content is reviewed for accuracy, but errors or omissions may still occur.
+
+Neither I nor Microsoft assume any liability for damages or losses arising from the use of information provided on this blog. Use all content at your own discretion and risk.
