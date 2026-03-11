@@ -9,7 +9,7 @@ tags:
 categories:
 - Azure for Government
 summary: GitHub Copilot CLI has evolved from a developer coding tool into a full agentic AI productivity platform - complete with MCP server integrations, custom skills, and autonomous task execution - that government departments can harness to automate workflows and deliver expert guidance through natural language.
-draft: true
+draft: false
 image_prompt: A government IT professional working at a terminal in a modern operations center, with visual representations of connected systems, document flows, and AI-assisted workflows on surrounding screens, in a clean professional style with Microsoft Azure blue tones
 image: cover.png
 ---
