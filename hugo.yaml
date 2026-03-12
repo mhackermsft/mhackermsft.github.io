@@ -3,6 +3,8 @@ languageCode: "en-us"
 title: "Mike Hacker"
 theme: "hugo-theme-stack"
 
+googleAnalytics: "G-41PP7CMZEN"
+
 defaultContentLanguage: en
 hasCJKLanguage: false
 
