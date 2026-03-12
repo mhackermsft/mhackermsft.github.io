@@ -17,15 +17,15 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: March 10, 2026*
+*Last updated: March 12, 2026*
 
 | Event | Date | Format | Description |
 |-------|------|--------|-------------|
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | March 12, 2026 | Virtual | Explore how organizations reduce complexity and implement agentic AI solutions with real-world examples and product announcements from Microsoft experts. |
-| [Microsoft AI Tour](https://aitour.microsoft.com) | Multiple dates | In-Person | Global city tour series to learn, connect, and lead with Microsoft AI — covering Azure AI Foundry, Copilot, and agentic AI scenarios. |
-| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events/category/microsoft-virtual-training-days) | Multiple dates | Virtual | Free instructor-led training covering Microsoft Cloud and AI technologies including Azure, Copilot, and data platform fundamentals. |
-| [Microsoft 365 Copilot Training](https://www.microsoft.com/en-us/events/category/microsoft-365-copilot-training) | Multiple dates | Virtual | Free training series exploring Microsoft 365 Copilot fundamentals, agent building, and productivity use cases for developers and IT pros. |
-| [Microsoft Build 2026](https://build.microsoft.com) | June 2–3, 2026 | Hybrid | Developer conference in San Francisco covering AI, .NET, Azure, Kubernetes, Container Apps, and hands-on sessions with Microsoft engineering teams. |
+| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | March 12, 2026 | Virtual | Explore agentic AI tools for app modernization including GitHub Copilot for Java/.NET upgrades, Azure Migrate enhancements, and the new Azure Accelerate offering. |
+| [FabCon + SQLCon (Microsoft Fabric Community Conference)](https://sqlcon.us/) | March 16–20, 2026 | In-Person (Atlanta, GA) | Deep-dive sessions on Microsoft Fabric, Azure SQL, SQL database in Fabric, Copilot integrations, data engineering, and AI-powered data experiences—50+ SQL sessions plus FabCon content. |
+| [Microsoft AI Tour](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home#find-city) | Multiple Cities, Ongoing 2026 | In-Person | Free global tour bringing hands-on AI learning, Azure AI Foundry, Copilot agents, and agentic AI innovation to cities worldwide—find your nearest stop and register. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid (San Francisco + Online) | Developer-focused flagship event covering multi-model AI, agentic orchestration, Azure AI Foundry, .NET, Container Apps, Kubernetes, Copilot extensibility, and app modernization. |
+| [Microsoft Virtual Training Days](https://events.microsoft.com/en-us/mvtd) | Multiple Dates, Ongoing | Virtual | Free expert-led training events covering Azure, AI, Security, Copilot and Agents, Microsoft Fabric, and developer tools—earn a 50% discount on certification exams upon completion. |
 
 <!-- EVENTS_END -->
 
