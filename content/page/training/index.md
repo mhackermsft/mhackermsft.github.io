@@ -17,15 +17,15 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: March 12, 2026*
+*Last updated: March 13, 2026*
 
 | Event | Date | Format | Description |
 |-------|------|--------|-------------|
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | March 12, 2026 | Virtual | Explore agentic AI tools for app modernization including GitHub Copilot for Java/.NET upgrades, Azure Migrate enhancements, and the new Azure Accelerate offering. |
-| [FabCon + SQLCon (Microsoft Fabric Community Conference)](https://sqlcon.us/) | March 16–20, 2026 | In-Person (Atlanta, GA) | Deep-dive sessions on Microsoft Fabric, Azure SQL, SQL database in Fabric, Copilot integrations, data engineering, and AI-powered data experiences—50+ SQL sessions plus FabCon content. |
-| [Microsoft AI Tour](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home#find-city) | Multiple Cities, Ongoing 2026 | In-Person | Free global tour bringing hands-on AI learning, Azure AI Foundry, Copilot agents, and agentic AI innovation to cities worldwide—find your nearest stop and register. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid (San Francisco + Online) | Developer-focused flagship event covering multi-model AI, agentic orchestration, Azure AI Foundry, .NET, Container Apps, Kubernetes, Copilot extensibility, and app modernization. |
-| [Microsoft Virtual Training Days](https://events.microsoft.com/en-us/mvtd) | Multiple Dates, Ongoing | Virtual | Free expert-led training events covering Azure, AI, Security, Copilot and Agents, Microsoft Fabric, and developer tools—earn a 50% discount on certification exams upon completion. |
+| [Microsoft Build 2026](https://build.microsoft.com) | June 2–3, 2026 | Hybrid | Deep-dive developer conference covering AI, agentic workflows, Azure, .NET, Kubernetes, and Container Apps alongside Microsoft engineering teams. |
+| [Microsoft AI Tour](https://aitour.microsoft.com) | Multiple dates (ongoing) | In-Person | Free worldwide city stops focused on Azure AI Foundry, Azure OpenAI, Copilot, and agentic AI solutions for organizations. |
+| [Microsoft Virtual Training Days](https://events.microsoft.com/en-us/mvtd) | Multiple dates (ongoing) | Virtual | Free expert-led training on Azure AI, cloud platform, security, and Microsoft Copilot with certification exam discounts. |
+| [Microsoft Virtual Training Days – Azure](https://events.microsoft.com/en-us/mvtd/azure) | Multiple dates (ongoing) | Virtual | Free Microsoft-led sessions covering Azure fundamentals through advanced topics including AI, data, and app modernization. |
+| [Microsoft 365 Copilot Training](https://www.microsoft.com/en-us/events) | Multiple dates (ongoing) | Virtual | Free training series exploring Microsoft 365 Copilot fundamentals and agentic AI productivity capabilities. |
 
 <!-- EVENTS_END -->
 
