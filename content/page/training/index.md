@@ -17,15 +17,15 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: March 13, 2026*
+*Last updated: March 16, 2026*
 
 | Event | Date | Format | Description |
 |-------|------|--------|-------------|
-| [Microsoft Build 2026](https://build.microsoft.com) | June 2–3, 2026 | Hybrid | Deep-dive developer conference covering AI, agentic workflows, Azure, .NET, Kubernetes, and Container Apps alongside Microsoft engineering teams. |
-| [Microsoft AI Tour](https://aitour.microsoft.com) | Multiple dates (ongoing) | In-Person | Free worldwide city stops focused on Azure AI Foundry, Azure OpenAI, Copilot, and agentic AI solutions for organizations. |
-| [Microsoft Virtual Training Days](https://events.microsoft.com/en-us/mvtd) | Multiple dates (ongoing) | Virtual | Free expert-led training on Azure AI, cloud platform, security, and Microsoft Copilot with certification exam discounts. |
-| [Microsoft Virtual Training Days – Azure](https://events.microsoft.com/en-us/mvtd/azure) | Multiple dates (ongoing) | Virtual | Free Microsoft-led sessions covering Azure fundamentals through advanced topics including AI, data, and app modernization. |
-| [Microsoft 365 Copilot Training](https://www.microsoft.com/en-us/events) | Multiple dates (ongoing) | Virtual | Free training series exploring Microsoft 365 Copilot fundamentals and agentic AI productivity capabilities. |
+| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Explore how organizations reduce complexity and implement AI solutions using agentic AI, with real-world examples and Azure product announcements. |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Discover how the next level of agentic AI empowers people with disabilities; attend in person or online. |
+| [Microsoft Build](https://build.microsoft.com) | June 2–3, 2026 | Hybrid | Developer-focused conference in San Francisco covering AI, .NET, Azure, Copilot, agentic workflows, Kubernetes, and Container Apps. |
+| [Microsoft AI Tour](https://aitour.microsoft.com) | Multiple dates | In-Person | Free global event series exploring Azure OpenAI, Azure AI Foundry, Copilot, and agentic AI with hands-on sessions for developers and IT pros. |
+| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events/category/microsoft-virtual-training-days) | Multiple dates | Virtual | Free instructor-led training on Azure, AI, Security, and Microsoft Cloud technologies for developers and IT professionals. |
 
 <!-- EVENTS_END -->
 
