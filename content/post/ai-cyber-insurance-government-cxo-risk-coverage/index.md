@@ -11,7 +11,7 @@ categories:
 summary: AI is reshaping both the cyber threat landscape and cyber insurance underwriting requirements - government CxOs need to understand how to demonstrate security posture, leverage Microsoft tools, and align with what insurers are now demanding.
 draft: false
 image_prompt: An abstract digital landscape showing interconnected shield shapes and neural network nodes glowing in deep blue and gold tones, with layered geometric forms suggesting protection and data flow, set against a dark gradient background with subtle circuit board patterns radiating outward from a central glowing core
-image: cover.png
+image: cover.jpg
 ---
 
 ## The Cyber Insurance Conversation Has Changed

@@ -12,7 +12,7 @@ categories:
 summary: Microsoft's agentic end-to-end modernization toolchain - combining Azure Migrate AppCAT, GitHub Copilot App Modernization, and AI-driven wave planning - gives government IT teams an intelligent assistant that can assess, plan, and execute legacy application migrations at a scale and speed that manual efforts simply cannot match.
 draft: false
 image_prompt: A government IT operations center with multiple screens showing Azure cloud dashboards, code assessment reports, and wave migration planning visualizations. Subtle blue and white Microsoft Azure color palette. Professional, clean, modern aesthetic suitable for a government technology audience.
-image: cover.png
+image: cover.jpg
 ---
 
 The legacy application problem in government is not a secret. Decades of layered solutions - ASP.NET WebForms portals from the mid-2000s, Java EE monoliths running on application servers well past their vendor support lifecycle, custom .NET Framework 3.5 services that nobody fully understands anymore - sit at the foundation of mission-critical workflows. Every year, these systems accumulate more technical debt, more unpatched vulnerabilities, and more distance from the modern platforms that support Zero Trust security, cloud scalability, and developer agility.

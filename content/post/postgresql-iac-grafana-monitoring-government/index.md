@@ -12,7 +12,7 @@ categories:
 summary: Azure Database for PostgreSQL now supports Terraform-based Elastic Cluster provisioning and native Grafana dashboards built into the Azure Portal, giving government IT teams powerful tools for compliant, auditable database operations.
 draft: false
 image_prompt: A dark blue and teal server infrastructure visualization with glowing interconnected nodes and geometric grid patterns, overlapping translucent panels showing line charts and gauge dials in green and orange hues, abstract cloud shapes flowing into a layered database cylinder icon, with soft radial gradients and a calm professional atmosphere
-image: cover.png
+image: cover.jpg
 ---
 
 Government IT teams are under increasing pressure to demonstrate that every infrastructure change is deliberate, documented, and repeatable. Whether it is a state agency modernizing a legacy case management system or a county government migrating citizen-facing services to the cloud, the database layer is often the most sensitive and scrutinized part of the stack. Manual deployments, ad-hoc configuration changes, and siloed monitoring tools are liabilities, not just operationally but from a compliance and audit standpoint.

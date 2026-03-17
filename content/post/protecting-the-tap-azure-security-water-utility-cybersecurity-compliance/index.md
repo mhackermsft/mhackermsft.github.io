@@ -10,7 +10,7 @@ categories:
 summary: As federal regulations tighten around water utility cybersecurity, Azure's OT-aware security tools and cloud-native SIEM give government water authorities a clear path to compliance and operational resilience.
 draft: false
 image_prompt: A secure water treatment facility at dusk with digital security overlay graphics, showing network connections and shield icons representing cybersecurity protection for critical infrastructure.
-image: cover.png
+image: cover.jpg
 ---
 
 ## When the Tap Becomes a Target
