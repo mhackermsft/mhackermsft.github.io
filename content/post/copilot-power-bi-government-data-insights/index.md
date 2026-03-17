@@ -11,7 +11,7 @@ categories:
 - Azure for Government
 summary: Microsoft Copilot in Power BI brings natural language report creation, DAX generation, and AI-driven summaries to government analysts - dramatically reducing the time from raw data to actionable insight.
 draft: false
-image: cover.png
+image: cover.jpg
 ---
 
 ## The Data Backlog Problem Government Agencies Know Too Well

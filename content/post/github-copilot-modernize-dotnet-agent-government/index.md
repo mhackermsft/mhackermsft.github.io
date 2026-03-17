@@ -12,7 +12,7 @@ categories:
 summary: The newly announced GitHub Copilot modernize-dotnet agent brings AI-assisted .NET modernization to Visual Studio, VS Code, the CLI, and GitHub.com - giving government IT teams a traceable, developer-friendly path to eliminate technical debt across their .NET application portfolios without a full rewrite.
 draft: false
 image_prompt: A dramatic close-up of a robotic hand carefully lifting an old rusty gear out of a complex mechanical assembly and replacing it with a gleaming new chrome gear, sparks of blue energy arcing between the old and new parts, dark industrial background with warm amber side lighting and cool blue fill light. No text, letters, numbers, or writing anywhere in the image.
-image: cover.png
+image: cover.jpg
 ---
 
 Government IT departments are sitting on a growing backlog of legacy .NET applications. Permitting systems built on ASP.NET WebForms. Case management tools targeting .NET Framework 4.5. Internal service APIs that predate .NET Core entirely. These applications are not broken - they still run critical workflows every day - but they carry compounding costs: end-of-life runtimes accumulate unpatched vulnerabilities, aging frameworks block adoption of modern cloud services, and every year that passes makes the eventual upgrade harder and riskier.

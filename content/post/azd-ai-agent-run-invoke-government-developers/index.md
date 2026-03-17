@@ -13,7 +13,7 @@ categories:
 summary: New azd ai agent run and azd ai agent invoke commands in the Azure Developer CLI give government developers fast, terminal-based tools for local testing and deployment validation of hosted AI agents, shortening the debugging loop and improving reliability of constituent-facing AI services.
 draft: false
 image_prompt: A government developer at a terminal running Azure Developer CLI commands to test and validate an AI agent, with a clean modern workspace and Azure AI Foundry branding visible on a secondary monitor.
-image: cover.png
+image: cover.jpg
 ---
 
 Government IT teams are being asked to do something genuinely new: build and operate AI agents that serve real constituents. Whether it is a permit inquiry chatbot, a benefits eligibility assistant, or an internal document summarizer for agency staff, these AI-powered services carry expectations of reliability that traditional web apps once monopolized. When they fail, people notice.
