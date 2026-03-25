@@ -17,15 +17,15 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: March 24, 2026*
+*Last updated: March 25, 2026*
 
 | Event | Date | Format | Description |
 |-------|------|--------|-------------|
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Discover how organizations are reducing complexity and implementing AI solutions for app modernization with Agentic AI on Azure. |
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Explore how agentic AI empowers people with disabilities — join in person or online for sessions on the next level of AI accessibility. |
-| [Microsoft Build](https://build.microsoft.com/home) | June 2–3, 2026 | Hybrid | Go deep on real code and real systems — multi-model training, agent orchestration, and hands-on sessions with Microsoft engineering teams in San Francisco and online. |
-| [Microsoft AI Tour](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home) | Multiple dates | In-person | Free multi-city tour covering Azure AI, Copilot, agentic AI, and cloud innovation — check the site for upcoming North America stops. |
-| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/trainingdays) | Multiple dates | Virtual | Free expert-led training on Azure, AI, Security, Copilot, Fabric, and other Microsoft Cloud technologies with certification exam discounts. |
+| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Discover how organizations are modernizing with agentic AI—new product announcements, customer examples, and expert guidance on Azure. |
+| [Ability Summit](https://abilitysummit.event.microsoft.com/) | May 19–20, 2026 | Hybrid | Explore how agentic AI empowers people with disabilities; product demos, training, and sessions on accessible AI innovation. |
+| [Microsoft Build](https://build.microsoft.com/home) | June 2–3, 2026 | Hybrid | Go deep on real code and real systems—multi-model training, agent orchestration workflows, and hands-on sessions with Microsoft engineering teams. |
+| [Microsoft AI Tour](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home) | Multiple dates | In-person | Free in-person tour across global cities to learn, connect, and lead AI innovation with Microsoft technologies. |
+| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/trainingdays) | Multiple dates | Virtual | Free expert-led training on Azure, AI, Security, and Microsoft Cloud technologies with certification exam discounts. |
 
 <!-- EVENTS_END -->
 

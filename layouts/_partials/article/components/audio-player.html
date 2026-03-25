@@ -1,0 +1,15 @@
+{{- if .Params.audio -}}
+    {{- $audio := .Resources.Get .Params.audio -}}
+    {{- if $audio -}}
+    <div class="article-audio-player">
+        <div class="audio-player-label">
+            {{ partial "helper/icon" "headphones" }}
+            <span>Listen to the report</span>
+        </div>
+        <audio controls preload="metadata">
+            <source src="{{ $audio.RelPermalink }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    {{- end -}}
+{{- end -}}

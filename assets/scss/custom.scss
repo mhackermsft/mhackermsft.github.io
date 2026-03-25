@@ -237,6 +237,41 @@
     font-weight: 500;
 }
 
+/* ---------- Audio Player ---------- */
+.article-audio-player {
+    margin: 0 var(--card-padding) var(--section-separation);
+    padding: 16px 20px;
+    background: var(--body-background);
+    border-radius: var(--card-border-radius);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+
+    .audio-player-label {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 12px;
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: var(--card-text-color-main);
+
+        svg {
+            width: 20px;
+            height: 20px;
+            stroke: var(--accent-color);
+        }
+    }
+
+    audio {
+        width: 100%;
+        height: 40px;
+        border-radius: 8px;
+    }
+}
+
+[data-scheme="dark"] .article-audio-player {
+    border-color: rgba(255, 255, 255, 0.08);
+}
+
 /* ---------- Footer ---------- */
 .site-footer {
     .copyright {
