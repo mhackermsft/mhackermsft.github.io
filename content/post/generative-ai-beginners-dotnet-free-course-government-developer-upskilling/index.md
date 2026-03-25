@@ -12,6 +12,7 @@ summary: Microsoft's free Generative AI for Beginners .NET course teaches govern
 draft: false
 image_prompt: A vast open book lying flat on a stone table, its pages transforming into a spiraling staircase of glowing crystalline steps that ascend into a luminous sky. Each step is a different translucent color, shifting from deep azure blue at the base to warm gold at the top. Scattered along the staircase are small mechanical gears, polished brass keys, and hovering geometric shapes representing building blocks. A pair of hands reaches upward toward the top of the staircase where a radiant prism floats, refracting beams of light in all directions. The scene is bathed in dramatic warm and cool lighting with deep shadows below and brilliant illumination above. No text, letters, numbers, or writing anywhere in the image.
 image: cover.jpg
+audio: audio.mp3
 ---
 
 Government technology leaders face a familiar challenge: how do you prepare your development workforce for the AI era without blowing your training budget or pulling teams off critical projects for weeks at a time? Microsoft has an answer worth your attention.

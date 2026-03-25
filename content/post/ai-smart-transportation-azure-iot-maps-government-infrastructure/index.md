@@ -13,6 +13,7 @@ summary: Government agencies are investing in AI, IoT, and intelligent transport
 draft: false
 image_prompt: A dramatic aerial view of a futuristic highway interchange at twilight, with glowing blue sensor nodes embedded along bridge spans and road surfaces, a silver drone hovering near a bridge pillar, thin luminous data ribbons arcing horizontally between sensor nodes along the roadway like a glowing network grid, circuit-like patterns subtly woven into the concrete infrastructure, bold azure and warm amber twilight sky creating cinematic contrast. No text, letters, numbers, or writing anywhere in the image.
 image: cover.jpg
+audio: audio.mp3
 ---
 
 Transportation infrastructure in the United States is at an inflection point. Aging highways, congested urban corridors, and growing demand for real-time safety data are pushing government agencies at every level to rethink how they monitor, manage, and modernize their roadways, bridges, and transit systems. Artificial intelligence, Internet of Things (IoT) sensors, drone-based inspections, and intelligent transportation systems (ITS) are no longer experimental concepts confined to pilot programs. They are becoming foundational capabilities that state departments of transportation, county public works departments, and city transit authorities are actively procuring and deploying.

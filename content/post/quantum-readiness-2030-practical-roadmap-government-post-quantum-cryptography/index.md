@@ -11,6 +11,7 @@ summary: A step-by-step guide for state and local government organizations to pr
 draft: false
 image_prompt: A massive crystalline lattice structure glowing with blue and gold light, suspended in a dark void. One side of the lattice is formed of traditional brass padlocks and iron keys, slowly transforming into the other side made of luminous geometric diamond shapes and interlocking prisms. A translucent shield of iridescent energy wraps around the diamond side, symbolizing new protection. Dramatic volumetric lighting casts long shadows. No text, letters, numbers, or writing anywhere in the image.
 image: cover.jpg
+audio: audio.mp3
 ---
 
 The cryptographic foundations that protect every citizen record, every tax filing, and every inter-agency communication your organization handles today are on a countdown clock. Quantum computers capable of breaking widely used public-key encryption may arrive within the next decade, and adversaries are already harvesting encrypted data now with plans to decrypt it later. The good news: the standards and tools you need to begin preparing are available today.
