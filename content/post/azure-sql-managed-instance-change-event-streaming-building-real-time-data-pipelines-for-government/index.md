@@ -11,7 +11,7 @@ categories:
 - Data Platform
 summary: Azure SQL Managed Instance now supports Change Event Streaming in public preview, enabling government organizations to publish real-time row-level data changes directly to Azure Event Hubs for modern event-driven architectures.
 draft: false
-image_prompt: A modern data pipeline visualization showing a government database streaming real-time change events through Azure Event Hubs to multiple downstream systems, with clean geometric design elements in blue and white tones suggesting reliability and security
+image_prompt: A glowing stream of blue light flowing out of a massive cylindrical database tower, splitting into multiple branching rivers of light that cascade through a dark environment, dramatic cinematic lighting with cool blue and white tones, wide-angle shot with depth of field. No text, letters, numbers, or writing anywhere in the image.
 audio: audio.mp3
 image: cover.jpg
 ---
