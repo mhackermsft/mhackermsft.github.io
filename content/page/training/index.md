@@ -17,15 +17,17 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: March 30, 2026*
+*Last updated: March 31, 2026*
 
 | Event | Date | Format | Description |
 |-------|------|--------|-------------|
 | [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Discover how organizations are reducing complexity and implementing AI solutions with new product announcements and real-world customer examples. |
 | [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Explore how the next level of agentic AI continues to empower people with disabilities—join in person or online. |
-| [Microsoft Build](https://build.microsoft.com/home) | June 2–3, 2026 | Hybrid | Go deep on real code and real systems with the teams building and scaling AI, in San Francisco and online. |
-| [Microsoft AI Tour](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home) | Multiple dates | In-person | Free multi-city tour to learn, connect, and lead the future of AI innovation with Microsoft experts. |
-| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events/category/microsoft-virtual-training-days) | Multiple dates | Virtual | Free expert-led training on Microsoft Cloud and AI technologies including Azure, Security, and Copilot. |
+| [Microsoft Build](https://build.microsoft.com/home) | June 2–3, 2026 | Hybrid | Go deep on real code and real systems with Microsoft engineering teams—master agent workflows, multi-model training, and hands-on sessions in San Francisco and online. |
+| [Microsoft AI Tour](https://aitour.microsoft.com/) | Multiple dates | In-person | Free in-person events across global cities to learn, connect, and lead the future of AI innovation with Azure and Copilot. |
+| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events/category/microsoft-virtual-training-days) | Multiple dates | Virtual | Free expert-led training on Azure, AI, Security, and Microsoft Cloud technologies with certification exam discounts. |
+
+> **Note:** The events catalog page loads results dynamically via JavaScript. The above events were extracted from the Microsoft Events homepage and individual event landing pages. Visit the [full catalog](https://www.microsoft.com/en-us/events/search-catalog) for the latest filterable listings.
 
 <!-- EVENTS_END -->
 
