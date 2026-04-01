@@ -17,17 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: March 31, 2026*
+*Last updated: April 1, 2026*
 
-| Event | Date | Format | Description |
-|-------|------|--------|-------------|
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Discover how organizations are reducing complexity and implementing AI solutions with new product announcements and real-world customer examples. |
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Explore how the next level of agentic AI continues to empower people with disabilities—join in person or online. |
-| [Microsoft Build](https://build.microsoft.com/home) | June 2–3, 2026 | Hybrid | Go deep on real code and real systems with Microsoft engineering teams—master agent workflows, multi-model training, and hands-on sessions in San Francisco and online. |
-| [Microsoft AI Tour](https://aitour.microsoft.com/) | Multiple dates | In-person | Free in-person events across global cities to learn, connect, and lead the future of AI innovation with Azure and Copilot. |
-| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events/category/microsoft-virtual-training-days) | Multiple dates | Virtual | Free expert-led training on Azure, AI, Security, and Microsoft Cloud technologies with certification exam discounts. |
-
-> **Note:** The events catalog page loads results dynamically via JavaScript. The above events were extracted from the Microsoft Events homepage and individual event landing pages. Visit the [full catalog](https://www.microsoft.com/en-us/events/search-catalog) for the latest filterable listings.
+| Event | Date | Format | Type | Description |
+|-------|------|--------|------|-------------|
+| [Microsoft JDConf 2026 (Americas)](https://developer.microsoft.com/en-us/reactor/events/26618/) | April 8, 2026 | Virtual | Conference | Global Java developer conference covering AI-native Java, app modernization, and agentic workflows on Azure |
+| [OpenClawNet — Tools + Agent Workflows in .NET 10](https://developer.microsoft.com/en-us/reactor/events/26920/) | April 22, 2026 | Virtual | Workshop | Hands-on session building an AI agent platform in .NET 10 with tool orchestration and security guardrails |
+| [Azure Decoded: Policies and Alerts for Microsoft Foundry](https://developer.microsoft.com/en-us/reactor/events/26890/) | April 22, 2026 | Virtual | Livestream | Configure guardrails, content filters, and security alerts for AI workloads in Microsoft Foundry |
+| [From Chaos to Control: Gateway API for AI on AKS](https://developer.microsoft.com/en-us/reactor/events/26838/) | April 23, 2026 | Virtual | Livestream | Orchestrate intelligent traffic management and load balancing for AI apps on Azure Kubernetes Service |
+| [GitHub Copilot CLI Hands-On: Using MCP to Connect to External Systems](https://developer.microsoft.com/en-us/reactor/events/26905/) | April 23, 2026 | Virtual | Workshop | Learn to connect GitHub Copilot CLI to databases, APIs, and GitHub using Model Context Protocol servers |
+| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Summit | Discover how organizations reduce complexity and implement AI solutions to accelerate cloud migration |
+| [Microsoft Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Summit | Explore how agentic AI continues to empower people with disabilities at the frontier of accessibility |
+| [Microsoft Azure Infra Summit 2026](https://developer.microsoft.com/en-us/reactor/events/26895/) | May 19–21, 2026 | Virtual | Conference | Free engineering-led conference (300–400 level) on building, operating, and optimizing Azure infrastructure |
+| [Agentic DevOps with SpecKit: Turn Specs into CI/CD Using GitHub Actions](https://developer.microsoft.com/en-us/reactor/events/26936/) | May 20, 2026 | Virtual | Livestream | Apply agentic AI patterns to DevOps workflows, turning specifications into intelligent CI/CD pipelines |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and real systems with Microsoft engineering teams building and scaling AI in San Francisco and online |
 
 <!-- EVENTS_END -->
 
