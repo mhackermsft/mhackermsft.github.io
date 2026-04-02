@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 1, 2026*
+*Last updated: April 2, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft JDConf 2026 (Americas)](https://developer.microsoft.com/en-us/reactor/events/26618/) | April 8, 2026 | Virtual | Conference | Global Java developer conference covering AI-native Java, app modernization, and agentic workflows on Azure |
-| [OpenClawNet — Tools + Agent Workflows in .NET 10](https://developer.microsoft.com/en-us/reactor/events/26920/) | April 22, 2026 | Virtual | Workshop | Hands-on session building an AI agent platform in .NET 10 with tool orchestration and security guardrails |
-| [Azure Decoded: Policies and Alerts for Microsoft Foundry](https://developer.microsoft.com/en-us/reactor/events/26890/) | April 22, 2026 | Virtual | Livestream | Configure guardrails, content filters, and security alerts for AI workloads in Microsoft Foundry |
-| [From Chaos to Control: Gateway API for AI on AKS](https://developer.microsoft.com/en-us/reactor/events/26838/) | April 23, 2026 | Virtual | Livestream | Orchestrate intelligent traffic management and load balancing for AI apps on Azure Kubernetes Service |
-| [GitHub Copilot CLI Hands-On: Using MCP to Connect to External Systems](https://developer.microsoft.com/en-us/reactor/events/26905/) | April 23, 2026 | Virtual | Workshop | Learn to connect GitHub Copilot CLI to databases, APIs, and GitHub using Model Context Protocol servers |
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Summit | Discover how organizations reduce complexity and implement AI solutions to accelerate cloud migration |
-| [Microsoft Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Summit | Explore how agentic AI continues to empower people with disabilities at the frontier of accessibility |
-| [Microsoft Azure Infra Summit 2026](https://developer.microsoft.com/en-us/reactor/events/26895/) | May 19–21, 2026 | Virtual | Conference | Free engineering-led conference (300–400 level) on building, operating, and optimizing Azure infrastructure |
-| [Agentic DevOps with SpecKit: Turn Specs into CI/CD Using GitHub Actions](https://developer.microsoft.com/en-us/reactor/events/26936/) | May 20, 2026 | Virtual | Livestream | Apply agentic AI patterns to DevOps workflows, turning specifications into intelligent CI/CD pipelines |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and real systems with Microsoft engineering teams building and scaling AI in San Francisco and online |
+| [Model Mondays - Unlocking Enterprise Value with Cohere + GitHub Agentic Workflows](https://developer.microsoft.com/reactor/events/26836) | April 6, 2026 | Virtual | Developer Series | Cohere showcases enterprise AI models and Peli de Halleux demos GitHub Agentic Workflows for automating tasks with AI agents. |
+| [Code to Cloud: Fast-Track Delivery with GitHub Copilot and Azure](https://developer.microsoft.com/reactor/events/26784) | April 7, 2026 | Virtual | Webinar | Real-world demos showing how GitHub Copilot AI agents automate planning, coding, and deployment to Azure. |
+| [Microsoft JDConf 2026 (Americas)](https://developer.microsoft.com/reactor/events/26618) | April 8, 2026 | Virtual | Conference | Global virtual Java conference covering AI-native Java, app modernization, agentic architectures, and Azure OpenAI integration. |
+| [Build Enterprise Worthy LLM Inference with Open Source and Kubernetes](https://developer.microsoft.com/reactor/events/26861) | April 15, 2026 | Virtual | Webinar | Learn how NVIDIA Dynamo and Azure Kubernetes Service deliver enterprise-grade LLM inference performance at scale. |
+| [Azure Decoded: Vibe Coding on Azure Cosmos DB — Build an AI App](https://developer.microsoft.com/reactor/events/26885) | April 15, 2026 | Virtual | Developer Series | Live end-to-end build using the Azure Cosmos DB Agent Kit with GitHub Copilot for agent-assisted database development. |
+| [GitHub Copilot CLI Hands-On: Development Workflows and Specialized AI Assistants](https://developer.microsoft.com/reactor/events/26897) | April 16, 2026 | Virtual | Workshop | Hands-on session applying GitHub Copilot CLI for code review, refactoring, debugging, and building custom AI agents. |
+| [Ask the Expert: Fabric Edition — Introducing dbt job in Microsoft Fabric](https://developer.microsoft.com/reactor/events/26844) | April 21, 2026 | Virtual | Livestream | Live Q&A with Microsoft product engineering on the new dbt job capability for clean, repeatable SQL transformations in Fabric. |
+| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Summit | Discover how organizations reduce complexity and implement AI solutions with new product announcements and real-world customer examples. |
+| [The Integration Blueprint: Choosing the Right Path in Microsoft Fabric](https://developer.microsoft.com/reactor/events/26873) | April 29, 2026 | Virtual | Workshop | Demo-driven session on data integration patterns across Lakehouse, Data Warehouse, Eventhouse, and SQL Database in Fabric. |
+| [Microsoft Build 2026](https://build.microsoft.com/home) | June 2–3, 2026 | Hybrid | Conference | Microsoft's flagship developer conference with hands-on sessions on agent orchestration, multi-model training, and cloud-native development. |
 
 <!-- EVENTS_END -->
 

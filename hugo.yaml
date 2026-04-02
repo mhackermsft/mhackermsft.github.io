@@ -124,6 +124,14 @@ params:
   comments:
     enabled: false
 
+  favicon: "img/avatar.svg"
+
+  opengraph:
+    defaultImage: "img/social-share.png"
+    twitter:
+      site: ""
+      card: "summary_large_image"
+
   cookies:
     enabled: false
 
