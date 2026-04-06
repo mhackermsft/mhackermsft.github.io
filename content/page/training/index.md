@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 3, 2026*
+*Last updated: April 6, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Model Mondays - Unlocking Enterprise Value with Cohere + GitHub Agentic Workflows](https://developer.microsoft.com/en-us/reactor/events/26836/) | April 6, 2026 | Virtual | Livestream | Partner spotlight on how Cohere AI models accelerate decision-making and drive enterprise value with GitHub agentic workflows. |
-| [Code to Cloud: Fast-Track Delivery with GitHub Copilot and Azure](https://developer.microsoft.com/en-us/reactor/events/26784/) | April 7, 2026 | Virtual | Livestream | Real-world demos showing how Copilot AI agents automate planning, coding, and deployment from first commit to live operations on Azure. |
-| [AI Builders Episode 9: Designing Human-AI Interfaces and Experiences](https://msevents.microsoft.com/event?id=2207563964) | April 7, 2026 | Virtual | Webinar | Explores how developers can design interfaces and workflows where humans and AI work together effectively. |
-| [Microsoft Azure Virtual Training Day: Data Fundamentals](https://msevents.microsoft.com/event?id=1024936665) | April 7–8, 2026 | Virtual | Training Day | Explore core data concepts, Azure cloud data services, and platforms like Azure Databricks, Microsoft Fabric, and OneLake for unified analytics. |
-| [Microsoft JDConf 2026 (Americas)](https://developer.microsoft.com/en-us/reactor/events/26618/) | April 8, 2026 | Virtual | Conference | Global Java developer conference covering AI-native Java, agentic architectures, app modernization, Azure OpenAI, and MCP integrations. |
-| [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft Defender for Cloud](https://msevents.microsoft.com/event?id=2193302778) | April 8–9, 2026 | Virtual | Training Day | Learn to apply unified security measures across cloud apps and deploy a cloud-native application protection platform (CNAPP) strategy. |
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Summit | Accelerate cloud adoption with agentic AI — covering Azure SQL modernization, database migration, and AI-driven app modernization at scale. |
-| [Microsoft AI Tour - Atlanta](https://aitour.microsoft.com/flow/microsoft/atlanta26/landingpage/page/cityhome) | April 29, 2026 | In-Person | Conference | Free one-day event with hands-on labs, keynotes, and expert sessions on Microsoft Foundry, Copilot, and enterprise AI transformation. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Microsoft's flagship developer conference in San Francisco and online — deep dives on AI systems, agent architectures, and hands-on labs. |
-| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 17–20, 2026 | Hybrid | Conference | Microsoft's premier enterprise tech event at Moscone Center, San Francisco — AI innovations, cloud infrastructure, security, and more. |
+| [Discovery Hour: Innovate with Azure AI Apps and Agents](https://msevents.microsoft.com/event?id=1580505024) | April 9, 2026 | Virtual | Webinar | Hands-on exploration of building intelligent apps and agents with Azure AI services |
+| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://msevents.microsoft.com/event?id=1975522568) | April 13–14, 2026 | Virtual | Training Day | Learn to build and deploy custom AI agents in Microsoft Copilot Studio to automate workflows and streamline processes |
+| [Microsoft Virtual Briefing: Building High-Performance Apps with Azure Cosmos DB](https://msevents.microsoft.com/event?id=3426078903) | April 14, 2026 | Virtual | Briefing | How Cosmos DB enables rapid development of AI-powered apps and agents with seamless scalability and built-in AI capabilities |
+| [Microsoft Virtual Training Day: Develop Generative AI Apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=2310525966) | April 16–17, 2026 | Virtual | Training Day | Discover how to use Azure AI Foundry to build a customized agent that uses language models for intelligent conversations |
+| [AI Builders Episode 10: AI Systems Integration — From Isolated Models to Enterprise](https://msevents.microsoft.com/event?id=1420675739) | April 21, 2026 | Virtual | Livestream | Practical guidance on integrating AI into existing enterprise platforms, services, and workflows |
+| [Tech Brief: Powering AI Apps and Agents at Scale on Azure App Platform](https://msevents.microsoft.com/event?id=3470704805) | April 21, 2026 | Virtual | Tech Brief | Explore how Azure helps you build, deploy, and scale AI-powered apps and agents on Container Apps and App Service |
+| [Tech Brief: Agentic DevOps with GitHub Copilot](https://msevents.microsoft.com/event?id=1465492500) | April 28, 2026 | Virtual | Tech Brief | Building intelligent applications with a seamless, adaptive development lifecycle powered by GitHub Copilot agents |
+| [Microsoft AI Tour Atlanta](https://aitour.microsoft.com/flow/microsoft/atlanta26/landingpage/page/cityhome) | April 29, 2026 | In-Person | Conference | Free one-day event with hands-on AI labs, keynotes, and sessions on Microsoft Foundry, Copilot, and Azure AI |
+| [Microsoft AI Tour Houston](https://aitour.microsoft.com/flow/microsoft/houston26/landingpage/page/cityhome) | May 28, 2026 | In-Person | Conference | Free one-day immersive experience covering AI transformation, security, and cloud innovation for decision-makers and developers |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and real systems with the teams building and scaling AI at Microsoft — San Francisco and online |
 
 <!-- EVENTS_END -->
 
