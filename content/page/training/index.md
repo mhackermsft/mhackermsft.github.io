@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 9, 2026*
+*Last updated: April 10, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Model Mondays - Building Microsoft Foundry Agents Within VS Code](https://developer.microsoft.com/en-us/reactor/events/26980/) | April 13, 2026 | Virtual | Livestream | Build agentic AI solutions with Microsoft Foundry tools and GitHub Copilot integration in VS Code |
-| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://msevents.microsoft.com/event?id=1975522568) | April 13, 2026 | Virtual | Training Day | Free instructor-led training on building and deploying custom AI agents to automate workflows |
-| [Microsoft Azure Virtual Training Day: Migrate and Secure Windows Server and SQL Server](https://msevents.microsoft.com/event?id=1188198881) | April 13–14, 2026 | Virtual | Training Day | Strategies to protect Azure IaaS and Azure SQL workloads with cloud migration best practices |
-| [GitHub Copilot CLI Hands-On: First Steps, Context, and Conversations](https://developer.microsoft.com/en-us/reactor/events/26913/) | April 14, 2026 | Virtual | Workshop | Hands-on series teaching GitHub Copilot CLI fundamentals, interaction modes, and multi-file context |
-| [The Future of AI in Microsoft Fabric: Data Agents and Beyond](https://developer.microsoft.com/en-us/reactor/events/26967/) | April 14, 2026 | Virtual | Livestream | FabCon & SQLCon recap on Fabric Data Agents, AI-powered data engineering, and data science capabilities |
-| [Fabric Analyst in a Day](https://msevents.microsoft.com/event?id=2950348835) | April 14, 2026 | Virtual | Workshop | Hands-on training for Power BI analysts on Microsoft Fabric data consolidation and insights |
-| [Microsoft Virtual Briefing: Modern Cybersecurity Unlocked](https://msevents.microsoft.com/event?id=3924115304) | April 14, 2026 | Virtual | Webinar | Roadmap to modern cybersecurity maximizing built-in Microsoft 365 security protections |
-| [Microsoft AI Tour – Atlanta](https://aitour.microsoft.com/flow/microsoft/atlanta26/landingpage/page/cityhome) | April 29, 2026 | In-person | Conference | Free one-day event on AI transformation with hands-on labs, expert sessions, and networking |
-| [Microsoft AI Tour – Houston](https://aitour.microsoft.com/flow/microsoft/houston26/landingpage/page/cityhome) | May 28, 2026 | In-person | Conference | Free one-day event exploring cutting-edge AI for business transformation and innovation |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Deep-dive into real code and systems with Microsoft engineering teams in San Francisco and online |
+| [Microsoft Virtual Training Day: Transform your Everyday Business Processes with Agents](https://msevents.microsoft.com/event?id=2248821581) | April 13, 2026 | Virtual | Training Day | Explore real-world use cases for AI agents to automate workflows, provide contextual support, and guide people through complex tasks |
+| [Microsoft Azure Virtual Training Day: Migrate and Secure Windows Server and SQL Server](https://msevents.microsoft.com/event?id=1188198881) | April 13–14, 2026 | Virtual | Training Day | Strategies to protect Azure IaaS and Azure SQL workloads, improve security posture, and migrate to the cloud |
+| [The Future of AI in Microsoft Fabric: Data Agents and Beyond](https://developer.microsoft.com/en-us/reactor/events/26967/) | April 14, 2026 | Virtual | Livestream | FabCon & SQLCon Recap on how Fabric brings AI to your data using interoperable Data Agents across the AI ecosystem |
+| [Build Enterprise Worthy LLM Inference with Open Source and Kubernetes](https://developer.microsoft.com/en-us/reactor/events/26859/) | April 14, 2026 | Virtual | Livestream | How NVIDIA Dynamo and Azure Kubernetes Service solve multi-node LLM inference challenges at enterprise scale |
+| [Technical Workshop: Implement a Lakehouse with Microsoft Databricks](https://msevents.microsoft.com/event?id=3674035426) | April 15, 2026 | Virtual | Workshop | Free hands-on workshop for data engineers and architects to build a lakehouse solution using Azure Databricks |
+| [Microsoft 365 Copilot Training: Get Started with Microsoft 365 Copilot and Agents](https://msevents.microsoft.com/event?id=13742475) | April 15–16, 2026 | Virtual | Webinar | Learn to build, use, and share AI agents using Microsoft 365 Copilot Chat and SharePoint to automate business tasks |
+| [Microsoft AI Tour – Atlanta](https://aitour.microsoft.com/flow/microsoft/atlanta26/landingpage/page/cityhome) | April 29, 2026 | In-person | Conference | Free one-day event on AI transformation with hands-on labs, expert-led sessions, and Microsoft Copilot experiences |
+| [Microsoft AI Tour – Houston](https://aitour.microsoft.com/flow/microsoft/houston26/landingpage/page/cityhome) | May 28, 2026 | In-person | Conference | Free one-day event featuring AI keynotes, hands-on workshops with Azure AI Foundry and Copilot, and networking |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and AI systems with hands-on sessions, demos, and labs in San Francisco and online |
+| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 17–20, 2026 | In-person | Conference | Microsoft's premier IT conference covering AI, security, infrastructure, and cloud platform in San Francisco |
 
 <!-- EVENTS_END -->
 
