@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 13, 2026*
+*Last updated: April 14, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Virtual Training Day: Develop Generative AI Apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=2310525966) | April 16–17, 2026 | Virtual | Training Day | Free instructor-led training on building and deploying generative AI apps using Azure AI Foundry and language models |
-| [Secure AI-Powered Productivity with Microsoft 365 Copilot and Purview](https://msevents.microsoft.com/event?id=461815851) | April 16, 2026 | Virtual | Webinar | Learn to protect sensitive data and ensure compliance in AI-driven environments with Copilot and Purview |
-| [Microsoft Virtual Training Day: Introduction to Microsoft Security](https://msevents.microsoft.com/event?id=287818182) | April 20–21, 2026 | Virtual | Training Day | Free training on security, compliance, and identity solutions across the Microsoft Cloud with certification exam discount |
-| [M365 Community Conference 2026](https://www.microsoft.com/en-us/events/category/industry-events) | April 21–23, 2026 | In-person | Conference | Connect with Microsoft executives, MVPs, and product makers in Orlando to accelerate AI transformation with Microsoft 365 and Copilot |
-| [SQL Bits 2026](https://www.microsoft.com/en-us/events/category/industry-events) | April 22–26, 2026 | In-person | Conference | Deep technical content covering SQL Server, Azure SQL, AI, and Microsoft Fabric in London |
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events/launch-events/migrate-and-modernize-summit) | April 23, 2026 | Virtual | Summit | Accelerate app and database modernization with AI agents, Azure SQL migration tools, and agentic developer tooling |
-| [Microsoft AI Tour Atlanta](https://aitour.microsoft.com/flow/microsoft/atlanta26/landingpage/page/cityhome) | April 29, 2026 | In-person | Conference | Full-day AI innovation event with keynotes, live demos, and expert-led breakout sessions at Georgia International Convention Center |
-| [Microsoft AI Tour Houston](https://aitour.microsoft.com/flow/microsoft/houston26/landingpage/page/cityhome) | May 28, 2026 | In-person | Conference | Experience the latest in AI innovation from Microsoft leaders with hands-on sessions and networking |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Microsoft's premier developer conference in San Francisco and online — deep dives into AI, agents, GitHub Copilot, and Azure |
-| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 17–20, 2026 | In-person | Conference | Microsoft's flagship IT and enterprise event at San Francisco Moscone Center covering AI, security, infrastructure, and Copilot |
+| [Microsoft Virtual Training Day: Develop Generative AI Apps with Azure AI Foundry](https://www.microsoft.com/en-us/trainingdays) | April 19–21, 2026 | Virtual | Training Day | Discover how to use Azure AI Foundry to build a customized agent that uses language models for intelligent conversations. |
+| [Model Mondays: Building Microsoft Foundry Agents Within VS Code](https://developer.microsoft.com/en-us/reactor/events/26980/) | April 20, 2026 | Virtual | Livestream | Learn what's new for building Foundry Agents with VS Code and GitHub Copilot, including the new Foundry Skills preview. |
+| [Better Together: Analytics Engineering with dbt and Microsoft Fabric](https://developer.microsoft.com/en-us/reactor/events/26844/) | April 21, 2026 | Virtual | Livestream | Explore why dbt and Microsoft Fabric are the ideal stack for analytics engineering with live demos and best practices. |
+| [OpenClawNet – Tools + Agent Workflows](https://developer.microsoft.com/en-us/reactor/events/26920/) | April 22, 2026 | Virtual | Workshop | Build a .NET 10 AI agent with tool-calling, security guardrails, and multi-step reasoning using Blazor, SignalR, and Aspire. |
+| [Microsoft Azure Virtual Training Day: Migrate and Secure Windows Server and SQL Server](https://www.microsoft.com/en-us/trainingdays) | April 23–24, 2026 | Virtual | Training Day | Learn strategies to protect Azure IaaS and Azure SQL workloads, improve security posture, and plan scalable cloud migrations. |
+| [Azure Cosmos DB Conf 2026](https://developer.microsoft.com/en-us/reactor/events/26687/) | April 28, 2026 | Virtual | Conference | Free virtual developer event covering why Azure Cosmos DB is the leading database platform for AI and modern app development. |
+| [Microsoft AI Tour – Atlanta](https://aitour.microsoft.com/flow/microsoft/atlanta26/landingpage/page/cityhome) | April 29, 2026 | In-person | Conference | Free one-day event to learn from AI experts, get hands-on with cutting-edge Microsoft AI, and drive AI transformation. |
+| [Microsoft AI Tour – Houston](https://aitour.microsoft.com/flow/microsoft/houston26/landingpage/page/cityhome) | May 28, 2026 | In-person | Conference | Free one-day immersive experience with live demos, expert-led sessions, and hands-on labs using Microsoft Foundry and Copilot. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and real systems with hands-on sessions on AI agents, multi-model workflows, and developer tools in San Francisco and online. |
+| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 17–20, 2026 | In-person | Conference | Microsoft's flagship technology conference at Moscone Center, San Francisco, covering AI, security, cloud infrastructure, and more. |
 
 <!-- EVENTS_END -->
 
