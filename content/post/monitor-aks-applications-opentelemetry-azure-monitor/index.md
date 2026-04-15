@@ -11,6 +11,7 @@ categories:
 summary: Walk through the new public preview that brings OpenTelemetry-based autoinstrumentation to AKS, covering setup, configuration, and observability best practices for government container workloads.
 draft: false
 image_prompt: A dramatic low-angle shot of a weathered stone lighthouse on a rocky cliff at dusk, its powerful beam cutting through dense fog to illuminate a harbor filled with neatly stacked shipping containers in deep teals and rusted oranges. Thin golden light trails arc from the lighthouse beam down to individual containers, as if tracing connections between them. The moody sky glows with deep purple and amber tones reflected on wet rocks below. No text, letters, numbers, or writing anywhere in the image.
+image: cover.png
 audio: audio.mp3
 ---
 
