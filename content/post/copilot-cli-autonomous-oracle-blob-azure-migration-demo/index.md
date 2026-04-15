@@ -191,7 +191,7 @@ See the full demo in action — from the initial prompt to completed migration w
 
 ### Demo Materials
 
-- [Copilot Instructions File](CopilotDemoInstructions.md) — The step-by-step playbook Copilot CLI followed autonomously
+- [Copilot Instructions File](CopilotDemoInstructions.txt) — The step-by-step playbook Copilot CLI followed autonomously
 - [Database Schema Image](SafeTrackSchema.png) — The Oracle `SAFETRACK_DOCUMENTS` table schema used as the starting point
 
 Government IT teams sitting on legacy Oracle document stores now have a concrete path forward, and an AI-powered assistant that can help execute it.
