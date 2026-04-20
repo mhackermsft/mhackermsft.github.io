@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 16, 2026*
+*Last updated: April 20, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Virtual Training Day: Develop Generative AI Apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=1102114684) | April 19–21, 2026 | Virtual | Training Day | Build a customized agent using Azure AI Foundry with language models for intelligent conversations |
-| [AI Builders Episode 10: AI Systems Integration: From Isolated Models to Enterprise](https://msevents.microsoft.com/event?id=1420675739) | April 21, 2026 | Virtual | Livestream | Practical strategies for integrating AI models into enterprise platforms, services, and workflows |
-| [Security Immersion Event: Into the Breach](https://msevents.microsoft.com/event?id=1447682655) | April 21, 2026 | Virtual | Workshop | Test your cybersecurity skills in a hands-on Microsoft Security simulation event |
-| [Tech Brief: Powering AI Apps and Agents at Scale on Azure App Platform](https://msevents.microsoft.com/event?id=3470704805) | April 21, 2026 | Virtual | Webinar | Explore how to build, deploy, and scale AI-powered apps and agents on Azure App Platform |
-| [Fabric Analyst in a Day](https://msevents.microsoft.com/event?id=3126716060) | April 21, 2026 | Virtual | Workshop | Hands-on Microsoft Fabric training for Power BI analysts on data consolidation and insights |
-| [Microsoft Discovery Hour: Build the Agentic Future — Modernize on Azure](https://msevents.microsoft.com/event?id=1026847757) | April 21–22, 2026 | Virtual | Webinar | Migrate and modernize your IT estate with Azure to prepare for the agentic AI era |
-| [Microsoft Virtual Training Day: Build Agentic AI Solutions with Azure AI Foundry](https://msevents.microsoft.com/event?id=2675542238) | April 22, 2026 | Virtual | Training Day | Advance AI agent development skills using Azure AI Foundry Agent Service and Semantic Kernel |
-| [Microsoft AI Tour Atlanta](https://aitour.microsoft.com/flow/microsoft/atlanta26/landingpage/page/cityhome) | April 29, 2026 | In-person | Conference | Free one-day event on AI transformation with hands-on workshops and expert-led sessions |
-| [Microsoft AI Tour Houston](https://aitour.microsoft.com/flow/microsoft/houston26/landingpage/page/cityhome) | May 28, 2026 | In-person | Conference | Hands-on experience with Microsoft AI technologies including Copilot and Azure AI Foundry |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and real systems with the teams building and scaling AI at Microsoft |
+| [Microsoft Virtual Training Day: Build Agentic AI Solutions with Azure AI Foundry](https://msevents.microsoft.com/event?id=795284837) | April 23–24, 2026 | Virtual | Training Day | Advance AI agent development skills using Azure AI Foundry Agent Service and the Semantic Kernel Agent Framework |
+| [Microsoft Azure Virtual Training Day: Migrate and Secure Windows Server and SQL Server](https://msevents.microsoft.com/event?id=1142853351) | April 23–24, 2026 | Virtual | Training Day | Strategies to protect Azure IaaS and Azure SQL workloads with best practices for scalable cloud migration |
+| [Get Certified: Fabric Analytics Engineer (DP-600 Accelerated)](https://developer.microsoft.com/en-us/reactor/events/26973/) | April 23, 2026 | Virtual | Webinar | Exam prep walkthrough covering key differences between PL-300 and DP-600 with practical Fabric certification study tips |
+| [Evaluation-Driven Development: Turning AI Demos into Real Products](https://developer.microsoft.com/en-us/reactor/events/26903/) | April 27, 2026 | Virtual | Livestream | Use Microsoft.Extensions.AI.Evaluation libraries to measure and scale .NET generative AI and agentic applications |
+| [Host your agents on Foundry: Microsoft Agent Framework](https://developer.microsoft.com/en-us/reactor/events/26932/) | April 27, 2026 | Virtual | Workshop | Deploy agents built with Microsoft Agent Framework on Foundry with Code Interpreter, IQ grounding, and multi-agent workflows |
+| [Azure Cosmos DB Conf 2026](https://developer.microsoft.com/en-us/reactor/events/26687/) | April 28, 2026 | Virtual | Conference | Free annual developer conference for Azure Cosmos DB covering AI-powered modern app development and DocumentDB |
+| [Power BI Roadmap: Strategy, Vision and Demos](https://developer.microsoft.com/en-us/reactor/events/26970/) | April 28, 2026 | Virtual | Livestream | FabCon/SQLCon recap covering Power BI enterprise analytics at scale in Microsoft Fabric with upcoming feature previews |
+| [Microsoft AI Tour – Atlanta](https://aitour.microsoft.com/en-us/) | April 29, 2026 | In-person | Conference | Free one-day event with hands-on AI labs, expert sessions, and demos using Microsoft Foundry and Copilot |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Microsoft's flagship developer conference with hands-on sessions on AI agents, multi-model workflows, and cloud platform |
+| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 17–20, 2026 | Hybrid | Conference | Enterprise technology conference covering Azure, AI, security, and infrastructure at San Francisco Moscone Center |
 
 <!-- EVENTS_END -->
 
