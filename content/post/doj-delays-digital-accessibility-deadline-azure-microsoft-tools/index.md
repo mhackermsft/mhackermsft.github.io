@@ -53,23 +53,36 @@ The [ADA.gov fact sheet on the web accessibility rule](https://www.ada.gov/resou
 
 The extended deadline is an opportunity to invest in the right tooling and processes. Microsoft offers a comprehensive set of tools across the development lifecycle that directly support WCAG 2.1 Level AA compliance.
 
-### Accessibility Insights: Automated and Guided Testing
+### GitHub Accessibility Scanner: AI-Powered Scanning and Remediation
 
-[Accessibility Insights](https://accessibilityinsights.io/) is a free, open-source suite of tools from Microsoft for testing web and Windows application accessibility. It is the single most important tool for government development teams working toward WCAG compliance.
+The [GitHub Accessibility Scanner](https://github.com/marketplace/actions/accessibility-scanner) is an AI-powered GitHub Action from GitHub that detects accessibility barriers across your websites, automatically creates trackable GitHub Issues for each finding, and leverages GitHub Copilot to propose fixes via pull requests. For government development teams working toward WCAG compliance, this is the most impactful tool you can add to your CI/CD pipeline.
 
-- **FastPass** catches the most common high-impact accessibility issues in under five minutes. This is ideal for integrating into developer workflows and pull request reviews.
-- **Assessment mode** provides a guided, step-by-step evaluation against all WCAG 2.1 AA success criteria, producing a detailed compliance report.
-- **Visual helpers** highlight issues directly on the page, making it easy for developers to see exactly where contrast ratios, tab order, or heading structure need attention.
+- **Automated scanning** runs axe-core and additional plugins against your live URLs, catching WCAG violations across your entire site without manual testing.
+- **Issue tracking** automatically files a GitHub Issue for each accessibility finding, giving your team a clear remediation backlog with full context.
+- **AI-powered fixes** assign issues to GitHub Copilot, which can open pull requests with proposed code changes that your team reviews before merging, dramatically accelerating the remediation cycle.
+- **Reflow scanning** detects issues with content reflow at different viewport sizes, addressing WCAG 2.1 success criteria around responsive design (Success Criterion 1.4.10).
 
-For teams building CI/CD pipelines, you can integrate automated accessibility checks using tools like [axe-core](https://github.com/dequelabs/axe-core) (the engine behind Accessibility Insights) in your Azure DevOps or GitHub Actions workflows:
+Setting up the scanner in your repository is straightforward:
 
 ```yaml
-# Example GitHub Actions step for automated accessibility testing
-- name: Run accessibility tests
-  run: |
-    npm install @axe-core/cli
-    npx axe https://your-government-site.gov --tags wcag2a,wcag2aa --exit
+# Example GitHub Actions workflow for the Accessibility Scanner
+name: Accessibility Scanner
+on: workflow_dispatch
+
+jobs:
+  accessibility_scanner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: github/accessibility-scanner@v3
+        with:
+          urls: |
+            https://your-government-site.gov
+          repository: your-org/your-repo
+          token: ${{ secrets.GH_TOKEN }}
+          cache_key: a11y-scan-gov-site
 ```
+
+The scanner requires a fine-grained Personal Access Token with write access to actions, contents, issues, and pull requests. It supports authenticated scanning for sites behind login pages, screenshot capture for visual context in filed issues, and grouped tracking issues that organize findings by violation type. For government teams managing multiple web properties, you can configure separate workflows per site and use the `cache_key` parameter to track results independently across runs.
 
 ### Azure AI Speech Service: Captioning and Audio Accessibility
 
