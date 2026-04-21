@@ -17,20 +17,14 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 20, 2026*
+*Last updated: April 21, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Virtual Training Day: Build Agentic AI Solutions with Azure AI Foundry](https://msevents.microsoft.com/event?id=795284837) | April 23–24, 2026 | Virtual | Training Day | Advance AI agent development skills using Azure AI Foundry Agent Service and the Semantic Kernel Agent Framework |
-| [Microsoft Azure Virtual Training Day: Migrate and Secure Windows Server and SQL Server](https://msevents.microsoft.com/event?id=1142853351) | April 23–24, 2026 | Virtual | Training Day | Strategies to protect Azure IaaS and Azure SQL workloads with best practices for scalable cloud migration |
-| [Get Certified: Fabric Analytics Engineer (DP-600 Accelerated)](https://developer.microsoft.com/en-us/reactor/events/26973/) | April 23, 2026 | Virtual | Webinar | Exam prep walkthrough covering key differences between PL-300 and DP-600 with practical Fabric certification study tips |
-| [Evaluation-Driven Development: Turning AI Demos into Real Products](https://developer.microsoft.com/en-us/reactor/events/26903/) | April 27, 2026 | Virtual | Livestream | Use Microsoft.Extensions.AI.Evaluation libraries to measure and scale .NET generative AI and agentic applications |
-| [Host your agents on Foundry: Microsoft Agent Framework](https://developer.microsoft.com/en-us/reactor/events/26932/) | April 27, 2026 | Virtual | Workshop | Deploy agents built with Microsoft Agent Framework on Foundry with Code Interpreter, IQ grounding, and multi-agent workflows |
-| [Azure Cosmos DB Conf 2026](https://developer.microsoft.com/en-us/reactor/events/26687/) | April 28, 2026 | Virtual | Conference | Free annual developer conference for Azure Cosmos DB covering AI-powered modern app development and DocumentDB |
-| [Power BI Roadmap: Strategy, Vision and Demos](https://developer.microsoft.com/en-us/reactor/events/26970/) | April 28, 2026 | Virtual | Livestream | FabCon/SQLCon recap covering Power BI enterprise analytics at scale in Microsoft Fabric with upcoming feature previews |
-| [Microsoft AI Tour – Atlanta](https://aitour.microsoft.com/en-us/) | April 29, 2026 | In-person | Conference | Free one-day event with hands-on AI labs, expert sessions, and demos using Microsoft Foundry and Copilot |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Microsoft's flagship developer conference with hands-on sessions on AI agents, multi-model workflows, and cloud platform |
-| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 17–20, 2026 | Hybrid | Conference | Enterprise technology conference covering Azure, AI, security, and infrastructure at San Francisco Moscone Center |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In person & Online | Conference | Be on the frontier of accessibility with AI; discover how agentic AI empowers people with disabilities. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In person (San Francisco) & Online | Conference | Go deep on real code and real systems — keynotes, sessions, and hands-on labs covering Azure, AI, developer tools, and .NET. |
+
+Only **2** events in the pre-fetched content meet all criteria (concrete date ≥ 2026-04-24, relevant topics). The remaining listed events either fall within the 3-day exclusion window, have vague/multiple dates, or are off-topic. To reach 10, additional source pages (e.g., Virtual Training Days catalog, AI Tour stop pages, Reactor event listings) would need to be fetched.
 
 <!-- EVENTS_END -->
 
