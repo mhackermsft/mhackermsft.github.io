@@ -17,14 +17,18 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 21, 2026*
+*Last updated: April 23, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In person & Online | Conference | Be on the frontier of accessibility with AI; discover how agentic AI empowers people with disabilities. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In person (San Francisco) & Online | Conference | Go deep on real code and real systems — keynotes, sessions, and hands-on labs covering Azure, AI, developer tools, and .NET. |
+| [Power Pages in a Day – Koenig Solutions](https://www.microsoft.com/en-us/events) | Apr 26–27, 2026 | Digital | Workshop | Learn to create secure, scalable websites with Power Pages using low-code tools and Dataverse |
+| [Evaluation-Driven Development: Turning AI Demos into Real Products](https://www.microsoft.com/en-us/events) | Apr 27, 2026 | Digital | Webinar | Guidance on moving generative AI POCs into production at scale with reliable, measurable results |
+| [Microsoft Virtual Training Day: Develop Generative AI Apps with Azure AI Foundry](https://www.microsoft.com/en-us/events) | Apr 27–28, 2026 | Digital | Virtual Training Day | Discover how to use Azure AI Foundry to build a customized agent that uses language models for intelligent conversations |
+| [Gartner Digital Workplace Summit UK](https://www.microsoft.com/en-us/events) | Apr 27–28, 2026 | In Person – London | Conference | Industry conference covering digital employee experience, leveraging GenAI, and improving technology adoption |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Explore how the next level of agentic AI continues to empower people with disabilities; join in person or online |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | Hybrid – San Francisco & Online | Conference | Go deep on real code and real systems — Microsoft's flagship developer conference covering AI, cloud, and developer tools |
 
-Only **2** events in the pre-fetched content meet all criteria (concrete date ≥ 2026-04-24, relevant topics). The remaining listed events either fall within the 3-day exclusion window, have vague/multiple dates, or are off-topic. To reach 10, additional source pages (e.g., Virtual Training Days catalog, AI Tour stop pages, Reactor event listings) would need to be fetched.
+> **Note:** Only 6 events with concrete dates ≥ Apr 26 were found in the source content. The Microsoft AI Tour and Microsoft Virtual Training Days series list multiple dates without specifics. Additional events may be available at [microsoft.com/events](https://www.microsoft.com/en-us/events).
 
 <!-- EVENTS_END -->
 
