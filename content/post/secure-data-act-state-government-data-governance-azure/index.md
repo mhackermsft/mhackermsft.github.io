@@ -47,9 +47,6 @@ A future-proof government data governance architecture on Azure consists of four
 
 Let's walk through each layer with concrete Azure tooling.
 
-image: cover.png
----
-
 ### Layer 1: Discover and Classify with Microsoft Purview Data Map
 
 You cannot protect data you cannot find. **Microsoft Purview Data Map** provides automated scanning across your Azure data estate - Azure Data Lake Storage, Azure SQL, Azure Synapse Analytics, on-premises SQL Server (via the self-hosted integration runtime), and even multi-cloud sources like AWS S3.
@@ -61,9 +58,6 @@ Once scanned, Purview's built-in **system classifications** automatically tag da
 The [**Unified Catalog**](https://learn.microsoft.com/en-us/purview/unified-catalog) then surfaces this metadata to data owners, stewards, and consumers through a searchable, business-context-aware interface. Data consumers can browse by governance domain, request access through a governed workflow, and understand data quality scores before using datasets in analytics or reporting.
 
 > **Note for GCC Tenant Customers:** Microsoft Purview Information Protection (sensitivity labels) is available in M365 GCC tenants. The broader Microsoft Purview governance platform (Data Map, Unified Catalog) operates as a SaaS service from Azure Commercial. Evaluate your data residency and sovereignty requirements before connecting Azure Government data sources to Purview Data Map, and consult the [Azure Government compliance documentation](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-plan-compliance) for current guidance.
-
-image: cover.png
----
 
 ### Layer 2: Protect and Encrypt - Keys, Labels, and Confidential Compute
 
@@ -99,9 +93,6 @@ resource kv 'Microsoft.KeyVault/vaults@2023-07-01' = {
 ```
 
 For workloads where data must be processed without being exposed - think processing sensitive tax or health data in a multi-tenant analytics pipeline - **Azure Confidential Computing** (Confidential VMs based on AMD SEV-SNP or Intel TDX) keeps data encrypted in memory using hardware-managed keys, invisible even to the hypervisor.
-
-image: cover.png
----
 
 ### Layer 3: Policy and Compliance Enforcement with Azure Policy
 
@@ -140,9 +131,6 @@ This policy rule prevents any storage account from being created without a `Data
 
 **Azure Policy's remediation tasks** can also auto-remediate existing non-compliant resources. For example, you can deploy a policy that automatically enables diagnostic logging to a Log Analytics workspace for any storage account that lacks it - closing the gap between policy intent and actual resource configuration without manual intervention.
 
-image: cover.png
----
-
 ### Layer 4: Access Governance and Data Lineage
 
 CIPSEA and the broader federal evidence-based policymaking framework place particular emphasis on **access controls and data stewardship** - who is authorized to access confidential statistical data, under what conditions, and with what accountability mechanisms. This is where data lineage and access governance capabilities in Purview close the loop.
@@ -174,9 +162,6 @@ One practical note for state government technology procurement teams: [**StateRA
 Data governance is not a one-time project - it is an operational discipline. The combination of evolving federal data sharing requirements under CIPSEA and the Evidence Act, active federal legislative proposals like the SECURE Data Act, state-level privacy law enforcement, and the growing reliance on data-driven policy decisions means that state and local governments need a platform that can evolve with the regulatory landscape. Azure's governance tooling - Purview, Policy, Defender for Cloud, Key Vault - provides a continuously updated, compliance-aligned foundation.
 
 Start with a data discovery scan using Microsoft Purview to understand what sensitive data you already hold and where it lives. Layer in Azure Policy initiatives aligned to your primary compliance frameworks. Build the access governance and lineage capabilities incrementally as your data governance maturity grows. The investment pays dividends not just in compliance posture, but in data quality, operational efficiency, and the trust of the constituents you serve.
-
-image: cover.png
----
 
 **Key Resources:**
 
