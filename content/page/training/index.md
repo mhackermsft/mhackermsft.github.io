@@ -17,17 +17,15 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 24, 2026*
+*Last updated: April 27, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Gartner Digital Workplace Summit UK](https://www.microsoft.com/en-us/events#upcomingevents) | Apr 27–28, 2026 | In Person | Conference | Helps digital workplace leaders leverage GenAI and improve technology adoption; Microsoft participating in London. |
-| [Microsoft Virtual Training Day: Develop Generative AI Apps with Azure AI Foundry](https://www.microsoft.com/en-us/events#upcomingevents) | Apr 27–28, 2026 | Digital | Virtual Training Day | Learn to use Azure AI Foundry to build customized agents that use language models for intelligent conversations. |
-| [Evaluation-Driven Development: Turning AI Demos into Real Products](https://www.microsoft.com/en-us/events#upcomingevents) | Apr 27, 2026 | Digital | Webinar | Learn how to move generative AI POCs into production at scale with evaluation-driven development practices. |
-| [Microsoft Virtual Training Day: Introduction to Microsoft Power Platform](https://www.microsoft.com/en-us/events#upcomingevents) | Apr 27–28, 2026 | Digital | Virtual Training Day | Explore how to streamline operations, automate workflows, and build secure low-code solutions with Power Platform and Copilot. |
-| [Host Your Agents on Foundry: Microsoft Agent Framework](https://www.microsoft.com/en-us/events#upcomingevents) | Apr 27, 2026 | Digital | Workshop Series | Part one of a three-part series on hosting agents with Microsoft Agent Framework (successor to AutoGen) on Azure AI Foundry. |
-| [Ability Summit](https://www.microsoft.com/en-us/events#upcomingevents) | May 19–20, 2026 | Hybrid | Conference | Explore how agentic AI continues to empower people with disabilities; in person and online. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | Hybrid | Conference | Deep-dive developer conference covering AI, Azure, .NET, Copilot, and cloud infrastructure in San Francisco and online. |
+| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | May 6, 2026 | Digital | Hackathon | Learn how to build AI agents at this virtual hackathon with guided learning and live expert support. |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In-person & Online | Conference | Explore the frontier of accessibility with agentic AI and discover how it empowers people with disabilities. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In-person (San Francisco) & Online | Conference | Go deep on real code and real systems — Microsoft's flagship developer conference covering AI, Azure, developer tools, and more. |
+
+Only 3 events with concrete dates ≥ 2026-04-30 were found in the provided page content. The remaining listings were either on-demand, dated today/tomorrow, or carried vague "Multiple" dates.
 
 <!-- EVENTS_END -->
 
