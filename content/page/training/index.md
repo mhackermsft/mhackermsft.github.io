@@ -17,15 +17,15 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 27, 2026*
+*Last updated: April 29, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | May 6, 2026 | Digital | Hackathon | Learn how to build AI agents at this virtual hackathon with guided learning and live expert support. |
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In-person & Online | Conference | Explore the frontier of accessibility with agentic AI and discover how it empowers people with disabilities. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In-person (San Francisco) & Online | Conference | Go deep on real code and real systems — Microsoft's flagship developer conference covering AI, Azure, developer tools, and more. |
+| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | May 6, 2026 | Virtual | Hackathon | Learn how to build AI agents with guided learning and live expert support at this global virtual event. |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Explore how agentic AI empowers people with disabilities — join in person or online at the frontier of accessibility with AI. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and real systems at Microsoft's flagship developer conference in San Francisco and online. |
 
-Only 3 events with concrete dates ≥ 2026-04-30 were found in the provided page content. The remaining listings were either on-demand, dated today/tomorrow, or carried vague "Multiple" dates.
+> **Note:** Only 3 events with concrete future dates (≥ May 2) and topic relevance were found in the provided page content. The remaining listings were either same-day (April 29), on-demand, or listed as "Multiple" dates without specifics.
 
 <!-- EVENTS_END -->
 
