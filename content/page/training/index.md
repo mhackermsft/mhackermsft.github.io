@@ -17,15 +17,19 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: April 29, 2026*
+*Last updated: April 30, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | May 6, 2026 | Virtual | Hackathon | Learn how to build AI agents with guided learning and live expert support at this global virtual event. |
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Explore how agentic AI empowers people with disabilities — join in person or online at the frontier of accessibility with AI. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid | Conference | Go deep on real code and real systems at Microsoft's flagship developer conference in San Francisco and online. |
+| [Microsoft Virtual Training Day: Introduction to Microsoft Power Platform](https://www.microsoft.com/en-us/events) | May 3–5, 2026 | Digital | Virtual Training Day | Explore how to streamline operations, automate workflows, and build secure low-code solutions with Microsoft Power Platform. |
+| [Microsoft Virtual Training Day: Transform your Everyday Business Processes with Agents](https://www.microsoft.com/en-us/events) | May 4, 2026 | Digital | Virtual Training Day | Explore real-world use cases for AI agents to increase productivity by automating workflows, providing contextual support, and guiding people through complex tasks. |
+| [Microsoft 365 Copilot Training for Finance](https://www.microsoft.com/en-us/events) | May 4–5, 2026 | Digital | Training | Free Copilot training exploring fundamentals of using Copilot as an AI assistant to summarize data for financial insights and optimize processes. |
+| [Microsoft 365 Copilot Training for Operations](https://www.microsoft.com/en-us/events) | May 5, 2026 | Digital | Training | Free Copilot training exploring how Copilot enhances business operations and innovates with in-depth analysis as an AI assistant. |
+| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | May 6, 2026 | Digital | Hackathon | Learn how to build AI agents at this virtual hackathon with guided learning and live expert support. |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In-person & Online | Conference | Be on the frontier of accessibility with AI; discover how the next level of agentic AI continues to empower people with disabilities. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In-person (San Francisco) & Online | Conference | Microsoft's flagship developer conference — go deep on real code and real systems across AI, cloud, developer tools, and more. |
 
-> **Note:** Only 3 events with concrete future dates (≥ May 2) and topic relevance were found in the provided page content. The remaining listings were either same-day (April 29), on-demand, or listed as "Multiple" dates without specifics.
+Only 7 events with concrete dates ≥ May 3, 2026 were present in the pre-fetched content. The remaining catalog entries (AI Tour, Azure Summit, MVTD hub) had no specific dates and were excluded per the rules.
 
 <!-- EVENTS_END -->
 
