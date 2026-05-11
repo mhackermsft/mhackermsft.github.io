@@ -17,14 +17,14 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: May 5, 2026*
+*Last updated: May 11, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In person & online | Conference | Be on the frontier of accessibility with AI; discover how agentic AI empowers people with disabilities |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In person (San Francisco) & online | Conference | Go deep on real code and real systems — flagship developer event covering AI, Azure, .NET, developer tools, and more |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In person & Online | Conference | Be on the frontier of accessibility with AI. Discover how the next level of agentic AI continues to empower people with disabilities. |
+| [Microsoft Build](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | In person (San Francisco) & Online | Conference | Go deep on real code and real systems. Microsoft's flagship developer conference covering AI, Azure, developer tools, and cloud platform innovations. |
 
-Only 2 events with concrete dates ≥ May 8 and relevant topics were found in the provided page content. The remaining listed events either occur today/tomorrow (outside the 3-day window), have no specific date ("Multiple"), or are on-demand recordings. The source pages did not contain enough qualifying entries to reach 10.
+> **Note:** Only 2 events with concrete dates ≥ May 14 were found in the pre-fetched content. The remaining listings were either on-demand, had vague/multiple dates (AI Tour, Virtual Training Days, Agent-a-Thon), or fell within the 3-day exclusion window. To reach 10, additional source pages (e.g., specific MVTD schedules, AI Tour city stops, or Azure event catalogs) would need to be fetched.
 
 <!-- EVENTS_END -->
 
