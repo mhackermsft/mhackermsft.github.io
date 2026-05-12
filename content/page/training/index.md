@@ -17,14 +17,14 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: May 11, 2026*
+*Last updated: May 12, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In person & Online | Conference | Be on the frontier of accessibility with AI. Discover how the next level of agentic AI continues to empower people with disabilities. |
-| [Microsoft Build](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | In person (San Francisco) & Online | Conference | Go deep on real code and real systems. Microsoft's flagship developer conference covering AI, Azure, developer tools, and cloud platform innovations. |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Explore how agentic AI empowers people with disabilities at the frontier of accessibility |
+| [Microsoft Build](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid (San Francisco + Online) | Conference | Go deep on real code and real systems — AI, developer tools, cloud platform, and more |
 
-> **Note:** Only 2 events with concrete dates ≥ May 14 were found in the pre-fetched content. The remaining listings were either on-demand, had vague/multiple dates (AI Tour, Virtual Training Days, Agent-a-Thon), or fell within the 3-day exclusion window. To reach 10, additional source pages (e.g., specific MVTD schedules, AI Tour city stops, or Azure event catalogs) would need to be fetched.
+Only 2 events from the pre-fetched content have concrete dates starting at least 3 days from today. The remaining listed events are either on-demand, have "multiple" unspecified dates, or occur within the next 3 days. Unable to extract 10 qualifying events from the provided content.
 
 <!-- EVENTS_END -->
 
