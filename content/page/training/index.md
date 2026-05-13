@@ -17,14 +17,14 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: May 12, 2026*
+*Last updated: May 13, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Explore how agentic AI empowers people with disabilities at the frontier of accessibility |
-| [Microsoft Build](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Hybrid (San Francisco + Online) | Conference | Go deep on real code and real systems — AI, developer tools, cloud platform, and more |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In person & Online | Conference | Be on the frontier of accessibility with AI. Discover how the next level of agentic AI continues to empower people with disabilities. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | Online | Conference | Go deep on real code and real systems — covers AI, Azure, .NET, developer tools, Copilot, and more. Free registration. |
 
-Only 2 events from the pre-fetched content have concrete dates starting at least 3 days from today. The remaining listed events are either on-demand, have "multiple" unspecified dates, or occur within the next 3 days. Unable to extract 10 qualifying events from the provided content.
+> **Note:** The pre-fetched content only contained **2 events** with concrete dates starting ≥ May 16, 2026 and relevant to your topics. All other listed events were either today/tomorrow (within the 3-day exclusion window), on-demand recordings, or listed as "Multiple" dates without specifics. To reach 10 events I would need additional page content — for example, the full [Microsoft Virtual Training Days catalog](https://www.microsoft.com/en-us/trainingdays), the [AI Tour schedule](https://aitour.microsoft.com/en-us/), or the [Reactor events feed](https://developer.microsoft.com/en-us/reactor/) with actual event listings (the fetched Reactor page returned no individual events).
 
 <!-- EVENTS_END -->
 
