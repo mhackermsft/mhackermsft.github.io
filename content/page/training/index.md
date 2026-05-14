@@ -17,14 +17,18 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: May 13, 2026*
+*Last updated: May 14, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | In person & Online | Conference | Be on the frontier of accessibility with AI. Discover how the next level of agentic AI continues to empower people with disabilities. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | Online | Conference | Go deep on real code and real systems — covers AI, Azure, .NET, developer tools, Copilot, and more. Free registration. |
+| [Blue Yonder ICON (Flagship)](https://www.microsoft.com/en-us/events) | May 17–20, 2026 | In person | Conference | Industry conference bringing together supply chain minds from retail, manufacturing, and logistics in San Diego, CA |
+| [Microsoft Roundtable: Unlocking Business Value with Microsoft 365 Copilot](https://www.microsoft.com/en-us/events) | May 18, 2026 | In person | Roundtable | Executive roundtable on unlocking business value with Microsoft 365 Copilot and Copilot agents |
+| [Microsoft Virtual Training Day: Secure and Administer Microsoft 365 Copilot and Agents](https://www.microsoft.com/en-us/events) | May 18, 2026 | Digital | Virtual Training Day | Learn how to help protect and manage AI agents using Copilot Control System, grant permissions, and govern data to minimize loss |
+| [AVEVA World Milan](https://www.microsoft.com/en-us/events) | May 18–21, 2026 | In person | Conference | Industrial technology conference focused on designing facilities for sustainability and enabling faster operational decisions |
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Explore how agentic AI empowers people with disabilities; join in person or online at the frontier of accessibility with AI |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | Digital | Developer Conference | Go deep on real code and real systems — Microsoft's flagship developer event covering AI, Azure, developer tools, and cloud platform |
 
-> **Note:** The pre-fetched content only contained **2 events** with concrete dates starting ≥ May 16, 2026 and relevant to your topics. All other listed events were either today/tomorrow (within the 3-day exclusion window), on-demand recordings, or listed as "Multiple" dates without specifics. To reach 10 events I would need additional page content — for example, the full [Microsoft Virtual Training Days catalog](https://www.microsoft.com/en-us/trainingdays), the [AI Tour schedule](https://aitour.microsoft.com/en-us/), or the [Reactor events feed](https://developer.microsoft.com/en-us/reactor/) with actual event listings (the fetched Reactor page returned no individual events).
+Only 6 events with concrete dates (starting ≥ May 17) were found in the pre-fetched content. The remaining featured events (AI Tour, Virtual Training Days series, Agent-a-Thon) listed "Multiple" or "On demand" without specific dates and were excluded per the rules.
 
 <!-- EVENTS_END -->
 
