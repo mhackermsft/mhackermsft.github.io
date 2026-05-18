@@ -17,18 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: May 15, 2026*
+*Last updated: May 18, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [AI Agents That Don't Break Under Pressure](https://www.microsoft.com/en-us/events#upcomingevents) | May 18, 2026 | Digital | Webinar | Build durable, production-ready AI agents using the Microsoft Agent Framework on Azure Container Apps with NVIDIA |
-| [Microsoft Virtual Training Day: Secure and Administer Microsoft 365 Copilot and Agents](https://www.microsoft.com/en-us/events#upcomingevents) | May 18, 2026 | Digital | Virtual Training Day | Learn to protect and manage AI agents using Copilot Control System, permissions, and data governance tools |
-| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://www.microsoft.com/en-us/events#upcomingevents) | May 18–19, 2026 | Digital | Virtual Training Day | Build and deploy custom AI agents in Microsoft Copilot Studio to automate workflows and streamline processes |
-| [Microsoft Roundtable: Unlocking Business Value with Microsoft 365 Copilot](https://www.microsoft.com/en-us/events#upcomingevents) | May 18, 2026 | In Person | Roundtable | Explore how to unlock business value with Microsoft 365 Copilot and Copilot agents |
-| [Ability Summit](https://www.microsoft.com/en-us/events#upcomingevents) | May 19–20, 2026 | Hybrid | Conference | Discover how the next level of agentic AI continues to empower people with disabilities |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | Jun 2–3, 2026 | Digital | Conference | Go deep on real code and real systems — Microsoft's flagship developer event covering AI, cloud, and developer tools |
-
-Only 6 qualifying events were found in the pre-fetched content. The remaining sources (AI Tour, Ignite, Reactor) returned no concrete upcoming event listings.
+| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Frontier of accessibility with AI, exploring agentic AI to empower people with disabilities. |
+| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events) | On demand (available from May 21, 2026) | Digital | Summit | Reduce complexity and implement AI solutions efficiently with Azure product announcements and customer examples. |
+| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | On demand (available from May 21, 2026) | Digital | Hackathon | Build AI agents with guided learning and live expert support. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Digital | Conference | Microsoft's flagship developer conference covering real code and real systems across AI, Azure, and dev tools. |
+| [Microsoft AI Tour](https://aitour.microsoft.com/en-us/) | June 2026 (multiple stops) | In person | Tour | Free Microsoft AI Tour to learn, connect, and lead the future of AI innovation in your organization. |
+| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events) | June 2026 (recurring) | Digital | Virtual Training Day | Free Microsoft Learn training events to grow skills across Microsoft Cloud and AI technologies. |
+| [AI Builders Episode 13: Production-Ready Agent Patterns](https://developer.microsoft.com/en-us/reactor/) | June 9, 2026 | Digital | Webinar / Developer Series | Continuation of the AI Builders Reactor series exploring agentic system design patterns. |
+| [Microsoft Reactor: AI Agents That Don't Break Under Pressure (Encore)](https://developer.microsoft.com/en-us/reactor/) | June 11, 2026 | Digital | Livestream | Microsoft & NVIDIA show how to build durable production-ready agents using Microsoft Agent Framework on Azure Container Apps. |
+| [Signature Series | Securing K-12 Districts: Identity, Access, and Ransomware](https://www.microsoft.com/en-us/events) | June 16, 2026 | Digital | Webinar | State, local, and education-focused security session on preventing district-wide identity and ransomware incidents. |
+| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 2026 | Hybrid | Conference | Microsoft's premier event for IT pros and developers covering Azure, AI, security, and the Microsoft Cloud. |
 
 <!-- EVENTS_END -->
 
