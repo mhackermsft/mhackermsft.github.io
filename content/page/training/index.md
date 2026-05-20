@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: May 18, 2026*
+*Last updated: May 20, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Ability Summit](https://www.microsoft.com/en-us/events) | May 19–20, 2026 | Hybrid | Conference | Frontier of accessibility with AI, exploring agentic AI to empower people with disabilities. |
-| [Microsoft Azure Summit: Migrate and Modernize with Agentic AI](https://www.microsoft.com/en-us/events) | On demand (available from May 21, 2026) | Digital | Summit | Reduce complexity and implement AI solutions efficiently with Azure product announcements and customer examples. |
-| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | On demand (available from May 21, 2026) | Digital | Hackathon | Build AI agents with guided learning and live expert support. |
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | Digital | Conference | Microsoft's flagship developer conference covering real code and real systems across AI, Azure, and dev tools. |
-| [Microsoft AI Tour](https://aitour.microsoft.com/en-us/) | June 2026 (multiple stops) | In person | Tour | Free Microsoft AI Tour to learn, connect, and lead the future of AI innovation in your organization. |
-| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events) | June 2026 (recurring) | Digital | Virtual Training Day | Free Microsoft Learn training events to grow skills across Microsoft Cloud and AI technologies. |
-| [AI Builders Episode 13: Production-Ready Agent Patterns](https://developer.microsoft.com/en-us/reactor/) | June 9, 2026 | Digital | Webinar / Developer Series | Continuation of the AI Builders Reactor series exploring agentic system design patterns. |
-| [Microsoft Reactor: AI Agents That Don't Break Under Pressure (Encore)](https://developer.microsoft.com/en-us/reactor/) | June 11, 2026 | Digital | Livestream | Microsoft & NVIDIA show how to build durable production-ready agents using Microsoft Agent Framework on Azure Container Apps. |
-| [Signature Series | Securing K-12 Districts: Identity, Access, and Ransomware](https://www.microsoft.com/en-us/events) | June 16, 2026 | Digital | Webinar | State, local, and education-focused security session on preventing district-wide identity and ransomware incidents. |
-| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 2026 | Hybrid | Conference | Microsoft's premier event for IT pros and developers covering Azure, AI, security, and the Microsoft Cloud. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In person & Online (San Francisco, CA) | Conference | Microsoft's flagship developer conference covering AI, Azure, developer tools, and cloud platform innovations. |
+| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | On demand (through 2026) | Digital / Global | Hackathon | Virtual hackathon to learn how to build AI agents with guided learning and live expert support. |
+| [Microsoft AI Tour](https://aitour.microsoft.com/en-us/) | Multiple stops, 2026 | In person | Conference series | Free Microsoft AI Tour helping organizations learn, connect, and lead the future of AI innovation. |
+| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events) | Ongoing 2026 | Digital | Virtual Training Day | Free Microsoft Learn training events to build skills on Microsoft Cloud and AI technologies. |
+| [Microsoft 365 Copilot Training for Sales](https://www.microsoft.com/en-us/events) | May 27, 2026 | Digital | Webinar / Training | Expert-led demos showing how Copilot acts as an AI assistant to generate leads and drive sales. |
+| [Microsoft 365 Copilot Training for Executives](https://www.microsoft.com/en-us/events) | May 27, 2026 | Digital | Webinar / Training | Demos on how Copilot helps executives enhance decision-making, optimize communications, and save time. |
+| [Powering AI Apps and Agents at Scale on Azure App Platform](https://www.microsoft.com/en-us/events) | May 28, 2026 | Digital | Webinar | Session on running AI applications and agents at scale using the Azure App Platform. |
+| [Ship Fast, Stay Secure: AI-Powered Pentesting with Canima & GitHub (Ep 37)](https://developer.microsoft.com/en-us/reactor/) | May 28, 2026 | Digital (Reactor Livestream) | Developer series | Reactor livestream on AI-powered penetration testing and secure development workflows with GitHub. |
+| [Before You Build: A Microsoft Build Preview](https://developer.microsoft.com/en-us/reactor/) | May 29, 2026 | Digital (Reactor Livestream) | Webinar | DevRel and GitHub perspectives previewing the biggest themes and can't-miss sessions at Microsoft Build. |
+| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | Fall 2026 | In person & Online | Conference | Microsoft's premier IT pro and developer conference covering Azure, AI, security, and the Microsoft Cloud. |
 
 <!-- EVENTS_END -->
 
