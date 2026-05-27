@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: May 20, 2026*
+*Last updated: May 27, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In person & Online (San Francisco, CA) | Conference | Microsoft's flagship developer conference covering AI, Azure, developer tools, and cloud platform innovations. |
-| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | On demand (through 2026) | Digital / Global | Hackathon | Virtual hackathon to learn how to build AI agents with guided learning and live expert support. |
-| [Microsoft AI Tour](https://aitour.microsoft.com/en-us/) | Multiple stops, 2026 | In person | Conference series | Free Microsoft AI Tour helping organizations learn, connect, and lead the future of AI innovation. |
-| [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/events) | Ongoing 2026 | Digital | Virtual Training Day | Free Microsoft Learn training events to build skills on Microsoft Cloud and AI technologies. |
-| [Microsoft 365 Copilot Training for Sales](https://www.microsoft.com/en-us/events) | May 27, 2026 | Digital | Webinar / Training | Expert-led demos showing how Copilot acts as an AI assistant to generate leads and drive sales. |
-| [Microsoft 365 Copilot Training for Executives](https://www.microsoft.com/en-us/events) | May 27, 2026 | Digital | Webinar / Training | Demos on how Copilot helps executives enhance decision-making, optimize communications, and save time. |
-| [Powering AI Apps and Agents at Scale on Azure App Platform](https://www.microsoft.com/en-us/events) | May 28, 2026 | Digital | Webinar | Session on running AI applications and agents at scale using the Azure App Platform. |
-| [Ship Fast, Stay Secure: AI-Powered Pentesting with Canima & GitHub (Ep 37)](https://developer.microsoft.com/en-us/reactor/) | May 28, 2026 | Digital (Reactor Livestream) | Developer series | Reactor livestream on AI-powered penetration testing and secure development workflows with GitHub. |
-| [Before You Build: A Microsoft Build Preview](https://developer.microsoft.com/en-us/reactor/) | May 29, 2026 | Digital (Reactor Livestream) | Webinar | DevRel and GitHub perspectives previewing the biggest themes and can't-miss sessions at Microsoft Build. |
-| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | Fall 2026 | In person & Online | Conference | Microsoft's premier IT pro and developer conference covering Azure, AI, security, and the Microsoft Cloud. |
+| [Microsoft Discovery Day: Copilot & Agents - Melbourne](https://www.microsoft.com/en-us/events) | May 28, 2026 | In person | Discovery Day | Explore Microsoft Copilot and AI agents at this Melbourne in-person discovery event. |
+| [Mastering GitHub Copilot Across the Software Development Life Cycle](https://www.microsoft.com/en-us/events) | May 28, 2026 | Digital | Webinar | Learn how Copilot improves productivity, code quality, and security across the SDLC. |
+| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In person / Online | Conference | Microsoft's flagship developer conference covering AI, Azure, .NET, and developer tools at Fort Mason, San Francisco. |
+| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | June 2026 (On demand / Global) | Digital | Hackathon | Build AI agents with guided learning and live expert support in this virtual hackathon. |
+| [Microsoft AI Tour](https://aitour.microsoft.com/en-us/) | June 2026 (Multiple stops) | In person | Tour / Conference | Free Microsoft AI Tour stops to learn, connect, and lead the future of AI innovation. |
+| [Microsoft Virtual Training Days — AI Fundamentals](https://www.microsoft.com/en-us/events) | June 2026 | Digital | Virtual Training Day | Free Microsoft Learn training event to build skills in Azure AI and Microsoft Cloud. |
+| [GitHub Copilot Dev Days](https://www.microsoft.com/en-us/events) | June 2026 | Digital | Developer Series | Community-led global series dedicated to AI-powered development with GitHub Copilot. |
+| [GitHub Copilot - Understanding Budgets [AMER/EMEA]](https://www.microsoft.com/en-us/events) | June 2026 | Digital | Webinar | Guidance on adopting GitHub usage-based billing with built-in budget capabilities to govern spend. |
+| [GitHub Copilot - Token Optimization [AMER/EMEA]](https://www.microsoft.com/en-us/events) | June 2026 | Digital | Webinar | Maximize value per token in usage-based billing by shifting from cost minimization to quality optimization. |
+| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 2026 | In person / Online | Conference | Microsoft's premier IT and developer conference covering Azure, AI, Security, and Data Platform. |
 
 <!-- EVENTS_END -->
 
