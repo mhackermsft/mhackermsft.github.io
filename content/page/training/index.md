@@ -17,20 +17,12 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: June 1, 2026*
+*Last updated: June 4, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Build 2026](https://build.microsoft.com/en-US/home) | June 2–3, 2026 | In Person & Online (San Francisco, CA) | Conference | Microsoft's flagship developer conference covering AI, Azure, Copilot, and developer tools. |
-| [Microsoft Virtual Briefing - Microsoft Agent 365: The control plane for agents](https://www.microsoft.com/en-us/events) | June 4, 2026 | Digital | Webinar | Introduction to Microsoft Agent 365, the control plane to manage AI agents across an organization. |
-| [Power Your AI Transformation with the Microsoft Cloud](https://www.microsoft.com/en-us/events) | June 5, 2026 | In Person (Minneapolis, MN) | Workshop | Immersive experience exploring practical AI applications for industry and business needs. |
-| [Microsoft Build //localhost: Stockholm](https://build.microsoft.com/en-US/home) | June 8, 2026 | In Person (Stockholm, Sweden) | Developer Series | Local Microsoft Build event for developers featuring AI and cloud innovations. |
-| [Microsoft Agent-a-Thon](https://www.microsoft.com/en-us/events) | June 10, 2026 | Virtual / Global | Hackathon | Build AI agents with guided learning and live expert support. |
-| [Microsoft Virtual Training Day: Azure AI Foundry](https://www.microsoft.com/en-us/events) | June 15, 2026 | Digital | Virtual Training Day | Free Microsoft Learn training on building solutions with Azure AI Foundry. |
-| [Microsoft AI Tour](https://aitour.microsoft.com/en-us/) | June 18, 2026 | In Person | Conference | Free event series exploring AI frontier technologies, Copilot, and Azure AI. |
-| [Power Your AI Transformation with the Microsoft Cloud (Build Keynote Watch Party)](https://www.microsoft.com/en-us/events) | June 22, 2026 | In Person (Bellevue, WA) | Workshop | Immersive AI workshop with Microsoft Build keynote watch party. |
-| [Microsoft Digital Sovereignty Summit Micro Hack - Johannesburg](https://www.microsoft.com/en-us/events) | June 25, 2026 | In Person (Johannesburg, South Africa) | Summit | Government, critical infrastructure, and regulated industries leaders shape digital sovereignty strategy. |
-| [Microsoft Ignite 2026](https://ignite.microsoft.com/en-US/home) | November 16–20, 2026 | In Person & Online | Conference | Microsoft's flagship IT pro and developer conference covering Azure, security, AI, and data platform. |
+| [App in a Day - Koenig Solutions - Australia](https://www.microsoft.com/en-us/events#upcomingevents) | 2026-06-07 | Digital | Workshop | Digitize processes, build apps, and automate workflows—all without code using Power Apps. |
+| [Power Pages in a Day - MAQ Software - Norway](https://www.microsoft.com/en-us/events#upcomingevents) | 2026-06-08 | Digital | Workshop | Learn to create secure, scalable websites with Power Pages using low-code tools and Dataverse. |
 
 <!-- EVENTS_END -->
 
