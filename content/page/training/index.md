@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: June 10, 2026*
+*Last updated: June 11, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Build //localhost:tokyo](https://developer.microsoft.com/reactor/events/27075) | June 14, 2026 | In person | Workshop / Lab | Hands-on event for developers and cloud engineers to design, build, and deploy real-world AI solutions on Azure using Microsoft Foundry and GitHub Copilot, with live demos and guided labs. |
-| [Microsoft Virtual Training Day: Build agentic AI solutions with Azure AI Foundry](https://msevents.microsoft.com/event?id=2945085524) | June 15, 2026 | Digital | Virtual Training Day | Advance your AI agent development skills using Azure AI Foundry Agent Service and the Semantic Kernel Agent Framework. |
-| [Microsoft Agentic AI Hack](https://msevents.microsoft.com/event?id=3089795593) | June 16, 2026 | In person | Hackathon | A practical, hands-on hackathon focused on agentic AI for regulatory compliance and audit, working through real-world challenges with peers and Microsoft. |
-| [SQL AI App in a Day - DATA THINX GmbH - Germany](https://msevents.microsoft.com/event?id=1812678391) | June 16, 2026 | Digital | Workshop | Tailored for SQL developers and DBAs, this hands-on workshop teaches how to build secure AI-powered apps using T-SQL and trusted SQL data. |
-| [From Legacy to Frontier: Modernising Public Sector Data Platforms with Microsoft Fabric](https://msevents.microsoft.com/event?id=3552866571) | June 16, 2026 | Digital | Webinar | Explore how public sector organizations can modernize their data platforms with Microsoft Fabric. |
-| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://msevents.microsoft.com/event?id=1747865432) | June 17, 2026 | Digital | Virtual Training Day | Learn to build and deploy custom AI agents in Microsoft Copilot Studio to automate workflows and streamline processes across your organization. |
-| [Microsoft Tech Brief: Migrate and Modernize your Oracle Estate](https://msevents.microsoft.com/event?id=2102417307) | June 17, 2026 | Digital | Tech Brief | A free Azure workshop to bring Oracle workloads to the Microsoft Cloud and explore Oracle Database@Azure. |
-| [KubeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/register/) | June 18, 2026 | In person | Conference | The premier Kubernetes and cloud-native conference, bringing together the community for talks, training, and networking. |
-| [Microsoft Tech Brief: Protect your Cloud, AI Platform & Apps](https://msevents.microsoft.com/event?id=3858242538) | June 18, 2026 | Digital | Tech Brief | An exclusive security session for IT leaders, architects, and DevOps professionals on protecting cloud, AI platforms, and apps. |
-| [Data Security Hackathon](https://msevents.microsoft.com/event?id=42739778875) | June 19, 2026 | In person | Hackathon | A full-day, hands-on hackathon focused on data security solutions. |
+| [Microsoft Virtual Training Day: Develop generative AI apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=2531878515) | 2026-06-15 | Digital | Virtual Training Day | Build a customized agent on Azure AI Foundry that uses language models for intelligent conversations. |
+| [Microsoft Build //localhost:dhaka](https://developer.microsoft.com/reactor/events/27104) | 2026-06-15 | In person | Workshop / Lab | Hands-on event for developers building and deploying real-world AI solutions on Azure with Microsoft Foundry and GitHub Copilot. |
+| [Microsoft Agentic AI Hack](https://msevents.microsoft.com/event?id=3089795593) | 2026-06-16 | In Person | Hackathon | Hands-on hackathon focused on agentic AI for regulatory compliance and audit, working real-world challenges with Microsoft. |
+| [From Legacy to Frontier: Modernising Public Sector Data Platforms with Microsoft Fabric](https://msevents.microsoft.com/event?id=3552866571) | 2026-06-16 | Digital | Webinar | Explore modernizing public sector data platforms with Microsoft Fabric. |
+| [AI Hackathon for Public Sector: From Ideas to Action in the State of New Jersey](https://msevents.microsoft.com/event?id=1488571226) | 2026-06-17 | In Person | Hackathon | Public sector hackathon turning AI ideas into action for state and local government. |
+| [KubeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/register/) | 2026-06-18 | In Person | Conference | Premier Kubernetes and cloud-native community conference. |
+| [Tech Brief: Building Agents/Agentic Apps with Microsoft Foundry](https://msevents.microsoft.com/event?id=1978744287) | 2026-06-18 | Digital | Tech Brief | Learn how Azure helps you build, deploy, and scale AI-powered apps and agents and operate them effectively. |
+| [SQL AI App in a Day - MAQ Software - United States](https://msevents.microsoft.com/event?id=4177662025) | 2026-06-19 | Digital | Workshop | Hands-on workshop for SQL developers and DBAs to build secure AI-powered apps using T-SQL and trusted SQL data. |
+| [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft...](https://msevents.microsoft.com/event?id=924597426) | 2026-06-22 | Digital | Virtual Training Day | Apply unified security across cloud apps and deploy a CNAPP strategy with Microsoft Defender for Cloud. |
+| [Securing the Age of AI Agents: Get Enterprise-Ready](https://msevents.microsoft.com/event?id=2489412897) | 2026-06-25 | Digital | Webinar | Register, govern, and monitor AI agents as identities with access, ownership, and lifecycle controls. |
 
 <!-- EVENTS_END -->
 
