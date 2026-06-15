@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: June 12, 2026*
+*Last updated: June 15, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [.NET Day on Agentic Modernization](https://developer.microsoft.com/reactor/events/27243) | 2026-06-16 | Livestream, On demand | Developer Series / AMA | Help .NET developers modernize existing apps without a full rewrite—accelerate cloud migration and build AI-powered experiences on Azure. |
-| [From Legacy to Frontier: Modernising Public Sector Data Platforms with Microsoft Fabric](https://msevents.microsoft.com/event?id=3552866571) | 2026-06-16 | Digital | Webinar | Explore how public sector organizations can modernize legacy data platforms using Microsoft Fabric. |
-| [POSETTE: An Event for Postgres 2026 – Livestream 1](https://developer.microsoft.com/reactor/events/26853) | 2026-06-16 | Livestream, On demand | Conference | Free virtual Postgres developer event (Jun 16–18) featuring open source users and experts across four livestreams. |
-| [Microsoft Virtual Training Day: Predict and Defend Against Cybersecurity Threats](https://msevents.microsoft.com/event?id=4133092619) | 2026-06-16 | Digital | Virtual Training Day | Strengthen your security posture by investigating threats and disrupting attacks in real time with the Microsoft unified security operations platform. |
-| [AI Hackathon for Public Sector: From Ideas to Action in the State of New Jersey](https://msevents.microsoft.com/event?id=1488571226) | 2026-06-17 | In Person | Hackathon | Government-focused AI hackathon turning public sector ideas into actionable solutions. |
-| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://msevents.microsoft.com/event?id=1747865432) | 2026-06-17 | Digital | Virtual Training Day | Build and deploy custom AI agents in Microsoft Copilot Studio to automate workflows and streamline processes. |
-| [KubeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/register/) | 2026-06-18 | In Person | Conference | Flagship Kubernetes and cloud native community conference. |
-| [Tech Brief: Building Agents/Agentic Apps with Microsoft Foundry](https://msevents.microsoft.com/event?id=1978744287) | 2026-06-18 | Digital | Tech Brief | Explore how Azure helps you build, deploy, scale, and operate AI-powered apps and agents with Microsoft Foundry. |
-| [Microsoft Cloud & AI Frontier Week: Transform Data Silos into AI Fuel – Build an...](https://msevents.microsoft.com/event?id=3339524081) | 2026-06-22 | Digital | Webinar | See how Fabric and OneLake break down data silos to create a unified, trusted foundation for real-time insights and AI agents. |
-| [Securing the Age of AI Agents: Get Enterprise-Ready](https://msevents.microsoft.com/event?id=2489412897) | 2026-06-25 | Digital | Webinar | Govern the agent landscape with a central layer to register, monitor, and manage AI agents as identities with access and lifecycle controls. |
+| [Microsoft Virtual Training Day: Migrate and Modernize Foundation](https://msevents.microsoft.com/event?id=1663189525) | 2026-06-19 | Digital | Virtual Training Day | Learn to migrate and modernize your infrastructure, databases, and apps for better performance and efficiency on Azure. |
+| [Data Security Hackathon](https://msevents.microsoft.com/event?id=42739778875) | 2026-06-19 | In Person | Hackathon | A full-day, hands-on hackathon focused on data security challenges and solutions. |
+| [Microsoft Virtual Training Day: Introduction to Microsoft 365, Copilot, and Agents](https://msevents.microsoft.com/event?id=2656700832) | 2026-06-22 | Digital | Virtual Training Day | See how Microsoft 365, Copilot, and AI agents work together to deliver insights and boost productivity. |
+| [GitHub Copilot Hands-on Lab](https://msevents.microsoft.com/event?id=358204658) | 2026-06-22 | Digital | Hands-on Lab | A practical, hands-on lab to build skills with GitHub Copilot. |
+| [Microsoft Cloud & AI Frontier Week: Build and Power AI Apps at Scale on Azure](https://msevents.microsoft.com/event?id=2982005149) | 2026-06-23 | Digital | Livestream | Go from idea to production—build and scale AI apps on Azure with AKS, Container Apps, and Functions. |
+| [Microsoft Cloud & AI Frontier Week: Scale Agentic Systems with Microsoft Foundry](https://msevents.microsoft.com/event?id=4114845254) | 2026-06-23 | Digital | Livestream | Design agentic systems at scale with Microsoft Foundry for orchestration, governance, observability, and grounded RAG. |
+| [Discovery Hour: Unify your Data Platform](https://msevents.microsoft.com/event?id=137840642) | 2026-06-23 | Digital | Webinar | Join the Microsoft Discovery Hour to learn how to unify your data platform. |
+| [SQL AI App in a Day - readymind - Spain](https://msevents.microsoft.com/event?id=3382366184) | 2026-06-24 | Digital | Workshop | For SQL developers and DBAs—build secure AI-powered apps using T-SQL and trusted SQL data. |
+| [Securing the Age of AI Agents: Get Enterprise-Ready](https://msevents.microsoft.com/event?id=2489412897) | 2026-06-25 | Digital | Webinar | Govern AI agents as identities—register, monitor, and control their access, ownership, and lifecycle at enterprise scale. |
+| [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft Defender for Cloud](https://msevents.microsoft.com/event?id=2420830562) | 2026-06-29 | Digital | Virtual Training Day | Apply unified security across cloud apps and deploy a CNAPP strategy with Microsoft Defender for Cloud. |
 
 <!-- EVENTS_END -->
 
