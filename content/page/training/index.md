@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: June 16, 2026*
+*Last updated: June 18, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://msevents.microsoft.com/event?id=3315134113) | 2026-06-22 | Digital | Virtual Training Day | Build and deploy custom AI agents in Microsoft Copilot Studio to automate workflows and streamline processes across your organization. |
-| [GitHub Copilot Hands-on Lab](https://msevents.microsoft.com/event?id=358204658) | 2026-06-22 | Digital | Hands-on Lab | A hands-on lab to get developers building with GitHub Copilot. |
-| [Microsoft Cloud & AI Frontier Week: Build and Power AI Apps at Scale on Azure](https://msevents.microsoft.com/event?id=2982005149) | 2026-06-23 | Digital | Livestream | Go from idea to production—build and scale AI apps on Azure with AKS, Container Apps, and Functions for real workloads. |
-| [Microsoft Virtual Briefing - Introducing Microsoft Foundry](https://msevents.microsoft.com/event?id=4222675890) | 2026-06-23 | Digital | Briefing | Discover Microsoft Foundry, a unified full-stack platform to build, deploy, and govern intelligent applications and agents. |
-| [Fabric Analyst in a Day - Orion Systems Integrators LLC - United States](https://msevents.microsoft.com/event?id=3113546302) | 2026-06-23 | Digital | Workshop | Hands-on training for Power BI Data Analysts new to Microsoft Fabric, covering data consolidation and uncovering insights. |
-| [Microsoft Build //localhost: London](https://msevents.microsoft.com/event?id=991181493) | 2026-06-24 | In Person | Conference | A Build recap with key announcements, live demos, and curated sessions to help developers apply AI and Copilot innovations. |
-| [SQL AI App in a Day - readymind - Spain](https://msevents.microsoft.com/event?id=3382366184) | 2026-06-24 | Digital | Workshop | Hands-on workshop for SQL developers and DBAs to build secure AI-powered apps using T‑SQL and trusted SQL data. |
-| [Microsoft Cloud & AI Frontier Week: Power Intelligent Apps and Agents with Azure Databases](https://msevents.microsoft.com/event?id=3826817022) | 2026-06-24 | Digital | Livestream | Use Azure SQL, Cosmos DB, and PostgreSQL to power real-time, scalable, AI-ready apps and agents. |
-| [Securing the Age of AI Agents: Get Enterprise-Ready](https://msevents.microsoft.com/event?id=2489412897) | 2026-06-25 | Digital | Webinar | Register, govern, and monitor AI agents as identities with access, ownership, and lifecycle controls at enterprise scale. |
-| [Microsoft Virtual Training Day: Predict and Defend Against Cybersecurity Threats](https://msevents.microsoft.com/event?id=4044558495) | 2026-07-02 | Digital | Virtual Training Day | Strengthen your security posture by investigating threats, streamlining response, and disrupting attacks with Microsoft's unified security operations platform. |
+| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://msevents.microsoft.com/event?id=3315134113) | June 22, 2026 | Digital | Virtual Training Day | Learn to build and deploy custom AI agents in Microsoft Copilot Studio to automate workflows and streamline processes. |
+| [Microsoft Cloud & AI Frontier Week: Build and Power AI Apps at Scale on Azure](https://msevents.microsoft.com/event?id=2982005149) | June 23, 2026 | Digital | Livestream | Build and scale AI apps on Azure using AKS, Container Apps, and Functions—from idea to production for real workloads. |
+| [Microsoft AI Hackathon: Transforming the Tasmanian Department of Justice with AI](https://msevents.microsoft.com/event?id=678786073) | June 23, 2026 | In Person | Hackathon | Hands-on government-focused hackathon applying AI to modernize justice department operations. |
+| [SQL AI App in a Day - readymind - Spain](https://msevents.microsoft.com/event?id=3382366184) | June 24, 2026 | Digital | Workshop | For SQL developers and DBAs: build secure AI-powered apps using T-SQL and trusted SQL data. |
+| [Microsoft Build //localhost: London](https://msevents.microsoft.com/event?id=991181493) | June 24, 2026 | In Person | Conference | A Build recap with key announcements, live demos, and curated sessions to apply AI and Copilot innovations in real-world scenarios. |
+| [Microsoft Cloud & AI Frontier Week: Power Intelligent Apps and Agents with Azure Databases](https://msevents.microsoft.com/event?id=3826817022) | June 24, 2026 | Digital | Livestream | Use Azure SQL, Cosmos DB, and PostgreSQL to power real-time, scalable, AI-ready intelligent apps and agents. |
+| [Microsoft Virtual Briefing - Microsoft Agent 365: The control plane for agents](https://msevents.microsoft.com/event?id=2069183201) | June 25, 2026 | Digital | Webinar | An introduction to Microsoft Agent 365, the control plane for registering, governing, and managing AI agents. |
+| [Microsoft Virtual Training Day: Build agentic AI solutions with Azure AI Foundry](https://msevents.microsoft.com/event?id=1246304709) | June 29, 2026 | Digital | Virtual Training Day | Advance your AI agent development skills with Azure AI Foundry Agent Service and the Semantic Kernel Agent Framework. |
+| [Microsoft Virtual Training Day: Predict and Defend Against Cybersecurity Threats](https://msevents.microsoft.com/event?id=4044558495) | July 2, 2026 | Digital | Virtual Training Day | Strengthen your security posture by investigating threats and disrupting attacks in real time on Microsoft's unified security operations platform. |
+| [Microsoft Security Executive Briefing: Securing the Rise of AI Agents](https://msevents.microsoft.com/event?id=240664366) | July 9, 2026 | Digital | Executive Briefing | Explore Cyber Pulse report findings and how to apply observability, governance, and Zero Trust principles to AI agents. |
 
 <!-- EVENTS_END -->
 
