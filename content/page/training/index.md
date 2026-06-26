@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: June 24, 2026*
+*Last updated: June 26, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Build //localhost:melbourne](https://developer.microsoft.com/reactor/events/27103) | 2026-06-29 | In person | Workshop / Lab | Hands-on, implementation-focused event for developers and cloud engineers building real-world AI solutions on Azure using Microsoft Foundry and GitHub Copilot. |
-| [Microsoft Virtual Training Day: Create Agents in Microsoft Copilot Studio](https://msevents.microsoft.com/event?id=1481507184) | 2026-06-29 | Digital | Virtual Training Day | Build and deploy custom AI agents in Microsoft Copilot Studio to automate workflows and streamline processes across your organization. |
-| [Microsoft Virtual Training Day: Develop generative AI apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=1339059634) | 2026-07-01 | Digital | Virtual Training Day | Use Azure AI Foundry to build a customized agent that leverages language models for intelligent conversations. |
-| [GitHub Copilot Hands-on Lab](https://msevents.microsoft.com/event?id=1733870878) | 2026-07-07 | Digital | Lab | Hands-on lab to build practical skills with GitHub Copilot. |
-| [Secure by Design Workshop](https://msevents.microsoft.com/event?id=3501597007) | 2026-07-07 | In Person | Workshop | In-person workshop on building security into solutions from the ground up. |
-| [Microsoft Security Executive Briefing: Securing the Rise of AI Agents](https://msevents.microsoft.com/event?id=240664366) | 2026-07-09 | Digital | Briefing | Deep dive into Cyber Pulse findings and how leaders can apply observability, governance, and Zero Trust to AI agents. |
-| [Microsoft AI Envisioning Day: Introduction to AI Agent Opportunities and Microsoft Foundry](https://msevents.microsoft.com/event?id=970286005) | 2026-07-14 | Digital | Envisioning Day | Explore how AI agents reshape how software is built and delivered, and the central role developers play in driving business impact. |
-| [Get Certified SQL+AI (DP-800): Design and Develop SQL Solutions Like a Pro (EMEA/US)](https://developer.microsoft.com/reactor/events/27367) | 2026-07-15 | Livestream, On demand | Tutorial | Build-it portion of DP-800: design and develop database solutions for real workloads with strong, maintainable SQL. |
-| [Tech Brief: Building Agents/Agentic Apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=2688707580) | 2026-07-16 | Digital | Tech Brief | Explore how Azure helps you build, deploy, scale, and operate AI-powered apps and agents effectively. |
-| [Microsoft Security Immersion Event: Agent Hackathon](https://msevents.microsoft.com/event?id=354366526) | 2026-07-20 | Digital | Hackathon | Hands-on session to create and publish a security agent that enhances security operations. |
+| [Microsoft Build //localhost:brisbane](https://developer.microsoft.com/reactor/events/27107) | 2026-06-30 | In person | Workshop / Lab | Hands-on event for developers and cloud engineers to design, build, and deploy real-world AI solutions on Azure using Microsoft Foundry and GitHub Copilot, with live demos and guided labs. |
+| [Microsoft Virtual Training Day: Develop generative AI apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=1339059634) | 2026-07-01 | Digital | Training Day | Discover how to use Azure AI Foundry to build a customized agent that uses language models for intelligent conversations. |
+| [In Person: Agent in a Day - Context& - Copenhagen](https://msevents.microsoft.com/event?id=1418479316) | 2026-07-02 | In Person | Workshop | Build low-code AI agents with Microsoft Copilot Studio in a hands-on, full-day session. |
+| [Agentic ERP Hackathon](https://msevents.microsoft.com/event?id=1737581182) | 2026-07-07 | In Person | Hackathon | Two-day hackathon focused on building agentic ERP solutions with Microsoft AI. |
+| [Microsoft Virtual Training Day: Build AI Apps with Azure Database for PostgreSQL](https://msevents.microsoft.com/event?id=2948493760) | 2026-07-08 | Digital | Training Day | Learn to create and deploy AI-powered apps using Azure Database for PostgreSQL to boost productivity and deliver engaging experiences. |
+| [SQL AI App in a Day - Allgeier - Switzerland](https://msevents.microsoft.com/event?id=3854024463) | 2026-07-09 | Digital | Workshop | Hands-on workshop for SQL developers and DBAs on building secure AI-powered apps using T-SQL and trusted SQL data. |
+| [Get Certified SQL+AI (DP-800): Design and Develop SQL Solutions Like a Pro (EMEA/US)](https://developer.microsoft.com/reactor/events/27367) | 2026-07-15 | Livestream, On demand | Tutorial | Walkthrough of the "build it" portion of DP-800: designing and developing database solutions and writing strong, maintainable SQL for real workloads. |
+| [Designing Better Data Models with an AI Coding Agent](https://developer.microsoft.com/reactor/events/27240) | 2026-07-16 | Livestream, On demand | Tutorial | Explore how an AI agent can help design containers, partition keys, relationships, and access patterns for Azure Cosmos DB while validating its recommendations. |
+| [Tech Brief: Agentic DevOps with GitHub Copilot](https://msevents.microsoft.com/event?id=3694256552) | 2026-07-20 | Digital | Tech Brief | Learn how agentic DevOps practices with GitHub Copilot accelerate and streamline software delivery. |
+| [Microsoft Agent 365 Security & Governance Controls](https://msevents.microsoft.com/event?id=2056713562) | 2026-07-22 | Digital | Webinar | See how Microsoft Agent 365 enables visibility, governance, and trust so organizations can adopt AI agents with control and security at scale. |
 
 <!-- EVENTS_END -->
 
