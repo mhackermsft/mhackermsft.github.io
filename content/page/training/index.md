@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: July 8, 2026*
+*Last updated: July 14, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Virtual Training Day: Develop generative AI apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=3074018518) | 2026-07-13 | Digital | Virtual Training Day | Use Azure AI Foundry to build a customized agent powered by language models for intelligent conversations. |
-| [Inside Fabric Runtime 2.0: Spark 4 and Delta 4 in Action](https://developer.microsoft.com/reactor/events/27281) | 2026-07-15 | Livestream, On demand | Tutorial | Microsoft product team deep dive into Spark 4 and Delta 4 innovations for running Spark at scale in Microsoft Fabric. |
-| [Designing Better Data Models with an AI Coding Agent](https://developer.microsoft.com/reactor/events/27240) | 2026-07-16 | Livestream, On demand | Tutorial | See how an AI agent helps design containers, partition keys, relationships, and access patterns for Azure Cosmos DB. |
-| [Let's Learn GitHub Copilot App](https://developer.microsoft.com/reactor/events/27373) | 2026-07-16 | Livestream, On demand | Tutorial | Beginner-friendly sessions on using the GitHub Copilot app and AI agents to explore issues, build features, and review changes in parallel. |
-| [Microsoft Security Immersion Event: Agent Hackathon](https://msevents.microsoft.com/event?id=354366526) | 2026-07-20 | Digital | Hackathon | A hands-on session to create and publish a security agent that enhances security operations. |
-| [Pure Virtual C++ Conference 2026](https://developer.microsoft.com/reactor/events/27359) | 2026-07-21 | Livestream, On demand | Conference | Free one-day virtual conference for the C++ community, featuring a curated lineup of sessions and speakers streamed worldwide. |
-| [Microsoft Virtual Training Day: Build AI Apps with Azure Database for PostgreSQL](https://msevents.microsoft.com/event?id=1510421127) | 2026-07-22 | Digital | Virtual Training Day | Create and deploy AI-powered apps using Azure Database for PostgreSQL to boost productivity and user experiences. |
-| [Get Certified SQL+AI (DP-800): Bring AI to SQL w/Embeddings, Search, & RAG (EMEA/US)](https://developer.microsoft.com/reactor/events/27370) | 2026-07-23 | Livestream, On demand | Tutorial | How DP-800 connects modern AI patterns—embeddings, vectors, intelligent search, and RAG—to your SQL solutions. |
-| [Build an AI App with Azure SQL Hyperscale, Microsoft Fabric, and Microsoft Foundry](https://msevents.microsoft.com/event?id=2376489677) | 2026-07-28 | In Person | Workshop | Hands-on build of an AI application using Azure SQL Hyperscale, Microsoft Fabric, and Microsoft Foundry. |
-| [Powering AI Apps and Agents at Scale with Azure App Platform](https://msevents.microsoft.com/event?id=2369270523) | 2026-07-29 | Digital | Webinar | Build, deploy, and scale AI-powered apps and agents effectively on the Azure App Platform. |
+| [Agentic DevOps Meets Accessibility: Inclusive Delivery with AI & Agents](https://developer.microsoft.com/reactor/events/27320) | 2026-07-17 | Livestream, On demand | Tutorial | Bring accessibility practices into fast-paced agentic DevOps so rapid AI-driven delivery stays inclusive. |
+| [Microsoft Security Immersion Event: Agent Hackathon](https://msevents.microsoft.com/event?id=354366526) | 2026-07-20 | Digital | Hackathon | Hands-on session to build and publish a security agent that enhances security operations. |
+| [Pure Virtual C++ Conference 2026](https://developer.microsoft.com/reactor/events/27359) | 2026-07-21 | Livestream, On demand | Seminar/Conference | Free one-day virtual conference for the C++ community, streamed online with featured speaker sessions. |
+| [Microsoft Virtual Training Day: Build agentic AI solutions with Azure AI Foundry](https://msevents.microsoft.com/event?id=3073305081) | 2026-07-22 | Digital | Virtual Training Day | Advance AI agent development using Azure AI Foundry Agent Service and the Semantic Kernel Agent Framework. |
+| [Next Gen Developer Experience: The AI Powered Dev Lifecycle](https://msevents.microsoft.com/event?id=3158617221) | 2026-07-23 | Digital | Webinar | Explore how AI is redefining how developers onboard, build, test, secure, and deploy software. |
+| [Build an AI App with Azure SQL Hyperscale, Microsoft Fabric, and Microsoft Foundry](https://msevents.microsoft.com/event?id=2376489677) | 2026-07-28 | In Person | Workshop | Hands-on build combining Azure SQL Hyperscale, Microsoft Fabric, and Microsoft Foundry into an AI app. |
+| [Microsoft IQ Deep Dive with Python: Foundry IQ](https://developer.microsoft.com/reactor/events/27336) | 2026-07-28 | Livestream, On demand | Tutorial | Kick off the Microsoft IQ series with Foundry IQ (Azure AI Search) for agent and app retrieval. |
+| [Agentic AI + GraphRAG: Transforming Scientific Research Workflows](https://msevents.microsoft.com/event?id=2694484349) | 2026-07-30 | Digital | Webinar | Learn how Agentic AI and GraphRAG build a unified reasoning layer across scientific literature. |
+| [Discovery Hour: Innovate with Azure AI Apps and Agents](https://msevents.microsoft.com/event?id=3461135924) | 2026-08-04 | Digital | Discovery Hour | Discover how to innovate and build with Azure AI apps and agents. |
+| [Cloud and AI Innovation Day - Perth](https://msevents.microsoft.com/event?id=3126401700) | 2026-08-11 | In Person | Conference | In-person summit for leaders ready to turn AI experimentation into real business outcomes. |
 
 <!-- EVENTS_END -->
 
