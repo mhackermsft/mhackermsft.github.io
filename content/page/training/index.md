@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: July 21, 2026*
+*Last updated: August 4, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Build an AI App with Azure SQL Hyperscale, Microsoft Fabric, and Microsoft Foundry](https://msevents.microsoft.com/event?id=2376489677) | 2026-07-28 | In Person | Workshop | Hands-on session building an AI application on Azure SQL Hyperscale, Microsoft Fabric, and Microsoft Foundry. |
-| [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft Defender](https://msevents.microsoft.com/event?id=4032192430) | 2026-07-28 | Digital | Virtual Training Day | Apply unified security across cloud apps and deploy a CNAPP strategy using Microsoft Defender for Cloud. |
-| [Powering AI Apps and Agents at Scale with Azure App Platform](https://msevents.microsoft.com/event?id=2369270523) | 2026-07-29 | Digital | Webinar | Explore building and scaling AI apps and agents on the Azure App Platform. |
-| [Microsoft Tech Brief: Migrate and Modernize Windows Server, SQL Server and .NET Apps](https://msevents.microsoft.com/event?id=1700578104) | 2026-07-30 | Digital | Tech Brief | Comprehensive strategies for migrating and modernizing your Windows Server, SQL Server, and .NET estate on Azure. |
-| [Microsoft Virtual Training Day: Build agentic AI solutions with Azure AI Foundry](https://msevents.microsoft.com/event?id=1310183784) | 2026-07-31 | Digital | Virtual Training Day | Advance AI agent development using Azure AI Foundry Agent Service and the Semantic Kernel Agent Framework. |
-| [Model Mondays - Spotlight on Microsoft AI Models](https://developer.microsoft.com/reactor/events/27393) | 2026-08-03 | Livestream, On demand | Panel / AMA | Meet the family of seven new in-house Microsoft AI models spanning image, voice, transcription, coding, and reasoning. |
-| [GitHub Copilot Hands-on Lab](https://msevents.microsoft.com/event?id=1883013642) | 2026-08-04 | Digital | Hands-on Lab | Practical, hands-on lab experience with GitHub Copilot. |
-| [Cloud and AI Innovation Day - Perth](https://msevents.microsoft.com/event?id=3126401700) | 2026-08-11 | In Person | Conference | In-person summit for leaders ready to turn AI experimentation into real business impact. |
-| [Microsoft Hackathon Agentic AI](https://msevents.microsoft.com/event?id=3661243917) | 2026-08-25 | In Person | Hackathon | Hands-on hackathon on agentic AI for regulatory compliance and audit, with Microsoft specialists. |
-| [AI Builders Episode 3: Coding in Flow: From Autocomplete to Agentic IDE](https://msevents.microsoft.com/event?id=4198391173) | 2026-08-26 | Digital | Developer Series | Go from inline suggestions and Next Edit Suggestions to working with agents inside VS Code and Visual Studio. |
+| [Microsoft Virtual Training Day: Migrate and Modernize Foundation](https://msevents.microsoft.com/event?id=1473698983) | 2026-08-11 | Digital | Virtual Training Day | Migrate and modernize infrastructure, databases, and apps for better performance and efficiency using Azure. |
+| [Microsoft Virtual Training Day: Develop generative AI apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=2140408092) | 2026-08-12 | Digital | Virtual Training Day | Use Azure AI Foundry to build a customized agent that leverages language models for intelligent conversations. |
+| [Let the Agent Write It—But Can It Scale?](https://developer.microsoft.com/reactor/events/27409) | 2026-08-13 | Livestream, On demand | Tutorial | Review agent-generated Azure Cosmos DB code for scalability, RU efficiency, indexing strategy, and long-term maintainability. |
+| [Fabric Remote MCP: agentes que operan en la nube sin tocar el portal](https://developer.microsoft.com/reactor/events/27352) | 2026-08-14 | Livestream, On demand | Tutorial | Connect an agent to Fabric's remote MCP endpoint, authenticate via Entra ID and RBAC, and run real operations like creating workspaces. |
+| [GitHub Copilot Hands-on Lab](https://msevents.microsoft.com/event?id=2478492167) | 2026-08-18 | Digital | Hands-on Lab | Practical hands-on lab for developers to build skills with GitHub Copilot. |
+| [Microsoft Technical Workshop: Develop Generative AI-powered apps with Azure AI Foundry](https://msevents.microsoft.com/event?id=3528768507) | 2026-08-19 | Digital | Workshop | Free technical workshop on building a customized copilot with language models and exploring the Azure AI Foundry platform. |
+| [Microsoft Security Immersion Event: Agent Hackathon](https://msevents.microsoft.com/event?id=1005232315) | 2026-08-20 | Digital | Hackathon | Hands-on session to create and publish a security agent that enhances security operations. |
+| [Building Serverless Knowledge Bases with Foundry IQ](https://developer.microsoft.com/reactor/events/27441) | 2026-08-20 | Livestream, On demand | Tutorial | Build and scale knowledge bases with a serverless experience, using Foundry IQ to simplify ingestion, indexing, and retrieval for agents. |
+| [Microsoft Hackathon Agentic AI](https://msevents.microsoft.com/event?id=3661243917) | 2026-08-25 | In Person | Hackathon | Hands-on hackathon on agentic AI for regulatory compliance and audit, working real-world challenges alongside Microsoft specialists. |
+| [Mastering GitHub Copilot Across the Software Development Life Cycle (SDLC)](https://msevents.microsoft.com/event?id=2023909041) | 2026-08-27 | Digital | Hands-on Lab | Hands-on lab giving developers practical experience using GitHub Copilot as an AI assistant throughout the SDLC. |
 
 <!-- EVENTS_END -->
 
