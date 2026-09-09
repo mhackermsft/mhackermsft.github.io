@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: September 2, 2026*
+*Last updated: September 8, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Terminal First Approach to Build and Evaluate Microsoft 365 Copilot Agents](https://developer.microsoft.com/reactor/events/27447) | 2026-09-08 | Livestream, On demand | Tutorial | A developer-first, command-line approach to building and evaluating Copilot agents with M365 Agent Evals and skill-based tooling to test, measure, and improve agent quality. |
-| [MCP Live!](https://developer.microsoft.com/reactor/events/27448) | 2026-09-09 | Livestream, On demand | Tutorial | Half-day deep dive on the Model Context Protocol: its role as an open standard, ecosystem adoption, hands-on MCP server building, and enterprise readiness. |
-| [Microsoft Technical Workshop: Develop Generative AI-powered apps with Microsoft Foundry](https://msevents.microsoft.com/event?id=2050829300) | 2026-09-09 | Digital | Workshop | Free technical workshop on building a customized copilot using language models in chat apps, with an in-depth exploration of the Azure AI Foundry platform. |
-| [Azure DocumentDB Hands-On Workshop: MongoDB-Compatible Workloads - Australia (AEST)](https://aka.ms/cdbholdocdbaest) | 2026-09-10 | Digital | Workshop | Free one-day hands-on lab: provision a cluster, migrate MongoDB workloads, run vector search and RAG, and tune query performance. |
-| [VS Code Live](https://developer.microsoft.com/reactor/events/27534) | 2026-09-10 | Livestream, On demand | Panel / AMA | Catch up on major updates to VS Code and GitHub Copilot with live demos from members of the product teams. |
-| [Microsoft Hackathon: Build what's next. Together.](https://msevents.microsoft.com/event?id=2757702724) | 2026-09-14 | In Person | Hackathon | Invitation-only AI hackathon in Copenhagen: over 3.5 days, co-innovate with engineers, attend expert clinics, and leave with a working AI prototype. |
-| [Microsoft Agents & Security Day \| Security Track](https://msevents.microsoft.com/event?id=354988690) | 2026-09-15 | In Person | Conference | A single hands-on day combining the best of the Copilot & Agents Discovery Day and Microsoft Security Day. |
-| [Agentic and Data Immersion Day](https://msevents.microsoft.com/event?id=4293909929) | 2026-09-17 | In Person | Immersion Day | Explore how Agentic AI on Microsoft Foundry and data solutions on Microsoft Fabric can drive measurable business outcomes. |
-| [Microsoft Virtual Training Day: Build AI Apps with Azure Database for PostgreSQL](https://msevents.microsoft.com/event?id=1776674449) | 2026-09-28 | Digital | Virtual Training Day | Learn to create and deploy AI-powered apps using Azure Database for PostgreSQL to boost productivity and deliver engaging user experiences. |
-| [FabCon/SQLCon EU 2026](https://espc.tech/conference/fabcon-europe-2026/tickets/) | 2026-09-28 | In Person | Conference | European conference for Microsoft Fabric and SQL, bringing together the data platform community. |
+| [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft...](https://msevents.microsoft.com/event?id=325258788) | September 14, 2026 | Digital | Virtual Training Day | Apply unified security across cloud apps and deploy a CNAPP strategy using Microsoft Defender for Cloud. |
+| [AI Genius \| Build with AI: GitHub Copilot SDK for Building Agentic Workflows](https://developer.microsoft.com/reactor/events/27464) | September 16, 2026 | Livestream, On demand | Tutorial | Hands-on demo of building agent-driven workflows with the GitHub Copilot SDK to automate everyday development tasks. |
+| [Talk to your Data in the Era of AI](https://msevents.microsoft.com/event?id=2039990090) | September 16, 2026 | In Person | Workshop | Break data silos with Microsoft Fabric: build a Lakehouse, create a Data Agent, and use Microsoft 365 Copilot to analyze and act on insights. |
+| [Agentic and Data Immersion Day](https://msevents.microsoft.com/event?id=4293909929) | September 17, 2026 | In Person | Immersion Day | Explore how agentic AI on Microsoft Foundry and data solutions on Microsoft Fabric drive measurable business outcomes. |
+| [Microsoft Security Immersion Event: On the Brink](https://msevents.microsoft.com/event?id=2322107811) | September 17, 2026 | Digital | Simulation | Immersive level 400 simulation of a real-world technical security breach. |
+| [Modernizing Java Applications using GitHub Copilot Modernization Agent](https://developer.microsoft.com/reactor/events/27543) | September 22, 2026 | Livestream, On demand | Tutorial | See how the GitHub Copilot Modernization Agent analyzes Java portfolios and identifies framework upgrade and cloud migration opportunities. |
+| [Run and Scale AI Applications with Azure Kubernetes Service (AKS)](https://developer.microsoft.com/reactor/events/27395) | September 22, 2026 | Livestream, On demand | Tutorial | What's new in AKS for teams building and running AI apps and agents at scale without operational drag. |
+| [Microsoft Security Immersion Event: Agent Hackathon](https://msevents.microsoft.com/event?id=2016931719) | September 23, 2026 | Digital | Hackathon | Hands-on session to create and publish a security agent that enhances security operations. |
+| [Azure DocumentDB Hands-On Workshop: MongoDB-Compatible Workloads - India (IST)](https://aka.ms/cdbholdocdbist) | September 24, 2026 | Digital | Workshop | Free one-day lab: provision a cluster, migrate MongoDB workloads, run vector search and RAG, and tune query performance. |
+| [Building APIs Faster with Agentic Development and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/27410) | September 24, 2026 | Livestream, On demand | Tutorial | Use coding agents to scaffold APIs, integrate Azure Cosmos DB SDKs, implement CRUD operations, and refine architecture. |
 
 <!-- EVENTS_END -->
 
