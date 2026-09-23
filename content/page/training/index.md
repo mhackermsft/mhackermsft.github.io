@@ -17,20 +17,20 @@ Whether you're just getting started with Azure or looking to deepen your AI expe
 <!-- EVENTS_START -->
 ## Upcoming Microsoft Events
 
-*Last updated: September 8, 2026*
+*Last updated: September 23, 2026*
 
 | Event | Date | Format | Type | Description |
 |-------|------|--------|------|-------------|
-| [Microsoft Security Virtual Training Day: Strengthen Cloud Security with Microsoft...](https://msevents.microsoft.com/event?id=325258788) | September 14, 2026 | Digital | Virtual Training Day | Apply unified security across cloud apps and deploy a CNAPP strategy using Microsoft Defender for Cloud. |
-| [AI Genius \| Build with AI: GitHub Copilot SDK for Building Agentic Workflows](https://developer.microsoft.com/reactor/events/27464) | September 16, 2026 | Livestream, On demand | Tutorial | Hands-on demo of building agent-driven workflows with the GitHub Copilot SDK to automate everyday development tasks. |
-| [Talk to your Data in the Era of AI](https://msevents.microsoft.com/event?id=2039990090) | September 16, 2026 | In Person | Workshop | Break data silos with Microsoft Fabric: build a Lakehouse, create a Data Agent, and use Microsoft 365 Copilot to analyze and act on insights. |
-| [Agentic and Data Immersion Day](https://msevents.microsoft.com/event?id=4293909929) | September 17, 2026 | In Person | Immersion Day | Explore how agentic AI on Microsoft Foundry and data solutions on Microsoft Fabric drive measurable business outcomes. |
-| [Microsoft Security Immersion Event: On the Brink](https://msevents.microsoft.com/event?id=2322107811) | September 17, 2026 | Digital | Simulation | Immersive level 400 simulation of a real-world technical security breach. |
-| [Modernizing Java Applications using GitHub Copilot Modernization Agent](https://developer.microsoft.com/reactor/events/27543) | September 22, 2026 | Livestream, On demand | Tutorial | See how the GitHub Copilot Modernization Agent analyzes Java portfolios and identifies framework upgrade and cloud migration opportunities. |
-| [Run and Scale AI Applications with Azure Kubernetes Service (AKS)](https://developer.microsoft.com/reactor/events/27395) | September 22, 2026 | Livestream, On demand | Tutorial | What's new in AKS for teams building and running AI apps and agents at scale without operational drag. |
-| [Microsoft Security Immersion Event: Agent Hackathon](https://msevents.microsoft.com/event?id=2016931719) | September 23, 2026 | Digital | Hackathon | Hands-on session to create and publish a security agent that enhances security operations. |
-| [Azure DocumentDB Hands-On Workshop: MongoDB-Compatible Workloads - India (IST)](https://aka.ms/cdbholdocdbist) | September 24, 2026 | Digital | Workshop | Free one-day lab: provision a cluster, migrate MongoDB workloads, run vector search and RAG, and tune query performance. |
-| [Building APIs Faster with Agentic Development and Azure Cosmos DB](https://developer.microsoft.com/reactor/events/27410) | September 24, 2026 | Livestream, On demand | Tutorial | Use coding agents to scaffold APIs, integrate Azure Cosmos DB SDKs, implement CRUD operations, and refine architecture. |
+| [Microsoft Virtual Training Day: Build AI Apps with Azure Database for PostgreSQL](https://msevents.microsoft.com/event?id=1776674449) | 2026-09-28 | Digital | Virtual Training Day | Learn to create and deploy AI-powered apps with Azure Database for PostgreSQL to boost productivity and improve user experiences. |
+| [FabCon/SQLCon EU 2026](https://espc.tech/conference/fabcon-europe-2026/tickets/) | 2026-09-28 | In Person | Conference | Europe's conference for Microsoft Fabric and SQL. |
+| [From Tribal Knowledge to Code: Custom Skills for GitHub Copilot Modernization](https://developer.microsoft.com/reactor/events/27594) | 2026-09-29 | Livestream, On demand | Tutorial | Use custom skills to give GitHub Copilot Modernization your organization's business rules, patterns, and standards, so app modernization results stay consistent. |
+| [Technical Workshop: Build Agentic AI Solutions with AI Foundry](https://msevents.microsoft.com/event?id=4158893430) | 2026-09-29 | Digital | Workshop | Free technical workshop on what AI agents can do and how to use them to transform your applications. |
+| [Let's Learn GitHub Copilot SDK (Java)](https://developer.microsoft.com/reactor/events/27550) | 2026-09-30 | Livestream, On demand | Tutorial | Beginner livestream on building agentic apps with the GitHub Copilot SDK for Java, using Copilot's agent runtime so you don't write the agent loop yourself. |
+| [Let's Learn GitHub Copilot SDK (.NET)](https://developer.microsoft.com/reactor/events/27619) | 2026-10-01 | Livestream, On demand | Tutorial | Beginner livestream on building agentic apps with the GitHub Copilot SDK for .NET, covering conversation management, tool orchestration, and session state. |
+| [Microsoft Foundry Hosted Agents with Microsoft Agent Framework](https://developer.microsoft.com/reactor/events/27592) | 2026-10-08 | Livestream, On demand | Tutorial | Hands-on session: build agent workflows with Microsoft Agent Framework, package them as containers, and deploy them as Foundry Hosted Agents with enterprise-grade security. |
+| [Unlock Your Data with the Modern AI-Powered Application](https://msevents.microsoft.com/event?id=2565679609) | 2026-10-09 | Digital | Webinar | Webinar on how app and data modernization lay the foundation for scalable AI-powered apps with real business impact. |
+| [Microsoft Security Immersion Event: Shadow Hunter](https://msevents.microsoft.com/event?id=593766850) | 2026-10-14 | Digital | Workshop | Hands-on, gamified exercise in finding, investigating, and responding to threats across cloud and hybrid environments. |
+| [KubeCon North America 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/) | 2026-11-09 | In Person | Conference | The Cloud Native Computing Foundation's flagship conference for cloud native and open source users and technologists, held in Salt Lake City, UT. |
 
 <!-- EVENTS_END -->
 
